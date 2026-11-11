@@ -1,0 +1,453 @@
+# mini-x 多語對話：外出
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/outing.txt 相同。
+
+中 A: 今天天氣好，我們出去走走吧。
+英 A: Today the weather is good. We go out to walk.
+法 A: Aujourd'hui il fait bon. Nous allons marcher.
+日 A: きょうは いい そらだ。 いって あるこう。
+韓 A: 오늘 날씨가 좋아. 나가서 걸어가자.
+
+中 B: 好。要去哪裡？
+英 B: Ok. Where do we go?
+法 B: Ok. Où allons-nous ?
+日 B: いいよ。 どこへ いくの？
+韓 B: 그래. 어디로 가?
+
+中 A: 去 park 那邊。走過去 15 分鐘。
+英 A: We go to the park. It is 15 minutes to walk there.
+法 A: Nous allons au parc. C'est 15 minutes à pied.
+日 A: parkへ いく。 15ふん あるいて いく。
+韓 A: park로 가. 15분 걸어가.
+
+中 B: 好。我要拿水。
+英 B: Ok. I take water.
+法 B: Ok. Je prends de l'eau.
+日 B: いいよ。 水を とる。
+韓 B: 그래. 물을 가져갈게.
+
+中 A: 我拿一個球。到了我們打一會兒。
+英 A: I take 1 ball. When we arrive we play a little.
+法 A: Je prends 1 balle. Nous arrivons et nous jouons.
+日 A: ボールを 1つ とる。 ついてから あそぼう。
+韓 A: 나는 공 1개를 가져갈게. 도착하면 함께 놀자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 你看，那邊有一個老人在唱歌。
+英 A: Look. There is 1 old man singing there.
+法 A: Regarde. Il y a 1 vieux homme qui chante là.
+日 A: みて。 あそこに ふるい おとこが 1人 うたっている。
+韓 A: 봐. 저기에 늙은 남자 1명이 노래해.
+
+中 B: 唱得好聽嗎？
+英 B: Does he sing well?
+法 B: Est-ce qu'il chante bien ?
+日 B: その うたは いいの？
+韓 B: 노래가 좋아요?
+
+中 A: 很好聽。聲音很大。
+英 A: It is very good. The sound is very loud.
+法 A: C'est très bon. La musique est très forte.
+日 A: とても いい。 こえが 大きい。
+韓 A: 아주 좋아. 소리가 아주 커.
+
+中 B: 我想去聽。
+英 B: I want to go and listen.
+法 B: Je veux aller entendre.
+日 B: ききたい。
+韓 B: 듣고 싶어.
+
+中 A: 走。
+英 A: Let's go.
+法 A: Allons.
+日 A: いこ。
+韓 A: 가자.
+
+中 A: 我們在這裡坐一下。
+英 A: We sit here for a little.
+法 A: On s'assoit ici.
+日 A: ここで すこし やすもう。
+韓 A: 여기서 좀 앉자.
+
+中 B: 好。這裡有樹，有風，很好。
+英 B: Ok. Here there are trees and wind. It is very good.
+法 B: Ok. Ici il y a des arbres et du vent. C'est très bon.
+日 B: いいよ。 ここに 木と 風が ある。 とても いい。
+韓 B: 그래. 여기에 나무랑 바람이 있어. 아주 좋아.
+
+中 A: 是。今天很熱。
+英 A: Yes. Today is very hot.
+法 A: Oui. Aujourd'hui il fait très chaud.
+日 A: うん。 きょうは とても あつい。
+韓 A: 응. 오늘은 아주 뜨거워.
+
+中 B: 你要買水嗎？
+英 B: Do you want to buy water?
+法 B: Tu veux acheter de l'eau ?
+日 B: 水を かうの？
+韓 B: 너 물 살 거야?
+
+中 A: 要。我有 20 塊。
+英 A: Yes. I have 20.
+法 A: Oui. J'ai 20.
+日 A: うん。 20 もっている。
+韓 A: 응. 20개 있어.
+
+中 B: 我也要。走，我和你一起去。
+英 B: I want it too. Let's go, I go with you.
+法 B: Moi aussi. Allons, je vais avec toi.
+日 B: わたしも ほしい。 いって、 わたしと いっしょに いこう。
+韓 B: 나도. 가자, 내가 너랑 같이 갈게.
+
+中 A: 這裡的路很長。
+英 A: The road here is long.
+法 A: La route ici est longue.
+日 A: ここの みちが ながい。
+韓 A: 여기의 길이 길어.
+
+中 B: 是。走到那邊要 20 分鐘。
+英 B: Yes. It is 20 minutes to walk there.
+法 B: Oui. C'est 20 minutes pour marcher là-bas.
+日 B: うん。 そこまでは 20ふん あるく。
+韓 B: 그래. 거기까지 20분 걸어.
+
+中 A: 我有點走不動了。
+英 A: I can not walk any more.
+法 A: Je ne peux plus marcher.
+日 A: わたしは もう あるけない。
+韓 A: 나는 이제 더 못 가.
+
+中 B: 坐一下。要不要坐車回去？
+英 B: Sit a little. Do you want to go back by car?
+法 B: Assieds-toi. Tu veux rentrer en voiture ?
+日 B: すこし やすもう。 車で かえりたいの？
+韓 B: 잠깐 앉아. 차로 돌아갈 거야?
+
+中 A: 不要，我想走。
+英 A: No, I want to walk.
+法 A: Non, je veux marcher.
+日 A: いいえ、 あるきたい。
+韓 A: 아니, 나는 걸을 거야.
+
+中 B: 好。那我們慢慢走。
+英 B: Ok. Then we walk slowly.
+法 B: Ok. Alors nous marchons lentement.
+日 B: いいよ。 ゆっくり あるこう。
+韓 B: 그래. 그럼 천천히 걷자.
+
+中 A: 你看，那邊有 1 個鳥。
+英 A: Look. There is 1 bird there.
+法 A: Regarde. Il y a 1 oiseau là.
+日 A: みて。 あそこに 鳥が 1つ いる。
+韓 A: 봐. 저기에 새가 1개 있어.
+
+中 B: 是鳥。鳥在樹上。
+英 B: It is a bird. The bird is in the tree.
+法 B: C'est un oiseau. L'oiseau est dans l'arbre.
+日 B: 鳥だ。 鳥が 木に いる。
+韓 B: 새야. 새가 나무에 있어.
+
+中 A: 真好看。
+英 A: It is really good to look at.
+法 A: C'est très bon.
+日 A: とても きれいだ。
+韓 A: 정말 예뻐.
+
+中 A: 我們到了。這個 park 很大。
+英 A: We are here. This park is very big.
+法 A: Nous sommes arrivés. Ce parc est très grand.
+日 A: ついた。 この parkは とても 大きい。
+韓 A: 도착했어. 이 park는 아주 커.
+
+中 B: 是。前邊有山和水。
+英 B: Yes. There is a mountain and water in front.
+法 B: Oui. Il y a une montagne et de l'eau devant.
+日 B: うん。 まえに 山と 水が ある。
+韓 B: 그래. 앞에 산과 물이 있어.
+
+中 A: 水邊有很多魚。
+英 A: There are many fish by the water.
+法 A: Il y a beaucoup de viande de la mer près de l'eau.
+日 A: 水の そばに 魚が たくさん いる。
+韓 A: 물가에 물고기가 많아.
+
+中 B: 我想去看。
+英 B: I want to go and see.
+法 B: Je veux aller voir.
+日 B: みをたい。
+韓 B: 보러 가고 싶어.
+
+中 A: 好。不過不要走太近。
+英 A: Ok. But do not walk too near.
+法 A: Ok. Mais ne marche pas trop près.
+日 A: いいよ。 ただし ちかく ならない ように。
+韓 A: 그래. 너무 가까이 가지 마.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 你想吃東西嗎？
+英 A: Do you want to eat?
+法 A: Tu veux manger ?
+日 A: たべたいの？
+韓 A: 무슨 것을 먹고 싶어?
+
+中 B: 有點想。我早上只吃了一個飯。
+英 B: I want a little. I ate only 1 rice in the morning.
+法 B: Un peu. J'ai mangé 1 riz le matin.
+日 B: すこし ほしい。 あさに ごはんを 1つ だけ たべた。
+韓 B: 조금. 아침에 밥 1개만 먹었어.
+
+中 A: 我也想去吃飯。我們去吃 noodle。
+英 A: I also want to go and eat. We go to eat noodle.
+法 A: Moi aussi je veux aller manger. Nous allons manger du noodle.
+日 A: わたしも ごはんを たべたい。 noodleを たべに いこう。
+韓 A: 나도 밥 먹으러 가고 싶어. noodle 먹으러 가자.
+
+中 B: 好。我要 1 個。
+英 B: Ok. I want 1.
+法 B: Ok. Je veux 1.
+日 B: いいよ。 1つ ほしい。
+韓 B: 그래. 1개 주세요.
+
+中 A: 我要 2 個飯和 1 個小菜。
+英 A: I want 2 rice and 1 small food.
+法 A: Je veux 2 riz et 1 petite nourriture.
+日 A: ごはんを 2つ と おかずを 1つ。
+韓 A: 밥 2개와 작은 요리 1개.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 那個飯好吃嗎？
+英 A: Is that rice good?
+法 A: Ce riz est bon ?
+日 A: その ごはんは おいしい？
+韓 A: 그 밥은 맛있어?
+
+中 B: 好吃。很熱。
+英 B: It is good. It is very hot.
+法 B: C'est bon. C'est très chaud.
+日 B: おいしい。 とても あつい。
+韓 B: 맛있어. 아주 뜨거워.
+
+中 A: 我也要這個。
+英 A: I want that too.
+法 A: Moi aussi, je le veux.
+日 A: わたしも それを ほしい。
+韓 A: 나도 그거.
+
+中 B: 好。你要 spicy 嗎？
+英 B: Ok. Do you want spicy?
+法 B: Ok. Tu veux du spicy ?
+日 B: いいよ。 spicyを ほしい？
+韓 B: 그래. spicy 먹을 거야?
+
+中 A: 不要。我不能吃太 spicy。
+英 A: No. I can not eat too spicy.
+法 A: Non. Je ne peux pas manger trop spicy.
+日 A: いいえ。 あまり spicyは たべられない。
+韓 A: 아니. 나는 너무 매운 것은 못 먹어.
+
+中 B: 我可以。spicy 一點很好。
+英 B: I can. Spicy a little is very good.
+法 B: Je peux. Plus spicy, c'est très bon.
+日 B: わたしは できる。 すこし spicyが とても いい。
+韓 B: 나는 할 수 있어. 조금 매운 게 아주 좋아.
+
+中 A: 你真能吃。
+英 A: You can really eat.
+法 A: Tu peux vraiment manger.
+日 A: あなたは よく たべるね。
+韓 A: 너 진짜 많이 먹는다.
+
+中 A: 吃完了。我們去走走這邊的店。
+英 A: We finished eating. We go and walk to the shops here.
+法 A: Nous avons fini de manger. Nous allons marcher vers les magasins ici.
+日 A: たべおわった。 ここの 店へ あるきに いこう。
+韓 A: 다 먹었어. 여기 가게 쪽으로 걸어가자.
+
+中 B: 好。這邊有很多店。
+英 B: Ok. There are many shops here.
+法 B: Ok. Il y a beaucoup de magasins ici.
+日 B: いいよ。 ここに 店が たくさん ある。
+韓 B: 그래. 여기에 가게가 많아.
+
+中 A: 我想進去看看。
+英 A: I want to go in and see.
+法 A: Je veux aller voir dans le magasin.
+日 A: はいって みをたい。
+韓 A: 들어가서 보고 싶어.
+
+中 B: 好。不過我們只有 1 個小時。
+英 B: Ok. But we have only 1 hour.
+法 B: Ok. Mais nous n'avons qu'une heure.
+日 B: いいよ。 ただし 1じかんしか ない。
+韓 B: 그래. 그런데 우리는 1시간밖에 없어.
+
+中 A: 好。我很快。
+英 A: Ok. I am fast.
+法 A: Ok. Je suis rapide.
+日 A: いいよ。 すぐ いく。
+韓 A: 그래. 빨리 갈게.
+
+中 B: 我在門外等你。
+英 B: I wait for you outside the gate.
+法 B: Je t'attends devant la porte.
+日 B: 門の まえで まって いる。
+韓 B: 내가 문 앞에서 기다릴게.
+
+中 A: 好。馬上出來。
+英 A: Ok. I come out soon.
+法 A: Ok. Je vais sortir.
+日 A: いいよ。 すぐ でる。
+韓 A: 그래. 바로 나올게.
+
+中 A: 我買了一個小 kite。
+英 A: I bought 1 small kite.
+法 A: J'ai acheté 1 petit kite.
+日 A: 小さい kiteを 1つ かった。
+韓 A: 작은 kite 1개를 샀어.
+
+中 B: 好。風很大。
+英 B: Ok. The wind is very strong.
+法 B: Ok. Le vent est très fort.
+日 B: いいよ。 風が とても つよい。
+韓 B: 그래. 바람이 아주 세.
+
+中 A: 我要放上天。
+英 A: I want to put it in the sky.
+法 A: Je veux le mettre dans le ciel.
+日 A: 空へ あげたい。
+韓 A: 하늘에 올리고 싶어.
+
+中 B: 你拿 string，我來走。
+英 B: You take string, I walk.
+法 B: Tu prends string, je marche.
+日 B: あなたが stringを もって、 わたしは あるく。
+韓 B: 네가 string를 가져가, 나는 걸을게.
+
+中 A: 好！你走慢一點。
+英 A: Ok! You walk slowly.
+法 A: Ok ! Tu marches lentement.
+日 A: いいよ！ ゆっくり あるいて。
+韓 A: 그래! 천천히 걸어.
+
+中 B: 高一點！再高一點！
+英 B: Higher! Higher again!
+法 B: Plus haut ! Plus haut encore !
+日 B: もっと たかく！ もういちど たかく！
+韓 B: 더 높이! 다시 더 높이!
+
+中 A: 太高了！回來！
+英 A: Too high! Come back!
+法 A: Trop haut ! Reviens !
+日 A: たかすぎる！ もどって！
+韓 A: 너무 높아! 돌아와!
+
+中 B: 好。這樣就好。
+英 B: Ok. This is good.
+法 B: Ok. C'est comme ça, c'est bon.
+日 B: いいよ。 これで いい。
+韓 B: 그래. 이거면 돼.
+
+中 A: 天要黑了，我們回家吧。
+英 A: The sky will be dark. We go home.
+法 A: Il va faire nuit. Nous allons à la maison.
+日 A: そらが くらくなる。 うちへ かえろう。
+韓 A: 하늘이 어두워져. 집에 가자.
+
+中 B: 好。今天玩得很開心。
+英 B: Ok. Today we played and we were very happy.
+法 B: Ok. Aujourd'hui nous avons joué et nous étions très contents.
+日 B: いいよ。 きょうは とても たのしく した。
+韓 B: 그래. 오늘 아주 즐거웠어.
+
+中 A: 是。下次我們來這裡看海。
+英 A: Yes. Next time we come here to see the sea.
+法 A: Oui. La prochaine fois nous venons ici voir la mer.
+日 A: うん。 つぎは ここに きて 海を みる。
+韓 A: 그래. 다음에 여기 와서 바다를 보자.
+
+中 B: 好。下次我拿吃的。
+英 B: Ok. Next time I take food.
+法 B: Ok. La prochaine fois je prends de la nourriture.
+日 B: いいよ。 つぎは わたしが たべものを もって いく。
+韓 B: 그래. 다음에 내가 먹을 것을 가져갈게.
+
+中 A: 好。我拿球。
+英 A: Ok. I take the ball.
+法 A: Ok. Je prends la balle.
+日 A: いいよ。 ボールを もって いく。
+韓 A: 그래. 공을 가져갈게.
+
+中 B: 那就這樣說。
+英 B: Then that is it.
+法 B: Alors c'est dit comme ça.
+日 B: じゃ、 そういう ことに しよう。
+韓 B: 그래. 그렇게 하자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons.
+日 A: いこ。
+韓 A: 가자.
+
+中 B: 走。
+英 B: Go.
+法 B: Marchons.
+日 B: あるいて。
+韓 B: 걷자.
+
+中 A: 我一點都不 want 回家。
+英 A: I do not want to go home at all.
+法 A: Non, je ne veux pas du tout aller à la maison.
+日 A: わたしは まったく うちへ かえりたくない。
+韓 A: 나는 집에 가고 싶지 않아.
+
+中 B: 我也是。不過明天要上學。
+英 B: Me too. But tomorrow we go to school.
+法 B: Moi aussi. Mais demain nous allons à l'école.
+日 B: わたしも そう。 ただし あした がっこうへ いく。
+韓 B: 나도 그래. 그런데 내일 학교에 가야 해.
+
+中 A: 對。那我們快一點走。
+英 A: Right. Then we walk fast.
+法 A: Oui. Alors nous marchons vite.
+日 A: そう。 じゃ はやく あるこう。
+韓 A: 맞아. 그럼 빨리 걷자.
+
+中 B: 你先走，我坐一下。
+英 B: You go first, I sit a little.
+法 B: Tu y vas, je m'assois.
+日 B: あなたは さきに いって、 わたしは すこし やすむ。
+韓 B: 너 먼저 가, 나는 좀 앉을게.
+
+中 A: 好。我在前邊等你。
+英 A: Ok. I wait for you in front.
+法 A: Ok. Je t'attends devant.
+日 A: いいよ。 まえで まって いる。
+韓 A: 그래. 내가 앞에서 기다릴게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不用謝。快點。
+英 A: You are welcome. Be quick.
+法 A: De rien. Allons vite !
+日 A: いいえ。 はやく。
+韓 A: 괜찮아. 빨리 가.

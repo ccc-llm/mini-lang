@@ -1,0 +1,375 @@
+# mini-x 多語對話：工作
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/work.txt 相同。
+
+中 A: 你今天上工嗎？
+英 A: Do you work today?
+法 A: Tu travailles aujourd'hui ?
+日 A: きょうは しごとを する？
+韓 A: 오늘 일해?
+
+中 B: 要。8 點到 5 點。
+英 B: Yes. 8 hour to 5 hour.
+法 B: Oui. De 8 heures à 5 heures.
+日 B: 8じから 5じまで しごとを する。
+韓 B: 응. 8시부터 5시까지 일해.
+
+中 A: 真多時間。你做什麼工作？
+英 A: So many hours. What work do you do?
+法 A: Beaucoup d'heures. Quel travail fais-tu ?
+日 A: たくさんの じかん だ。 どんな しごとを する？
+韓 A: 시간이 참 많아. 무슨 일을 해?
+
+中 B: 我在店裡工作。我賣書和 paper。
+英 B: I work in a shop. I sell books and paper.
+法 B: Je travaille dans un magasin. Je vends des livres et du papier.
+日 B: 店で しごとを する。 ほんを うる。 paperも うる。
+韓 B: 가게에서 일해. 책이랑 paper를 팔아.
+
+中 A: 喜歡嗎？
+英 A: Do you like it?
+法 A: Tu l'aimes ?
+日 A: すき？
+韓 A: 좋아해?
+
+中 B: 喜歡。可以和人說話，也可以看書。
+英 B: Yes. I can talk with people, and I can read books.
+法 B: Oui. Je peux parler avec les gens, et je peux lire des livres.
+日 B: すき。 ひとと 話す ことが できる。 ほんを よむ ことも できる。
+韓 B: 그래. 사람과 말할 수도 있고, 책도 읽을 수 있어.
+
+中 A: 我想做老師。
+英 A: I want to be a teacher.
+法 A: Je veux être professeur.
+日 A: わたしは 先生に なりたい。
+韓 A: 나는 선생님이 되고 싶어.
+
+中 B: 那很好。老師可以教很多事。
+英 B: That is good. A teacher can teach many things.
+法 B: C'est bien. Un professeur peut enseigner beaucoup de choses.
+日 B: それは いい。 先生は たくさんの ことを 教えて くれる。
+韓 B: 그래. 선생님은 많은 것을 가르칠 수 있어.
+
+中 A: 是。我最喜歡教數學。
+英 A: Yes. I like to teach math most.
+法 A: Oui. J'aime surtout enseigner les mathématiques.
+日 A: うん。 わたしは すうがくを 教えるのが いちばん すき。
+韓 A: 그래. 나는 수학을 가르치는 걸 제일 좋아해.
+
+中 A: 今天人很多。
+英 A: Today there are many people.
+法 A: Aujourd'hui il y a beaucoup de gens.
+日 A: きょうは ひとが たくさん いる。
+韓 A: 오늘 사람이 많아.
+
+中 B: 是。快到 holiday 了。
+英 B: Yes. It is near holiday.
+法 B: Oui. C'est près de holiday.
+日 B: うん。 holidayが もうすぐだ。
+韓 B: 그래. holiday가 곧이야.
+
+中 A: 你要一個人做嗎？
+英 A: Do you do it alone?
+法 A: Tu le fais seul ?
+日 A: ひとりで する？
+韓 A: 혼자 해?
+
+中 B: 不是。有人和我一起。
+英 B: No. Some people work with me.
+法 B: Non. Des gens travaillent avec moi.
+日 B: いいえ。 だれかが わたしと いっしょに する。
+韓 B: 아니야. 누군가 나와 같이 해.
+
+中 A: 那好。你們可以說話。
+英 A: That is good. You can talk together.
+法 A: C'est bien. Vous pouvez parler ensemble.
+日 A: それは いい。 あなたたちは はなせる。
+韓 A: 그래. 너희는 말할 수 있어.
+
+中 B: 是。忙的時候很多事。
+英 B: Yes. When I am busy there are many things.
+法 B: Oui. Quand je suis occupé, il y a beaucoup de choses.
+日 B: うん。 いそがしい ときが たくさん ある。
+韓 B: 그래. 바쁠 때 할 일이 많아.
+
+中 A: 你今天吃了嗎？
+英 A: Have you eaten today?
+法 A: Tu as mangé aujourd'hui ?
+日 A: きょう たべた？
+韓 A: 오늘 밥 먹었어?
+
+中 B: 還沒。中午要吃。
+英 B: Not yet. I will eat this afternoon.
+法 B: Pas encore. Je vais manger cet après-midi.
+日 B: まだ だ。 ごごに たべる。
+韓 B: 아직이야. 점심에 먹을 거야.
+
+中 A: 我拿了飯。一起吃好嗎？
+英 A: I took the rice. Do you want to eat together?
+法 A: J'ai pris le riz. Tu veux manger avec moi ?
+日 A: ごはんを とった。 いっしょに たべる？
+韓 A: 나는 밥을 가져왔어. 같이 먹을래?
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 你做了多少年？
+英 A: How many years have you worked?
+法 A: Tu travailles depuis combien d'années ?
+日 A: なんねん してきた？
+韓 A: 몇 년 동안 일했어?
+
+中 B: 5 年了。
+英 B: 5 years.
+法 B: 5 ans.
+日 B: 5 ねん。
+韓 B: 5년이야.
+
+中 A: 你喜歡這個工作嗎？
+英 A: Do you like this work?
+法 A: Tu aimes ce travail ?
+日 A: この しごとが すき？
+韓 A: 이 일을 좋아해?
+
+中 B: 喜歡。不過我想學新的東西。
+英 B: Yes. But I want to learn new things.
+法 B: Oui. Mais je veux apprendre de nouvelles choses.
+日 B: すき。 ただし 新しい ものを まなびたい。
+韓 B: 그래. 하지만 새로운 걸 배우고 싶어.
+
+中 A: 什麼東西？
+英 A: What things?
+法 A: Quoi ?
+日 A: なに？
+韓 A: 무슨 것?
+
+中 B: 我想學做 web 和寫 code。
+英 B: I want to learn to make web and to write code.
+法 B: Je veux apprendre à faire web et à écrire code.
+日 B: webを つくる ことを まなびたい。 codeを かく ことも。
+韓 B: web 만드는 걸 배우고 싶어. code도 쓰고 싶어.
+
+中 A: 那很難吧？
+英 A: That is hard, right?
+法 A: C'est difficile, non ?
+日 A: それは むずかしい よね？
+韓 A: 그거 어려운 거지?
+
+中 B: 難。不過很好玩。
+英 B: Hard. But it is very fun.
+法 B: Difficile. Mais c'est très bien.
+日 B: むずかしい。 ただし とても おもしろい。
+韓 B: 어려워. 하지만 아주 재미있어.
+
+中 A: 我可以教你 basics。
+英 A: I can teach you basics.
+法 A: Je peux t'enseigner basics.
+日 A: わたしは basicsを 教えて くれる。
+韓 A: 내가 basics를 가르쳐 줄게.
+
+中 B: 好。謝謝。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 你看，這是新的電腦。
+英 A: Look, this is a new computer.
+法 A: Regarde, c'est un nouvel ordinateur.
+日 A: みて。 新しい computerだ。
+韓 A: 봐. 새 computer야.
+
+中 B: 真好。比我那個快。
+英 B: Very good. It is faster than mine.
+法 B: Très bien. C'est plus rapide que le mien.
+日 B: とても いい。 わたしの より はやい。
+韓 B: 좋아. 내 것보다 빨라.
+
+中 A: 是。screen 很大。
+英 A: Yes. The screen is very big.
+法 A: Oui. Le screen est très grand.
+日 A: うん。 screenが とても 大きい。
+韓 A: 맞아. screen가 아주 커.
+
+中 B: 你要用這個做什麼？
+英 B: What do you want to do with this?
+法 B: Que veux-tu faire avec ça ?
+日 B: これで なにを する？
+韓 B: 이걸로 뭘 할 거야?
+
+中 A: 寫書、畫畫、還有做我的小 robot。
+英 A: Write books, draw pictures, and make my small robot.
+法 A: Écrire des livres, faire des images, et faire mon petit robot.
+日 A: ほんを かく。 えを かく。 また ちいさな robotを つくる。
+韓 A: 책을 쓰고, 그림을 그리고, 작은 robot을 만들어.
+
+中 B: 很忙。
+英 B: Very busy.
+法 B: Très occupé.
+日 B: とても いそがしい。
+韓 B: 너무 바빠.
+
+中 A: 是。我晚上沒有時間睡。
+英 A: Yes. I have no time to sleep at night.
+法 A: Oui. Je n'ai pas le temps de dormir le soir.
+日 A: うん。 よるに ねる じかんが ない。
+韓 A: 그래. 밤에 잘 시간이 없어.
+
+中 B: 不要這樣。工作很重要，身體也重要。
+英 B: Do not do this. Work is very important, and the body is important too.
+法 B: Ne fais pas cela. Le travail est très important, et le corps aussi.
+日 B: そう しない ほうがいい。 しごとは とても 重要だ。 からだも 重要だ。
+韓 B: 하지 마. 일은 아주 중요하고, 몸도 중요해.
+
+中 A: 你說得對。我 11 點要睡。
+英 A: You are right. I must sleep at 11.
+法 A: Tu as raison. Je dois dormir à 11 heures.
+日 A: その とおり。 11じに ねる。
+韓 A: 네 말이 맞아. 11시에 잘 거야.
+
+中 A: 媽媽，我回來了。
+英 A: Mother, I come home.
+法 A: Maman, je suis là.
+日 A: はは、 わたしは かえった。
+韓 A: 엄마, 나 돌아왔어.
+
+中 B: 你回來了。今天怎樣？
+英 B: You come home. How is today?
+法 B: Tu es là. Comment est aujourd'hui ?
+日 B: かえったんだね。 きょうは どう？
+韓 B: 돌아왔구나. 오늘 어때?
+
+中 A: 很好。我學了 2 個新東西。
+英 A: Very good. I learned 2 new things.
+法 A: Très bien. J'ai appris 2 nouvelles choses.
+日 A: とても いい。 新しい ものを 2 つ まなびた。
+韓 A: 좋아. 새로운 것 2개를 배웠어.
+
+中 B: 什麼東西？
+英 B: What things?
+法 B: Quoi ?
+日 B: なに？
+韓 B: 무슨 것?
+
+中 A: 一個新 app，和一個新的做書方法。
+英 A: 1 new app, and 1 new work to make books.
+法 A: 1 nouveau app, et 1 nouveau travail pour faire des livres.
+日 A: 新しい appが 1 つ。 ほんを つくる 新しい 方法が 1 つ。
+韓 A: 새로운 app 1개, 그리고 책을 만드는 새 방법 1개.
+
+中 B: 好。你要用電腦做嗎？
+英 B: Ok. Do you want to do it with a computer?
+法 B: Ok. Tu veux le faire avec un ordinateur ?
+日 B: いいよ。 computerで する？
+韓 B: 그래. computer로 할 거야?
+
+中 A: 要。做完了我給你看。
+英 A: Yes. When I finish, I will show you.
+法 A: Oui. Quand j'ai fini, je te montre.
+日 A: うん。 おわったら みせる。
+韓 A: 응. 끝나면 보여줄게.
+
+中 B: 好。我先做飯。
+英 B: Ok. I cook first.
+法 B: Ok. Je cuisine d'abord.
+日 B: いいよ。 先に ごはんを つくる。
+韓 B: 그래. 먼저 밥을 할게.
+
+中 A: 我想問你 1 個問題。
+英 A: I want to ask you 1 question.
+法 A: Je veux te poser 1 question.
+日 A: 1 つ しつもん したい。
+韓 A: 너한테 1개 물어보고 싶어.
+
+中 B: 問。
+英 B: Ask.
+法 B: Demande.
+日 B: きいて。
+韓 B: 물어봐.
+
+中 A: 你覺得工作好還是看書好？
+英 A: Do you think work is better or reading books is better?
+法 A: Tu crois que le travail est mieux ou lire des livres est mieux ?
+日 A: しごとが いいの？ ほんを よむ のが いいの？
+韓 A: 일을 하는 게 좋아, 책 읽는 게 좋아?
+
+中 B: 兩個都好。看書是為了工作，工作是為了生活。
+英 B: Both are good. Reading books is for work, and work is for life.
+法 B: Les deux sont bons. Lire des livres est pour le travail, le travail est pour nous.
+日 B: どちらも いい。 ほんを よむのは しごとの ため。 しごとは 生きる ため。
+韓 B: 둘 다 좋아. 책을 읽는 건 일을 위해서고, 일은 살기 위해서야.
+
+中 A: 你說得很有道理。
+英 A: What you say is very right.
+法 A: Tu as raison. C'est très bien.
+日 A: その とおり。 とても 道理が ある。
+韓 A: 네 말이 맞아. 아주 이치에 맞지.
+
+中 B: 兩個要一起做。
+英 B: We must do both together.
+法 B: Nous faisons les deux ensemble.
+日 B: 2 つを いっしょに する。
+韓 B: 둘 다 같이 하자.
+
+中 A: 是。我先好好看書，以後做工作。
+英 A: Yes. I read books well first, then I do the work.
+法 A: Oui. Je lis d'abord des livres, puis je travaille.
+日 A: うん。 まず ほんを よく よむんで、 あとで しごとを する。
+韓 A: 그래. 먼저 책을 잘 읽고, 나중에 일을 할 거야.
+
+中 B: 好。你會有很好的工作。
+英 B: Ok. You will have very good work.
+法 B: Ok. Tu auras un très bon travail.
+日 B: いいよ。 とても いい しごとが できる はず。
+韓 B: 그래. 너 아주 좋은 일을 하게 될 거야.
+
+中 A: 你對這個工作喜歡嗎？
+英 A: Do you like this work?
+法 A: Tu aimes ce travail ?
+日 A: この しごとが すき？
+韓 A: 이 일을 좋아해?
+
+中 B: 我很喜歡。
+英 B: I like it very much.
+法 B: Je l'aime beaucoup.
+日 B: とても すきだ。
+韓 B: 아주 좋아해.
+
+中 A: 為什麼？
+英 A: Why?
+法 A: Pourquoi ?
+日 A: なぜ？
+韓 A: 왜?
+
+中 B: 因為錢不多。不過我可以學新的東西。
+英 B: Because the money is not much. But I can learn new things.
+法 B: Parce que l'argent n'est pas beaucoup. Mais je peux apprendre de nouvelles choses.
+日 B: おかねが 少ないから。 ただし 新しい ものを まなべる。
+韓 B: 돈이 많지 않아서. 하지만 새로운 걸 배울 수 있어.
+
+中 A: 這很重要。
+英 A: This is very important.
+法 A: C'est très important.
+日 A: これは とても 重要だ。
+韓 A: 이건 아주 중요해.
+
+中 B: 是。下個月我要學新的東西。
+英 B: Yes. Next month I will learn new things.
+法 B: Oui. Le mois prochain, j'apprends de nouvelles choses.
+日 B: うん。 つぎの つきに 新しい ものを まなぶぶ。
+韓 B: 그래. 다음 달에 새로운 걸 배울 거야.
+
+中 A: 那我們一起學。
+英 A: Then we learn together.
+法 A: Alors apprenons ensemble.
+日 A: じゃ いっしょに まなびましょう。
+韓 A: 그럼 같이 배워.
+
+中 B: 好。weekend 一起。
+英 B: Ok. Together on the weekend.
+法 B: Ok. Ensemble le weekend.
+日 B: いいよ。 weekendに いっしょに。
+韓 B: 그래. weekend에 같이.

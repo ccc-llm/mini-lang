@@ -1,0 +1,10666 @@
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 6 月 7 日。
+英 B: Today is month 6, day 7.
+法 B: Nous sommes le 7 du mois 6.
+日 B: きょうは 6 がつ 7 にち。
+韓 B: 오늘은 6월 7일이야.
+
+中 A: 明天我們去海邊吧。
+英 A: Tomorrow we go to the sea.
+法 A: Demain nous allons à la mer.
+日 A: あした うみへ いこう。
+韓 A: 내일 바다에 가자.
+
+中 B: 好。早上 10 點走。
+英 B: Ok. We go at 10 in the morning.
+法 B: Ok. On part à 10 heures du matin.
+日 B: いいよ。 あさ 10じに いく。
+韓 B: 그래. 아침 10시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 今天是 6 月 3 日。
+英 A: Today is month 6, day 3.
+法 A: Nous sommes le 3 du mois 6.
+日 A: きょうは 6 がつ 3 にち。
+韓 A: 오늘은 6월 3일이야.
+
+中 B: 明天我們去park吧。
+英 B: Tomorrow we go to park.
+法 B: Demain nous allons à parc.
+日 B: あした parkへ いこう。
+韓 B: 내일 공원에 가자.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 5 分。
+英 B: Now it is 7 hour and 5 minute.
+法 B: Il est 7 heures 5 minutes.
+日 B: いま 7じ 5ふん。
+韓 B: 지금 7시 5분이야.
+
+中 A: 我們 1 點要去海邊。
+英 A: We go to the sea at 1 hour.
+法 A: Nous allons à la mer à 1 heures.
+日 A: 1じに うみへ いきます。
+韓 A: 1시에 바다에 가요.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 今天是 9 月 4 日。
+英 A: Today is month 9, day 4.
+法 A: Nous sommes le 4 du mois 9.
+日 A: きょうは 9 がつ 4 にち。
+韓 A: 오늘은 9월 4일이야.
+
+中 B: 明天我們去hospital吧。
+英 B: Tomorrow we go to hospital.
+法 B: Demain nous allons à hôpital.
+日 B: あした びょういんへ いこう。
+韓 B: 내일 병원에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。早上 3 點走。
+英 B: Ok. We go at 3 in the morning.
+法 B: Ok. On part à 3 heures du matin.
+日 B: いいよ。 あさ 3じに いく。
+韓 B: 그래. 아침 3시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 9 個。
+英 B: Yes. You have 9 things today.
+法 B: Oui. Tu as 9 choses aujourd'hui.
+日 B: うん。 きょうの ことは 9 つ。
+韓 B: 그래. 오늘 할 일이 9개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 1 月 8 日。
+英 B: Today is month 1, day 8.
+法 B: Nous sommes le 8 du mois 1.
+日 B: きょうは 1 がつ 8 にち。
+韓 B: 오늘은 1월 8일이야.
+
+中 A: 明天我們去restaurant吧。
+英 A: Tomorrow we go to the restaurant.
+法 A: Demain nous allons à le restaurant.
+日 A: あした レストランへ いこう。
+韓 A: 내일 식당에 가자.
+
+中 B: 好。早上 5 點走。
+英 B: Ok. We go at 5 in the morning.
+法 B: Ok. On part à 5 heures du matin.
+日 B: いいよ。 あさ 5じに いく。
+韓 B: 그래. 아침 5시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 11 月 2 日。
+英 B: Today is month 11, day 2.
+法 B: Nous sommes le 2 du mois 11.
+日 B: きょうは 11 がつ 2 にち。
+韓 B: 오늘은 11월 2일이야.
+
+中 A: 明天我們去店吧。
+英 A: Tomorrow we go to the shop.
+法 A: Demain nous allons à la boutique.
+日 A: あした みせへ いこう。
+韓 A: 내일 가게에 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。早上 7 點走。
+英 A: Ok. We go at 7 in the morning.
+法 A: Ok. On part à 7 heures du matin.
+日 A: いいよ。 あさ 7じに いく。
+韓 A: 그래. 아침 7시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 4 個。
+英 B: Yes. You have 4 things today.
+法 B: Oui. Tu as 4 choses aujourd'hui.
+日 B: うん。 きょうの ことは 4 つ。
+韓 B: 그래. 오늘 할 일이 4개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。你今天的事有 2 個。
+英 A: Yes. You have 2 things today.
+法 A: Oui. Tu as 2 choses aujourd'hui.
+日 A: うん。 きょうの ことは 2 つ。
+韓 A: 그래. 오늘 할 일이 2개 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 8 月 1 日。
+英 B: Today is month 8, day 1.
+法 B: Nous sommes le 1 du mois 8.
+日 B: きょうは 8 がつ 1 にち。
+韓 B: 오늘은 8월 1일이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 明天我們去market吧。
+英 B: Tomorrow we go to market.
+法 B: Demain nous allons à marché.
+日 B: あした marketへ いこう。
+韓 B: 내일 시장에 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。早上 3 點走。
+英 B: Ok. We go at 3 in the morning.
+法 B: Ok. On part à 3 heures du matin.
+日 B: いいよ。 あさ 3じに いく。
+韓 B: 그래. 아침 3시에 가.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 7 月 4 日。
+英 B: Today is month 7, day 4.
+法 B: Nous sommes le 4 du mois 7.
+日 B: きょうは 7 がつ 4 にち。
+韓 B: 오늘은 7월 4일이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 好。早上 6 點走。
+英 A: Ok. We go at 6 in the morning.
+法 A: Ok. On part à 6 heures du matin.
+日 A: いいよ。 あさ 6じに いく。
+韓 A: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 2 點 15 分。
+英 B: Now it is 2 hour and 15 minute.
+法 B: Il est 2 heures 15 minutes.
+日 B: いま 2じ 15ふん。
+韓 B: 지금 2시 15분이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們 2 點要去park。
+英 B: We go to park at 2 hour.
+法 B: Nous allons à parc à 2 heures.
+日 B: 2じに parkへ いきます。
+韓 B: 2시에 공원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 現在 9 點 40 分。
+英 A: Now it is 9 hour and 40 minute.
+法 A: Il est 9 heures 40 minutes.
+日 A: いま 9じ 40ふん。
+韓 A: 지금 9시 40분이야.
+
+中 B: 我們 9 點要去market。
+英 B: We go to market at 9 hour.
+法 B: Nous allons à marché à 9 heures.
+日 B: 9じに marketへ いきます。
+韓 B: 9시에 시장에 가요.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 2 點 10 分。
+英 B: Now it is 2 hour and 10 minute.
+法 B: Il est 2 heures 10 minutes.
+日 B: いま 2じ 10ふん。
+韓 B: 지금 2시 10분이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們 3 點要去學校。
+英 B: We go to school at 3 hour.
+法 B: Nous allons à école à 3 heures.
+日 B: 3じに がっこうへ いきます。
+韓 B: 3시에 학교에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 11 點 40 分。
+英 B: Now it is 11 hour and 40 minute.
+法 B: Il est 11 heures 40 minutes.
+日 B: いま 11じ 40ふん。
+韓 B: 지금 11시 40분이야.
+
+中 A: 我們 10 點要去market。
+英 A: We go to market at 10 hour.
+法 A: Nous allons à marché à 10 heures.
+日 A: 10じに marketへ いきます。
+韓 A: 10시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 今天是 4 月 1 日。
+英 A: Today is month 4, day 1.
+法 A: Nous sommes le 1 du mois 4.
+日 A: きょうは 4 がつ 1 にち。
+韓 A: 오늘은 4월 1일이야.
+
+中 B: 明天我們去park吧。
+英 B: Tomorrow we go to park.
+法 B: Demain nous allons à parc.
+日 B: あした parkへ いこう。
+韓 B: 내일 공원에 가자.
+
+中 A: 好。早上 8 點走。
+英 A: Ok. We go at 8 in the morning.
+法 A: Ok. On part à 8 heures du matin.
+日 A: いいよ。 あさ 8じに いく。
+韓 A: 그래. 아침 8시에 가.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 現在 1 點 30 分。
+英 A: Now it is 1 hour and 30 minute.
+法 A: Il est 1 heures 30 minutes.
+日 A: いま 1じ 30ふん。
+韓 A: 지금 1시 30분이야.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我們 8 點要去market。
+英 A: We go to market at 8 hour.
+法 A: Nous allons à marché à 8 heures.
+日 A: 8じに marketへ いきます。
+韓 A: 8시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 8 點 40 分。
+英 B: Now it is 8 hour and 40 minute.
+法 B: Il est 8 heures 40 minutes.
+日 B: いま 8じ 40ふん。
+韓 B: 지금 8시 40분이야.
+
+中 A: 我們 9 點要去restaurant。
+英 A: We go to the restaurant at 9 hour.
+法 A: Nous allons à le restaurant à 9 heures.
+日 A: 9じに レストランへ いきます。
+韓 A: 9시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 4 月 5 日。
+英 B: Today is month 4, day 5.
+法 B: Nous sommes le 5 du mois 4.
+日 B: きょうは 4 がつ 5 にち。
+韓 B: 오늘은 4월 5일이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 明天我們去restaurant吧。
+英 B: Tomorrow we go to the restaurant.
+法 B: Demain nous allons à le restaurant.
+日 B: あした レストランへ いこう。
+韓 B: 내일 식당에 가자.
+
+中 A: 好。早上 7 點走。
+英 A: Ok. We go at 7 in the morning.
+法 A: Ok. On part à 7 heures du matin.
+日 A: いいよ。 あさ 7じに いく。
+韓 A: 그래. 아침 7시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 5 個。
+英 A: Yes. You have 5 things today.
+法 A: Oui. Tu as 5 choses aujourd'hui.
+日 A: うん。 きょうの ことは 5 つ。
+韓 A: 그래. 오늘 할 일이 5개 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 6 個。
+英 B: Yes. You have 6 things today.
+法 B: Oui. Tu as 6 choses aujourd'hui.
+日 B: うん。 きょうの ことは 6 つ。
+韓 B: 그래. 오늘 할 일이 6개 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 6 點 15 分。
+英 B: Now it is 6 hour and 15 minute.
+法 B: Il est 6 heures 15 minutes.
+日 B: いま 6じ 15ふん。
+韓 B: 지금 6시 15분이야.
+
+中 A: 我們 12 點要去market。
+英 A: We go to market at 12 hour.
+法 A: Nous allons à marché à 12 heures.
+日 A: 12じに marketへ いきます。
+韓 A: 12시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 2 點 25 分。
+英 B: Now it is 2 hour and 25 minute.
+法 B: Il est 2 heures 25 minutes.
+日 B: いま 2じ 25ふん。
+韓 B: 지금 2시 25분이야.
+
+中 A: 我們 6 點要去海邊。
+英 A: We go to the sea at 6 hour.
+法 A: Nous allons à la mer à 6 heures.
+日 A: 6じに うみへ いきます。
+韓 A: 6시에 바다에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 現在 9 點 10 分。
+英 A: Now it is 9 hour and 10 minute.
+法 A: Il est 9 heures 10 minutes.
+日 A: いま 9じ 10ふん。
+韓 A: 지금 9시 10분이야.
+
+中 B: 我們 12 點要去restaurant。
+英 B: We go to the restaurant at 12 hour.
+法 B: Nous allons à le restaurant à 12 heures.
+日 B: 12じに レストランへ いきます。
+韓 B: 12시에 식당에 가요.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 2 月 7 日。
+英 B: Today is month 2, day 7.
+法 B: Nous sommes le 7 du mois 2.
+日 B: きょうは 2 がつ 7 にち。
+韓 B: 오늘은 2월 7일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 5 點走。
+英 B: Ok. We go at 5 in the morning.
+法 B: Ok. On part à 5 heures du matin.
+日 B: いいよ。 あさ 5じに いく。
+韓 B: 그래. 아침 5시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。你今天的事有 1 個。
+英 A: Yes. You have 1 things today.
+法 A: Oui. Tu as 1 choses aujourd'hui.
+日 A: うん。 きょうの ことは 1 つ。
+韓 A: 그래. 오늘 할 일이 1개 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 10 點 45 分。
+英 B: Now it is 10 hour and 45 minute.
+法 B: Il est 10 heures 45 minutes.
+日 B: いま 10じ 45ふん。
+韓 B: 지금 10시 45분이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我們 4 點要去market。
+英 B: We go to market at 4 hour.
+法 B: Nous allons à marché à 4 heures.
+日 B: 4じに marketへ いきます。
+韓 B: 4시에 시장에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。你今天的事有 3 個。
+英 A: Yes. You have 3 things today.
+法 A: Oui. Tu as 3 choses aujourd'hui.
+日 A: うん。 きょうの ことは 3 つ。
+韓 A: 그래. 오늘 할 일이 3개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 1 點 55 分。
+英 B: Now it is 1 hour and 55 minute.
+法 B: Il est 1 heures 55 minutes.
+日 B: いま 1じ 55ふん。
+韓 B: 지금 1시 55분이야.
+
+中 A: 我們 9 點要去車站。
+英 A: We go to the station at 9 hour.
+法 A: Nous allons à la gare à 9 heures.
+日 A: 9じに えきへ いきます。
+韓 A: 9시에 역에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 4 月 7 日。
+英 B: Today is month 4, day 7.
+法 B: Nous sommes le 7 du mois 4.
+日 B: きょうは 4 がつ 7 にち。
+韓 B: 오늘은 4월 7일이야.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。早上 9 點走。
+英 A: Ok. We go at 9 in the morning.
+法 A: Ok. On part à 9 heures du matin.
+日 A: いいよ。 あさ 9じに いく。
+韓 A: 그래. 아침 9시에 가.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。你今天的事有 5 個。
+英 A: Yes. You have 5 things today.
+法 A: Oui. Tu as 5 choses aujourd'hui.
+日 A: うん。 きょうの ことは 5 つ。
+韓 A: 그래. 오늘 할 일이 5개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 8 點 5 分。
+英 B: Now it is 8 hour and 5 minute.
+法 B: Il est 8 heures 5 minutes.
+日 B: いま 8じ 5ふん。
+韓 B: 지금 8시 5분이야.
+
+中 A: 我們 2 點要去家。
+英 A: We go to home at 2 hour.
+法 A: Nous allons à la maison à 2 heures.
+日 A: 2じに いえへ いきます。
+韓 A: 2시에 집에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 今天是 10 月 2 日。
+英 A: Today is month 10, day 2.
+法 A: Nous sommes le 2 du mois 10.
+日 A: きょうは 10 がつ 2 にち。
+韓 A: 오늘은 10월 2일이야.
+
+中 B: 明天我們去hospital吧。
+英 B: Tomorrow we go to hospital.
+法 B: Demain nous allons à hôpital.
+日 B: あした びょういんへ いこう。
+韓 B: 내일 병원에 가자.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 今天是 3 月 4 日。
+英 A: Today is month 3, day 4.
+法 A: Nous sommes le 4 du mois 3.
+日 A: きょうは 3 がつ 4 にち。
+韓 A: 오늘은 3월 4일이야.
+
+中 B: 明天我們去車站吧。
+英 B: Tomorrow we go to the station.
+法 B: Demain nous allons à la gare.
+日 B: あした えきへ いこう。
+韓 B: 내일 역에 가자.
+
+中 A: 好。早上 2 點走。
+英 A: Ok. We go at 2 in the morning.
+法 A: Ok. On part à 2 heures du matin.
+日 A: いいよ。 あさ 2じに いく。
+韓 A: 그래. 아침 2시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 今天是 6 月 4 日。
+英 A: Today is month 6, day 4.
+法 A: Nous sommes le 4 du mois 6.
+日 A: きょうは 6 がつ 4 にち。
+韓 A: 오늘은 6월 4일이야.
+
+中 B: 明天我們去店吧。
+英 B: Tomorrow we go to the shop.
+法 B: Demain nous allons à la boutique.
+日 B: あした みせへ いこう。
+韓 B: 내일 가게에 가자.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 55 分。
+英 B: Now it is 7 hour and 55 minute.
+法 B: Il est 7 heures 55 minutes.
+日 B: いま 7じ 55ふん。
+韓 B: 지금 7시 55분이야.
+
+中 A: 我們 9 點要去車站。
+英 A: We go to the station at 9 hour.
+法 A: Nous allons à la gare à 9 heures.
+日 A: 9じに えきへ いきます。
+韓 A: 9시에 역에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 4 個。
+英 B: Yes. You have 4 things today.
+法 B: Oui. Tu as 4 choses aujourd'hui.
+日 B: うん。 きょうの ことは 4 つ。
+韓 B: 그래. 오늘 할 일이 4개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 3 點 25 分。
+英 B: Now it is 3 hour and 25 minute.
+法 B: Il est 3 heures 25 minutes.
+日 B: いま 3じ 25ふん。
+韓 B: 지금 3시 25분이야.
+
+中 A: 我們 5 點要去學校。
+英 A: We go to school at 5 hour.
+法 A: Nous allons à école à 5 heures.
+日 A: 5じに がっこうへ いきます。
+韓 A: 5시에 학교에 가요.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 6 個。
+英 B: Yes. You have 6 things today.
+法 B: Oui. Tu as 6 choses aujourd'hui.
+日 B: うん。 きょうの ことは 6 つ。
+韓 B: 그래. 오늘 할 일이 6개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 12 點 30 分。
+英 B: Now it is 12 hour and 30 minute.
+法 B: Il est 12 heures 30 minutes.
+日 B: いま 12じ 30ふん。
+韓 B: 지금 12시 30분이야.
+
+中 A: 我們 9 點要去車站。
+英 A: We go to the station at 9 hour.
+法 A: Nous allons à la gare à 9 heures.
+日 A: 9じに えきへ いきます。
+韓 A: 9시에 역에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 今天是 2 月 4 日。
+英 A: Today is month 2, day 4.
+法 A: Nous sommes le 4 du mois 2.
+日 A: きょうは 2 がつ 4 にち。
+韓 A: 오늘은 2월 4일이야.
+
+中 B: 明天我們去車站吧。
+英 B: Tomorrow we go to the station.
+法 B: Demain nous allons à la gare.
+日 B: あした えきへ いこう。
+韓 B: 내일 역에 가자.
+
+中 A: 好。早上 5 點走。
+英 A: Ok. We go at 5 in the morning.
+法 A: Ok. On part à 5 heures du matin.
+日 A: いいよ。 あさ 5じに いく。
+韓 A: 그래. 아침 5시에 가.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 9 點 15 分。
+英 B: Now it is 9 hour and 15 minute.
+法 B: Il est 9 heures 15 minutes.
+日 B: いま 9じ 15ふん。
+韓 B: 지금 9시 15분이야.
+
+中 A: 我們 11 點要去店。
+英 A: We go to the shop at 11 hour.
+法 A: Nous allons à la boutique à 11 heures.
+日 A: 11じに みせへ いきます。
+韓 A: 11시에 가게에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 今天是 4 月 3 日。
+英 A: Today is month 4, day 3.
+法 A: Nous sommes le 3 du mois 4.
+日 A: きょうは 4 がつ 3 にち。
+韓 A: 오늘은 4월 3일이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 明天我們去market吧。
+英 A: Tomorrow we go to market.
+法 A: Demain nous allons à marché.
+日 A: あした marketへ いこう。
+韓 A: 내일 시장에 가자.
+
+中 B: 好。早上 12 點走。
+英 B: Ok. We go at 12 in the morning.
+法 B: Ok. On part à 12 heures du matin.
+日 B: いいよ。 あさ 12じに いく。
+韓 B: 그래. 아침 12시에 가.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 10 月 4 日。
+英 B: Today is month 10, day 4.
+法 B: Nous sommes le 4 du mois 10.
+日 B: きょうは 10 がつ 4 にち。
+韓 B: 오늘은 10월 4일이야.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 8 點 20 分。
+英 B: Now it is 8 hour and 20 minute.
+法 B: Il est 8 heures 20 minutes.
+日 B: いま 8じ 20ふん。
+韓 B: 지금 8시 20분이야.
+
+中 A: 我們 7 點要去restaurant。
+英 A: We go to the restaurant at 7 hour.
+法 A: Nous allons à le restaurant à 7 heures.
+日 A: 7じに レストランへ いきます。
+韓 A: 7시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 9 點 10 分。
+英 B: Now it is 9 hour and 10 minute.
+法 B: Il est 9 heures 10 minutes.
+日 B: いま 9じ 10ふん。
+韓 B: 지금 9시 10분이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我們 2 點要去restaurant。
+英 B: We go to the restaurant at 2 hour.
+法 B: Nous allons à le restaurant à 2 heures.
+日 B: 2じに レストランへ いきます。
+韓 B: 2시에 식당에 가요.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 2 點 30 分。
+英 B: Now it is 2 hour and 30 minute.
+法 B: Il est 2 heures 30 minutes.
+日 B: いま 2じ 30ふん。
+韓 B: 지금 2시 30분이야.
+
+中 A: 我們 4 點要去market。
+英 A: We go to market at 4 hour.
+法 A: Nous allons à marché à 4 heures.
+日 A: 4じに marketへ いきます。
+韓 A: 4시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 4 點 5 分。
+英 B: Now it is 4 hour and 5 minute.
+法 B: Il est 4 heures 5 minutes.
+日 B: いま 4じ 5ふん。
+韓 B: 지금 4시 5분이야.
+
+中 A: 我們 8 點要去車站。
+英 A: We go to the station at 8 hour.
+法 A: Nous allons à la gare à 8 heures.
+日 A: 8じに えきへ いきます。
+韓 A: 8시에 역에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 今天是 7 月 6 日。
+英 A: Today is month 7, day 6.
+法 A: Nous sommes le 6 du mois 7.
+日 A: きょうは 7 がつ 6 にち。
+韓 A: 오늘은 7월 6일이야.
+
+中 B: 明天我們去market吧。
+英 B: Tomorrow we go to market.
+法 B: Demain nous allons à marché.
+日 B: あした marketへ いこう。
+韓 B: 내일 시장에 가자.
+
+中 A: 好。早上 2 點走。
+英 A: Ok. We go at 2 in the morning.
+法 A: Ok. On part à 2 heures du matin.
+日 A: いいよ。 あさ 2じに いく。
+韓 A: 그래. 아침 2시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 6 月 8 日。
+英 B: Today is month 6, day 8.
+法 B: Nous sommes le 8 du mois 6.
+日 B: きょうは 6 がつ 8 にち。
+韓 B: 오늘은 6월 8일이야.
+
+中 A: 明天我們去restaurant吧。
+英 A: Tomorrow we go to the restaurant.
+法 A: Demain nous allons à le restaurant.
+日 A: あした レストランへ いこう。
+韓 A: 내일 식당에 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。早上 12 點走。
+英 A: Ok. We go at 12 in the morning.
+法 A: Ok. On part à 12 heures du matin.
+日 A: いいよ。 あさ 12じに いく。
+韓 A: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 現在 4 點 15 分。
+英 A: Now it is 4 hour and 15 minute.
+法 A: Il est 4 heures 15 minutes.
+日 A: いま 4じ 15ふん。
+韓 A: 지금 4시 15분이야.
+
+中 B: 我們 3 點要去hospital。
+英 B: We go to hospital at 3 hour.
+法 B: Nous allons à hôpital à 3 heures.
+日 B: 3じに びょういんへ いきます。
+韓 B: 3시에 병원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 今天是 11 月 8 日。
+英 A: Today is month 11, day 8.
+法 A: Nous sommes le 8 du mois 11.
+日 A: きょうは 11 がつ 8 にち。
+韓 A: 오늘은 11월 8일이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。早上 10 點走。
+英 A: Ok. We go at 10 in the morning.
+法 A: Ok. On part à 10 heures du matin.
+日 A: いいよ。 あさ 10じに いく。
+韓 A: 그래. 아침 10시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 現在 11 點 35 分。
+英 A: Now it is 11 hour and 35 minute.
+法 A: Il est 11 heures 35 minutes.
+日 A: いま 11じ 35ふん。
+韓 A: 지금 11시 35분이야.
+
+中 B: 我們 3 點要去market。
+英 B: We go to market at 3 hour.
+法 B: Nous allons à marché à 3 heures.
+日 B: 3じに marketへ いきます。
+韓 B: 3시에 시장에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 10 分。
+英 B: Now it is 7 hour and 10 minute.
+法 B: Il est 7 heures 10 minutes.
+日 B: いま 7じ 10ふん。
+韓 B: 지금 7시 10분이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我們 2 點要去學校。
+英 B: We go to school at 2 hour.
+法 B: Nous allons à école à 2 heures.
+日 B: 2じに がっこうへ いきます。
+韓 B: 2시에 학교에 가요.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 現在 12 點 45 分。
+英 A: Now it is 12 hour and 45 minute.
+法 A: Il est 12 heures 45 minutes.
+日 A: いま 12じ 45ふん。
+韓 A: 지금 12시 45분이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我們 11 點要去restaurant。
+英 A: We go to the restaurant at 11 hour.
+法 A: Nous allons à le restaurant à 11 heures.
+日 A: 11じに レストランへ いきます。
+韓 A: 11시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 3 月 9 日。
+英 B: Today is month 3, day 9.
+法 B: Nous sommes le 9 du mois 3.
+日 B: きょうは 3 がつ 9 にち。
+韓 B: 오늘은 3월 9일이야.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 好。早上 8 點走。
+英 B: Ok. We go at 8 in the morning.
+法 B: Ok. On part à 8 heures du matin.
+日 B: いいよ。 あさ 8じに いく。
+韓 B: 그래. 아침 8시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。你今天的事有 1 個。
+英 A: Yes. You have 1 things today.
+法 A: Oui. Tu as 1 choses aujourd'hui.
+日 A: うん。 きょうの ことは 1 つ。
+韓 A: 그래. 오늘 할 일이 1개 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 10 點 10 分。
+英 B: Now it is 10 hour and 10 minute.
+法 B: Il est 10 heures 10 minutes.
+日 B: いま 10じ 10ふん。
+韓 B: 지금 10시 10분이야.
+
+中 A: 我們 12 點要去學校。
+英 A: We go to school at 12 hour.
+法 A: Nous allons à école à 12 heures.
+日 A: 12じに がっこうへ いきます。
+韓 A: 12시에 학교에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 現在 11 點 50 分。
+英 A: Now it is 11 hour and 50 minute.
+法 A: Il est 11 heures 50 minutes.
+日 A: いま 11じ 50ふん。
+韓 A: 지금 11시 50분이야.
+
+中 B: 我們 12 點要去學校。
+英 B: We go to school at 12 hour.
+法 B: Nous allons à école à 12 heures.
+日 B: 12じに がっこうへ いきます。
+韓 B: 12시에 학교에 가요.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 9 點 50 分。
+英 B: Now it is 9 hour and 50 minute.
+法 B: Il est 9 heures 50 minutes.
+日 B: いま 9じ 50ふん。
+韓 B: 지금 9시 50분이야.
+
+中 A: 我們 9 點要去market。
+英 A: We go to market at 9 hour.
+法 A: Nous allons à marché à 9 heures.
+日 A: 9じに marketへ いきます。
+韓 A: 9시에 시장에 가요.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 9 點 15 分。
+英 B: Now it is 9 hour and 15 minute.
+法 B: Il est 9 heures 15 minutes.
+日 B: いま 9じ 15ふん。
+韓 B: 지금 9시 15분이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們 3 點要去park。
+英 B: We go to park at 3 hour.
+法 B: Nous allons à parc à 3 heures.
+日 B: 3じに parkへ いきます。
+韓 B: 3시에 공원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 今天是 11 月 5 日。
+英 A: Today is month 11, day 5.
+法 A: Nous sommes le 5 du mois 11.
+日 A: きょうは 11 がつ 5 にち。
+韓 A: 오늘은 11월 5일이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 明天我們去海邊吧。
+英 A: Tomorrow we go to the sea.
+法 A: Demain nous allons à la mer.
+日 A: あした うみへ いこう。
+韓 A: 내일 바다에 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 12 點 5 分。
+英 B: Now it is 12 hour and 5 minute.
+法 B: Il est 12 heures 5 minutes.
+日 B: いま 12じ 5ふん。
+韓 B: 지금 12시 5분이야.
+
+中 A: 我們 2 點要去海邊。
+英 A: We go to the sea at 2 hour.
+法 A: Nous allons à la mer à 2 heures.
+日 A: 2じに うみへ いきます。
+韓 A: 2시에 바다에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 8 點 10 分。
+英 B: Now it is 8 hour and 10 minute.
+法 B: Il est 8 heures 10 minutes.
+日 B: いま 8じ 10ふん。
+韓 B: 지금 8시 10분이야.
+
+中 A: 我們 8 點要去restaurant。
+英 A: We go to the restaurant at 8 hour.
+法 A: Nous allons à le restaurant à 8 heures.
+日 A: 8じに レストランへ いきます。
+韓 A: 8시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 12 月 3 日。
+英 B: Today is month 12, day 3.
+法 B: Nous sommes le 3 du mois 12.
+日 B: きょうは 12 がつ 3 にち。
+韓 B: 오늘은 12월 3일이야.
+
+中 A: 明天我們去海邊吧。
+英 A: Tomorrow we go to the sea.
+法 A: Demain nous allons à la mer.
+日 A: あした うみへ いこう。
+韓 A: 내일 바다에 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 5 個。
+英 B: Yes. You have 5 things today.
+法 B: Oui. Tu as 5 choses aujourd'hui.
+日 B: うん。 きょうの ことは 5 つ。
+韓 B: 그래. 오늘 할 일이 5개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 現在 8 點 45 分。
+英 A: Now it is 8 hour and 45 minute.
+法 A: Il est 8 heures 45 minutes.
+日 A: いま 8じ 45ふん。
+韓 A: 지금 8시 45분이야.
+
+中 B: 我們 2 點要去學校。
+英 B: We go to school at 2 hour.
+法 B: Nous allons à école à 2 heures.
+日 B: 2じに がっこうへ いきます。
+韓 B: 2시에 학교에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 1 點 45 分。
+英 B: Now it is 1 hour and 45 minute.
+法 B: Il est 1 heures 45 minutes.
+日 B: いま 1じ 45ふん。
+韓 B: 지금 1시 45분이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我們 7 點要去店。
+英 B: We go to the shop at 7 hour.
+法 B: Nous allons à la boutique à 7 heures.
+日 B: 7じに みせへ いきます。
+韓 B: 7시에 가게에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 現在 11 點 30 分。
+英 A: Now it is 11 hour and 30 minute.
+法 A: Il est 11 heures 30 minutes.
+日 A: いま 11じ 30ふん。
+韓 A: 지금 11시 30분이야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我們 2 點要去海邊。
+英 A: We go to the sea at 2 hour.
+法 A: Nous allons à la mer à 2 heures.
+日 A: 2じに うみへ いきます。
+韓 A: 2시에 바다에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 4 月 7 日。
+英 B: Today is month 4, day 7.
+法 B: Nous sommes le 7 du mois 4.
+日 B: きょうは 4 がつ 7 にち。
+韓 B: 오늘은 4월 7일이야.
+
+中 A: 明天我們去學校吧。
+英 A: Tomorrow we go to school.
+法 A: Demain nous allons à école.
+日 A: あした がっこうへ いこう。
+韓 A: 내일 학교에 가자.
+
+中 B: 好。早上 5 點走。
+英 B: Ok. We go at 5 in the morning.
+法 B: Ok. On part à 5 heures du matin.
+日 B: いいよ。 あさ 5じに いく。
+韓 B: 그래. 아침 5시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天是 10 月 7 日。
+英 A: Today is month 10, day 7.
+法 A: Nous sommes le 7 du mois 10.
+日 A: きょうは 10 がつ 7 にち。
+韓 A: 오늘은 10월 7일이야.
+
+中 B: 明天我們去park吧。
+英 B: Tomorrow we go to park.
+法 B: Demain nous allons à parc.
+日 B: あした parkへ いこう。
+韓 B: 내일 공원에 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。早上 9 點走。
+英 B: Ok. We go at 9 in the morning.
+法 B: Ok. On part à 9 heures du matin.
+日 B: いいよ。 あさ 9じに いく。
+韓 B: 그래. 아침 9시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 今天是 9 月 8 日。
+英 A: Today is month 9, day 8.
+法 A: Nous sommes le 8 du mois 9.
+日 A: きょうは 9 がつ 8 にち。
+韓 A: 오늘은 9월 8일이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 明天我們去海邊吧。
+英 A: Tomorrow we go to the sea.
+法 A: Demain nous allons à la mer.
+日 A: あした うみへ いこう。
+韓 A: 내일 바다에 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 3 月 2 日。
+英 B: Today is month 3, day 2.
+法 B: Nous sommes le 2 du mois 3.
+日 B: きょうは 3 がつ 2 にち。
+韓 B: 오늘은 3월 2일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 5 點走。
+英 B: Ok. We go at 5 in the morning.
+法 B: Ok. On part à 5 heures du matin.
+日 B: いいよ。 あさ 5じに いく。
+韓 B: 그래. 아침 5시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 9 點 5 分。
+英 B: Now it is 9 hour and 5 minute.
+法 B: Il est 9 heures 5 minutes.
+日 B: いま 9じ 5ふん。
+韓 B: 지금 9시 5분이야.
+
+中 A: 我們 5 點要去車站。
+英 A: We go to the station at 5 hour.
+法 A: Nous allons à la gare à 5 heures.
+日 A: 5じに えきへ いきます。
+韓 A: 5시에 역에 가요.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 今天是 7 月 4 日。
+英 A: Today is month 7, day 4.
+法 A: Nous sommes le 4 du mois 7.
+日 A: きょうは 7 がつ 4 にち。
+韓 A: 오늘은 7월 4일이야.
+
+中 B: 明天我們去restaurant吧。
+英 B: Tomorrow we go to the restaurant.
+法 B: Demain nous allons à le restaurant.
+日 B: あした レストランへ いこう。
+韓 B: 내일 식당에 가자.
+
+中 A: 好。早上 11 點走。
+英 A: Ok. We go at 11 in the morning.
+法 A: Ok. On part à 11 heures du matin.
+日 A: いいよ。 あさ 11じに いく。
+韓 A: 그래. 아침 11시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 5 點 15 分。
+英 B: Now it is 5 hour and 15 minute.
+法 B: Il est 5 heures 15 minutes.
+日 B: いま 5じ 15ふん。
+韓 B: 지금 5시 15분이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我們 9 點要去車站。
+英 B: We go to the station at 9 hour.
+法 B: Nous allons à la gare à 9 heures.
+日 B: 9じに えきへ いきます。
+韓 B: 9시에 역에 가요.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 現在 3 點 30 分。
+英 A: Now it is 3 hour and 30 minute.
+法 A: Il est 3 heures 30 minutes.
+日 A: いま 3じ 30ふん。
+韓 A: 지금 3시 30분이야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我們 6 點要去車站。
+英 A: We go to the station at 6 hour.
+法 A: Nous allons à la gare à 6 heures.
+日 A: 6じに えきへ いきます。
+韓 A: 6시에 역에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 現在 3 點 25 分。
+英 A: Now it is 3 hour and 25 minute.
+法 A: Il est 3 heures 25 minutes.
+日 A: いま 3じ 25ふん。
+韓 A: 지금 3시 25분이야.
+
+中 B: 我們 4 點要去park。
+英 B: We go to park at 4 hour.
+法 B: Nous allons à parc à 4 heures.
+日 B: 4じに parkへ いきます。
+韓 B: 4시에 공원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 今天是 9 月 9 日。
+英 A: Today is month 9, day 9.
+法 A: Nous sommes le 9 du mois 9.
+日 A: きょうは 9 がつ 9 にち。
+韓 A: 오늘은 9월 9일이야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 4 點走。
+英 B: Ok. We go at 4 in the morning.
+法 B: Ok. On part à 4 heures du matin.
+日 B: いいよ。 あさ 4じに いく。
+韓 B: 그래. 아침 4시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 今天是 6 月 3 日。
+英 A: Today is month 6, day 3.
+法 A: Nous sommes le 3 du mois 6.
+日 A: きょうは 6 がつ 3 にち。
+韓 A: 오늘은 6월 3일이야.
+
+中 B: 明天我們去店吧。
+英 B: Tomorrow we go to the shop.
+法 B: Demain nous allons à la boutique.
+日 B: あした みせへ いこう。
+韓 B: 내일 가게에 가자.
+
+中 A: 好。早上 10 點走。
+英 A: Ok. We go at 10 in the morning.
+法 A: Ok. On part à 10 heures du matin.
+日 A: いいよ。 あさ 10じに いく。
+韓 A: 그래. 아침 10시에 가.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天是 4 月 4 日。
+英 A: Today is month 4, day 4.
+法 A: Nous sommes le 4 du mois 4.
+日 A: きょうは 4 がつ 4 にち。
+韓 A: 오늘은 4월 4일이야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 明天我們去海邊吧。
+英 A: Tomorrow we go to the sea.
+法 A: Demain nous allons à la mer.
+日 A: あした うみへ いこう。
+韓 A: 내일 바다에 가자.
+
+中 B: 好。早上 4 點走。
+英 B: Ok. We go at 4 in the morning.
+法 B: Ok. On part à 4 heures du matin.
+日 B: いいよ。 あさ 4じに いく。
+韓 B: 그래. 아침 4시에 가.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天是 2 月 2 日。
+英 A: Today is month 2, day 2.
+法 A: Nous sommes le 2 du mois 2.
+日 A: きょうは 2 がつ 2 にち。
+韓 A: 오늘은 2월 2일이야.
+
+中 B: 明天我們去market吧。
+英 B: Tomorrow we go to market.
+法 B: Demain nous allons à marché.
+日 B: あした marketへ いこう。
+韓 B: 내일 시장에 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。早上 12 點走。
+英 B: Ok. We go at 12 in the morning.
+法 B: Ok. On part à 12 heures du matin.
+日 B: いいよ。 あさ 12じに いく。
+韓 B: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 10 月 4 日。
+英 B: Today is month 10, day 4.
+法 B: Nous sommes le 4 du mois 10.
+日 B: きょうは 10 がつ 4 にち。
+韓 B: 오늘은 10월 4일이야.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 好。早上 10 點走。
+英 B: Ok. We go at 10 in the morning.
+法 B: Ok. On part à 10 heures du matin.
+日 B: いいよ。 あさ 10じに いく。
+韓 B: 그래. 아침 10시에 가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 1 點 35 分。
+英 B: Now it is 1 hour and 35 minute.
+法 B: Il est 1 heures 35 minutes.
+日 B: いま 1じ 35ふん。
+韓 B: 지금 1시 35분이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們 1 點要去market。
+英 B: We go to market at 1 hour.
+法 B: Nous allons à marché à 1 heures.
+日 B: 1じに marketへ いきます。
+韓 B: 1시에 시장에 가요.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 6 點 35 分。
+英 B: Now it is 6 hour and 35 minute.
+法 B: Il est 6 heures 35 minutes.
+日 B: いま 6じ 35ふん。
+韓 B: 지금 6시 35분이야.
+
+中 A: 我們 2 點要去店。
+英 A: We go to the shop at 2 hour.
+法 A: Nous allons à la boutique à 2 heures.
+日 A: 2じに みせへ いきます。
+韓 A: 2시에 가게에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 1 月 1 日。
+英 B: Today is month 1, day 1.
+法 B: Nous sommes le 1 du mois 1.
+日 B: きょうは 1 がつ 1 にち。
+韓 B: 오늘은 1월 1일이야.
+
+中 A: 明天我們去學校吧。
+英 A: Tomorrow we go to school.
+法 A: Demain nous allons à école.
+日 A: あした がっこうへ いこう。
+韓 A: 내일 학교에 가자.
+
+中 B: 好。早上 4 點走。
+英 B: Ok. We go at 4 in the morning.
+法 B: Ok. On part à 4 heures du matin.
+日 B: いいよ。 あさ 4じに いく。
+韓 B: 그래. 아침 4시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 10 點 45 分。
+英 B: Now it is 10 hour and 45 minute.
+法 B: Il est 10 heures 45 minutes.
+日 B: いま 10じ 45ふん。
+韓 B: 지금 10시 45분이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我們 1 點要去hospital。
+英 B: We go to hospital at 1 hour.
+法 B: Nous allons à hôpital à 1 heures.
+日 B: 1じに びょういんへ いきます。
+韓 B: 1시에 병원에 가요.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 10 月 2 日。
+英 B: Today is month 10, day 2.
+法 B: Nous sommes le 2 du mois 10.
+日 B: きょうは 10 がつ 2 にち。
+韓 B: 오늘은 10월 2일이야.
+
+中 A: 明天我們去家吧。
+英 A: Tomorrow we go to home.
+法 A: Demain nous allons à la maison.
+日 A: あした いえへ いこう。
+韓 A: 내일 집에 가자.
+
+中 B: 好。早上 1 點走。
+英 B: Ok. We go at 1 in the morning.
+法 B: Ok. On part à 1 heures du matin.
+日 B: いいよ。 あさ 1じに いく。
+韓 B: 그래. 아침 1시에 가.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 2 月 5 日。
+英 B: Today is month 2, day 5.
+法 B: Nous sommes le 5 du mois 2.
+日 B: きょうは 2 がつ 5 にち。
+韓 B: 오늘은 2월 5일이야.
+
+中 A: 明天我們去market吧。
+英 A: Tomorrow we go to market.
+法 A: Demain nous allons à marché.
+日 A: あした marketへ いこう。
+韓 A: 내일 시장에 가자.
+
+中 B: 好。早上 2 點走。
+英 B: Ok. We go at 2 in the morning.
+法 B: Ok. On part à 2 heures du matin.
+日 B: いいよ。 あさ 2じに いく。
+韓 B: 그래. 아침 2시에 가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 9 月 8 日。
+英 B: Today is month 9, day 8.
+法 B: Nous sommes le 8 du mois 9.
+日 B: きょうは 9 がつ 8 にち。
+韓 B: 오늘은 9월 8일이야.
+
+中 A: 明天我們去海邊吧。
+英 A: Tomorrow we go to the sea.
+法 A: Demain nous allons à la mer.
+日 A: あした うみへ いこう。
+韓 A: 내일 바다에 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 今天是 9 月 3 日。
+英 A: Today is month 9, day 3.
+法 A: Nous sommes le 3 du mois 9.
+日 A: きょうは 9 がつ 3 にち。
+韓 A: 오늘은 9월 3일이야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 明天我們去market吧。
+英 A: Tomorrow we go to market.
+法 A: Demain nous allons à marché.
+日 A: あした marketへ いこう。
+韓 A: 내일 시장에 가자.
+
+中 B: 好。早上 4 點走。
+英 B: Ok. We go at 4 in the morning.
+法 B: Ok. On part à 4 heures du matin.
+日 B: いいよ。 あさ 4じに いく。
+韓 B: 그래. 아침 4시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。你今天的事有 5 個。
+英 A: Yes. You have 5 things today.
+法 A: Oui. Tu as 5 choses aujourd'hui.
+日 A: うん。 きょうの ことは 5 つ。
+韓 A: 그래. 오늘 할 일이 5개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 11 點 5 分。
+英 B: Now it is 11 hour and 5 minute.
+法 B: Il est 11 heures 5 minutes.
+日 B: いま 11じ 5ふん。
+韓 B: 지금 11시 5분이야.
+
+中 A: 我們 6 點要去hospital。
+英 A: We go to hospital at 6 hour.
+法 A: Nous allons à hôpital à 6 heures.
+日 A: 6じに びょういんへ いきます。
+韓 A: 6시에 병원에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 9 個。
+英 B: Yes. You have 9 things today.
+法 B: Oui. Tu as 9 choses aujourd'hui.
+日 B: うん。 きょうの ことは 9 つ。
+韓 B: 그래. 오늘 할 일이 9개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 今天是 4 月 1 日。
+英 A: Today is month 4, day 1.
+法 A: Nous sommes le 1 du mois 4.
+日 A: きょうは 4 がつ 1 にち。
+韓 A: 오늘은 4월 1일이야.
+
+中 B: 明天我們去restaurant吧。
+英 B: Tomorrow we go to the restaurant.
+法 B: Demain nous allons à le restaurant.
+日 B: あした レストランへ いこう。
+韓 B: 내일 식당에 가자.
+
+中 A: 好。早上 4 點走。
+英 A: Ok. We go at 4 in the morning.
+法 A: Ok. On part à 4 heures du matin.
+日 A: いいよ。 あさ 4じに いく。
+韓 A: 그래. 아침 4시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 8 個。
+英 B: Yes. You have 8 things today.
+法 B: Oui. Tu as 8 choses aujourd'hui.
+日 B: うん。 きょうの ことは 8 つ。
+韓 B: 그래. 오늘 할 일이 8개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 現在 6 點 5 分。
+英 A: Now it is 6 hour and 5 minute.
+法 A: Il est 6 heures 5 minutes.
+日 A: いま 6じ 5ふん。
+韓 A: 지금 6시 5분이야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我們 7 點要去restaurant。
+英 A: We go to the restaurant at 7 hour.
+法 A: Nous allons à le restaurant à 7 heures.
+日 A: 7じに レストランへ いきます。
+韓 A: 7시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 今天是 3 月 4 日。
+英 A: Today is month 3, day 4.
+法 A: Nous sommes le 4 du mois 3.
+日 A: きょうは 3 がつ 4 にち。
+韓 A: 오늘은 3월 4일이야.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 明天我們去restaurant吧。
+英 A: Tomorrow we go to the restaurant.
+法 A: Demain nous allons à le restaurant.
+日 A: あした レストランへ いこう。
+韓 A: 내일 식당에 가자.
+
+中 B: 好。早上 5 點走。
+英 B: Ok. We go at 5 in the morning.
+法 B: Ok. On part à 5 heures du matin.
+日 B: いいよ。 あさ 5じに いく。
+韓 B: 그래. 아침 5시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 8 個。
+英 B: Yes. You have 8 things today.
+法 B: Oui. Tu as 8 choses aujourd'hui.
+日 B: うん。 きょうの ことは 8 つ。
+韓 B: 그래. 오늘 할 일이 8개 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 現在 9 點 15 分。
+英 A: Now it is 9 hour and 15 minute.
+法 A: Il est 9 heures 15 minutes.
+日 A: いま 9じ 15ふん。
+韓 A: 지금 9시 15분이야.
+
+中 B: 我們 7 點要去park。
+英 B: We go to park at 7 hour.
+法 B: Nous allons à parc à 7 heures.
+日 B: 7じに parkへ いきます。
+韓 B: 7시에 공원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 現在 8 點 5 分。
+英 A: Now it is 8 hour and 5 minute.
+法 A: Il est 8 heures 5 minutes.
+日 A: いま 8じ 5ふん。
+韓 A: 지금 8시 5분이야.
+
+中 B: 我們 10 點要去park。
+英 B: We go to park at 10 hour.
+法 B: Nous allons à parc à 10 heures.
+日 B: 10じに parkへ いきます。
+韓 B: 10시에 공원에 가요.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 5 月 3 日。
+英 B: Today is month 5, day 3.
+法 B: Nous sommes le 3 du mois 5.
+日 B: きょうは 5 がつ 3 にち。
+韓 B: 오늘은 5월 3일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 12 點走。
+英 B: Ok. We go at 12 in the morning.
+法 B: Ok. On part à 12 heures du matin.
+日 B: いいよ。 あさ 12じに いく。
+韓 B: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 11 月 8 日。
+英 B: Today is month 11, day 8.
+法 B: Nous sommes le 8 du mois 11.
+日 B: きょうは 11 がつ 8 にち。
+韓 B: 오늘은 11월 8일이야.
+
+中 A: 明天我們去market吧。
+英 A: Tomorrow we go to market.
+法 A: Demain nous allons à marché.
+日 A: あした marketへ いこう。
+韓 A: 내일 시장에 가자.
+
+中 B: 好。早上 9 點走。
+英 B: Ok. We go at 9 in the morning.
+法 B: Ok. On part à 9 heures du matin.
+日 B: いいよ。 あさ 9じに いく。
+韓 B: 그래. 아침 9시에 가.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。你今天的事有 3 個。
+英 A: Yes. You have 3 things today.
+法 A: Oui. Tu as 3 choses aujourd'hui.
+日 A: うん。 きょうの ことは 3 つ。
+韓 A: 그래. 오늘 할 일이 3개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 4 個。
+英 B: Yes. You have 4 things today.
+法 B: Oui. Tu as 4 choses aujourd'hui.
+日 B: うん。 きょうの ことは 4 つ。
+韓 B: 그래. 오늘 할 일이 4개 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 35 分。
+英 B: Now it is 7 hour and 35 minute.
+法 B: Il est 7 heures 35 minutes.
+日 B: いま 7じ 35ふん。
+韓 B: 지금 7시 35분이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們 10 點要去restaurant。
+英 B: We go to the restaurant at 10 hour.
+法 B: Nous allons à le restaurant à 10 heures.
+日 B: 10じに レストランへ いきます。
+韓 B: 10시에 식당에 가요.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 55 分。
+英 B: Now it is 7 hour and 55 minute.
+法 B: Il est 7 heures 55 minutes.
+日 B: いま 7じ 55ふん。
+韓 B: 지금 7시 55분이야.
+
+中 A: 我們 2 點要去店。
+英 A: We go to the shop at 2 hour.
+法 A: Nous allons à la boutique à 2 heures.
+日 A: 2じに みせへ いきます。
+韓 A: 2시에 가게에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 9 個。
+英 B: Yes. You have 9 things today.
+法 B: Oui. Tu as 9 choses aujourd'hui.
+日 B: うん。 きょうの ことは 9 つ。
+韓 B: 그래. 오늘 할 일이 9개 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 今天是 9 月 3 日。
+英 A: Today is month 9, day 3.
+法 A: Nous sommes le 3 du mois 9.
+日 A: きょうは 9 がつ 3 にち。
+韓 A: 오늘은 9월 3일이야.
+
+中 B: 明天我們去restaurant吧。
+英 B: Tomorrow we go to the restaurant.
+法 B: Demain nous allons à le restaurant.
+日 B: あした レストランへ いこう。
+韓 B: 내일 식당에 가자.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 50 分。
+英 B: Now it is 7 hour and 50 minute.
+法 B: Il est 7 heures 50 minutes.
+日 B: いま 7じ 50ふん。
+韓 B: 지금 7시 50분이야.
+
+中 A: 我們 6 點要去restaurant。
+英 A: We go to the restaurant at 6 hour.
+法 A: Nous allons à le restaurant à 6 heures.
+日 A: 6じに レストランへ いきます。
+韓 A: 6시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 今天是 7 月 2 日。
+英 A: Today is month 7, day 2.
+法 A: Nous sommes le 2 du mois 7.
+日 A: きょうは 7 がつ 2 にち。
+韓 A: 오늘은 7월 2일이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 好。早上 1 點走。
+英 B: Ok. We go at 1 in the morning.
+法 B: Ok. On part à 1 heures du matin.
+日 B: いいよ。 あさ 1じに いく。
+韓 B: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 3 月 4 日。
+英 B: Today is month 3, day 4.
+法 B: Nous sommes le 4 du mois 3.
+日 B: きょうは 3 がつ 4 にち。
+韓 B: 오늘은 3월 4일이야.
+
+中 A: 明天我們去restaurant吧。
+英 A: Tomorrow we go to the restaurant.
+法 A: Demain nous allons à le restaurant.
+日 A: あした レストランへ いこう。
+韓 A: 내일 식당에 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 今天是 3 月 4 日。
+英 A: Today is month 3, day 4.
+法 A: Nous sommes le 4 du mois 3.
+日 A: きょうは 3 がつ 4 にち。
+韓 A: 오늘은 3월 4일이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 明天我們去車站吧。
+英 A: Tomorrow we go to the station.
+法 A: Demain nous allons à la gare.
+日 A: あした えきへ いこう。
+韓 A: 내일 역에 가자.
+
+中 B: 好。早上 9 點走。
+英 B: Ok. We go at 9 in the morning.
+法 B: Ok. On part à 9 heures du matin.
+日 B: いいよ。 あさ 9じに いく。
+韓 B: 그래. 아침 9시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 10 分。
+英 B: Now it is 7 hour and 10 minute.
+法 B: Il est 7 heures 10 minutes.
+日 B: いま 7じ 10ふん。
+韓 B: 지금 7시 10분이야.
+
+中 A: 我們 1 點要去market。
+英 A: We go to market at 1 hour.
+法 A: Nous allons à marché à 1 heures.
+日 A: 1じに marketへ いきます。
+韓 A: 1시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 1 點 40 分。
+英 B: Now it is 1 hour and 40 minute.
+法 B: Il est 1 heures 40 minutes.
+日 B: いま 1じ 40ふん。
+韓 B: 지금 1시 40분이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我們 7 點要去學校。
+英 B: We go to school at 7 hour.
+法 B: Nous allons à école à 7 heures.
+日 B: 7じに がっこうへ いきます。
+韓 B: 7시에 학교에 가요.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 11 月 3 日。
+英 B: Today is month 11, day 3.
+法 B: Nous sommes le 3 du mois 11.
+日 B: きょうは 11 がつ 3 にち。
+韓 B: 오늘은 11월 3일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 12 點走。
+英 B: Ok. We go at 12 in the morning.
+法 B: Ok. On part à 12 heures du matin.
+日 B: いいよ。 あさ 12じに いく。
+韓 B: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 現在 7 點 55 分。
+英 A: Now it is 7 hour and 55 minute.
+法 A: Il est 7 heures 55 minutes.
+日 A: いま 7じ 55ふん。
+韓 A: 지금 7시 55분이야.
+
+中 B: 我們 3 點要去學校。
+英 B: We go to school at 3 hour.
+法 B: Nous allons à école à 3 heures.
+日 B: 3じに がっこうへ いきます。
+韓 B: 3시에 학교에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 8 個。
+英 A: Yes. You have 8 things today.
+法 A: Oui. Tu as 8 choses aujourd'hui.
+日 A: うん。 きょうの ことは 8 つ。
+韓 A: 그래. 오늘 할 일이 8개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。你今天的事有 4 個。
+英 A: Yes. You have 4 things today.
+法 A: Oui. Tu as 4 choses aujourd'hui.
+日 A: うん。 きょうの ことは 4 つ。
+韓 A: 그래. 오늘 할 일이 4개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 2 點 40 分。
+英 B: Now it is 2 hour and 40 minute.
+法 B: Il est 2 heures 40 minutes.
+日 B: いま 2じ 40ふん。
+韓 B: 지금 2시 40분이야.
+
+中 A: 我們 9 點要去market。
+英 A: We go to market at 9 hour.
+法 A: Nous allons à marché à 9 heures.
+日 A: 9じに marketへ いきます。
+韓 A: 9시에 시장에 가요.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。你今天的事有 4 個。
+英 A: Yes. You have 4 things today.
+法 A: Oui. Tu as 4 choses aujourd'hui.
+日 A: うん。 きょうの ことは 4 つ。
+韓 A: 그래. 오늘 할 일이 4개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。你今天的事有 6 個。
+英 A: Yes. You have 6 things today.
+法 A: Oui. Tu as 6 choses aujourd'hui.
+日 A: うん。 きょうの ことは 6 つ。
+韓 A: 그래. 오늘 할 일이 6개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。你今天的事有 5 個。
+英 A: Yes. You have 5 things today.
+法 A: Oui. Tu as 5 choses aujourd'hui.
+日 A: うん。 きょうの ことは 5 つ。
+韓 A: 그래. 오늘 할 일이 5개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 4 個。
+英 B: Yes. You have 4 things today.
+法 B: Oui. Tu as 4 choses aujourd'hui.
+日 B: うん。 きょうの ことは 4 つ。
+韓 B: 그래. 오늘 할 일이 4개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。你今天的事有 3 個。
+英 A: Yes. You have 3 things today.
+法 A: Oui. Tu as 3 choses aujourd'hui.
+日 A: うん。 きょうの ことは 3 つ。
+韓 A: 그래. 오늘 할 일이 3개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 10 點 45 分。
+英 B: Now it is 10 hour and 45 minute.
+法 B: Il est 10 heures 45 minutes.
+日 B: いま 10じ 45ふん。
+韓 B: 지금 10시 45분이야.
+
+中 A: 我們 3 點要去market。
+英 A: We go to market at 3 hour.
+法 A: Nous allons à marché à 3 heures.
+日 A: 3じに marketへ いきます。
+韓 A: 3시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 今天是 6 月 8 日。
+英 A: Today is month 6, day 8.
+法 A: Nous sommes le 8 du mois 6.
+日 A: きょうは 6 がつ 8 にち。
+韓 A: 오늘은 6월 8일이야.
+
+中 B: 明天我們去店吧。
+英 B: Tomorrow we go to the shop.
+法 B: Demain nous allons à la boutique.
+日 B: あした みせへ いこう。
+韓 B: 내일 가게에 가자.
+
+中 A: 好。早上 4 點走。
+英 A: Ok. We go at 4 in the morning.
+法 A: Ok. On part à 4 heures du matin.
+日 A: いいよ。 あさ 4じに いく。
+韓 A: 그래. 아침 4시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 3 個。
+英 B: Yes. You have 3 things today.
+法 B: Oui. Tu as 3 choses aujourd'hui.
+日 B: うん。 きょうの ことは 3 つ。
+韓 B: 그래. 오늘 할 일이 3개 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 12 月 1 日。
+英 B: Today is month 12, day 1.
+法 B: Nous sommes le 1 du mois 12.
+日 B: きょうは 12 がつ 1 にち。
+韓 B: 오늘은 12월 1일이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 明天我們去店吧。
+英 B: Tomorrow we go to the shop.
+法 B: Demain nous allons à la boutique.
+日 B: あした みせへ いこう。
+韓 B: 내일 가게에 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。早上 12 點走。
+英 B: Ok. We go at 12 in the morning.
+法 B: Ok. On part à 12 heures du matin.
+日 B: いいよ。 あさ 12じに いく。
+韓 B: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 2 月 8 日。
+英 B: Today is month 2, day 8.
+法 B: Nous sommes le 8 du mois 2.
+日 B: きょうは 2 がつ 8 にち。
+韓 B: 오늘은 2월 8일이야.
+
+中 A: 明天我們去店吧。
+英 A: Tomorrow we go to the shop.
+法 A: Demain nous allons à la boutique.
+日 A: あした みせへ いこう。
+韓 A: 내일 가게에 가자.
+
+中 B: 好。早上 12 點走。
+英 B: Ok. We go at 12 in the morning.
+法 B: Ok. On part à 12 heures du matin.
+日 B: いいよ。 あさ 12じに いく。
+韓 B: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 3 點 5 分。
+英 B: Now it is 3 hour and 5 minute.
+法 B: Il est 3 heures 5 minutes.
+日 B: いま 3じ 5ふん。
+韓 B: 지금 3시 5분이야.
+
+中 A: 我們 6 點要去park。
+英 A: We go to park at 6 hour.
+法 A: Nous allons à parc à 6 heures.
+日 A: 6じに parkへ いきます。
+韓 A: 6시에 공원에 가요.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 8 個。
+英 B: Yes. You have 8 things today.
+法 B: Oui. Tu as 8 choses aujourd'hui.
+日 B: うん。 きょうの ことは 8 つ。
+韓 B: 그래. 오늘 할 일이 8개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 3 點 10 分。
+英 B: Now it is 3 hour and 10 minute.
+法 B: Il est 3 heures 10 minutes.
+日 B: いま 3じ 10ふん。
+韓 B: 지금 3시 10분이야.
+
+中 A: 我們 10 點要去學校。
+英 A: We go to school at 10 hour.
+法 A: Nous allons à école à 10 heures.
+日 A: 10じに がっこうへ いきます。
+韓 A: 10시에 학교에 가요.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 9 個。
+英 B: Yes. You have 9 things today.
+法 B: Oui. Tu as 9 choses aujourd'hui.
+日 B: うん。 きょうの ことは 9 つ。
+韓 B: 그래. 오늘 할 일이 9개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 5 月 9 日。
+英 B: Today is month 5, day 9.
+法 B: Nous sommes le 9 du mois 5.
+日 B: きょうは 5 がつ 9 にち。
+韓 B: 오늘은 5월 9일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 12 點 20 分。
+英 B: Now it is 12 hour and 20 minute.
+法 B: Il est 12 heures 20 minutes.
+日 B: いま 12じ 20ふん。
+韓 B: 지금 12시 20분이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我們 11 點要去restaurant。
+英 B: We go to the restaurant at 11 hour.
+法 B: Nous allons à le restaurant à 11 heures.
+日 B: 11じに レストランへ いきます。
+韓 B: 11시에 식당에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 5 個。
+英 B: Yes. You have 5 things today.
+法 B: Oui. Tu as 5 choses aujourd'hui.
+日 B: うん。 きょうの ことは 5 つ。
+韓 B: 그래. 오늘 할 일이 5개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 今天是 11 月 2 日。
+英 A: Today is month 11, day 2.
+法 A: Nous sommes le 2 du mois 11.
+日 A: きょうは 11 がつ 2 にち。
+韓 A: 오늘은 11월 2일이야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 明天我們去車站吧。
+英 A: Tomorrow we go to the station.
+法 A: Demain nous allons à la gare.
+日 A: あした えきへ いこう。
+韓 A: 내일 역에 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 7 月 8 日。
+英 B: Today is month 7, day 8.
+法 B: Nous sommes le 8 du mois 7.
+日 B: きょうは 7 がつ 8 にち。
+韓 B: 오늘은 7월 8일이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 明天我們去hospital吧。
+英 B: Tomorrow we go to hospital.
+法 B: Demain nous allons à hôpital.
+日 B: あした びょういんへ いこう。
+韓 B: 내일 병원에 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。早上 9 點走。
+英 B: Ok. We go at 9 in the morning.
+法 B: Ok. On part à 9 heures du matin.
+日 B: いいよ。 あさ 9じに いく。
+韓 B: 그래. 아침 9시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 今天是 2 月 8 日。
+英 A: Today is month 2, day 8.
+法 A: Nous sommes le 8 du mois 2.
+日 A: きょうは 2 がつ 8 にち。
+韓 A: 오늘은 2월 8일이야.
+
+中 B: 明天我們去店吧。
+英 B: Tomorrow we go to the shop.
+法 B: Demain nous allons à la boutique.
+日 B: あした みせへ いこう。
+韓 B: 내일 가게에 가자.
+
+中 A: 好。早上 10 點走。
+英 A: Ok. We go at 10 in the morning.
+法 A: Ok. On part à 10 heures du matin.
+日 A: いいよ。 あさ 10じに いく。
+韓 A: 그래. 아침 10시에 가.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 7 月 9 日。
+英 B: Today is month 7, day 9.
+法 B: Nous sommes le 9 du mois 7.
+日 B: きょうは 7 がつ 9 にち。
+韓 B: 오늘은 7월 9일이야.
+
+中 A: 明天我們去店吧。
+英 A: Tomorrow we go to the shop.
+法 A: Demain nous allons à la boutique.
+日 A: あした みせへ いこう。
+韓 A: 내일 가게에 가자.
+
+中 B: 好。早上 12 點走。
+英 B: Ok. We go at 12 in the morning.
+法 B: Ok. On part à 12 heures du matin.
+日 B: いいよ。 あさ 12じに いく。
+韓 B: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 12 點 5 分。
+英 B: Now it is 12 hour and 5 minute.
+法 B: Il est 12 heures 5 minutes.
+日 B: いま 12じ 5ふん。
+韓 B: 지금 12시 5분이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們 11 點要去restaurant。
+英 B: We go to the restaurant at 11 hour.
+法 B: Nous allons à le restaurant à 11 heures.
+日 B: 11じに レストランへ いきます。
+韓 B: 11시에 식당에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 6 個。
+英 B: Yes. You have 6 things today.
+法 B: Oui. Tu as 6 choses aujourd'hui.
+日 B: うん。 きょうの ことは 6 つ。
+韓 B: 그래. 오늘 할 일이 6개 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 35 分。
+英 B: Now it is 7 hour and 35 minute.
+法 B: Il est 7 heures 35 minutes.
+日 B: いま 7じ 35ふん。
+韓 B: 지금 7시 35분이야.
+
+中 A: 我們 12 點要去海邊。
+英 A: We go to the sea at 12 hour.
+法 A: Nous allons à la mer à 12 heures.
+日 A: 12じに うみへ いきます。
+韓 A: 12시에 바다에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 6 月 5 日。
+英 B: Today is month 6, day 5.
+法 B: Nous sommes le 5 du mois 6.
+日 B: きょうは 6 がつ 5 にち。
+韓 B: 오늘은 6월 5일이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 明天我們去車站吧。
+英 B: Tomorrow we go to the station.
+法 B: Demain nous allons à la gare.
+日 B: あした えきへ いこう。
+韓 B: 내일 역에 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。早上 3 點走。
+英 B: Ok. We go at 3 in the morning.
+法 B: Ok. On part à 3 heures du matin.
+日 B: いいよ。 あさ 3じに いく。
+韓 B: 그래. 아침 3시에 가.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 10 月 5 日。
+英 B: Today is month 10, day 5.
+法 B: Nous sommes le 5 du mois 10.
+日 B: きょうは 10 がつ 5 にち。
+韓 B: 오늘은 10월 5일이야.
+
+中 A: 明天我們去學校吧。
+英 A: Tomorrow we go to school.
+法 A: Demain nous allons à école.
+日 A: あした がっこうへ いこう。
+韓 A: 내일 학교에 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。早上 11 點走。
+英 A: Ok. We go at 11 in the morning.
+法 A: Ok. On part à 11 heures du matin.
+日 A: いいよ。 あさ 11じに いく。
+韓 A: 그래. 아침 11시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 20 分。
+英 B: Now it is 7 hour and 20 minute.
+法 B: Il est 7 heures 20 minutes.
+日 B: いま 7じ 20ふん。
+韓 B: 지금 7시 20분이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們 4 點要去restaurant。
+英 B: We go to the restaurant at 4 hour.
+法 B: Nous allons à le restaurant à 4 heures.
+日 B: 4じに レストランへ いきます。
+韓 B: 4시에 식당에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 12 月 8 日。
+英 B: Today is month 12, day 8.
+法 B: Nous sommes le 8 du mois 12.
+日 B: きょうは 12 がつ 8 にち。
+韓 B: 오늘은 12월 8일이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。你今天的事有 6 個。
+英 A: Yes. You have 6 things today.
+法 A: Oui. Tu as 6 choses aujourd'hui.
+日 A: うん。 きょうの ことは 6 つ。
+韓 A: 그래. 오늘 할 일이 6개 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 現在 9 點 25 分。
+英 A: Now it is 9 hour and 25 minute.
+法 A: Il est 9 heures 25 minutes.
+日 A: いま 9じ 25ふん。
+韓 A: 지금 9시 25분이야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我們 7 點要去restaurant。
+英 A: We go to the restaurant at 7 hour.
+法 A: Nous allons à le restaurant à 7 heures.
+日 A: 7じに レストランへ いきます。
+韓 A: 7시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。你今天的事有 4 個。
+英 A: Yes. You have 4 things today.
+法 A: Oui. Tu as 4 choses aujourd'hui.
+日 A: うん。 きょうの ことは 4 つ。
+韓 A: 그래. 오늘 할 일이 4개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 現在 8 點 50 分。
+英 A: Now it is 8 hour and 50 minute.
+法 A: Il est 8 heures 50 minutes.
+日 A: いま 8じ 50ふん。
+韓 A: 지금 8시 50분이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我們 8 點要去學校。
+英 A: We go to school at 8 hour.
+法 A: Nous allons à école à 8 heures.
+日 A: 8じに がっこうへ いきます。
+韓 A: 8시에 학교에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 現在 4 點 35 分。
+英 A: Now it is 4 hour and 35 minute.
+法 A: Il est 4 heures 35 minutes.
+日 A: いま 4じ 35ふん。
+韓 A: 지금 4시 35분이야.
+
+中 B: 我們 5 點要去market。
+英 B: We go to market at 5 hour.
+法 B: Nous allons à marché à 5 heures.
+日 B: 5じに marketへ いきます。
+韓 B: 5시에 시장에 가요.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 6 個。
+英 A: Yes. You have 6 things today.
+法 A: Oui. Tu as 6 choses aujourd'hui.
+日 A: うん。 きょうの ことは 6 つ。
+韓 A: 그래. 오늘 할 일이 6개 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 9 月 2 日。
+英 B: Today is month 9, day 2.
+法 B: Nous sommes le 2 du mois 9.
+日 B: きょうは 9 がつ 2 にち。
+韓 B: 오늘은 9월 2일이야.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 好。早上 7 點走。
+英 B: Ok. We go at 7 in the morning.
+法 B: Ok. On part à 7 heures du matin.
+日 B: いいよ。 あさ 7じに いく。
+韓 B: 그래. 아침 7시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 9 個。
+英 B: Yes. You have 9 things today.
+法 B: Oui. Tu as 9 choses aujourd'hui.
+日 B: うん。 きょうの ことは 9 つ。
+韓 B: 그래. 오늘 할 일이 9개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 3 點 40 分。
+英 B: Now it is 3 hour and 40 minute.
+法 B: Il est 3 heures 40 minutes.
+日 B: いま 3じ 40ふん。
+韓 B: 지금 3시 40분이야.
+
+中 A: 我們 1 點要去車站。
+英 A: We go to the station at 1 hour.
+法 A: Nous allons à la gare à 1 heures.
+日 A: 1じに えきへ いきます。
+韓 A: 1시에 역에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。你今天的事有 3 個。
+英 A: Yes. You have 3 things today.
+法 A: Oui. Tu as 3 choses aujourd'hui.
+日 A: うん。 きょうの ことは 3 つ。
+韓 A: 그래. 오늘 할 일이 3개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 6 個。
+英 B: Yes. You have 6 things today.
+法 B: Oui. Tu as 6 choses aujourd'hui.
+日 B: うん。 きょうの ことは 6 つ。
+韓 B: 그래. 오늘 할 일이 6개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 5 月 3 日。
+英 B: Today is month 5, day 3.
+法 B: Nous sommes le 3 du mois 5.
+日 B: きょうは 5 がつ 3 にち。
+韓 B: 오늘은 5월 3일이야.
+
+中 A: 明天我們去學校吧。
+英 A: Tomorrow we go to school.
+法 A: Demain nous allons à école.
+日 A: あした がっこうへ いこう。
+韓 A: 내일 학교에 가자.
+
+中 B: 好。早上 8 點走。
+英 B: Ok. We go at 8 in the morning.
+法 B: Ok. On part à 8 heures du matin.
+日 B: いいよ。 あさ 8じに いく。
+韓 B: 그래. 아침 8시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天是 12 月 7 日。
+英 A: Today is month 12, day 7.
+法 A: Nous sommes le 7 du mois 12.
+日 A: きょうは 12 がつ 7 にち。
+韓 A: 오늘은 12월 7일이야.
+
+中 B: 明天我們去海邊吧。
+英 B: Tomorrow we go to the sea.
+法 B: Demain nous allons à la mer.
+日 B: あした うみへ いこう。
+韓 B: 내일 바다에 가자.
+
+中 A: 好。早上 6 點走。
+英 A: Ok. We go at 6 in the morning.
+法 A: Ok. On part à 6 heures du matin.
+日 A: いいよ。 あさ 6じに いく。
+韓 A: 그래. 아침 6시에 가.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 2 月 7 日。
+英 B: Today is month 2, day 7.
+法 B: Nous sommes le 7 du mois 2.
+日 B: きょうは 2 がつ 7 にち。
+韓 B: 오늘은 2월 7일이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 明天我們去海邊吧。
+英 B: Tomorrow we go to the sea.
+法 B: Demain nous allons à la mer.
+日 B: あした うみへ いこう。
+韓 B: 내일 바다에 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。早上 1 點走。
+英 B: Ok. We go at 1 in the morning.
+法 B: Ok. On part à 1 heures du matin.
+日 B: いいよ。 あさ 1じに いく。
+韓 B: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 4 點 50 分。
+英 B: Now it is 4 hour and 50 minute.
+法 B: Il est 4 heures 50 minutes.
+日 B: いま 4じ 50ふん。
+韓 B: 지금 4시 50분이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們 11 點要去hospital。
+英 B: We go to hospital at 11 hour.
+法 B: Nous allons à hôpital à 11 heures.
+日 B: 11じに びょういんへ いきます。
+韓 B: 11시에 병원에 가요.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 2 點 20 分。
+英 B: Now it is 2 hour and 20 minute.
+法 B: Il est 2 heures 20 minutes.
+日 B: いま 2じ 20ふん。
+韓 B: 지금 2시 20분이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我們 1 點要去海邊。
+英 B: We go to the sea at 1 hour.
+法 B: Nous allons à la mer à 1 heures.
+日 B: 1じに うみへ いきます。
+韓 B: 1시에 바다에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 3 個。
+英 B: Yes. You have 3 things today.
+法 B: Oui. Tu as 3 choses aujourd'hui.
+日 B: うん。 きょうの ことは 3 つ。
+韓 B: 그래. 오늘 할 일이 3개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 今天是 10 月 8 日。
+英 A: Today is month 10, day 8.
+法 A: Nous sommes le 8 du mois 10.
+日 A: きょうは 10 がつ 8 にち。
+韓 A: 오늘은 10월 8일이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 明天我們去學校吧。
+英 A: Tomorrow we go to school.
+法 A: Demain nous allons à école.
+日 A: あした がっこうへ いこう。
+韓 A: 내일 학교에 가자.
+
+中 B: 好。早上 8 點走。
+英 B: Ok. We go at 8 in the morning.
+法 B: Ok. On part à 8 heures du matin.
+日 B: いいよ。 あさ 8じに いく。
+韓 B: 그래. 아침 8시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 12 月 5 日。
+英 B: Today is month 12, day 5.
+法 B: Nous sommes le 5 du mois 12.
+日 B: きょうは 12 がつ 5 にち。
+韓 B: 오늘은 12월 5일이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 明天我們去家吧。
+英 B: Tomorrow we go to home.
+法 B: Demain nous allons à la maison.
+日 B: あした いえへ いこう。
+韓 B: 내일 집에 가자.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天是 6 月 5 日。
+英 A: Today is month 6, day 5.
+法 A: Nous sommes le 5 du mois 6.
+日 A: きょうは 6 がつ 5 にち。
+韓 A: 오늘은 6월 5일이야.
+
+中 B: 明天我們去hospital吧。
+英 B: Tomorrow we go to hospital.
+法 B: Demain nous allons à hôpital.
+日 B: あした びょういんへ いこう。
+韓 B: 내일 병원에 가자.
+
+中 A: 好。早上 2 點走。
+英 A: Ok. We go at 2 in the morning.
+法 A: Ok. On part à 2 heures du matin.
+日 A: いいよ。 あさ 2じに いく。
+韓 A: 그래. 아침 2시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 今天是 4 月 2 日。
+英 A: Today is month 4, day 2.
+法 A: Nous sommes le 2 du mois 4.
+日 A: きょうは 4 がつ 2 にち。
+韓 A: 오늘은 4월 2일이야.
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 好。早上 4 點走。
+英 A: Ok. We go at 4 in the morning.
+法 A: Ok. On part à 4 heures du matin.
+日 A: いいよ。 あさ 4じに いく。
+韓 A: 그래. 아침 4시에 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 今天是 2 月 9 日。
+英 A: Today is month 2, day 9.
+法 A: Nous sommes le 9 du mois 2.
+日 A: きょうは 2 がつ 9 にち。
+韓 A: 오늘은 2월 9일이야.
+
+中 B: 明天我們去hospital吧。
+英 B: Tomorrow we go to hospital.
+法 B: Demain nous allons à hôpital.
+日 B: あした びょういんへ いこう。
+韓 B: 내일 병원에 가자.
+
+中 A: 好。早上 7 點走。
+英 A: Ok. We go at 7 in the morning.
+法 A: Ok. On part à 7 heures du matin.
+日 A: いいよ。 あさ 7じに いく。
+韓 A: 그래. 아침 7시에 가.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 8 個。
+英 B: Yes. You have 8 things today.
+法 B: Oui. Tu as 8 choses aujourd'hui.
+日 B: うん。 きょうの ことは 8 つ。
+韓 B: 그래. 오늘 할 일이 8개 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 8 個。
+英 B: Yes. You have 8 things today.
+法 B: Oui. Tu as 8 choses aujourd'hui.
+日 B: うん。 きょうの ことは 8 つ。
+韓 B: 그래. 오늘 할 일이 8개 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。你今天的事有 1 個。
+英 A: Yes. You have 1 things today.
+法 A: Oui. Tu as 1 choses aujourd'hui.
+日 A: うん。 きょうの ことは 1 つ。
+韓 A: 그래. 오늘 할 일이 1개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 8 個。
+英 A: Yes. You have 8 things today.
+法 A: Oui. Tu as 8 choses aujourd'hui.
+日 A: うん。 きょうの ことは 8 つ。
+韓 A: 그래. 오늘 할 일이 8개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 9 個。
+英 B: Yes. You have 9 things today.
+法 B: Oui. Tu as 9 choses aujourd'hui.
+日 B: うん。 きょうの ことは 9 つ。
+韓 B: 그래. 오늘 할 일이 9개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 11 點 20 分。
+英 B: Now it is 11 hour and 20 minute.
+法 B: Il est 11 heures 20 minutes.
+日 B: いま 11じ 20ふん。
+韓 B: 지금 11시 20분이야.
+
+中 A: 我們 4 點要去店。
+英 A: We go to the shop at 4 hour.
+法 A: Nous allons à la boutique à 4 heures.
+日 A: 4じに みせへ いきます。
+韓 A: 4시에 가게에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 1 月 6 日。
+英 B: Today is month 1, day 6.
+法 B: Nous sommes le 6 du mois 1.
+日 B: きょうは 1 がつ 6 にち。
+韓 B: 오늘은 1월 6일이야.
+
+中 A: 明天我們去學校吧。
+英 A: Tomorrow we go to school.
+法 A: Demain nous allons à école.
+日 A: あした がっこうへ いこう。
+韓 A: 내일 학교에 가자.
+
+中 B: 好。早上 3 點走。
+英 B: Ok. We go at 3 in the morning.
+法 B: Ok. On part à 3 heures du matin.
+日 B: いいよ。 あさ 3じに いく。
+韓 B: 그래. 아침 3시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 3 點 10 分。
+英 B: Now it is 3 hour and 10 minute.
+法 B: Il est 3 heures 10 minutes.
+日 B: いま 3じ 10ふん。
+韓 B: 지금 3시 10분이야.
+
+中 A: 我們 12 點要去家。
+英 A: We go to home at 12 hour.
+法 A: Nous allons à la maison à 12 heures.
+日 A: 12じに いえへ いきます。
+韓 A: 12시에 집에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 3 個。
+英 B: Yes. You have 3 things today.
+法 B: Oui. Tu as 3 choses aujourd'hui.
+日 B: うん。 きょうの ことは 3 つ。
+韓 B: 그래. 오늘 할 일이 3개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 9 點 20 分。
+英 B: Now it is 9 hour and 20 minute.
+法 B: Il est 9 heures 20 minutes.
+日 B: いま 9じ 20ふん。
+韓 B: 지금 9시 20분이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我們 6 點要去restaurant。
+英 B: We go to the restaurant at 6 hour.
+法 B: Nous allons à le restaurant à 6 heures.
+日 B: 6じに レストランへ いきます。
+韓 B: 6시에 식당에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 8 個。
+英 A: Yes. You have 8 things today.
+法 A: Oui. Tu as 8 choses aujourd'hui.
+日 A: うん。 きょうの ことは 8 つ。
+韓 A: 그래. 오늘 할 일이 8개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 現在 10 點 40 分。
+英 A: Now it is 10 hour and 40 minute.
+法 A: Il est 10 heures 40 minutes.
+日 A: いま 10じ 40ふん。
+韓 A: 지금 10시 40분이야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我們 10 點要去market。
+英 A: We go to market at 10 hour.
+法 A: Nous allons à marché à 10 heures.
+日 A: 10じに marketへ いきます。
+韓 A: 10시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 1 點 15 分。
+英 B: Now it is 1 hour and 15 minute.
+法 B: Il est 1 heures 15 minutes.
+日 B: いま 1じ 15ふん。
+韓 B: 지금 1시 15분이야.
+
+中 A: 我們 10 點要去學校。
+英 A: We go to school at 10 hour.
+法 A: Nous allons à école à 10 heures.
+日 A: 10じに がっこうへ いきます。
+韓 A: 10시에 학교에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 8 個。
+英 A: Yes. You have 8 things today.
+法 A: Oui. Tu as 8 choses aujourd'hui.
+日 A: うん。 きょうの ことは 8 つ。
+韓 A: 그래. 오늘 할 일이 8개 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 今天是 9 月 4 日。
+英 A: Today is month 9, day 4.
+法 A: Nous sommes le 4 du mois 9.
+日 A: きょうは 9 がつ 4 にち。
+韓 A: 오늘은 9월 4일이야.
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 12 點 5 分。
+英 B: Now it is 12 hour and 5 minute.
+法 B: Il est 12 heures 5 minutes.
+日 B: いま 12じ 5ふん。
+韓 B: 지금 12시 5분이야.
+
+中 A: 我們 9 點要去hospital。
+英 A: We go to hospital at 9 hour.
+法 A: Nous allons à hôpital à 9 heures.
+日 A: 9じに びょういんへ いきます。
+韓 A: 9시에 병원에 가요.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 現在 11 點 40 分。
+英 A: Now it is 11 hour and 40 minute.
+法 A: Il est 11 heures 40 minutes.
+日 A: いま 11じ 40ふん。
+韓 A: 지금 11시 40분이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我們 9 點要去restaurant。
+英 A: We go to the restaurant at 9 hour.
+法 A: Nous allons à le restaurant à 9 heures.
+日 A: 9じに レストランへ いきます。
+韓 A: 9시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 12 月 6 日。
+英 B: Today is month 12, day 6.
+法 B: Nous sommes le 6 du mois 12.
+日 B: きょうは 12 がつ 6 にち。
+韓 B: 오늘은 12월 6일이야.
+
+中 A: 明天我們去restaurant吧。
+英 A: Tomorrow we go to the restaurant.
+法 A: Demain nous allons à le restaurant.
+日 A: あした レストランへ いこう。
+韓 A: 내일 식당에 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 現在 5 點 20 分。
+英 A: Now it is 5 hour and 20 minute.
+法 A: Il est 5 heures 20 minutes.
+日 A: いま 5じ 20ふん。
+韓 A: 지금 5시 20분이야.
+
+中 B: 我們 7 點要去market。
+英 B: We go to market at 7 hour.
+法 B: Nous allons à marché à 7 heures.
+日 B: 7じに marketへ いきます。
+韓 B: 7시에 시장에 가요.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 4 月 2 日。
+英 B: Today is month 4, day 2.
+法 B: Nous sommes le 2 du mois 4.
+日 B: きょうは 4 がつ 2 にち。
+韓 B: 오늘은 4월 2일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 6 月 1 日。
+英 B: Today is month 6, day 1.
+法 B: Nous sommes le 1 du mois 6.
+日 B: きょうは 6 がつ 1 にち。
+韓 B: 오늘은 6월 1일이야.
+
+中 A: 明天我們去market吧。
+英 A: Tomorrow we go to market.
+法 A: Demain nous allons à marché.
+日 A: あした marketへ いこう。
+韓 A: 내일 시장에 가자.
+
+中 B: 好。早上 5 點走。
+英 B: Ok. We go at 5 in the morning.
+法 B: Ok. On part à 5 heures du matin.
+日 B: いいよ。 あさ 5じに いく。
+韓 B: 그래. 아침 5시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 4 點 5 分。
+英 B: Now it is 4 hour and 5 minute.
+法 B: Il est 4 heures 5 minutes.
+日 B: いま 4じ 5ふん。
+韓 B: 지금 4시 5분이야.
+
+中 A: 我們 10 點要去家。
+英 A: We go to home at 10 hour.
+法 A: Nous allons à la maison à 10 heures.
+日 A: 10じに いえへ いきます。
+韓 A: 10시에 집에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。你今天的事有 1 個。
+英 A: Yes. You have 1 things today.
+法 A: Oui. Tu as 1 choses aujourd'hui.
+日 A: うん。 きょうの ことは 1 つ。
+韓 A: 그래. 오늘 할 일이 1개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 今天是 11 月 3 日。
+英 A: Today is month 11, day 3.
+法 A: Nous sommes le 3 du mois 11.
+日 A: きょうは 11 がつ 3 にち。
+韓 A: 오늘은 11월 3일이야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。早上 2 點走。
+英 A: Ok. We go at 2 in the morning.
+法 A: Ok. On part à 2 heures du matin.
+日 A: いいよ。 あさ 2じに いく。
+韓 A: 그래. 아침 2시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 3 月 3 日。
+英 B: Today is month 3, day 3.
+法 B: Nous sommes le 3 du mois 3.
+日 B: きょうは 3 がつ 3 にち。
+韓 B: 오늘은 3월 3일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。早上 2 點走。
+英 A: Ok. We go at 2 in the morning.
+法 A: Ok. On part à 2 heures du matin.
+日 A: いいよ。 あさ 2じに いく。
+韓 A: 그래. 아침 2시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 9 月 8 日。
+英 B: Today is month 9, day 8.
+法 B: Nous sommes le 8 du mois 9.
+日 B: きょうは 9 がつ 8 にち。
+韓 B: 오늘은 9월 8일이야.
+
+中 A: 明天我們去hospital吧。
+英 A: Tomorrow we go to hospital.
+法 A: Demain nous allons à hôpital.
+日 A: あした びょういんへ いこう。
+韓 A: 내일 병원에 가자.
+
+中 B: 好。早上 4 點走。
+英 B: Ok. We go at 4 in the morning.
+法 B: Ok. On part à 4 heures du matin.
+日 B: いいよ。 あさ 4じに いく。
+韓 B: 그래. 아침 4시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 6 月 4 日。
+英 B: Today is month 6, day 4.
+法 B: Nous sommes le 4 du mois 6.
+日 B: きょうは 6 がつ 4 にち。
+韓 B: 오늘은 6월 4일이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 明天我們去restaurant吧。
+英 B: Tomorrow we go to the restaurant.
+法 B: Demain nous allons à le restaurant.
+日 B: あした レストランへ いこう。
+韓 B: 내일 식당에 가자.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 今天是 5 月 1 日。
+英 A: Today is month 5, day 1.
+法 A: Nous sommes le 1 du mois 5.
+日 A: きょうは 5 がつ 1 にち。
+韓 A: 오늘은 5월 1일이야.
+
+中 B: 明天我們去restaurant吧。
+英 B: Tomorrow we go to the restaurant.
+法 B: Demain nous allons à le restaurant.
+日 B: あした レストランへ いこう。
+韓 B: 내일 식당에 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。早上 11 點走。
+英 B: Ok. We go at 11 in the morning.
+法 B: Ok. On part à 11 heures du matin.
+日 B: いいよ。 あさ 11じに いく。
+韓 B: 그래. 아침 11시에 가.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 6 個。
+英 B: Yes. You have 6 things today.
+法 B: Oui. Tu as 6 choses aujourd'hui.
+日 B: うん。 きょうの ことは 6 つ。
+韓 B: 그래. 오늘 할 일이 6개 있어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 現在 6 點 35 分。
+英 A: Now it is 6 hour and 35 minute.
+法 A: Il est 6 heures 35 minutes.
+日 A: いま 6じ 35ふん。
+韓 A: 지금 6시 35분이야.
+
+中 B: 我們 2 點要去park。
+英 B: We go to park at 2 hour.
+法 B: Nous allons à parc à 2 heures.
+日 B: 2じに parkへ いきます。
+韓 B: 2시에 공원에 가요.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 1 點 10 分。
+英 B: Now it is 1 hour and 10 minute.
+法 B: Il est 1 heures 10 minutes.
+日 B: いま 1じ 10ふん。
+韓 B: 지금 1시 10분이야.
+
+中 A: 我們 4 點要去店。
+英 A: We go to the shop at 4 hour.
+法 A: Nous allons à la boutique à 4 heures.
+日 A: 4じに みせへ いきます。
+韓 A: 4시에 가게에 가요.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 現在 7 點 25 分。
+英 A: Now it is 7 hour and 25 minute.
+法 A: Il est 7 heures 25 minutes.
+日 A: いま 7じ 25ふん。
+韓 A: 지금 7시 25분이야.
+
+中 B: 我們 3 點要去hospital。
+英 B: We go to hospital at 3 hour.
+法 B: Nous allons à hôpital à 3 heures.
+日 B: 3じに びょういんへ いきます。
+韓 B: 3시에 병원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 現在 1 點 35 分。
+英 A: Now it is 1 hour and 35 minute.
+法 A: Il est 1 heures 35 minutes.
+日 A: いま 1じ 35ふん。
+韓 A: 지금 1시 35분이야.
+
+中 B: 我們 2 點要去海邊。
+英 B: We go to the sea at 2 hour.
+法 B: Nous allons à la mer à 2 heures.
+日 B: 2じに うみへ いきます。
+韓 B: 2시에 바다에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 今天是 1 月 8 日。
+英 A: Today is month 1, day 8.
+法 A: Nous sommes le 8 du mois 1.
+日 A: きょうは 1 がつ 8 にち。
+韓 A: 오늘은 1월 8일이야.
+
+中 B: 明天我們去market吧。
+英 B: Tomorrow we go to market.
+法 B: Demain nous allons à marché.
+日 B: あした marketへ いこう。
+韓 B: 내일 시장에 가자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。早上 7 點走。
+英 B: Ok. We go at 7 in the morning.
+法 B: Ok. On part à 7 heures du matin.
+日 B: いいよ。 あさ 7じに いく。
+韓 B: 그래. 아침 7시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。你今天的事有 4 個。
+英 A: Yes. You have 4 things today.
+法 A: Oui. Tu as 4 choses aujourd'hui.
+日 A: うん。 きょうの ことは 4 つ。
+韓 A: 그래. 오늘 할 일이 4개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 7 月 8 日。
+英 B: Today is month 7, day 8.
+法 B: Nous sommes le 8 du mois 7.
+日 B: きょうは 7 がつ 8 にち。
+韓 B: 오늘은 7월 8일이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 明天我們去店吧。
+英 B: Tomorrow we go to the shop.
+法 B: Demain nous allons à la boutique.
+日 B: あした みせへ いこう。
+韓 B: 내일 가게에 가자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 6 個。
+英 B: Yes. You have 6 things today.
+法 B: Oui. Tu as 6 choses aujourd'hui.
+日 B: うん。 きょうの ことは 6 つ。
+韓 B: 그래. 오늘 할 일이 6개 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。你今天的事有 8 個。
+英 A: Yes. You have 8 things today.
+法 A: Oui. Tu as 8 choses aujourd'hui.
+日 A: うん。 きょうの ことは 8 つ。
+韓 A: 그래. 오늘 할 일이 8개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 9 個。
+英 A: Yes. You have 9 things today.
+法 A: Oui. Tu as 9 choses aujourd'hui.
+日 A: うん。 きょうの ことは 9 つ。
+韓 A: 그래. 오늘 할 일이 9개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 現在 4 點 10 分。
+英 A: Now it is 4 hour and 10 minute.
+法 A: Il est 4 heures 10 minutes.
+日 A: いま 4じ 10ふん。
+韓 A: 지금 4시 10분이야.
+
+中 B: 我們 8 點要去家。
+英 B: We go to home at 8 hour.
+法 B: Nous allons à la maison à 8 heures.
+日 B: 8じに いえへ いきます。
+韓 B: 8시에 집에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 9 個。
+英 B: Yes. You have 9 things today.
+法 B: Oui. Tu as 9 choses aujourd'hui.
+日 B: うん。 きょうの ことは 9 つ。
+韓 B: 그래. 오늘 할 일이 9개 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 12 點 10 分。
+英 B: Now it is 12 hour and 10 minute.
+法 B: Il est 12 heures 10 minutes.
+日 B: いま 12じ 10ふん。
+韓 B: 지금 12시 10분이야.
+
+中 A: 我們 6 點要去park。
+英 A: We go to park at 6 hour.
+法 A: Nous allons à parc à 6 heures.
+日 A: 6じに parkへ いきます。
+韓 A: 6시에 공원에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。你今天的事有 4 個。
+英 A: Yes. You have 4 things today.
+法 A: Oui. Tu as 4 choses aujourd'hui.
+日 A: うん。 きょうの ことは 4 つ。
+韓 A: 그래. 오늘 할 일이 4개 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 8 個。
+英 A: Yes. You have 8 things today.
+法 A: Oui. Tu as 8 choses aujourd'hui.
+日 A: うん。 きょうの ことは 8 つ。
+韓 A: 그래. 오늘 할 일이 8개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。你今天的事有 6 個。
+英 A: Yes. You have 6 things today.
+法 A: Oui. Tu as 6 choses aujourd'hui.
+日 A: うん。 きょうの ことは 6 つ。
+韓 A: 그래. 오늘 할 일이 6개 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 10 月 5 日。
+英 B: Today is month 10, day 5.
+法 B: Nous sommes le 5 du mois 10.
+日 B: きょうは 10 がつ 5 にち。
+韓 B: 오늘은 10월 5일이야.
+
+中 A: 明天我們去店吧。
+英 A: Tomorrow we go to the shop.
+法 A: Demain nous allons à la boutique.
+日 A: あした みせへ いこう。
+韓 A: 내일 가게에 가자.
+
+中 B: 好。早上 1 點走。
+英 B: Ok. We go at 1 in the morning.
+法 B: Ok. On part à 1 heures du matin.
+日 B: いいよ。 あさ 1じに いく。
+韓 B: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 現在 5 點 35 分。
+英 A: Now it is 5 hour and 35 minute.
+法 A: Il est 5 heures 35 minutes.
+日 A: いま 5じ 35ふん。
+韓 A: 지금 5시 35분이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我們 7 點要去家。
+英 A: We go to home at 7 hour.
+法 A: Nous allons à la maison à 7 heures.
+日 A: 7じに いえへ いきます。
+韓 A: 7시에 집에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 現在 8 點 5 分。
+英 A: Now it is 8 hour and 5 minute.
+法 A: Il est 8 heures 5 minutes.
+日 A: いま 8じ 5ふん。
+韓 A: 지금 8시 5분이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我們 1 點要去park。
+英 A: We go to park at 1 hour.
+法 A: Nous allons à parc à 1 heures.
+日 A: 1じに parkへ いきます。
+韓 A: 1시에 공원에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 5 點 5 分。
+英 B: Now it is 5 hour and 5 minute.
+法 B: Il est 5 heures 5 minutes.
+日 B: いま 5じ 5ふん。
+韓 B: 지금 5시 5분이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我們 1 點要去車站。
+英 B: We go to the station at 1 hour.
+法 B: Nous allons à la gare à 1 heures.
+日 B: 1じに えきへ いきます。
+韓 B: 1시에 역에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 今天是 11 月 5 日。
+英 A: Today is month 11, day 5.
+法 A: Nous sommes le 5 du mois 11.
+日 A: きょうは 11 がつ 5 にち。
+韓 A: 오늘은 11월 5일이야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 10 點 45 分。
+英 B: Now it is 10 hour and 45 minute.
+法 B: Il est 10 heures 45 minutes.
+日 B: いま 10じ 45ふん。
+韓 B: 지금 10시 45분이야.
+
+中 A: 我們 1 點要去車站。
+英 A: We go to the station at 1 hour.
+法 A: Nous allons à la gare à 1 heures.
+日 A: 1じに えきへ いきます。
+韓 A: 1시에 역에 가요.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 10 月 9 日。
+英 B: Today is month 10, day 9.
+法 B: Nous sommes le 9 du mois 10.
+日 B: きょうは 10 がつ 9 にち。
+韓 B: 오늘은 10월 9일이야.
+
+中 A: 明天我們去店吧。
+英 A: Tomorrow we go to the shop.
+法 A: Demain nous allons à la boutique.
+日 A: あした みせへ いこう。
+韓 A: 내일 가게에 가자.
+
+中 B: 好。早上 11 點走。
+英 B: Ok. We go at 11 in the morning.
+法 B: Ok. On part à 11 heures du matin.
+日 B: いいよ。 あさ 11じに いく。
+韓 B: 그래. 아침 11시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 50 分。
+英 B: Now it is 7 hour and 50 minute.
+法 B: Il est 7 heures 50 minutes.
+日 B: いま 7じ 50ふん。
+韓 B: 지금 7시 50분이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我們 9 點要去車站。
+英 B: We go to the station at 9 hour.
+法 B: Nous allons à la gare à 9 heures.
+日 B: 9じに えきへ いきます。
+韓 B: 9시에 역에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 1 點 40 分。
+英 B: Now it is 1 hour and 40 minute.
+法 B: Il est 1 heures 40 minutes.
+日 B: いま 1じ 40ふん。
+韓 B: 지금 1시 40분이야.
+
+中 A: 我們 8 點要去車站。
+英 A: We go to the station at 8 hour.
+法 A: Nous allons à la gare à 8 heures.
+日 A: 8じに えきへ いきます。
+韓 A: 8시에 역에 가요.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 現在 11 點 50 分。
+英 A: Now it is 11 hour and 50 minute.
+法 A: Il est 11 heures 50 minutes.
+日 A: いま 11じ 50ふん。
+韓 A: 지금 11시 50분이야.
+
+中 B: 我們 10 點要去車站。
+英 B: We go to the station at 10 hour.
+法 B: Nous allons à la gare à 10 heures.
+日 B: 10じに えきへ いきます。
+韓 B: 10시에 역에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 3 月 7 日。
+英 B: Today is month 3, day 7.
+法 B: Nous sommes le 7 du mois 3.
+日 B: きょうは 3 がつ 7 にち。
+韓 B: 오늘은 3월 7일이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 3 點 10 分。
+英 B: Now it is 3 hour and 10 minute.
+法 B: Il est 3 heures 10 minutes.
+日 B: いま 3じ 10ふん。
+韓 B: 지금 3시 10분이야.
+
+中 A: 我們 2 點要去家。
+英 A: We go to home at 2 hour.
+法 A: Nous allons à la maison à 2 heures.
+日 A: 2じに いえへ いきます。
+韓 A: 2시에 집에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 11 點 55 分。
+英 B: Now it is 11 hour and 55 minute.
+法 B: Il est 11 heures 55 minutes.
+日 B: いま 11じ 55ふん。
+韓 B: 지금 11시 55분이야.
+
+中 A: 我們 5 點要去market。
+英 A: We go to market at 5 hour.
+法 A: Nous allons à marché à 5 heures.
+日 A: 5じに marketへ いきます。
+韓 A: 5시에 시장에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 10 月 9 日。
+英 B: Today is month 10, day 9.
+法 B: Nous sommes le 9 du mois 10.
+日 B: きょうは 10 がつ 9 にち。
+韓 B: 오늘은 10월 9일이야.
+
+中 A: 明天我們去店吧。
+英 A: Tomorrow we go to the shop.
+法 A: Demain nous allons à la boutique.
+日 A: あした みせへ いこう。
+韓 A: 내일 가게에 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。早上 3 點走。
+英 A: Ok. We go at 3 in the morning.
+法 A: Ok. On part à 3 heures du matin.
+日 A: いいよ。 あさ 3じに いく。
+韓 A: 그래. 아침 3시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 現在 11 點 50 分。
+英 A: Now it is 11 hour and 50 minute.
+法 A: Il est 11 heures 50 minutes.
+日 A: いま 11じ 50ふん。
+韓 A: 지금 11시 50분이야.
+
+中 B: 我們 5 點要去restaurant。
+英 B: We go to the restaurant at 5 hour.
+法 B: Nous allons à le restaurant à 5 heures.
+日 B: 5じに レストランへ いきます。
+韓 B: 5시에 식당에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 5 點 25 分。
+英 B: Now it is 5 hour and 25 minute.
+法 B: Il est 5 heures 25 minutes.
+日 B: いま 5じ 25ふん。
+韓 B: 지금 5시 25분이야.
+
+中 A: 我們 9 點要去學校。
+英 A: We go to school at 9 hour.
+法 A: Nous allons à école à 9 heures.
+日 A: 9じに がっこうへ いきます。
+韓 A: 9시에 학교에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 9 點 20 分。
+英 B: Now it is 9 hour and 20 minute.
+法 B: Il est 9 heures 20 minutes.
+日 B: いま 9じ 20ふん。
+韓 B: 지금 9시 20분이야.
+
+中 A: 我們 10 點要去店。
+英 A: We go to the shop at 10 hour.
+法 A: Nous allons à la boutique à 10 heures.
+日 A: 10じに みせへ いきます。
+韓 A: 10시에 가게에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 5 月 9 日。
+英 B: Today is month 5, day 9.
+法 B: Nous sommes le 9 du mois 5.
+日 B: きょうは 5 がつ 9 にち。
+韓 B: 오늘은 5월 9일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 7 點走。
+英 B: Ok. We go at 7 in the morning.
+法 B: Ok. On part à 7 heures du matin.
+日 B: いいよ。 あさ 7じに いく。
+韓 B: 그래. 아침 7시에 가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 2 個。
+英 A: Yes. You have 2 things today.
+法 A: Oui. Tu as 2 choses aujourd'hui.
+日 A: うん。 きょうの ことは 2 つ。
+韓 A: 그래. 오늘 할 일이 2개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 8 個。
+英 B: Yes. You have 8 things today.
+法 B: Oui. Tu as 8 choses aujourd'hui.
+日 B: うん。 きょうの ことは 8 つ。
+韓 B: 그래. 오늘 할 일이 8개 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 9 月 3 日。
+英 B: Today is month 9, day 3.
+法 B: Nous sommes le 3 du mois 9.
+日 B: きょうは 9 がつ 3 にち。
+韓 B: 오늘은 9월 3일이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 明天我們去店吧。
+英 B: Tomorrow we go to the shop.
+法 B: Demain nous allons à la boutique.
+日 B: あした みせへ いこう。
+韓 B: 내일 가게에 가자.
+
+中 A: 好。早上 12 點走。
+英 A: Ok. We go at 12 in the morning.
+法 A: Ok. On part à 12 heures du matin.
+日 A: いいよ。 あさ 12じに いく。
+韓 A: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 11 點 45 分。
+英 B: Now it is 11 hour and 45 minute.
+法 B: Il est 11 heures 45 minutes.
+日 B: いま 11じ 45ふん。
+韓 B: 지금 11시 45분이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們 9 點要去hospital。
+英 B: We go to hospital at 9 hour.
+法 B: Nous allons à hôpital à 9 heures.
+日 B: 9じに びょういんへ いきます。
+韓 B: 9시에 병원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 現在 5 點 50 分。
+英 A: Now it is 5 hour and 50 minute.
+法 A: Il est 5 heures 50 minutes.
+日 A: いま 5じ 50ふん。
+韓 A: 지금 5시 50분이야.
+
+中 B: 我們 7 點要去家。
+英 B: We go to home at 7 hour.
+法 B: Nous allons à la maison à 7 heures.
+日 B: 7じに いえへ いきます。
+韓 B: 7시에 집에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 今天是 5 月 3 日。
+英 A: Today is month 5, day 3.
+法 A: Nous sommes le 3 du mois 5.
+日 A: きょうは 5 がつ 3 にち。
+韓 A: 오늘은 5월 3일이야.
+
+中 B: 明天我們去market吧。
+英 B: Tomorrow we go to market.
+法 B: Demain nous allons à marché.
+日 B: あした marketへ いこう。
+韓 B: 내일 시장에 가자.
+
+中 A: 好。早上 8 點走。
+英 A: Ok. We go at 8 in the morning.
+法 A: Ok. On part à 8 heures du matin.
+日 A: いいよ。 あさ 8じに いく。
+韓 A: 그래. 아침 8시에 가.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 現在 4 點 55 分。
+英 A: Now it is 4 hour and 55 minute.
+法 A: Il est 4 heures 55 minutes.
+日 A: いま 4じ 55ふん。
+韓 A: 지금 4시 55분이야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我們 7 點要去車站。
+英 A: We go to the station at 7 hour.
+法 A: Nous allons à la gare à 7 heures.
+日 A: 7じに えきへ いきます。
+韓 A: 7시에 역에 가요.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 5 月 9 日。
+英 B: Today is month 5, day 9.
+法 B: Nous sommes le 9 du mois 5.
+日 B: きょうは 5 がつ 9 にち。
+韓 B: 오늘은 5월 9일이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 明天我們去家吧。
+英 B: Tomorrow we go to home.
+法 B: Demain nous allons à la maison.
+日 B: あした いえへ いこう。
+韓 B: 내일 집에 가자.
+
+中 A: 好。早上 9 點走。
+英 A: Ok. We go at 9 in the morning.
+法 A: Ok. On part à 9 heures du matin.
+日 A: いいよ。 あさ 9じに いく。
+韓 A: 그래. 아침 9시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 7 月 8 日。
+英 B: Today is month 7, day 8.
+法 B: Nous sommes le 8 du mois 7.
+日 B: きょうは 7 がつ 8 にち。
+韓 B: 오늘은 7월 8일이야.
+
+中 A: 明天我們去學校吧。
+英 A: Tomorrow we go to school.
+法 A: Demain nous allons à école.
+日 A: あした がっこうへ いこう。
+韓 A: 내일 학교에 가자.
+
+中 B: 好。早上 9 點走。
+英 B: Ok. We go at 9 in the morning.
+法 B: Ok. On part à 9 heures du matin.
+日 B: いいよ。 あさ 9じに いく。
+韓 B: 그래. 아침 9시에 가.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 10 點 55 分。
+英 B: Now it is 10 hour and 55 minute.
+法 B: Il est 10 heures 55 minutes.
+日 B: いま 10じ 55ふん。
+韓 B: 지금 10시 55분이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們 3 點要去hospital。
+英 B: We go to hospital at 3 hour.
+法 B: Nous allons à hôpital à 3 heures.
+日 B: 3じに びょういんへ いきます。
+韓 B: 3시에 병원에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 6 月 3 日。
+英 B: Today is month 6, day 3.
+法 B: Nous sommes le 3 du mois 6.
+日 B: きょうは 6 がつ 3 にち。
+韓 B: 오늘은 6월 3일이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 明天我們去hospital吧。
+英 B: Tomorrow we go to hospital.
+法 B: Demain nous allons à hôpital.
+日 B: あした びょういんへ いこう。
+韓 B: 내일 병원에 가자.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。你今天的事有 3 個。
+英 A: Yes. You have 3 things today.
+法 A: Oui. Tu as 3 choses aujourd'hui.
+日 A: うん。 きょうの ことは 3 つ。
+韓 A: 그래. 오늘 할 일이 3개 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 今天是 1 月 9 日。
+英 A: Today is month 1, day 9.
+法 A: Nous sommes le 9 du mois 1.
+日 A: きょうは 1 がつ 9 にち。
+韓 A: 오늘은 1월 9일이야.
+
+中 B: 明天我們去restaurant吧。
+英 B: Tomorrow we go to the restaurant.
+法 B: Demain nous allons à le restaurant.
+日 B: あした レストランへ いこう。
+韓 B: 내일 식당에 가자.
+
+中 A: 好。早上 12 點走。
+英 A: Ok. We go at 12 in the morning.
+法 A: Ok. On part à 12 heures du matin.
+日 A: いいよ。 あさ 12じに いく。
+韓 A: 그래. 아침 12시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 8 點 25 分。
+英 B: Now it is 8 hour and 25 minute.
+法 B: Il est 8 heures 25 minutes.
+日 B: いま 8じ 25ふん。
+韓 B: 지금 8시 25분이야.
+
+中 A: 我們 7 點要去restaurant。
+英 A: We go to the restaurant at 7 hour.
+法 A: Nous allons à le restaurant à 7 heures.
+日 A: 7じに レストランへ いきます。
+韓 A: 7시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 11 點 35 分。
+英 B: Now it is 11 hour and 35 minute.
+法 B: Il est 11 heures 35 minutes.
+日 B: いま 11じ 35ふん。
+韓 B: 지금 11시 35분이야.
+
+中 A: 我們 5 點要去restaurant。
+英 A: We go to the restaurant at 5 hour.
+法 A: Nous allons à le restaurant à 5 heures.
+日 A: 5じに レストランへ いきます。
+韓 A: 5시에 식당에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 7 個。
+英 B: Yes. You have 7 things today.
+法 B: Oui. Tu as 7 choses aujourd'hui.
+日 B: うん。 きょうの ことは 7 つ。
+韓 B: 그래. 오늘 할 일이 7개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 5 月 2 日。
+英 B: Today is month 5, day 2.
+法 B: Nous sommes le 2 du mois 5.
+日 B: きょうは 5 がつ 2 にち。
+韓 B: 오늘은 5월 2일이야.
+
+中 A: 明天我們去海邊吧。
+英 A: Tomorrow we go to the sea.
+法 A: Demain nous allons à la mer.
+日 A: あした うみへ いこう。
+韓 A: 내일 바다에 가자.
+
+中 B: 好。早上 6 點走。
+英 B: Ok. We go at 6 in the morning.
+法 B: Ok. On part à 6 heures du matin.
+日 B: いいよ。 あさ 6じに いく。
+韓 B: 그래. 아침 6시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天是 12 月 3 日。
+英 A: Today is month 12, day 3.
+法 A: Nous sommes le 3 du mois 12.
+日 A: きょうは 12 がつ 3 にち。
+韓 A: 오늘은 12월 3일이야.
+
+中 B: 明天我們去park吧。
+英 B: Tomorrow we go to park.
+法 B: Demain nous allons à parc.
+日 B: あした parkへ いこう。
+韓 B: 내일 공원에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。早上 11 點走。
+英 B: Ok. We go at 11 in the morning.
+法 B: Ok. On part à 11 heures du matin.
+日 B: いいよ。 あさ 11じに いく。
+韓 B: 그래. 아침 11시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 2 個。
+英 B: Yes. You have 2 things today.
+法 B: Oui. Tu as 2 choses aujourd'hui.
+日 B: うん。 きょうの ことは 2 つ。
+韓 B: 그래. 오늘 할 일이 2개 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。你今天的事有 7 個。
+英 A: Yes. You have 7 things today.
+法 A: Oui. Tu as 7 choses aujourd'hui.
+日 A: うん。 きょうの ことは 7 つ。
+韓 A: 그래. 오늘 할 일이 7개 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 10 點 5 分。
+英 B: Now it is 10 hour and 5 minute.
+法 B: Il est 10 heures 5 minutes.
+日 B: いま 10じ 5ふん。
+韓 B: 지금 10시 5분이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我們 7 點要去店。
+英 B: We go to the shop at 7 hour.
+法 B: Nous allons à la boutique à 7 heures.
+日 B: 7じに みせへ いきます。
+韓 B: 7시에 가게에 가요.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 現在 5 點 45 分。
+英 A: Now it is 5 hour and 45 minute.
+法 A: Il est 5 heures 45 minutes.
+日 A: いま 5じ 45ふん。
+韓 A: 지금 5시 45분이야.
+
+中 B: 我們 10 點要去車站。
+英 B: We go to the station at 10 hour.
+法 B: Nous allons à la gare à 10 heures.
+日 B: 10じに えきへ いきます。
+韓 B: 10시에 역에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 現在 10 點 35 分。
+英 A: Now it is 10 hour and 35 minute.
+法 A: Il est 10 heures 35 minutes.
+日 A: いま 10じ 35ふん。
+韓 A: 지금 10시 35분이야.
+
+中 B: 我們 7 點要去店。
+英 B: We go to the shop at 7 hour.
+法 B: Nous allons à la boutique à 7 heures.
+日 B: 7じに みせへ いきます。
+韓 B: 7시에 가게에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。你今天的事有 6 個。
+英 A: Yes. You have 6 things today.
+法 A: Oui. Tu as 6 choses aujourd'hui.
+日 A: うん。 きょうの ことは 6 つ。
+韓 A: 그래. 오늘 할 일이 6개 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 是。你今天的事有 1 個。
+英 B: Yes. You have 1 things today.
+法 B: Oui. Tu as 1 choses aujourd'hui.
+日 B: うん。 きょうの ことは 1 つ。
+韓 B: 그래. 오늘 할 일이 1개 있어.
+
+中 A: 我要先吃飯。
+英 A: I eat first.
+法 A: Je mange d'abord.
+日 A: まず ごはんを たべる。
+韓 A: 먼저 밥을 먹을게.
+
+中 B: 好。飯在這裡。
+英 B: Ok. The rice is here.
+法 B: Ok. Le riz est ici.
+日 B: いいよ。 ごはんは ここ。
+韓 B: 그래. 밥은 여기 있어.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 4 月 9 日。
+英 B: Today is month 4, day 9.
+法 B: Nous sommes le 9 du mois 4.
+日 B: きょうは 4 がつ 9 にち。
+韓 B: 오늘은 4월 9일이야.
+
+中 A: 明天我們去park吧。
+英 A: Tomorrow we go to park.
+法 A: Demain nous allons à parc.
+日 A: あした parkへ いこう。
+韓 A: 내일 공원에 가자.
+
+中 B: 好。早上 7 點走。
+英 B: Ok. We go at 7 in the morning.
+法 B: Ok. On part à 7 heures du matin.
+日 B: いいよ。 あさ 7じに いく。
+韓 B: 그래. 아침 7시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 現在 11 點 15 分。
+英 A: Now it is 11 hour and 15 minute.
+法 A: Il est 11 heures 15 minutes.
+日 A: いま 11じ 15ふん。
+韓 A: 지금 11시 15분이야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我們 7 點要去海邊。
+英 A: We go to the sea at 7 hour.
+法 A: Nous allons à la mer à 7 heures.
+日 A: 7じに うみへ いきます。
+韓 A: 7시에 바다에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 今天是 1 月 7 日。
+英 A: Today is month 1, day 7.
+法 A: Nous sommes le 7 du mois 1.
+日 A: きょうは 1 がつ 7 にち。
+韓 A: 오늘은 1월 7일이야.
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。早上 3 點走。
+英 B: Ok. We go at 3 in the morning.
+法 B: Ok. On part à 3 heures du matin.
+日 B: いいよ。 あさ 3じに いく。
+韓 B: 그래. 아침 3시에 가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 現在 12 點 55 分。
+英 A: Now it is 12 hour and 55 minute.
+法 A: Il est 12 heures 55 minutes.
+日 A: いま 12じ 55ふん。
+韓 A: 지금 12시 55분이야.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我們 8 點要去車站。
+英 A: We go to the station at 8 hour.
+法 A: Nous allons à la gare à 8 heures.
+日 A: 8じに えきへ いきます。
+韓 A: 8시에 역에 가요.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天早上我很忙。
+英 A: Today morning I am very busy.
+法 A: Ce matin je suis très occupé.
+日 A: きょうの あさは とても いそがしい。
+韓 A: 오늘 아침은 정말 바빠.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。你今天的事有 5 個。
+英 A: Yes. You have 5 things today.
+法 A: Oui. Tu as 5 choses aujourd'hui.
+日 A: うん。 きょうの ことは 5 つ。
+韓 A: 그래. 오늘 할 일이 5개 있어.
+
+中 B: 我要先吃飯。
+英 B: I eat first.
+法 B: Je mange d'abord.
+日 B: まず ごはんを たべる。
+韓 B: 먼저 밥을 먹을게.
+
+中 A: 好。飯在這裡。
+英 A: Ok. The rice is here.
+法 A: Ok. Le riz est ici.
+日 A: いいよ。 ごはんは ここ。
+韓 A: 그래. 밥은 여기 있어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 11 月 7 日。
+英 B: Today is month 11, day 7.
+法 B: Nous sommes le 7 du mois 11.
+日 B: きょうは 11 がつ 7 にち。
+韓 B: 오늘은 11월 7일이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 明天我們去park吧。
+英 B: Tomorrow we go to park.
+法 B: Demain nous allons à parc.
+日 B: あした parkへ いこう。
+韓 B: 내일 공원에 가자.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 今天是 8 月 9 日。
+英 A: Today is month 8, day 9.
+法 A: Nous sommes le 9 du mois 8.
+日 A: きょうは 8 がつ 9 にち。
+韓 A: 오늘은 8월 9일이야.
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 好。早上 4 點走。
+英 A: Ok. We go at 4 in the morning.
+法 A: Ok. On part à 4 heures du matin.
+日 A: いいよ。 あさ 4じに いく。
+韓 A: 그래. 아침 4시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 現在 1 點 25 分。
+英 A: Now it is 1 hour and 25 minute.
+法 A: Il est 1 heures 25 minutes.
+日 A: いま 1じ 25ふん。
+韓 A: 지금 1시 25분이야.
+
+中 B: 我們 8 點要去學校。
+英 B: We go to school at 8 hour.
+法 B: Nous allons à école à 8 heures.
+日 B: 8じに がっこうへ いきます。
+韓 B: 8시에 학교에 가요.
+
+中 A: 好。到時候在門口見。
+英 A: Ok. See you at the gate then.
+法 A: Ok. On se voit à la porte.
+日 A: いいよ。 その とき 門で あおう。
+韓 A: 그래. 그때 문 앞에서 보자.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 今天是幾月幾日？
+英 A: What day is it today?
+法 A: Quel jour sommes-nous ?
+日 A: きょうは なんがつ なんにち？
+韓 A: 오늘이 몇 월 며칠이야?
+
+中 B: 今天是 3 月 2 日。
+英 B: Today is month 3, day 2.
+法 B: Nous sommes le 2 du mois 3.
+日 B: きょうは 3 がつ 2 にち。
+韓 B: 오늘은 3월 2일이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 明天我們去學校吧。
+英 B: Tomorrow we go to school.
+法 B: Demain nous allons à école.
+日 B: あした がっこうへ いこう。
+韓 B: 내일 학교에 가자.
+
+中 A: 好。早上 1 點走。
+英 A: Ok. We go at 1 in the morning.
+法 A: Ok. On part à 1 heures du matin.
+日 A: いいよ。 あさ 1じに いく。
+韓 A: 그래. 아침 1시에 가.
+
+
+# mini-x 合成多語對話：time（由 llm/generate_corpus.py 產生）
+
+中 A: 現在幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 12 點 35 分。
+英 B: Now it is 12 hour and 35 minute.
+法 B: Il est 12 heures 35 minutes.
+日 B: いま 12じ 35ふん。
+韓 B: 지금 12시 35분이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我們 9 點要去park。
+英 B: We go to park at 9 hour.
+法 B: Nous allons à parc à 9 heures.
+日 B: 9じに parkへ いきます。
+韓 B: 9시에 공원에 가요.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。到時候在門口見。
+英 B: Ok. See you at the gate then.
+法 B: Ok. On se voit à la porte.
+日 B: いいよ。 その とき 門で あおう。
+韓 B: 그래. 그때 문 앞에서 보자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.

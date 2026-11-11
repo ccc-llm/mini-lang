@@ -1,0 +1,10666 @@
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 那個 200 塊，不貴。
+英 A: That one is 200. Not expensive.
+法 A: Celui-là coûte 200. Pas cher.
+日 A: あれは 200えん。 たかくない。
+韓 A: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水。
+英 A: I go to market to buy water.
+法 A: Je vais au marché acheter de l'eau.
+日 A: marketへ みずを かいに いく。
+韓 A: 나는 market에 물 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要 2 個。你呢？
+英 B: I want 2. And you?
+法 B: J'en veux 2. Et toi ?
+日 B: 2 つ。 あなたは？
+韓 B: 2개. 너는?
+
+中 A: 我要 4 個。
+英 A: I want 4.
+法 A: J'en veux 4.
+日 A: 4 つ ほしい。
+韓 A: 나는 4개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 5 個。你呢？
+英 A: I want 5. And you?
+法 A: J'en veux 5. Et toi ?
+日 A: 5 つ。 あなたは？
+韓 A: 5개. 너는?
+
+中 B: 我要 3 個。
+英 B: I want 3.
+法 B: J'en veux 3.
+日 B: 3 つ ほしい。
+韓 B: 나는 3개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 50 塊，不貴。
+英 A: That one is 50. Not expensive.
+法 A: Celui-là coûte 50. Pas cher.
+日 A: あれは 50えん。 たかくない。
+韓 A: 저건 50원. 안 비싸.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我要 6 個。你呢？
+英 B: I want 6. And you?
+法 B: J'en veux 6. Et toi ?
+日 B: 6 つ。 あなたは？
+韓 B: 6개. 너는?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 5 個。你呢？
+英 B: I want 5. And you?
+法 B: J'en veux 5. Et toi ?
+日 B: 5 つ。 あなたは？
+韓 B: 5개. 너는?
+
+中 A: 我要 2 個。
+英 A: I want 2.
+法 A: J'en veux 2.
+日 A: 2 つ ほしい。
+韓 A: 나는 2개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我在找書。
+英 B: I am looking for a book.
+法 B: Je cherche un livre.
+日 B: ほんを さがして いる。
+韓 B: 나는 책를 찾고 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我在找鳥。
+英 A: I am looking for birds.
+法 A: Je cherche des oiseaux.
+日 A: とりを さがして いる。
+韓 A: 나는 새를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找球。
+英 B: I am looking for a ball.
+法 B: Je cherche un ballon.
+日 B: ボールを さがして いる。
+韓 B: 나는 공를 찾고 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 30 塊。
+英 B: It is 30.
+法 B: C'est 30.
+日 B: 30えんだよ。
+韓 B: 30원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我在找電話。
+英 B: I am looking for phone.
+法 B: Je cherche le téléphone.
+日 B: でんわを さがして いる。
+韓 B: 나는 전화를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找錢。
+英 A: I am looking for money.
+法 A: Je cherche l'argent.
+日 A: お金を さがして いる。
+韓 A: 나는 돈를 찾고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要 4 個。你呢？
+英 B: I want 4. And you?
+法 B: J'en veux 4. Et toi ?
+日 B: 4 つ。 あなたは？
+韓 B: 4개. 너는?
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我要 5 個。你呢？
+英 B: I want 5. And you?
+法 B: J'en veux 5. Et toi ?
+日 B: 5 つ。 あなたは？
+韓 B: 5개. 너는?
+
+中 A: 我要 6 個。
+英 A: I want 6.
+法 A: J'en veux 6.
+日 A: 6 つ ほしい。
+韓 A: 나는 6개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 我要 4 個。
+英 B: I want 4.
+法 B: J'en veux 4.
+日 B: 4 つ ほしい。
+韓 B: 나는 4개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找錢。
+英 A: I am looking for money.
+法 A: Je cherche l'argent.
+日 A: お金を さがして いる。
+韓 A: 나는 돈를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 我要 5 個。
+英 B: I want 5.
+法 B: J'en veux 5.
+日 B: 5 つ ほしい。
+韓 B: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 9 個。你呢？
+英 A: I want 9. And you?
+法 A: J'en veux 9. Et toi ?
+日 A: 9 つ。 あなたは？
+韓 A: 9개. 너는?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 2 個。
+英 A: I want 2.
+法 A: J'en veux 2.
+日 A: 2 つ ほしい。
+韓 A: 나는 2개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 6 個。你呢？
+英 A: I want 6. And you?
+法 A: J'en veux 6. Et toi ?
+日 A: 6 つ。 あなたは？
+韓 A: 6개. 너는?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找花。
+英 A: I am looking for flowers.
+法 A: Je cherche des fleurs.
+日 A: はなを さがして いる。
+韓 A: 나는 꽃를 찾고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要 7 個。你呢？
+英 B: I want 7. And you?
+法 B: J'en veux 7. Et toi ?
+日 B: 7 つ。 あなたは？
+韓 B: 7개. 너는?
+
+中 A: 我要 9 個。
+英 A: I want 9.
+法 A: J'en veux 9.
+日 A: 9 つ ほしい。
+韓 A: 나는 9개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找書。
+英 A: I am looking for a book.
+法 A: Je cherche un livre.
+日 A: ほんを さがして いる。
+韓 A: 나는 책를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找球。
+英 B: I am looking for a ball.
+法 B: Je cherche un ballon.
+日 B: ボールを さがして いる。
+韓 B: 나는 공를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 10 塊，不貴。
+英 A: That one is 10. Not expensive.
+法 A: Celui-là coûte 10. Pas cher.
+日 A: あれは 10えん。 たかくない。
+韓 A: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我在找umbrella。
+英 A: I am looking for umbrella.
+法 A: Je cherche un parapluie.
+日 A: かさを さがして いる。
+韓 A: 나는 우산를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找錢。
+英 A: I am looking for money.
+法 A: Je cherche l'argent.
+日 A: お金を さがして いる。
+韓 A: 나는 돈를 찾고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 30 塊，不貴。
+英 A: That one is 30. Not expensive.
+法 A: Celui-là coûte 30. Pas cher.
+日 A: あれは 30えん。 たかくない。
+韓 A: 저건 30원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 100 塊。
+英 A: It is 100.
+法 A: C'est 100.
+日 A: 100えんだよ。
+韓 A: 100원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 30 塊，不貴。
+英 A: That one is 30. Not expensive.
+法 A: Celui-là coûte 30. Pas cher.
+日 A: あれは 30えん。 たかくない。
+韓 A: 저건 30원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 10 塊。
+英 A: It is 10.
+法 A: C'est 10.
+日 A: 10えんだよ。
+韓 A: 10원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 200 塊，不貴。
+英 A: That one is 200. Not expensive.
+法 A: Celui-là coûte 200. Pas cher.
+日 A: あれは 200えん。 たかくない。
+韓 A: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 8 個。
+英 A: I want 8.
+法 A: J'en veux 8.
+日 A: 8 つ ほしい。
+韓 A: 나는 8개.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那個 50 塊，不貴。
+英 A: That one is 50. Not expensive.
+法 A: Celui-là coûte 50. Pas cher.
+日 A: あれは 50えん。 たかくない。
+韓 A: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找umbrella。
+英 A: I am looking for umbrella.
+法 A: Je cherche un parapluie.
+日 A: かさを さがして いる。
+韓 A: 나는 우산를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 9 個。你呢？
+英 B: I want 9. And you?
+法 B: J'en veux 9. Et toi ?
+日 B: 9 つ。 あなたは？
+韓 B: 9개. 너는?
+
+中 A: 我要 6 個。
+英 A: I want 6.
+法 A: J'en veux 6.
+日 A: 6 つ ほしい。
+韓 A: 나는 6개.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 4 個。你呢？
+英 A: I want 4. And you?
+法 A: J'en veux 4. Et toi ?
+日 A: 4 つ。 あなたは？
+韓 A: 4개. 너는?
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 2 個。你呢？
+英 A: I want 2. And you?
+法 A: J'en veux 2. Et toi ?
+日 A: 2 つ。 あなたは？
+韓 A: 2개. 너는?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要 6 個。
+英 A: I want 6.
+法 A: J'en veux 6.
+日 A: 6 つ ほしい。
+韓 A: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要 8 個。你呢？
+英 B: I want 8. And you?
+法 B: J'en veux 8. Et toi ?
+日 B: 8 つ。 あなたは？
+韓 B: 8개. 너는?
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我在找medicine。
+英 B: I am looking for medicine.
+法 B: Je cherche un médicament.
+日 B: くすりを さがして いる。
+韓 B: 나는 약를 찾고 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 6 個。你呢？
+英 A: I want 6. And you?
+法 A: J'en veux 6. Et toi ?
+日 A: 6 つ。 あなたは？
+韓 A: 6개. 너는?
+
+中 B: 我要 1 個。
+英 B: I want 1.
+法 B: J'en veux 1.
+日 B: 1 つ ほしい。
+韓 B: 나는 1개.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 30 塊。
+英 A: It is 30.
+法 A: C'est 30.
+日 A: 30えんだよ。
+韓 A: 30원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 10 塊，不貴。
+英 A: That one is 10. Not expensive.
+法 A: Celui-là coûte 10. Pas cher.
+日 A: あれは 10えん。 たかくない。
+韓 A: 저건 10원. 안 비싸.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找花。
+英 A: I am looking for flowers.
+法 A: Je cherche des fleurs.
+日 A: はなを さがして いる。
+韓 A: 나는 꽃를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 3 個。你呢？
+英 A: I want 3. And you?
+法 A: J'en veux 3. Et toi ?
+日 A: 3 つ。 あなたは？
+韓 A: 3개. 너는?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 8 個。
+英 A: I want 8.
+法 A: J'en veux 8.
+日 A: 8 つ ほしい。
+韓 A: 나는 8개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找花。
+英 A: I am looking for flowers.
+法 A: Je cherche des fleurs.
+日 A: はなを さがして いる。
+韓 A: 나는 꽃를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 5 個。你呢？
+英 A: I want 5. And you?
+法 A: J'en veux 5. Et toi ?
+日 A: 5 つ。 あなたは？
+韓 A: 5개. 너는?
+
+中 B: 我要 5 個。
+英 B: I want 5.
+法 B: J'en veux 5.
+日 B: 5 つ ほしい。
+韓 B: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 3 個。你呢？
+英 B: I want 3. And you?
+法 B: J'en veux 3. Et toi ?
+日 B: 3 つ。 あなたは？
+韓 B: 3개. 너는?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找衣服。
+英 B: I am looking for clothes.
+法 B: Je cherche des vêtements.
+日 B: ふくを さがして いる。
+韓 B: 나는 옷를 찾고 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 100 塊。
+英 A: It is 100.
+法 A: C'est 100.
+日 A: 100えんだよ。
+韓 A: 100원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 10 塊，不貴。
+英 A: That one is 10. Not expensive.
+法 A: Celui-là coûte 10. Pas cher.
+日 A: あれは 10えん。 たかくない。
+韓 A: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那個 30 塊，不貴。
+英 A: That one is 30. Not expensive.
+法 A: Celui-là coûte 30. Pas cher.
+日 A: あれは 30えん。 たかくない。
+韓 A: 저건 30원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找umbrella。
+英 A: I am looking for umbrella.
+法 A: Je cherche un parapluie.
+日 A: かさを さがして いる。
+韓 A: 나는 우산를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找鳥。
+英 A: I am looking for birds.
+法 A: Je cherche des oiseaux.
+日 A: とりを さがして いる。
+韓 A: 나는 새를 찾고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 4 個。你呢？
+英 A: I want 4. And you?
+法 A: J'en veux 4. Et toi ?
+日 A: 4 つ。 あなたは？
+韓 A: 4개. 너는?
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找衣服。
+英 B: I am looking for clothes.
+法 B: Je cherche des vêtements.
+日 B: ふくを さがして いる。
+韓 B: 나는 옷를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 4 個。你呢？
+英 B: I want 4. And you?
+法 B: J'en veux 4. Et toi ?
+日 B: 4 つ。 あなたは？
+韓 B: 4개. 너는?
+
+中 A: 我要 1 個。
+英 A: I want 1.
+法 A: J'en veux 1.
+日 A: 1 つ ほしい。
+韓 A: 나는 1개.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要 3 個。你呢？
+英 B: I want 3. And you?
+法 B: J'en veux 3. Et toi ?
+日 B: 3 つ。 あなたは？
+韓 B: 3개. 너는?
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 5 個。你呢？
+英 A: I want 5. And you?
+法 A: J'en veux 5. Et toi ?
+日 A: 5 つ。 あなたは？
+韓 A: 5개. 너는?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在找書。
+英 A: I am looking for a book.
+法 A: Je cherche un livre.
+日 A: ほんを さがして いる。
+韓 A: 나는 책를 찾고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 5 個。你呢？
+英 A: I want 5. And you?
+法 A: J'en veux 5. Et toi ?
+日 A: 5 つ。 あなたは？
+韓 A: 5개. 너는?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要 9 個。
+英 A: I want 9.
+法 A: J'en veux 9.
+日 A: 9 つ ほしい。
+韓 A: 나는 9개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 20 塊。
+英 A: It is 20.
+法 A: C'est 20.
+日 A: 20えんだよ。
+韓 A: 20원이야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我在找書。
+英 B: I am looking for a book.
+法 B: Je cherche un livre.
+日 B: ほんを さがして いる。
+韓 B: 나는 책를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要 1 個。
+英 A: I want 1.
+法 A: J'en veux 1.
+日 A: 1 つ ほしい。
+韓 A: 나는 1개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找衣服。
+英 A: I am looking for clothes.
+法 A: Je cherche des vêtements.
+日 A: ふくを さがして いる。
+韓 A: 나는 옷를 찾고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要 1 個。你呢？
+英 B: I want 1. And you?
+法 B: J'en veux 1. Et toi ?
+日 B: 1 つ。 あなたは？
+韓 B: 1개. 너는?
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 9 個。你呢？
+英 A: I want 9. And you?
+法 A: J'en veux 9. Et toi ?
+日 A: 9 つ。 あなたは？
+韓 A: 9개. 너는?
+
+中 B: 我要 2 個。
+英 B: I want 2.
+法 B: J'en veux 2.
+日 B: 2 つ ほしい。
+韓 B: 나는 2개.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水。
+英 A: I go to market to buy water.
+法 A: Je vais au marché acheter de l'eau.
+日 A: marketへ みずを かいに いく。
+韓 A: 나는 market에 물 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找錢。
+英 B: I am looking for money.
+法 B: Je cherche l'argent.
+日 B: お金を さがして いる。
+韓 B: 나는 돈를 찾고 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 50 塊。
+英 B: It is 50.
+法 B: C'est 50.
+日 B: 50えんだよ。
+韓 B: 50원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那個 30 塊，不貴。
+英 A: That one is 30. Not expensive.
+法 A: Celui-là coûte 30. Pas cher.
+日 A: あれは 30えん。 たかくない。
+韓 A: 저건 30원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要 4 個。你呢？
+英 B: I want 4. And you?
+法 B: J'en veux 4. Et toi ?
+日 B: 4 つ。 あなたは？
+韓 B: 4개. 너는?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 6 個。你呢？
+英 A: I want 6. And you?
+法 A: J'en veux 6. Et toi ?
+日 A: 6 つ。 あなたは？
+韓 A: 6개. 너는?
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找錢。
+英 A: I am looking for money.
+法 A: Je cherche l'argent.
+日 A: お金を さがして いる。
+韓 A: 나는 돈를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 100 塊。
+英 A: It is 100.
+法 A: C'est 100.
+日 A: 100えんだよ。
+韓 A: 100원이야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我在找電話。
+英 B: I am looking for phone.
+法 B: Je cherche le téléphone.
+日 B: でんわを さがして いる。
+韓 B: 나는 전화를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 9 個。你呢？
+英 A: I want 9. And you?
+法 A: J'en veux 9. Et toi ?
+日 A: 9 つ。 あなたは？
+韓 A: 9개. 너는?
+
+中 B: 我要 1 個。
+英 B: I want 1.
+法 B: J'en veux 1.
+日 B: 1 つ ほしい。
+韓 B: 나는 1개.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 6 個。你呢？
+英 A: I want 6. And you?
+法 A: J'en veux 6. Et toi ?
+日 A: 6 つ。 あなたは？
+韓 A: 6개. 너는?
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 20 塊。
+英 A: It is 20.
+法 A: C'est 20.
+日 A: 20えんだよ。
+韓 A: 20원이야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水。
+英 A: I go to market to buy water.
+法 A: Je vais au marché acheter de l'eau.
+日 A: marketへ みずを かいに いく。
+韓 A: 나는 market에 물 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 4 個。你呢？
+英 A: I want 4. And you?
+法 A: J'en veux 4. Et toi ?
+日 A: 4 つ。 あなたは？
+韓 A: 4개. 너는?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要 2 個。
+英 A: I want 2.
+法 A: J'en veux 2.
+日 A: 2 つ ほしい。
+韓 A: 나는 2개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找花。
+英 A: I am looking for flowers.
+法 A: Je cherche des fleurs.
+日 A: はなを さがして いる。
+韓 A: 나는 꽃를 찾고 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 30 塊。
+英 B: It is 30.
+法 B: C'est 30.
+日 B: 30えんだよ。
+韓 B: 30원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那個 50 塊，不貴。
+英 A: That one is 50. Not expensive.
+法 A: Celui-là coûte 50. Pas cher.
+日 A: あれは 50えん。 たかくない。
+韓 A: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 1 個。你呢？
+英 B: I want 1. And you?
+法 B: J'en veux 1. Et toi ?
+日 B: 1 つ。 あなたは？
+韓 B: 1개. 너는?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要 8 個。你呢？
+英 B: I want 8. And you?
+法 B: J'en veux 8. Et toi ?
+日 B: 8 つ。 あなたは？
+韓 B: 8개. 너는?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 2 個。你呢？
+英 B: I want 2. And you?
+法 B: J'en veux 2. Et toi ?
+日 B: 2 つ。 あなたは？
+韓 B: 2개. 너는?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 1 個。你呢？
+英 A: I want 1. And you?
+法 A: J'en veux 1. Et toi ?
+日 A: 1 つ。 あなたは？
+韓 A: 1개. 너는?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要 3 個。
+英 A: I want 3.
+法 A: J'en veux 3.
+日 A: 3 つ ほしい。
+韓 A: 나는 3개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 1 個。你呢？
+英 B: I want 1. And you?
+法 B: J'en veux 1. Et toi ?
+日 B: 1 つ。 あなたは？
+韓 B: 1개. 너는?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要 1 個。
+英 B: I want 1.
+法 B: J'en veux 1.
+日 B: 1 つ ほしい。
+韓 B: 나는 1개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在找衣服。
+英 A: I am looking for clothes.
+法 A: Je cherche des vêtements.
+日 A: ふくを さがして いる。
+韓 A: 나는 옷를 찾고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 100 塊，不貴。
+英 A: That one is 100. Not expensive.
+法 A: Celui-là coûte 100. Pas cher.
+日 A: あれは 100えん。 たかくない。
+韓 A: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我要 1 個。你呢？
+英 B: I want 1. And you?
+法 B: J'en veux 1. Et toi ?
+日 B: 1 つ。 あなたは？
+韓 B: 1개. 너는?
+
+中 A: 我要 8 個。
+英 A: I want 8.
+法 A: J'en veux 8.
+日 A: 8 つ ほしい。
+韓 A: 나는 8개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要 2 個。你呢？
+英 B: I want 2. And you?
+法 B: J'en veux 2. Et toi ?
+日 B: 2 つ。 あなたは？
+韓 B: 2개. 너는?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要 2 個。
+英 B: I want 2.
+法 B: J'en veux 2.
+日 B: 2 つ ほしい。
+韓 B: 나는 2개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 5 個。你呢？
+英 B: I want 5. And you?
+法 B: J'en veux 5. Et toi ?
+日 B: 5 つ。 あなたは？
+韓 B: 5개. 너는?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 6 個。你呢？
+英 A: I want 6. And you?
+法 A: J'en veux 6. Et toi ?
+日 A: 6 つ。 あなたは？
+韓 A: 6개. 너는?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 1 個。
+英 A: I want 1.
+法 A: J'en veux 1.
+日 A: 1 つ ほしい。
+韓 A: 나는 1개.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找花。
+英 A: I am looking for flowers.
+法 A: Je cherche des fleurs.
+日 A: はなを さがして いる。
+韓 A: 나는 꽃를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 2 個。你呢？
+英 A: I want 2. And you?
+法 A: J'en veux 2. Et toi ?
+日 A: 2 つ。 あなたは？
+韓 A: 2개. 너는?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找花。
+英 A: I am looking for flowers.
+法 A: Je cherche des fleurs.
+日 A: はなを さがして いる。
+韓 A: 나는 꽃를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 50 塊。
+英 B: It is 50.
+法 B: C'est 50.
+日 B: 50えんだよ。
+韓 B: 50원이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 20 塊。
+英 A: It is 20.
+法 A: C'est 20.
+日 A: 20えんだよ。
+韓 A: 20원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 200 塊，不貴。
+英 A: That one is 200. Not expensive.
+法 A: Celui-là coûte 200. Pas cher.
+日 A: あれは 200えん。 たかくない。
+韓 A: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 100 塊，不貴。
+英 B: That one is 100. Not expensive.
+法 B: Celui-là coûte 100. Pas cher.
+日 B: あれは 100えん。 たかくない。
+韓 B: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 3 個。你呢？
+英 B: I want 3. And you?
+法 B: J'en veux 3. Et toi ?
+日 B: 3 つ。 あなたは？
+韓 B: 3개. 너는?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要 5 個。
+英 B: I want 5.
+法 B: J'en veux 5.
+日 B: 5 つ ほしい。
+韓 B: 나는 5개.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找錢。
+英 B: I am looking for money.
+法 B: Je cherche l'argent.
+日 B: お金を さがして いる。
+韓 B: 나는 돈를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 那個 30 塊，不貴。
+英 B: That one is 30. Not expensive.
+法 B: Celui-là coûte 30. Pas cher.
+日 B: あれは 30えん。 たかくない。
+韓 B: 저건 30원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 6 個。你呢？
+英 B: I want 6. And you?
+法 B: J'en veux 6. Et toi ?
+日 B: 6 つ。 あなたは？
+韓 B: 6개. 너는?
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找書。
+英 A: I am looking for a book.
+法 A: Je cherche un livre.
+日 A: ほんを さがして いる。
+韓 A: 나는 책를 찾고 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找電話。
+英 B: I am looking for phone.
+法 B: Je cherche le téléphone.
+日 B: でんわを さがして いる。
+韓 B: 나는 전화를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我在找衣服。
+英 B: I am looking for clothes.
+法 B: Je cherche des vêtements.
+日 B: ふくを さがして いる。
+韓 B: 나는 옷를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 50 塊。
+英 B: It is 50.
+法 B: C'est 50.
+日 B: 50えんだよ。
+韓 B: 50원이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 100 塊，不貴。
+英 A: That one is 100. Not expensive.
+法 A: Celui-là coûte 100. Pas cher.
+日 A: あれは 100えん。 たかくない。
+韓 A: 저건 100원. 안 비싸.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找medicine。
+英 B: I am looking for medicine.
+法 B: Je cherche un médicament.
+日 B: くすりを さがして いる。
+韓 B: 나는 약를 찾고 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要 5 個。你呢？
+英 B: I want 5. And you?
+法 B: J'en veux 5. Et toi ?
+日 B: 5 つ。 あなたは？
+韓 B: 5개. 너는?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 3 個。你呢？
+英 A: I want 3. And you?
+法 A: J'en veux 3. Et toi ?
+日 A: 3 つ。 あなたは？
+韓 A: 3개. 너는?
+
+中 B: 我要 5 個。
+英 B: I want 5.
+法 B: J'en veux 5.
+日 B: 5 つ ほしい。
+韓 B: 나는 5개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 我要 9 個。
+英 B: I want 9.
+法 B: J'en veux 9.
+日 B: 9 つ ほしい。
+韓 B: 나는 9개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要 3 個。你呢？
+英 B: I want 3. And you?
+法 B: J'en veux 3. Et toi ?
+日 B: 3 つ。 あなたは？
+韓 B: 3개. 너는?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我在找medicine。
+英 B: I am looking for medicine.
+法 B: Je cherche un médicament.
+日 B: くすりを さがして いる。
+韓 B: 나는 약를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我在找衣服。
+英 B: I am looking for clothes.
+法 B: Je cherche des vêtements.
+日 B: ふくを さがして いる。
+韓 B: 나는 옷를 찾고 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要 2 個。你呢？
+英 B: I want 2. And you?
+法 B: J'en veux 2. Et toi ?
+日 B: 2 つ。 あなたは？
+韓 B: 2개. 너는?
+
+中 A: 我要 8 個。
+英 A: I want 8.
+法 A: J'en veux 8.
+日 A: 8 つ ほしい。
+韓 A: 나는 8개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 100 塊，不貴。
+英 B: That one is 100. Not expensive.
+法 B: Celui-là coûte 100. Pas cher.
+日 B: あれは 100えん。 たかくない。
+韓 B: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 1 個。你呢？
+英 A: I want 1. And you?
+法 A: J'en veux 1. Et toi ?
+日 A: 1 つ。 あなたは？
+韓 A: 1개. 너는?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 1 個。
+英 A: I want 1.
+法 A: J'en veux 1.
+日 A: 1 つ ほしい。
+韓 A: 나는 1개.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我在找錢。
+英 B: I am looking for money.
+法 B: Je cherche l'argent.
+日 B: お金を さがして いる。
+韓 B: 나는 돈를 찾고 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找花。
+英 B: I am looking for flowers.
+法 B: Je cherche des fleurs.
+日 B: はなを さがして いる。
+韓 B: 나는 꽃를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 4 個。你呢？
+英 A: I want 4. And you?
+法 A: J'en veux 4. Et toi ?
+日 A: 4 つ。 あなたは？
+韓 A: 4개. 너는?
+
+中 B: 我要 4 個。
+英 B: I want 4.
+法 B: J'en veux 4.
+日 B: 4 つ ほしい。
+韓 B: 나는 4개.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我在找錢。
+英 B: I am looking for money.
+法 B: Je cherche l'argent.
+日 B: お金を さがして いる。
+韓 B: 나는 돈를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水。
+英 A: I go to market to buy water.
+法 A: Je vais au marché acheter de l'eau.
+日 A: marketへ みずを かいに いく。
+韓 A: 나는 market에 물 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要 8 個。你呢？
+英 B: I want 8. And you?
+法 B: J'en veux 8. Et toi ?
+日 B: 8 つ。 あなたは？
+韓 B: 8개. 너는?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要 1 個。
+英 B: I want 1.
+法 B: J'en veux 1.
+日 B: 1 つ ほしい。
+韓 B: 나는 1개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水。
+英 A: I go to market to buy water.
+法 A: Je vais au marché acheter de l'eau.
+日 A: marketへ みずを かいに いく。
+韓 A: 나는 market에 물 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要 4 個。你呢？
+英 B: I want 4. And you?
+法 B: J'en veux 4. Et toi ?
+日 B: 4 つ。 あなたは？
+韓 B: 4개. 너는?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我要 5 個。
+英 B: I want 5.
+法 B: J'en veux 5.
+日 B: 5 つ ほしい。
+韓 B: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 30 塊。
+英 B: It is 30.
+法 B: C'est 30.
+日 B: 30えんだよ。
+韓 B: 30원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 那個 10 塊，不貴。
+英 A: That one is 10. Not expensive.
+法 A: Celui-là coûte 10. Pas cher.
+日 A: あれは 10えん。 たかくない。
+韓 A: 저건 10원. 안 비싸.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 3 個。
+英 A: I want 3.
+法 A: J'en veux 3.
+日 A: 3 つ ほしい。
+韓 A: 나는 3개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 4 個。你呢？
+英 B: I want 4. And you?
+法 B: J'en veux 4. Et toi ?
+日 B: 4 つ。 あなたは？
+韓 B: 4개. 너는?
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我在找書。
+英 B: I am looking for a book.
+法 B: Je cherche un livre.
+日 B: ほんを さがして いる。
+韓 B: 나는 책를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 20 塊。
+英 A: It is 20.
+法 A: C'est 20.
+日 A: 20えんだよ。
+韓 A: 20원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 10 塊，不貴。
+英 A: That one is 10. Not expensive.
+法 A: Celui-là coûte 10. Pas cher.
+日 A: あれは 10えん。 たかくない。
+韓 A: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找書。
+英 A: I am looking for a book.
+法 A: Je cherche un livre.
+日 A: ほんを さがして いる。
+韓 A: 나는 책를 찾고 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找花。
+英 B: I am looking for flowers.
+法 B: Je cherche des fleurs.
+日 B: はなを さがして いる。
+韓 B: 나는 꽃를 찾고 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要 8 個。你呢？
+英 B: I want 8. And you?
+法 B: J'en veux 8. Et toi ?
+日 B: 8 つ。 あなたは？
+韓 B: 8개. 너는?
+
+中 A: 我要 7 個。
+英 A: I want 7.
+法 A: J'en veux 7.
+日 A: 7 つ ほしい。
+韓 A: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 30 塊。
+英 B: It is 30.
+法 B: C'est 30.
+日 B: 30えんだよ。
+韓 B: 30원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我在找球。
+英 B: I am looking for a ball.
+法 B: Je cherche un ballon.
+日 B: ボールを さがして いる。
+韓 B: 나는 공를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 100 塊，不貴。
+英 B: That one is 100. Not expensive.
+法 B: Celui-là coûte 100. Pas cher.
+日 B: あれは 100えん。 たかくない。
+韓 B: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找medicine。
+英 B: I am looking for medicine.
+法 B: Je cherche un médicament.
+日 B: くすりを さがして いる。
+韓 B: 나는 약를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 10 塊。
+英 A: It is 10.
+法 A: C'est 10.
+日 A: 10えんだよ。
+韓 A: 10원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 100 塊，不貴。
+英 A: That one is 100. Not expensive.
+法 A: Celui-là coûte 100. Pas cher.
+日 A: あれは 100えん。 たかくない。
+韓 A: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 200 塊，不貴。
+英 A: That one is 200. Not expensive.
+法 A: Celui-là coûte 200. Pas cher.
+日 A: あれは 200えん。 たかくない。
+韓 A: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要 3 個。你呢？
+英 B: I want 3. And you?
+法 B: J'en veux 3. Et toi ?
+日 B: 3 つ。 あなたは？
+韓 B: 3개. 너는?
+
+中 A: 我要 4 個。
+英 A: I want 4.
+法 A: J'en veux 4.
+日 A: 4 つ ほしい。
+韓 A: 나는 4개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找鳥。
+英 A: I am looking for birds.
+法 A: Je cherche des oiseaux.
+日 A: とりを さがして いる。
+韓 A: 나는 새를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 4 個。你呢？
+英 A: I want 4. And you?
+法 A: J'en veux 4. Et toi ?
+日 A: 4 つ。 あなたは？
+韓 A: 4개. 너는?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要 6 個。
+英 A: I want 6.
+法 A: J'en veux 6.
+日 A: 6 つ ほしい。
+韓 A: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找錢。
+英 A: I am looking for money.
+法 A: Je cherche l'argent.
+日 A: お金を さがして いる。
+韓 A: 나는 돈를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我在找書。
+英 B: I am looking for a book.
+法 B: Je cherche un livre.
+日 B: ほんを さがして いる。
+韓 B: 나는 책를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 100 塊。
+英 A: It is 100.
+法 A: C'est 100.
+日 A: 100えんだよ。
+韓 A: 100원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要 5 個。你呢？
+英 B: I want 5. And you?
+法 B: J'en veux 5. Et toi ?
+日 B: 5 つ。 あなたは？
+韓 B: 5개. 너는?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水。
+英 A: I go to market to buy water.
+法 A: Je vais au marché acheter de l'eau.
+日 A: marketへ みずを かいに いく。
+韓 A: 나는 market에 물 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 6 個。你呢？
+英 A: I want 6. And you?
+法 A: J'en veux 6. Et toi ?
+日 A: 6 つ。 あなたは？
+韓 A: 6개. 너는?
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 100 塊。
+英 A: It is 100.
+法 A: C'est 100.
+日 A: 100えんだよ。
+韓 A: 100원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 10 塊，不貴。
+英 A: That one is 10. Not expensive.
+法 A: Celui-là coûte 10. Pas cher.
+日 A: あれは 10えん。 たかくない。
+韓 A: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我在找球。
+英 B: I am looking for a ball.
+法 B: Je cherche un ballon.
+日 B: ボールを さがして いる。
+韓 B: 나는 공를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找花。
+英 A: I am looking for flowers.
+法 A: Je cherche des fleurs.
+日 A: はなを さがして いる。
+韓 A: 나는 꽃를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 2 個。你呢？
+英 A: I want 2. And you?
+法 A: J'en veux 2. Et toi ?
+日 A: 2 つ。 あなたは？
+韓 A: 2개. 너는?
+
+中 B: 我要 2 個。
+英 B: I want 2.
+法 B: J'en veux 2.
+日 B: 2 つ ほしい。
+韓 B: 나는 2개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 4 個。你呢？
+英 A: I want 4. And you?
+法 A: J'en veux 4. Et toi ?
+日 A: 4 つ。 あなたは？
+韓 A: 4개. 너는?
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 1 個。你呢？
+英 B: I want 1. And you?
+法 B: J'en veux 1. Et toi ?
+日 B: 1 つ。 あなたは？
+韓 B: 1개. 너는?
+
+中 A: 我要 3 個。
+英 A: I want 3.
+法 A: J'en veux 3.
+日 A: 3 つ ほしい。
+韓 A: 나는 3개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找鳥。
+英 A: I am looking for birds.
+法 A: Je cherche des oiseaux.
+日 A: とりを さがして いる。
+韓 A: 나는 새를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 5 個。你呢？
+英 A: I want 5. And you?
+法 A: J'en veux 5. Et toi ?
+日 A: 5 つ。 あなたは？
+韓 A: 5개. 너는?
+
+中 B: 我要 2 個。
+英 B: I want 2.
+法 B: J'en veux 2.
+日 B: 2 つ ほしい。
+韓 B: 나는 2개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我在找medicine。
+英 B: I am looking for medicine.
+法 B: Je cherche un médicament.
+日 B: くすりを さがして いる。
+韓 B: 나는 약를 찾고 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 10 塊。
+英 A: It is 10.
+法 A: C'est 10.
+日 A: 10えんだよ。
+韓 A: 10원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 8 個。你呢？
+英 B: I want 8. And you?
+法 B: J'en veux 8. Et toi ?
+日 B: 8 つ。 あなたは？
+韓 B: 8개. 너는?
+
+中 A: 我要 6 個。
+英 A: I want 6.
+法 A: J'en veux 6.
+日 A: 6 つ ほしい。
+韓 A: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找鳥。
+英 A: I am looking for birds.
+法 A: Je cherche des oiseaux.
+日 A: とりを さがして いる。
+韓 A: 나는 새를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要 2 個。你呢？
+英 B: I want 2. And you?
+法 B: J'en veux 2. Et toi ?
+日 B: 2 つ。 あなたは？
+韓 B: 2개. 너는?
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找錢。
+英 A: I am looking for money.
+法 A: Je cherche l'argent.
+日 A: お金を さがして いる。
+韓 A: 나는 돈를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 6 個。你呢？
+英 B: I want 6. And you?
+法 B: J'en veux 6. Et toi ?
+日 B: 6 つ。 あなたは？
+韓 B: 6개. 너는?
+
+中 A: 我要 9 個。
+英 A: I want 9.
+法 A: J'en veux 9.
+日 A: 9 つ ほしい。
+韓 A: 나는 9개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 100 塊，不貴。
+英 B: That one is 100. Not expensive.
+法 B: Celui-là coûte 100. Pas cher.
+日 B: あれは 100えん。 たかくない。
+韓 B: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 2 個。你呢？
+英 A: I want 2. And you?
+法 A: J'en veux 2. Et toi ?
+日 A: 2 つ。 あなたは？
+韓 A: 2개. 너는?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要 9 個。
+英 A: I want 9.
+法 A: J'en veux 9.
+日 A: 9 つ ほしい。
+韓 A: 나는 9개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 2 個。你呢？
+英 A: I want 2. And you?
+法 A: J'en veux 2. Et toi ?
+日 A: 2 つ。 あなたは？
+韓 A: 2개. 너는?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 3 個。
+英 A: I want 3.
+法 A: J'en veux 3.
+日 A: 3 つ ほしい。
+韓 A: 나는 3개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在找書。
+英 A: I am looking for a book.
+法 A: Je cherche un livre.
+日 A: ほんを さがして いる。
+韓 A: 나는 책를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找球。
+英 B: I am looking for a ball.
+法 B: Je cherche un ballon.
+日 B: ボールを さがして いる。
+韓 B: 나는 공를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要 8 個。你呢？
+英 B: I want 8. And you?
+法 B: J'en veux 8. Et toi ?
+日 B: 8 つ。 あなたは？
+韓 B: 8개. 너는?
+
+中 A: 我要 4 個。
+英 A: I want 4.
+法 A: J'en veux 4.
+日 A: 4 つ ほしい。
+韓 A: 나는 4개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找衣服。
+英 B: I am looking for clothes.
+法 B: Je cherche des vêtements.
+日 B: ふくを さがして いる。
+韓 B: 나는 옷를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 30 塊。
+英 A: It is 30.
+法 A: C'est 30.
+日 A: 30えんだよ。
+韓 A: 30원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 100 塊，不貴。
+英 A: That one is 100. Not expensive.
+法 A: Celui-là coûte 100. Pas cher.
+日 A: あれは 100えん。 たかくない。
+韓 A: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找書。
+英 A: I am looking for a book.
+法 A: Je cherche un livre.
+日 A: ほんを さがして いる。
+韓 A: 나는 책를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 30 塊。
+英 B: It is 30.
+法 B: C'est 30.
+日 B: 30えんだよ。
+韓 B: 30원이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 30 塊，不貴。
+英 A: That one is 30. Not expensive.
+法 A: Celui-là coûte 30. Pas cher.
+日 A: あれは 30えん。 たかくない。
+韓 A: 저건 30원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 3 個。你呢？
+英 A: I want 3. And you?
+法 A: J'en veux 3. Et toi ?
+日 A: 3 つ。 あなたは？
+韓 A: 3개. 너는?
+
+中 B: 我要 5 個。
+英 B: I want 5.
+法 B: J'en veux 5.
+日 B: 5 つ ほしい。
+韓 B: 나는 5개.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 9 個。你呢？
+英 A: I want 9. And you?
+法 A: J'en veux 9. Et toi ?
+日 A: 9 つ。 あなたは？
+韓 A: 9개. 너는?
+
+中 B: 我要 3 個。
+英 B: I want 3.
+法 B: J'en veux 3.
+日 B: 3 つ ほしい。
+韓 B: 나는 3개.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買肉。
+英 A: I go to market to buy meat.
+法 A: Je vais au marché acheter de la viande.
+日 A: marketへ にくを かいに いく。
+韓 A: 나는 market에 고기 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 我要 6 個。
+英 B: I want 6.
+法 B: J'en veux 6.
+日 B: 6 つ ほしい。
+韓 B: 나는 6개.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買蛋。
+英 A: I go to market to buy eggs.
+法 A: Je vais au marché acheter des œufs.
+日 A: marketへ たまごを かいに いく。
+韓 A: 나는 market에 달걀 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 3 個。你呢？
+英 A: I want 3. And you?
+法 A: J'en veux 3. Et toi ?
+日 A: 3 つ。 あなたは？
+韓 A: 3개. 너는?
+
+中 B: 我要 5 個。
+英 B: I want 5.
+法 B: J'en veux 5.
+日 B: 5 つ ほしい。
+韓 B: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找衣服。
+英 B: I am looking for clothes.
+法 B: Je cherche des vêtements.
+日 B: ふくを さがして いる。
+韓 B: 나는 옷를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買菜。
+英 A: I go to market to buy food.
+法 A: Je vais au marché acheter de la nourriture.
+日 A: marketへ やさいを かいに いく。
+韓 A: 나는 market에 요리 사러 가.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 5 個。你呢？
+英 B: I want 5. And you?
+法 B: J'en veux 5. Et toi ?
+日 B: 5 つ。 あなたは？
+韓 B: 5개. 너는?
+
+中 A: 我要 9 個。
+英 A: I want 9.
+法 A: J'en veux 9.
+日 A: 9 つ ほしい。
+韓 A: 나는 9개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我在找書。
+英 B: I am looking for a book.
+法 B: Je cherche un livre.
+日 B: ほんを さがして いる。
+韓 B: 나는 책를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 4 個。你呢？
+英 B: I want 4. And you?
+法 B: J'en veux 4. Et toi ?
+日 B: 4 つ。 あなたは？
+韓 B: 4개. 너는?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要 1 個。
+英 B: I want 1.
+法 B: J'en veux 1.
+日 B: 1 つ ほしい。
+韓 B: 나는 1개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 30 塊。
+英 A: It is 30.
+法 A: C'est 30.
+日 A: 30えんだよ。
+韓 A: 30원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我要 3 個。你呢？
+英 A: I want 3. And you?
+法 A: J'en veux 3. Et toi ?
+日 A: 3 つ。 あなたは？
+韓 A: 3개. 너는?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 2 個。
+英 A: I want 2.
+法 A: J'en veux 2.
+日 A: 2 つ ほしい。
+韓 A: 나는 2개.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 5 個。你呢？
+英 A: I want 5. And you?
+法 A: J'en veux 5. Et toi ?
+日 A: 5 つ。 あなたは？
+韓 A: 5개. 너는?
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我在找衣服。
+英 B: I am looking for clothes.
+法 B: Je cherche des vêtements.
+日 B: ふくを さがして いる。
+韓 B: 나는 옷를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我在找medicine。
+英 B: I am looking for medicine.
+法 B: Je cherche un médicament.
+日 B: くすりを さがして いる。
+韓 B: 나는 약를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 30 塊。
+英 A: It is 30.
+法 A: C'est 30.
+日 A: 30えんだよ。
+韓 A: 30원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我在找umbrella。
+英 A: I am looking for umbrella.
+法 A: Je cherche un parapluie.
+日 A: かさを さがして いる。
+韓 A: 나는 우산를 찾고 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 4 個。你呢？
+英 A: I want 4. And you?
+法 A: J'en veux 4. Et toi ?
+日 A: 4 つ。 あなたは？
+韓 A: 4개. 너는?
+
+中 B: 我要 2 個。
+英 B: I want 2.
+法 B: J'en veux 2.
+日 B: 2 つ ほしい。
+韓 B: 나는 2개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 7 個。你呢？
+英 B: I want 7. And you?
+法 B: J'en veux 7. Et toi ?
+日 B: 7 つ。 あなたは？
+韓 B: 7개. 너는?
+
+中 A: 我要 6 個。
+英 A: I want 6.
+法 A: J'en veux 6.
+日 A: 6 つ ほしい。
+韓 A: 나는 6개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要 5 個。你呢？
+英 B: I want 5. And you?
+法 B: J'en veux 5. Et toi ?
+日 B: 5 つ。 あなたは？
+韓 B: 5개. 너는?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要 8 個。
+英 B: I want 8.
+法 B: J'en veux 8.
+日 B: 8 つ ほしい。
+韓 B: 나는 8개.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 2 個。你呢？
+英 A: I want 2. And you?
+法 A: J'en veux 2. Et toi ?
+日 A: 2 つ。 あなたは？
+韓 A: 2개. 너는?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 1 個。
+英 A: I want 1.
+法 A: J'en veux 1.
+日 A: 1 つ ほしい。
+韓 A: 나는 1개.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找錢。
+英 A: I am looking for money.
+法 A: Je cherche l'argent.
+日 A: お金を さがして いる。
+韓 A: 나는 돈를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 6 個。你呢？
+英 A: I want 6. And you?
+法 A: J'en veux 6. Et toi ?
+日 A: 6 つ。 あなたは？
+韓 A: 6개. 너는?
+
+中 B: 我要 3 個。
+英 B: I want 3.
+法 B: J'en veux 3.
+日 B: 3 つ ほしい。
+韓 B: 나는 3개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水果。
+英 A: I go to market to buy fruit.
+法 A: Je vais au marché acheter des fruits.
+日 A: marketへ くだものを かいに いく。
+韓 A: 나는 market에 과일 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要 1 個。你呢？
+英 B: I want 1. And you?
+法 B: J'en veux 1. Et toi ?
+日 B: 1 つ。 あなたは？
+韓 B: 1개. 너는?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要 9 個。
+英 B: I want 9.
+法 B: J'en veux 9.
+日 B: 9 つ ほしい。
+韓 B: 나는 9개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找書。
+英 A: I am looking for a book.
+法 A: Je cherche un livre.
+日 A: ほんを さがして いる。
+韓 A: 나는 책를 찾고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找花。
+英 B: I am looking for flowers.
+法 B: Je cherche des fleurs.
+日 B: はなを さがして いる。
+韓 B: 나는 꽃를 찾고 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找球。
+英 A: I am looking for a ball.
+法 A: Je cherche un ballon.
+日 A: ボールを さがして いる。
+韓 A: 나는 공를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 100 塊。
+英 A: It is 100.
+法 A: C'est 100.
+日 A: 100えんだよ。
+韓 A: 100원이야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那個 200 塊，不貴。
+英 A: That one is 200. Not expensive.
+法 A: Celui-là coûte 200. Pas cher.
+日 A: あれは 200えん。 たかくない。
+韓 A: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買水。
+英 A: I go to market to buy water.
+法 A: Je vais au marché acheter de l'eau.
+日 A: marketへ みずを かいに いく。
+韓 A: 나는 market에 물 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要 8 個。你呢？
+英 B: I want 8. And you?
+法 B: J'en veux 8. Et toi ?
+日 B: 8 つ。 あなたは？
+韓 B: 8개. 너는?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買bread。
+英 A: I go to market to buy bread.
+法 A: Je vais au marché acheter du pain.
+日 A: marketへ パンを かいに いく。
+韓 A: 나는 market에 빵 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要 2 個。
+英 A: I want 2.
+法 A: J'en veux 2.
+日 A: 2 つ ほしい。
+韓 A: 나는 2개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找電話。
+英 B: I am looking for phone.
+法 B: Je cherche le téléphone.
+日 B: でんわを さがして いる。
+韓 B: 나는 전화를 찾고 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 那個 20 塊，不貴。
+英 B: That one is 20. Not expensive.
+法 B: Celui-là coûte 20. Pas cher.
+日 B: あれは 20えん。 たかくない。
+韓 B: 저건 20원. 안 비싸.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我在找medicine。
+英 B: I am looking for medicine.
+法 B: Je cherche un médicament.
+日 B: くすりを さがして いる。
+韓 B: 나는 약를 찾고 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 50 塊。
+英 B: It is 50.
+法 B: C'est 50.
+日 B: 50えんだよ。
+韓 B: 50원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找球。
+英 B: I am looking for a ball.
+法 B: Je cherche un ballon.
+日 B: ボールを さがして いる。
+韓 B: 나는 공를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 10 塊，不貴。
+英 B: That one is 10. Not expensive.
+法 B: Celui-là coûte 10. Pas cher.
+日 B: あれは 10えん。 たかくない。
+韓 B: 저건 10원. 안 비싸.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 100 塊。
+英 B: It is 100.
+法 B: C'est 100.
+日 B: 100えんだよ。
+韓 B: 100원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 30 塊，不貴。
+英 B: That one is 30. Not expensive.
+法 B: Celui-là coûte 30. Pas cher.
+日 B: あれは 30えん。 たかくない。
+韓 B: 저건 30원. 안 비싸.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買茶。
+英 A: I go to market to buy tea.
+法 A: Je vais au marché acheter du thé.
+日 A: marketへ おちゃを かいに いく。
+韓 A: 나는 market에 차 사러 가.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要 8 個。你呢？
+英 A: I want 8. And you?
+法 A: J'en veux 8. Et toi ?
+日 A: 8 つ。 あなたは？
+韓 A: 8개. 너는?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 3 個。
+英 A: I want 3.
+法 A: J'en veux 3.
+日 A: 3 つ ほしい。
+韓 A: 나는 3개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我在找花。
+英 B: I am looking for flowers.
+法 B: Je cherche des fleurs.
+日 B: はなを さがして いる。
+韓 B: 나는 꽃를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 30 塊，不貴。
+英 B: That one is 30. Not expensive.
+法 B: Celui-là coûte 30. Pas cher.
+日 B: あれは 30えん。 たかくない。
+韓 B: 저건 30원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找鳥。
+英 B: I am looking for birds.
+法 B: Je cherche des oiseaux.
+日 B: とりを さがして いる。
+韓 B: 나는 새를 찾고 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找電話。
+英 A: I am looking for phone.
+法 A: Je cherche le téléphone.
+日 A: でんわを さがして いる。
+韓 A: 나는 전화를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 我要 7 個。
+英 B: I want 7.
+法 B: J'en veux 7.
+日 B: 7 つ ほしい。
+韓 B: 나는 7개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 20 塊。
+英 B: It is 20.
+法 B: C'est 20.
+日 B: 20えんだよ。
+韓 B: 20원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 30 塊，不貴。
+英 B: That one is 30. Not expensive.
+法 B: Celui-là coûte 30. Pas cher.
+日 B: あれは 30えん。 たかくない。
+韓 B: 저건 30원. 안 비싸.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 3 個。你呢？
+英 A: I want 3. And you?
+法 A: J'en veux 3. Et toi ?
+日 A: 3 つ。 あなたは？
+韓 A: 3개. 너는?
+
+中 B: 我要 9 個。
+英 B: I want 9.
+法 B: J'en veux 9.
+日 B: 9 つ ほしい。
+韓 B: 나는 9개.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 10 塊。
+英 B: It is 10.
+法 B: C'est 10.
+日 B: 10えんだよ。
+韓 B: 10원이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 30 塊。
+英 B: It is 30.
+法 B: C'est 30.
+日 B: 30えんだよ。
+韓 B: 30원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 200 塊，不貴。
+英 B: That one is 200. Not expensive.
+法 B: Celui-là coûte 200. Pas cher.
+日 B: あれは 200えん。 たかくない。
+韓 B: 저건 200원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找書。
+英 B: I am looking for a book.
+法 B: Je cherche un livre.
+日 B: ほんを さがして いる。
+韓 B: 나는 책를 찾고 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買cake。
+英 A: I go to market to buy cake.
+法 A: Je vais au marché acheter du gâteau.
+日 A: marketへ ケーキを かいに いく。
+韓 A: 나는 market에 케이크 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 2 個。你呢？
+英 A: I want 2. And you?
+法 A: J'en veux 2. Et toi ?
+日 A: 2 つ。 あなたは？
+韓 A: 2개. 너는?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: J'en veux 5.
+日 A: 5 つ ほしい。
+韓 A: 나는 5개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我在找umbrella。
+英 A: I am looking for umbrella.
+法 A: Je cherche un parapluie.
+日 A: かさを さがして いる。
+韓 A: 나는 우산를 찾고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買飯。
+英 A: I go to market to buy rice.
+法 A: Je vais au marché acheter du riz.
+日 A: marketへ ごはんを かいに いく。
+韓 A: 나는 market에 밥 사러 가.
+
+中 B: 好。你要買幾個？
+英 B: Ok. How many do you want to buy?
+法 B: Ok. Tu en achètes combien ?
+日 B: いいよ。 いくつ かう？
+韓 B: 그래. 몇 개 살 거야?
+
+中 A: 我要 7 個。你呢？
+英 A: I want 7. And you?
+法 A: J'en veux 7. Et toi ?
+日 A: 7 つ。 あなたは？
+韓 A: 7개. 너는?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要 6 個。
+英 A: I want 6.
+法 A: J'en veux 6.
+日 A: 6 つ ほしい。
+韓 A: 나는 6개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。東西很多。
+英 A: Yes. There are many things.
+法 A: Oui. Il y a beaucoup de choses.
+日 A: うん。 ものが たくさん ある。
+韓 A: 그래. 물건이 많아.
+
+中 B: 我在找umbrella。
+英 B: I am looking for umbrella.
+法 B: Je cherche un parapluie.
+日 B: かさを さがして いる。
+韓 B: 나는 우산를 찾고 있어.
+
+中 A: 在那邊。你來看。
+英 A: It is there. Come and see.
+法 A: C'est là-bas. Viens voir.
+日 A: あそこだよ。 きて みて。
+韓 A: 저기 있어. 와서 봐.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這家店真大。
+英 A: This shop is very big.
+法 A: Cette boutique est très grande.
+日 A: この みせは とても 大きい。
+韓 A: 이 가게는 정말 커.
+
+中 B: 是。東西很多。
+英 B: Yes. There are many things.
+法 B: Oui. Il y a beaucoup de choses.
+日 B: うん。 ものが たくさん ある。
+韓 B: 그래. 물건이 많아.
+
+中 A: 我在找medicine。
+英 A: I am looking for medicine.
+法 A: Je cherche un médicament.
+日 A: くすりを さがして いる。
+韓 A: 나는 약를 찾고 있어.
+
+中 B: 在那邊。你來看。
+英 B: It is there. Come and see.
+法 B: C'est là-bas. Viens voir.
+日 B: あそこだよ。 きて みて。
+韓 B: 저기 있어. 와서 봐.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 我要去 market 買魚。
+英 A: I go to market to buy fish.
+法 A: Je vais au marché acheter du poisson.
+日 A: marketへ さかなを かいに いく。
+韓 A: 나는 market에 물고기 사러 가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。你要買幾個？
+英 A: Ok. How many do you want to buy?
+法 A: Ok. Tu en achètes combien ?
+日 A: いいよ。 いくつ かう？
+韓 A: 그래. 몇 개 살 거야?
+
+中 B: 我要 3 個。你呢？
+英 B: I want 3. And you?
+法 B: J'en veux 3. Et toi ?
+日 B: 3 つ。 あなたは？
+韓 B: 3개. 너는?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要 2 個。
+英 B: I want 2.
+法 B: J'en veux 2.
+日 B: 2 つ ほしい。
+韓 B: 나는 2개.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 200 塊。
+英 A: It is 200.
+法 A: C'est 200.
+日 A: 200えんだよ。
+韓 A: 200원이야.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 50 塊，不貴。
+英 B: That one is 50. Not expensive.
+法 B: Celui-là coûte 50. Pas cher.
+日 B: あれは 50えん。 たかくない。
+韓 B: 저건 50원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 200 塊。
+英 B: It is 200.
+法 B: C'est 200.
+日 B: 200えんだよ。
+韓 B: 200원이야.
+
+中 A: 有一點貴。那個呢？
+英 A: A little expensive. And that one?
+法 A: Un peu cher. Et celui-là ?
+日 A: ちょっと たかい。 あれは？
+韓 A: 조금 비싸. 저건?
+
+中 B: 那個 100 塊，不貴。
+英 B: That one is 100. Not expensive.
+法 B: Celui-là coûte 100. Pas cher.
+日 B: あれは 100えん。 たかくない。
+韓 B: 저건 100원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 50 塊。
+英 B: It is 50.
+法 B: C'est 50.
+日 B: 50えんだよ。
+韓 B: 50원이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 20 塊，不貴。
+英 A: That one is 20. Not expensive.
+法 A: Celui-là coûte 20. Pas cher.
+日 A: あれは 20えん。 たかくない。
+韓 A: 저건 20원. 안 비싸.
+
+
+# mini-x 合成多語對話：shopping（由 llm/generate_corpus.py 產生）
+
+中 A: 這個多少錢？
+英 A: How much is this?
+法 A: Combien ça coûte ?
+日 A: これは いくら？
+韓 A: 이거 얼마야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 50 塊。
+英 A: It is 50.
+法 A: C'est 50.
+日 A: 50えんだよ。
+韓 A: 50원이야.
+
+中 B: 有一點貴。那個呢？
+英 B: A little expensive. And that one?
+法 B: Un peu cher. Et celui-là ?
+日 B: ちょっと たかい。 あれは？
+韓 B: 조금 비싸. 저건?
+
+中 A: 那個 50 塊，不貴。
+英 A: That one is 50. Not expensive.
+法 A: Celui-là coûte 50. Pas cher.
+日 A: あれは 50えん。 たかくない。
+韓 A: 저건 50원. 안 비싸.

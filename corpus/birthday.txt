@@ -1,0 +1,351 @@
+# mini-x 多語對話：生日
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/birthday.txt 相同。
+
+中 A: 今天是我生日。
+英 A: Today is my birthday.
+法 A: Aujourd'hui, c'est mon anniversaire.
+日 A: きょうは たんじょうびだ。
+韓 A: 오늘은 내 생일이다.
+
+中 B: 真的？生日快樂。
+英 B: Really? Happy birthday.
+法 B: Vraiment ? Joyeux anniversaire.
+日 B: ほんとう？ たんじょうび おめでとう。
+韓 B: 그래요? 생일 축하해요.
+
+中 A: 謝謝。
+英 A: Thanks.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워요.
+
+中 B: 你幾歲了？
+英 B: How old are you?
+法 B: Quel âge as-tu ?
+日 B: なんさい？
+韓 B: 몇 살이야?
+
+中 A: 我 13 歲了。
+英 A: I am 13.
+法 A: J'ai 13 ans.
+日 A: わたし 13 さいだ。
+韓 A: 나는 13살이야.
+
+中 B: 生日快樂！你想要什麼？
+英 B: Happy birthday! What do you want?
+法 B: Joyeux anniversaire ! Que veux-tu ?
+日 B: たんじょうび おめでとう！ なにが ほしい？
+韓 B: 생일 축하해요! 뭘 원해?
+
+中 A: 我想要 1 個書。
+英 A: I want a book.
+法 A: Je veux un livre.
+日 A: ほんが 1 さつ ほしい。
+韓 A: 책 한 권을 원해.
+
+中 B: 好。我給你 1 個海的事。
+英 B: Ok. I give you a book about the sea.
+法 B: Ok. Je te donne un livre sur la mer.
+日 B: いいよ。うみの はなしを 1 さつ あげる。
+韓 B: 좋아. 바다에 대한 이야기를 한 권 줄게.
+
+中 A: 太好了。謝謝你。
+英 A: Great. Thank you.
+法 A: Parfait. Merci.
+日 A: よかった。ありがとう。
+韓 A: 정말 좋아. 고마워.
+
+中 A: 你今天穿得很好看。
+英 A: You look good today.
+法 A: Tu es bien aujourd'hui.
+日 A: きょうは よく に あいそう。
+韓 A: 오늘 예쁘게 입었어.
+
+中 B: 謝謝。這是媽媽買的。
+英 B: Thanks. My mother bought this.
+法 B: Merci. Ma mère a acheté cela.
+日 B: ありがとう。ははが かって くれた。
+韓 B: 고마워. 엄마가 사 준 거야.
+
+中 A: 很好看。紅色很對你。
+英 A: It is good. Red is good for you.
+法 A: C'est beau. Le rouge te va bien.
+日 A: きれいだね。あかが よく に あいそう。
+韓 A: 예쁘다. 빨간 색이 너한테 잘 어울려.
+
+中 B: 是嗎？我最喜歡這個色。
+英 B: Really? I like this color most.
+法 B: Vraiment ? J'aime le plus cette couleur.
+日 B: そう？ この いろが いちばん すきだ。
+韓 B: 그래요? 이 색을 제일 좋아해.
+
+中 A: 你爸媽也來了嗎？
+英 A: Did your father and mother come too?
+法 A: Ton père et ta mère sont aussi venus ?
+日 A: おとうさんとおかあさんも きた？
+韓 A: 아버지 어머님도 오셨어?
+
+中 B: 來了。他們在裡邊。
+英 B: Yes. They are in the room.
+法 B: Oui. Ils sont dans la pièce.
+日 B: きた。なかに いる。
+韓 B: 응. 안에 계셔.
+
+中 A: 那我去和他們說。
+英 A: Then I go to talk to them.
+法 A: Alors je vais leur parler.
+日 A: じゃ ぼくが はなして くる。
+韓 A: 그럼 내가 얘기할게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 좋아.
+
+中 A: 這個 cake 好看。
+英 A: This cake is good.
+法 A: Ce gâteau est beau.
+日 A: この ケーキは きれいだ。
+韓 A: 이 케이크 예뻐.
+
+中 B: 是媽媽做的。上邊有 13 個小 candle。
+英 B: My mother made it. There are 13 small candles on it.
+法 B: Ma mère l'a fait. Il y a 13 petites bougies dessus.
+日 B: ははが つくった。うえに ちいさい ろうそくが 13 とう ある。
+韓 B: 엄마가 만들었어. 위에 작은 초 13개가 있어.
+
+中 A: 真好看。要點 candle 嗎？
+英 A: Very good. Do you want to light the candles?
+法 A: Très beau. Tu allumes les bougies ?
+日 A: きれいだね。ろうそくを つける？
+韓 A: 정말 예쁘다. 초 켤까?
+
+中 B: 要。你來點。
+英 B: Yes. You do it.
+法 B: Oui. Tu le fais.
+日 B: うん。ひとりが つける。
+韓 B: 응. 네가 해.
+
+中 A: 好。要唱歌嗎？
+英 A: Ok. Do you want to sing?
+法 A: Ok. Tu veux chanter ?
+日 A: いいよ。うたう？
+韓 A: 좋아. 노래할까?
+
+中 B: 要。大家一起唱。
+英 B: Yes. Everyone sings together.
+法 B: Oui. Tout le monde chante ensemble.
+日 B: うん。みんな いっしょに うたう。
+韓 B: 응. 모두 같이 노래해.
+
+中 A: 我要給你 1 個 gift。
+英 A: I give you a gift.
+法 A: Je te donne un cadeau.
+日 A: プレゼントを 1 つ あげる。
+韓 A: 선물을 하나 줄게.
+
+中 B: 真的？謝謝。
+英 B: Really? Thanks.
+法 B: Vraiment ? Merci.
+日 B: ほんとう？ ありがとう。
+韓 B: 그래요? 고마워.
+
+中 A: 不用謝。這是我自己做的。
+英 A: No need. I made it myself.
+法 A: Pas besoin. Je l'ai fait moi-même.
+日 A: いいよ。わたしが つくった。
+韓 A: 됐어. 내가 직접 만들었어.
+
+中 B: 你做的？真可以。
+英 B: You made it? It is good.
+法 B: Tu l'as fait ? C'est bien.
+日 B: あなたが つくった？ すごい。
+韓 B: 네가 만들었어? 잘하네.
+
+中 A: 是。是 1 個小 robot。
+英 A: Yes. It is a small robot.
+法 A: Oui. C'est un petit robot.
+日 A: うん。小さな robot が 1 つ。
+韓 A: 응. 작은 로봇이야.
+
+中 B: 我很喜歡。我要放在這裡。
+英 B: I like it a lot. I put it here.
+法 B: Je l'aime beaucoup. Je le mets ici.
+日 B: だいすき。これを ここに おく。
+韓 B: 정말 좋아. 여기에 둘게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 좋아.
+
+中 A: 你要吃多少？
+英 A: How much do you want to eat?
+法 A: Combien veux-tu manger ?
+日 A: くらい たべる？
+韓 A: 얼마나 먹을 거야?
+
+中 B: 很多。我從昨天就沒有吃東西。
+英 B: A lot. I have not eaten since yesterday.
+法 B: Beaucoup. Je n'ai rien mangé depuis hier.
+日 B: たくさん。きのうから たべて いない。
+韓 B: 많이. 어제부터 아무것도 안 먹었어.
+
+中 A: 那你要多吃一點。
+英 A: Then you must eat more.
+法 A: Alors tu dois manger plus.
+日 A: じゃ もっと たべて。
+韓 A: 그럼 더 먹어.
+
+中 B: 這是最好吃的 1 個 cake。
+英 B: This is the best cake.
+法 B: C'est le meilleur gâteau.
+日 B: これが いちばん おいしい ケーキだ。
+韓 B: 이게 제일 맛있는 케이크야.
+
+中 A: 是。媽媽做的都很好吃。
+英 A: Yes. Everything my mother makes is good.
+法 A: Oui. Tout ce que ma mère fait est bon.
+日 A: うん。ははが つくる ものは すべて おいしい。
+韓 A: 응. 엄마가 만드는 건 다 맛있어.
+
+中 B: 謝謝媽媽。
+英 B: Thank you, mother.
+法 B: Merci, maman.
+日 B: ははに ありがとう を いう。
+韓 B: 엄마한테 고마워.
+
+中 A: 我們要 photo 了。
+英 A: We take a photo now.
+法 A: On prend une photo.
+日 A: いま しゃしんを とる。
+韓 A: 이제 사진 찍자.
+
+中 B: 好。大家站這裡。
+英 B: Ok. Everyone stands here.
+法 B: Ok. Tout le monde se met ici.
+日 B: いいよ。みんな ここに ならぶ。
+韓 B: 좋아. 모두 여기 서.
+
+中 A: 你站那邊一點。
+英 A: You stand a little over there.
+法 A: Mets-toi un peu là-bas.
+日 A: そっちに 少し たつ。
+韓 A: 너는 저쪽에 좀 서.
+
+中 B: 好。camera 拿給我。
+英 B: Ok. Give me the camera.
+法 B: Ok. Donne-moi la caméra.
+日 B: いいよ。camera を よこして。
+韓 B: 좋아. 카메라 줘.
+
+中 A: 給你。我要笑嗎？
+英 A: Here. Do I smile?
+法 A: Tiens. Je souris ?
+日 A: これ。にこっと する？
+韓 A: 여기. 웃어야 해?
+
+中 B: 笑。快一點。
+英 B: Smile. Hurry up.
+法 B: Souris. Vite.
+日 B: 笑って。はやく。
+韓 B: 웃어. 빨리.
+
+中 A: 好。好了。
+英 A: Ok. Done.
+法 A: Ok. C'est fait.
+日 A: いいよ。できた。
+韓 A: 좋아. 됐어.
+
+中 A: 你的朋友真多。
+英 A: You have many friends.
+法 A: Tu as beaucoup d'amis.
+日 A: 友だちが たくさん いるんだね。
+韓 A: 친구가 많구나.
+
+中 B: 是。他們都是好朋友。
+英 B: Yes. They are all good friends.
+法 B: Oui. Ce sont tous de bons amis.
+日 B: うん。みんな よい 友だちだ。
+韓 B: 응. 다들 좋은 친구야.
+
+中 A: 你有幾個朋友？
+英 A: How many friends do you have?
+法 A: Combien d'amis as-tu ?
+日 A: 友だちが いくつ いる？
+韓 A: 친구가 몇 명이야?
+
+中 B: 學校裡有 5 個，internet 上 2 個。
+英 B: Five at school, two on the internet.
+法 B: Cinq à l'école, deux sur internet.
+日 B: がっこうに 5 人、internet に 2 人。
+韓 B: 학교에 5명, 인터넷에 2명.
+
+中 A: 我只有 2 個。
+英 A: I have only two.
+法 A: Je n'en ai que deux.
+日 A: わたしは 2 人だけだ。
+韓 A: 나는 둘뿐이야.
+
+中 B: 那你今天可以有很多新朋友。
+英 B: Then today you can have many new friends.
+法 B: Alors aujourd'hui tu peux avoir beaucoup de nouveaux amis.
+日 B: じゃ きょうは あたらしい 友だちを たくさん つくれる。
+韓 B: 그럼 오늘 새 친구를 많이 사.
+
+中 A: 好。我去和他們說話。
+英 A: Ok. I go to talk to them.
+法 A: Ok. Je vais leur parler.
+日 A: いいよ。はなして くる。
+韓 A: 좋아. 얘기할게.
+
+中 B: 好。我去找媽媽。
+英 B: Ok. I go to find mother.
+法 B: Ok. Je vais chercher maman.
+日 B: いいよ。ははを さがしに いく。
+韓 B: 좋아. 엄마 찾으러 갈게.
+
+中 A: 今天真開心。
+英 A: Today is very happy.
+法 A: Aujourd'hui, je suis très content.
+日 A: きょうは とても うれしい。
+韓 A: 오늘 정말 기분이 좋아.
+
+中 B: 是。謝謝你來。
+英 B: Yes. Thanks for coming.
+法 B: Oui. Merci d'être venu.
+日 B: うん。きて くれて ありがとう。
+韓 B: 응. 와 줘서 고마워.
+
+中 A: 我明年還會來。
+英 A: I will come again next year.
+法 A: Je reviendrai l'année prochaine.
+日 A: 明年も くる。
+韓 A: 다음 해에도 올게.
+
+中 B: 好。我等你。
+英 B: Ok. I will wait for you.
+法 B: Ok. Je t'attendrai.
+日 B: いいよ。まって いる。
+韓 B: 좋아. 기다릴게.
+
+中 A: 我要回家了。明天見。
+英 A: I go home. See you tomorrow.
+法 A: Je rentre. À demain.
+日 A: うちへ かえる。また あした。
+韓 A: 집에 갈게. 내일 봐.
+
+中 B: 明天見。路上小心。
+英 B: See you. Be careful on the road.
+法 B: À demain. Sois prudent sur la route.
+日 B: また あした。道の とき は きゅうして。
+韓 B: 내일 봐. 길에서 조심해.
+
+中 A: 你也是。
+英 A: You too.
+法 A: Toi aussi.
+日 A: あなたも。
+韓 A: 너도.

@@ -1,0 +1,10666 @@
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。3 點在market見。
+英 A: Ok. See you at market at 3.
+法 A: Ok. À marché à 3 heures.
+日 A: いいよ。 3じに marketで。
+韓 A: 그래. 3시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。5 點在家見。
+英 A: Ok. See you at home at 5.
+法 A: Ok. À la maison à 5 heures.
+日 A: いいよ。 5じに いえで。
+韓 A: 그래. 5시에 집에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。5 點在park見。
+英 A: Ok. See you at park at 5.
+法 A: Ok. À parc à 5 heures.
+日 A: いいよ。 5じに parkで。
+韓 A: 그래. 5시에 공원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我拿魚和花去。
+英 B: I take fish and flowers.
+法 B: Je prends du poisson et des fleurs.
+日 B: さかなと はなを もって いく。
+韓 B: 나는 물고기랑 꽃 가져갈게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。7 點在park見。
+英 B: Ok. See you at park at 7.
+法 B: Ok. À parc à 7 heures.
+日 B: いいよ。 7じに parkで。
+韓 B: 그래. 7시에 공원에서 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。12 點在market見。
+英 B: Ok. See you at market at 12.
+法 B: Ok. À marché à 12 heures.
+日 B: いいよ。 12じに marketで。
+韓 B: 그래. 12시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。10 點在restaurant見。
+英 A: Ok. See you at the restaurant at 10.
+法 A: Ok. À le restaurant à 10 heures.
+日 A: いいよ。 10じに レストランで。
+韓 A: 그래. 10시에 식당에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。2 點在海邊見。
+英 B: Ok. See you at the sea at 2.
+法 B: Ok. À la mer à 2 heures.
+日 B: いいよ。 2じに うみで。
+韓 B: 그래. 2시에 바다에서 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我拿水果和錢去。
+英 A: I take fruit and money.
+法 A: Je prends des fruits et l'argent.
+日 A: くだものと お金を もって いく。
+韓 A: 나는 과일랑 돈 가져갈게.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。1 點在hospital見。
+英 B: Ok. See you at hospital at 1.
+法 B: Ok. À hôpital à 1 heures.
+日 B: いいよ。 1じに びょういんで。
+韓 B: 그래. 1시에 병원에서 보자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。2 點在店見。
+英 A: Ok. See you at the shop at 2.
+法 A: Ok. À la boutique à 2 heures.
+日 A: いいよ。 2じに みせで。
+韓 A: 그래. 2시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。4 點在market見。
+英 A: Ok. See you at market at 4.
+法 A: Ok. À marché à 4 heures.
+日 A: いいよ。 4じに marketで。
+韓 A: 그래. 4시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去海邊玩吧。
+英 A: We go to the sea on the weekend.
+法 A: Allons à la mer ce weekend.
+日 A: しゅうまつ うみへ あそびに いこう。
+韓 A: 주말에 바다에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿菜和鳥去。
+英 A: I take food and birds.
+法 A: Je prends de la nourriture et des oiseaux.
+日 A: やさいと とりを もって いく。
+韓 A: 나는 요리랑 새 가져갈게.
+
+中 B: 好。早上 3 點見。
+英 B: Ok. See you at 3 in the morning.
+法 B: Ok. À 3 heures du matin.
+日 B: いいよ。 あさ 3じに。
+韓 B: 그래. 아침 3시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿菜和衣服去。
+英 B: I take food and clothes.
+法 B: Je prends de la nourriture et des vêtements.
+日 B: やさいと ふくを もって いく。
+韓 B: 나는 요리랑 옷 가져갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。早上 3 點見。
+英 B: Ok. See you at 3 in the morning.
+法 B: Ok. À 3 heures du matin.
+日 B: いいよ。 あさ 3じに。
+韓 B: 그래. 아침 3시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去market玩吧。
+英 A: We go to market on the weekend.
+法 A: Allons à marché ce weekend.
+日 A: しゅうまつ marketへ あそびに いこう。
+韓 A: 주말에 시장에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿飯和錢去。
+英 A: I take rice and money.
+法 A: Je prends du riz et l'argent.
+日 A: ごはんと お金を もって いく。
+韓 A: 나는 밥랑 돈 가져갈게.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。8 點在學校見。
+英 B: Ok. See you at school at 8.
+法 B: Ok. À école à 8 heures.
+日 B: いいよ。 8じに がっこうで。
+韓 B: 그래. 8시에 학교에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿肉和花去。
+英 B: I take meat and flowers.
+法 B: Je prends de la viande et des fleurs.
+日 B: にくと はなを もって いく。
+韓 B: 나는 고기랑 꽃 가져갈게.
+
+中 A: 好。早上 10 點見。
+英 A: Ok. See you at 10 in the morning.
+法 A: Ok. À 10 heures du matin.
+日 A: いいよ。 あさ 10じに。
+韓 A: 그래. 아침 10시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿水果和書去。
+英 A: I take fruit and a book.
+法 A: Je prends des fruits et un livre.
+日 A: くだものと ほんを もって いく。
+韓 A: 나는 과일랑 책 가져갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。早上 10 點見。
+英 A: Ok. See you at 10 in the morning.
+法 A: Ok. À 10 heures du matin.
+日 A: いいよ。 あさ 10じに。
+韓 A: 그래. 아침 10시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去market玩吧。
+英 A: We go to market on the weekend.
+法 A: Allons à marché ce weekend.
+日 A: しゅうまつ marketへ あそびに いこう。
+韓 A: 주말에 시장에 놀러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿茶和花去。
+英 B: I take tea and flowers.
+法 B: Je prends du thé et des fleurs.
+日 B: おちゃと はなを もって いく。
+韓 B: 나는 차랑 꽃 가져갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。早上 10 點見。
+英 B: Ok. See you at 10 in the morning.
+法 B: Ok. À 10 heures du matin.
+日 B: いいよ。 あさ 10じに。
+韓 B: 그래. 아침 10시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。6 點在hospital見。
+英 A: Ok. See you at hospital at 6.
+法 A: Ok. À hôpital à 6 heures.
+日 A: いいよ。 6じに びょういんで。
+韓 A: 그래. 6시에 병원에서 보자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿bread和錢去。
+英 B: I take bread and money.
+法 B: Je prends du pain et l'argent.
+日 B: パンと お金を もって いく。
+韓 B: 나는 빵랑 돈 가져갈게.
+
+中 A: 好。早上 4 點見。
+英 A: Ok. See you at 4 in the morning.
+法 A: Ok. À 4 heures du matin.
+日 A: いいよ。 あさ 4じに。
+韓 A: 그래. 아침 4시에 보자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。5 點在hospital見。
+英 A: Ok. See you at hospital at 5.
+法 A: Ok. À hôpital à 5 heures.
+日 A: いいよ。 5じに びょういんで。
+韓 A: 그래. 5시에 병원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。4 點在店見。
+英 A: Ok. See you at the shop at 4.
+法 A: Ok. À la boutique à 4 heures.
+日 A: いいよ。 4じに みせで。
+韓 A: 그래. 4시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。1 點在park見。
+英 B: Ok. See you at park at 1.
+法 B: Ok. À parc à 1 heures.
+日 B: いいよ。 1じに parkで。
+韓 B: 그래. 1시에 공원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我拿cake和錢去。
+英 B: I take cake and money.
+法 B: Je prends du gâteau et l'argent.
+日 B: ケーキと お金を もって いく。
+韓 B: 나는 케이크랑 돈 가져갈게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。10 點在hospital見。
+英 B: Ok. See you at hospital at 10.
+法 B: Ok. À hôpital à 10 heures.
+日 B: いいよ。 10じに びょういんで。
+韓 B: 그래. 10시에 병원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。2 點在家見。
+英 B: Ok. See you at home at 2.
+法 B: Ok. À la maison à 2 heures.
+日 B: いいよ。 2じに いえで。
+韓 B: 그래. 2시에 집에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我拿茶和medicine去。
+英 B: I take tea and medicine.
+法 B: Je prends du thé et un médicament.
+日 B: おちゃと くすりを もって いく。
+韓 B: 나는 차랑 약 가져갈게.
+
+中 A: 好。早上 6 點見。
+英 A: Ok. See you at 6 in the morning.
+法 A: Ok. À 6 heures du matin.
+日 A: いいよ。 あさ 6じに。
+韓 A: 그래. 아침 6시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。2 點在market見。
+英 B: Ok. See you at market at 2.
+法 B: Ok. À marché à 2 heures.
+日 B: いいよ。 2じに marketで。
+韓 B: 그래. 2시에 시장에서 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿蛋和球去。
+英 A: I take eggs and a ball.
+法 A: Je prends des œufs et un ballon.
+日 A: たまごと ボールを もって いく。
+韓 A: 나는 달걀랑 공 가져갈게.
+
+中 B: 好。早上 8 點見。
+英 B: Ok. See you at 8 in the morning.
+法 B: Ok. À 8 heures du matin.
+日 B: いいよ。 あさ 8じに。
+韓 B: 그래. 아침 8시에 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。9 點在海邊見。
+英 B: Ok. See you at the sea at 9.
+法 B: Ok. À la mer à 9 heures.
+日 B: いいよ。 9じに うみで。
+韓 B: 그래. 9시에 바다에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿肉和錢去。
+英 B: I take meat and money.
+法 B: Je prends de la viande et l'argent.
+日 B: にくと お金を もって いく。
+韓 B: 나는 고기랑 돈 가져갈게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。早上 3 點見。
+英 B: Ok. See you at 3 in the morning.
+法 B: Ok. À 3 heures du matin.
+日 B: いいよ。 あさ 3じに。
+韓 B: 그래. 아침 3시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿飯和medicine去。
+英 B: I take rice and medicine.
+法 B: Je prends du riz et un médicament.
+日 B: ごはんと くすりを もって いく。
+韓 B: 나는 밥랑 약 가져갈게.
+
+中 A: 好。早上 6 點見。
+英 A: Ok. See you at 6 in the morning.
+法 A: Ok. À 6 heures du matin.
+日 A: いいよ。 あさ 6じに。
+韓 A: 그래. 아침 6시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿肉和花去。
+英 A: I take meat and flowers.
+法 A: Je prends de la viande et des fleurs.
+日 A: にくと はなを もって いく。
+韓 A: 나는 고기랑 꽃 가져갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。早上 6 點見。
+英 A: Ok. See you at 6 in the morning.
+法 A: Ok. À 6 heures du matin.
+日 A: いいよ。 あさ 6じに。
+韓 A: 그래. 아침 6시에 보자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿肉和花去。
+英 B: I take meat and flowers.
+法 B: Je prends de la viande et des fleurs.
+日 B: にくと はなを もって いく。
+韓 B: 나는 고기랑 꽃 가져갈게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。早上 6 點見。
+英 B: Ok. See you at 6 in the morning.
+法 B: Ok. À 6 heures du matin.
+日 B: いいよ。 あさ 6じに。
+韓 B: 그래. 아침 6시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。7 點在hospital見。
+英 B: Ok. See you at hospital at 7.
+法 B: Ok. À hôpital à 7 heures.
+日 B: いいよ。 7じに びょういんで。
+韓 B: 그래. 7시에 병원에서 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。1 點在海邊見。
+英 B: Ok. See you at the sea at 1.
+法 B: Ok. À la mer à 1 heures.
+日 B: いいよ。 1じに うみで。
+韓 B: 그래. 1시에 바다에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿飯和球去。
+英 B: I take rice and a ball.
+法 B: Je prends du riz et un ballon.
+日 B: ごはんと ボールを もって いく。
+韓 B: 나는 밥랑 공 가져갈게.
+
+中 A: 好。早上 11 點見。
+英 A: Ok. See you at 11 in the morning.
+法 A: Ok. À 11 heures du matin.
+日 A: いいよ。 あさ 11じに。
+韓 A: 그래. 아침 11시에 보자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我拿水果和花去。
+英 A: I take fruit and flowers.
+法 A: Je prends des fruits et des fleurs.
+日 A: くだものと はなを もって いく。
+韓 A: 나는 과일랑 꽃 가져갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。早上 4 點見。
+英 A: Ok. See you at 4 in the morning.
+法 A: Ok. À 4 heures du matin.
+日 A: いいよ。 あさ 4じに。
+韓 A: 그래. 아침 4시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我拿水和球去。
+英 B: I take water and a ball.
+法 B: Je prends de l'eau et un ballon.
+日 B: みずと ボールを もって いく。
+韓 B: 나는 물랑 공 가져갈게.
+
+中 A: 好。早上 3 點見。
+英 A: Ok. See you at 3 in the morning.
+法 A: Ok. À 3 heures du matin.
+日 A: いいよ。 あさ 3じに。
+韓 A: 그래. 아침 3시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。11 點在店見。
+英 B: Ok. See you at the shop at 11.
+法 B: Ok. À la boutique à 11 heures.
+日 B: いいよ。 11じに みせで。
+韓 B: 그래. 11시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。3 點在park見。
+英 B: Ok. See you at park at 3.
+法 B: Ok. À parc à 3 heures.
+日 B: いいよ。 3じに parkで。
+韓 B: 그래. 3시에 공원에서 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去海邊玩吧。
+英 A: We go to the sea on the weekend.
+法 A: Allons à la mer ce weekend.
+日 A: しゅうまつ うみへ あそびに いこう。
+韓 A: 주말에 바다에 놀러 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿水和umbrella去。
+英 B: I take water and umbrella.
+法 B: Je prends de l'eau et un parapluie.
+日 B: みずと かさを もって いく。
+韓 B: 나는 물랑 우산 가져갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。早上 9 點見。
+英 B: Ok. See you at 9 in the morning.
+法 B: Ok. À 9 heures du matin.
+日 B: いいよ。 あさ 9じに。
+韓 B: 그래. 아침 9시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。10 點在學校見。
+英 B: Ok. See you at school at 10.
+法 B: Ok. À école à 10 heures.
+日 B: いいよ。 10じに がっこうで。
+韓 B: 그래. 10시에 학교에서 보자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。2 點在restaurant見。
+英 A: Ok. See you at the restaurant at 2.
+法 A: Ok. À le restaurant à 2 heures.
+日 A: いいよ。 2じに レストランで。
+韓 A: 그래. 2시에 식당에서 보자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。8 點在家見。
+英 A: Ok. See you at home at 8.
+法 A: Ok. À la maison à 8 heures.
+日 A: いいよ。 8じに いえで。
+韓 A: 그래. 8시에 집에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。6 點在學校見。
+英 B: Ok. See you at school at 6.
+法 B: Ok. À école à 6 heures.
+日 B: いいよ。 6じに がっこうで。
+韓 B: 그래. 6시에 학교에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。3 點在market見。
+英 B: Ok. See you at market at 3.
+法 B: Ok. À marché à 3 heures.
+日 B: いいよ。 3じに marketで。
+韓 B: 그래. 3시에 시장에서 보자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿水和衣服去。
+英 B: I take water and clothes.
+法 B: Je prends de l'eau et des vêtements.
+日 B: みずと ふくを もって いく。
+韓 B: 나는 물랑 옷 가져갈게.
+
+中 A: 好。早上 2 點見。
+英 A: Ok. See you at 2 in the morning.
+法 A: Ok. À 2 heures du matin.
+日 A: いいよ。 あさ 2じに。
+韓 A: 그래. 아침 2시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我拿蛋和medicine去。
+英 B: I take eggs and medicine.
+法 B: Je prends des œufs et un médicament.
+日 B: たまごと くすりを もって いく。
+韓 B: 나는 달걀랑 약 가져갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。早上 3 點見。
+英 B: Ok. See you at 3 in the morning.
+法 B: Ok. À 3 heures du matin.
+日 B: いいよ。 あさ 3じに。
+韓 B: 그래. 아침 3시에 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。1 點在restaurant見。
+英 B: Ok. See you at the restaurant at 1.
+法 B: Ok. À le restaurant à 1 heures.
+日 B: いいよ。 1じに レストランで。
+韓 B: 그래. 1시에 식당에서 보자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿cake和medicine去。
+英 A: I take cake and medicine.
+法 A: Je prends du gâteau et un médicament.
+日 A: ケーキと くすりを もって いく。
+韓 A: 나는 케이크랑 약 가져갈게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。早上 12 點見。
+英 A: Ok. See you at 12 in the morning.
+法 A: Ok. À 12 heures du matin.
+日 A: いいよ。 あさ 12じに。
+韓 A: 그래. 아침 12시에 보자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。9 點在hospital見。
+英 B: Ok. See you at hospital at 9.
+法 B: Ok. À hôpital à 9 heures.
+日 B: いいよ。 9じに びょういんで。
+韓 B: 그래. 9시에 병원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。12 點在車站見。
+英 A: Ok. See you at the station at 12.
+法 A: Ok. À la gare à 12 heures.
+日 A: いいよ。 12じに えきで。
+韓 A: 그래. 12시에 역에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。4 點在market見。
+英 B: Ok. See you at market at 4.
+法 B: Ok. À marché à 4 heures.
+日 B: いいよ。 4じに marketで。
+韓 B: 그래. 4시에 시장에서 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。7 點在market見。
+英 A: Ok. See you at market at 7.
+法 A: Ok. À marché à 7 heures.
+日 A: いいよ。 7じに marketで。
+韓 A: 그래. 7시에 시장에서 보자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿cake和球去。
+英 A: I take cake and a ball.
+法 A: Je prends du gâteau et un ballon.
+日 A: ケーキと ボールを もって いく。
+韓 A: 나는 케이크랑 공 가져갈게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。早上 8 點見。
+英 A: Ok. See you at 8 in the morning.
+法 A: Ok. À 8 heures du matin.
+日 A: いいよ。 あさ 8じに。
+韓 A: 그래. 아침 8시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。1 點在market見。
+英 B: Ok. See you at market at 1.
+法 B: Ok. À marché à 1 heures.
+日 B: いいよ。 1じに marketで。
+韓 B: 그래. 1시에 시장에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。11 點在海邊見。
+英 B: Ok. See you at the sea at 11.
+法 B: Ok. À la mer à 11 heures.
+日 B: いいよ。 11じに うみで。
+韓 B: 그래. 11시에 바다에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我拿茶和umbrella去。
+英 A: I take tea and umbrella.
+法 A: Je prends du thé et un parapluie.
+日 A: おちゃと かさを もって いく。
+韓 A: 나는 차랑 우산 가져갈게.
+
+中 B: 好。早上 11 點見。
+英 B: Ok. See you at 11 in the morning.
+法 B: Ok. À 11 heures du matin.
+日 B: いいよ。 あさ 11じに。
+韓 B: 그래. 아침 11시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿飯和衣服去。
+英 A: I take rice and clothes.
+法 A: Je prends du riz et des vêtements.
+日 A: ごはんと ふくを もって いく。
+韓 A: 나는 밥랑 옷 가져갈게.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。早上 3 點見。
+英 A: Ok. See you at 3 in the morning.
+法 A: Ok. À 3 heures du matin.
+日 A: いいよ。 あさ 3じに。
+韓 A: 그래. 아침 3시에 보자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。3 點在車站見。
+英 B: Ok. See you at the station at 3.
+法 B: Ok. À la gare à 3 heures.
+日 B: いいよ。 3じに えきで。
+韓 B: 그래. 3시에 역에서 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。9 點在restaurant見。
+英 B: Ok. See you at the restaurant at 9.
+法 B: Ok. À le restaurant à 9 heures.
+日 B: いいよ。 9じに レストランで。
+韓 B: 그래. 9시에 식당에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。8 點在家見。
+英 A: Ok. See you at home at 8.
+法 A: Ok. À la maison à 8 heures.
+日 A: いいよ。 8じに いえで。
+韓 A: 그래. 8시에 집에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。3 點在海邊見。
+英 A: Ok. See you at the sea at 3.
+法 A: Ok. À la mer à 3 heures.
+日 A: いいよ。 3じに うみで。
+韓 A: 그래. 3시에 바다에서 보자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿水和書去。
+英 A: I take water and a book.
+法 A: Je prends de l'eau et un livre.
+日 A: みずと ほんを もって いく。
+韓 A: 나는 물랑 책 가져갈게.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我拿水和衣服去。
+英 B: I take water and clothes.
+法 B: Je prends de l'eau et des vêtements.
+日 B: みずと ふくを もって いく。
+韓 B: 나는 물랑 옷 가져갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。5 點在車站見。
+英 B: Ok. See you at the station at 5.
+法 B: Ok. À la gare à 5 heures.
+日 B: いいよ。 5じに えきで。
+韓 B: 그래. 5시에 역에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去market玩吧。
+英 A: We go to market on the weekend.
+法 A: Allons à marché ce weekend.
+日 A: しゅうまつ marketへ あそびに いこう。
+韓 A: 주말에 시장에 놀러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿蛋和umbrella去。
+英 B: I take eggs and umbrella.
+法 B: Je prends des œufs et un parapluie.
+日 B: たまごと かさを もって いく。
+韓 B: 나는 달걀랑 우산 가져갈게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。5 點在restaurant見。
+英 A: Ok. See you at the restaurant at 5.
+法 A: Ok. À le restaurant à 5 heures.
+日 A: いいよ。 5じに レストランで。
+韓 A: 그래. 5시에 식당에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。3 點在店見。
+英 A: Ok. See you at the shop at 3.
+法 A: Ok. À la boutique à 3 heures.
+日 A: いいよ。 3じに みせで。
+韓 A: 그래. 3시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿飯和鳥去。
+英 A: I take rice and birds.
+法 A: Je prends du riz et des oiseaux.
+日 A: ごはんと とりを もって いく。
+韓 A: 나는 밥랑 새 가져갈게.
+
+中 B: 好。早上 4 點見。
+英 B: Ok. See you at 4 in the morning.
+法 B: Ok. À 4 heures du matin.
+日 B: いいよ。 あさ 4じに。
+韓 B: 그래. 아침 4시에 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。4 點在家見。
+英 B: Ok. See you at home at 4.
+法 B: Ok. À la maison à 4 heures.
+日 B: いいよ。 4じに いえで。
+韓 B: 그래. 4시에 집에서 보자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我拿飯和電話去。
+英 A: I take rice and phone.
+法 A: Je prends du riz et le téléphone.
+日 A: ごはんと でんわを もって いく。
+韓 A: 나는 밥랑 전화 가져갈게.
+
+中 B: 好。早上 3 點見。
+英 B: Ok. See you at 3 in the morning.
+法 B: Ok. À 3 heures du matin.
+日 B: いいよ。 あさ 3じに。
+韓 B: 그래. 아침 3시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我拿魚和球去。
+英 A: I take fish and a ball.
+法 A: Je prends du poisson et un ballon.
+日 A: さかなと ボールを もって いく。
+韓 A: 나는 물고기랑 공 가져갈게.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 我拿cake和書去。
+英 B: I take cake and a book.
+法 B: Je prends du gâteau et un livre.
+日 B: ケーキと ほんを もって いく。
+韓 B: 나는 케이크랑 책 가져갈게.
+
+中 A: 好。早上 4 點見。
+英 A: Ok. See you at 4 in the morning.
+法 A: Ok. À 4 heures du matin.
+日 A: いいよ。 あさ 4じに。
+韓 A: 그래. 아침 4시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。12 點在hospital見。
+英 B: Ok. See you at hospital at 12.
+法 B: Ok. À hôpital à 12 heures.
+日 B: いいよ。 12じに びょういんで。
+韓 B: 그래. 12시에 병원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿水果和球去。
+英 A: I take fruit and a ball.
+法 A: Je prends des fruits et un ballon.
+日 A: くだものと ボールを もって いく。
+韓 A: 나는 과일랑 공 가져갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。早上 5 點見。
+英 A: Ok. See you at 5 in the morning.
+法 A: Ok. À 5 heures du matin.
+日 A: いいよ。 あさ 5じに。
+韓 A: 그래. 아침 5시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。8 點在家見。
+英 B: Ok. See you at home at 8.
+法 B: Ok. À la maison à 8 heures.
+日 B: いいよ。 8じに いえで。
+韓 B: 그래. 8시에 집에서 보자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿茶和錢去。
+英 A: I take tea and money.
+法 A: Je prends du thé et l'argent.
+日 A: おちゃと お金を もって いく。
+韓 A: 나는 차랑 돈 가져갈게.
+
+中 B: 好。早上 8 點見。
+英 B: Ok. See you at 8 in the morning.
+法 B: Ok. À 8 heures du matin.
+日 B: いいよ。 あさ 8じに。
+韓 B: 그래. 아침 8시에 보자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。8 點在店見。
+英 B: Ok. See you at the shop at 8.
+法 B: Ok. À la boutique à 8 heures.
+日 B: いいよ。 8じに みせで。
+韓 B: 그래. 8시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。2 點在學校見。
+英 B: Ok. See you at school at 2.
+法 B: Ok. À école à 2 heures.
+日 B: いいよ。 2じに がっこうで。
+韓 B: 그래. 2시에 학교에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。12 點在海邊見。
+英 A: Ok. See you at the sea at 12.
+法 A: Ok. À la mer à 12 heures.
+日 A: いいよ。 12じに うみで。
+韓 A: 그래. 12시에 바다에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿肉和球去。
+英 A: I take meat and a ball.
+法 A: Je prends de la viande et un ballon.
+日 A: にくと ボールを もって いく。
+韓 A: 나는 고기랑 공 가져갈게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。早上 6 點見。
+英 A: Ok. See you at 6 in the morning.
+法 A: Ok. À 6 heures du matin.
+日 A: いいよ。 あさ 6じに。
+韓 A: 그래. 아침 6시에 보자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我拿飯和鳥去。
+英 A: I take rice and birds.
+法 A: Je prends du riz et des oiseaux.
+日 A: ごはんと とりを もって いく。
+韓 A: 나는 밥랑 새 가져갈게.
+
+中 B: 好。早上 11 點見。
+英 B: Ok. See you at 11 in the morning.
+法 B: Ok. À 11 heures du matin.
+日 B: いいよ。 あさ 11じに。
+韓 B: 그래. 아침 11시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。1 點在家見。
+英 B: Ok. See you at home at 1.
+法 B: Ok. À la maison à 1 heures.
+日 B: いいよ。 1じに いえで。
+韓 B: 그래. 1시에 집에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。2 點在park見。
+英 A: Ok. See you at park at 2.
+法 A: Ok. À parc à 2 heures.
+日 A: いいよ。 2じに parkで。
+韓 A: 그래. 2시에 공원에서 보자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。8 點在market見。
+英 B: Ok. See you at market at 8.
+法 B: Ok. À marché à 8 heures.
+日 B: いいよ。 8じに marketで。
+韓 B: 그래. 8시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我拿菜和電話去。
+英 B: I take food and phone.
+法 B: Je prends de la nourriture et le téléphone.
+日 B: やさいと でんわを もって いく。
+韓 B: 나는 요리랑 전화 가져갈게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。早上 5 點見。
+英 B: Ok. See you at 5 in the morning.
+法 B: Ok. À 5 heures du matin.
+日 B: いいよ。 あさ 5じに。
+韓 B: 그래. 아침 5시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。5 點在hospital見。
+英 B: Ok. See you at hospital at 5.
+法 B: Ok. À hôpital à 5 heures.
+日 B: いいよ。 5じに びょういんで。
+韓 B: 그래. 5시에 병원에서 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。1 點在店見。
+英 A: Ok. See you at the shop at 1.
+法 A: Ok. À la boutique à 1 heures.
+日 A: いいよ。 1じに みせで。
+韓 A: 그래. 1시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿菜和umbrella去。
+英 A: I take food and umbrella.
+法 A: Je prends de la nourriture et un parapluie.
+日 A: やさいと かさを もって いく。
+韓 A: 나는 요리랑 우산 가져갈게.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我拿水和鳥去。
+英 B: I take water and birds.
+法 B: Je prends de l'eau et des oiseaux.
+日 B: みずと とりを もって いく。
+韓 B: 나는 물랑 새 가져갈게.
+
+中 A: 好。早上 10 點見。
+英 A: Ok. See you at 10 in the morning.
+法 A: Ok. À 10 heures du matin.
+日 A: いいよ。 あさ 10じに。
+韓 A: 그래. 아침 10시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿肉和umbrella去。
+英 A: I take meat and umbrella.
+法 A: Je prends de la viande et un parapluie.
+日 A: にくと かさを もって いく。
+韓 A: 나는 고기랑 우산 가져갈게.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我拿cake和衣服去。
+英 A: I take cake and clothes.
+法 A: Je prends du gâteau et des vêtements.
+日 A: ケーキと ふくを もって いく。
+韓 A: 나는 케이크랑 옷 가져갈게.
+
+中 B: 好。早上 8 點見。
+英 B: Ok. See you at 8 in the morning.
+法 B: Ok. À 8 heures du matin.
+日 B: いいよ。 あさ 8じに。
+韓 B: 그래. 아침 8시에 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。11 點在market見。
+英 B: Ok. See you at market at 11.
+法 B: Ok. À marché à 11 heures.
+日 B: いいよ。 11じに marketで。
+韓 B: 그래. 11시에 시장에서 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿飯和medicine去。
+英 B: I take rice and medicine.
+法 B: Je prends du riz et un médicament.
+日 B: ごはんと くすりを もって いく。
+韓 B: 나는 밥랑 약 가져갈게.
+
+中 A: 好。早上 1 點見。
+英 A: Ok. See you at 1 in the morning.
+法 A: Ok. À 1 heures du matin.
+日 A: いいよ。 あさ 1じに。
+韓 A: 그래. 아침 1시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。10 點在學校見。
+英 B: Ok. See you at school at 10.
+法 B: Ok. À école à 10 heures.
+日 B: いいよ。 10じに がっこうで。
+韓 B: 그래. 10시에 학교에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿bread和書去。
+英 A: I take bread and a book.
+法 A: Je prends du pain et un livre.
+日 A: パンと ほんを もって いく。
+韓 A: 나는 빵랑 책 가져갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。早上 7 點見。
+英 A: Ok. See you at 7 in the morning.
+法 A: Ok. À 7 heures du matin.
+日 A: いいよ。 あさ 7じに。
+韓 A: 그래. 아침 7시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。7 點在market見。
+英 A: Ok. See you at market at 7.
+法 A: Ok. À marché à 7 heures.
+日 A: いいよ。 7じに marketで。
+韓 A: 그래. 7시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿bread和umbrella去。
+英 A: I take bread and umbrella.
+法 A: Je prends du pain et un parapluie.
+日 A: パンと かさを もって いく。
+韓 A: 나는 빵랑 우산 가져갈게.
+
+中 B: 好。早上 6 點見。
+英 B: Ok. See you at 6 in the morning.
+法 B: Ok. À 6 heures du matin.
+日 B: いいよ。 あさ 6じに。
+韓 B: 그래. 아침 6시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。6 點在學校見。
+英 B: Ok. See you at school at 6.
+法 B: Ok. À école à 6 heures.
+日 B: いいよ。 6じに がっこうで。
+韓 B: 그래. 6시에 학교에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去market玩吧。
+英 A: We go to market on the weekend.
+法 A: Allons à marché ce weekend.
+日 A: しゅうまつ marketへ あそびに いこう。
+韓 A: 주말에 시장에 놀러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我拿肉和花去。
+英 A: I take meat and flowers.
+法 A: Je prends de la viande et des fleurs.
+日 A: にくと はなを もって いく。
+韓 A: 나는 고기랑 꽃 가져갈게.
+
+中 B: 好。早上 8 點見。
+英 B: Ok. See you at 8 in the morning.
+法 B: Ok. À 8 heures du matin.
+日 B: いいよ。 あさ 8じに。
+韓 B: 그래. 아침 8시에 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。5 點在海邊見。
+英 B: Ok. See you at the sea at 5.
+法 B: Ok. À la mer à 5 heures.
+日 B: いいよ。 5じに うみで。
+韓 B: 그래. 5시에 바다에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。3 點在park見。
+英 B: Ok. See you at park at 3.
+法 B: Ok. À parc à 3 heures.
+日 B: いいよ。 3じに parkで。
+韓 B: 그래. 3시에 공원에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 我拿水果和電話去。
+英 B: I take fruit and phone.
+法 B: Je prends des fruits et le téléphone.
+日 B: くだものと でんわを もって いく。
+韓 B: 나는 과일랑 전화 가져갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿菜和鳥去。
+英 B: I take food and birds.
+法 B: Je prends de la nourriture et des oiseaux.
+日 B: やさいと とりを もって いく。
+韓 B: 나는 요리랑 새 가져갈게.
+
+中 A: 好。早上 5 點見。
+英 A: Ok. See you at 5 in the morning.
+法 A: Ok. À 5 heures du matin.
+日 A: いいよ。 あさ 5じに。
+韓 A: 그래. 아침 5시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿飯和鳥去。
+英 A: I take rice and birds.
+法 A: Je prends du riz et des oiseaux.
+日 A: ごはんと とりを もって いく。
+韓 A: 나는 밥랑 새 가져갈게.
+
+中 B: 好。早上 1 點見。
+英 B: Ok. See you at 1 in the morning.
+法 B: Ok. À 1 heures du matin.
+日 B: いいよ。 あさ 1じに。
+韓 B: 그래. 아침 1시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。12 點在家見。
+英 B: Ok. See you at home at 12.
+法 B: Ok. À la maison à 12 heures.
+日 B: いいよ。 12じに いえで。
+韓 B: 그래. 12시에 집에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。2 點在家見。
+英 B: Ok. See you at home at 2.
+法 B: Ok. À la maison à 2 heures.
+日 B: いいよ。 2じに いえで。
+韓 B: 그래. 2시에 집에서 보자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿水和錢去。
+英 A: I take water and money.
+法 A: Je prends de l'eau et l'argent.
+日 A: みずと お金を もって いく。
+韓 A: 나는 물랑 돈 가져갈게.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。8 點在market見。
+英 A: Ok. See you at market at 8.
+法 A: Ok. À marché à 8 heures.
+日 A: いいよ。 8じに marketで。
+韓 A: 그래. 8시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿魚和錢去。
+英 A: I take fish and money.
+法 A: Je prends du poisson et l'argent.
+日 A: さかなと お金を もって いく。
+韓 A: 나는 물고기랑 돈 가져갈게.
+
+中 B: 好。早上 11 點見。
+英 B: Ok. See you at 11 in the morning.
+法 B: Ok. À 11 heures du matin.
+日 B: いいよ。 あさ 11じに。
+韓 B: 그래. 아침 11시에 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿魚和錢去。
+英 A: I take fish and money.
+法 A: Je prends du poisson et l'argent.
+日 A: さかなと お金を もって いく。
+韓 A: 나는 물고기랑 돈 가져갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。早上 11 點見。
+英 A: Ok. See you at 11 in the morning.
+法 A: Ok. À 11 heures du matin.
+日 A: いいよ。 あさ 11じに。
+韓 A: 그래. 아침 11시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿茶和錢去。
+英 A: I take tea and money.
+法 A: Je prends du thé et l'argent.
+日 A: おちゃと お金を もって いく。
+韓 A: 나는 차랑 돈 가져갈게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。早上 9 點見。
+英 A: Ok. See you at 9 in the morning.
+法 A: Ok. À 9 heures du matin.
+日 A: いいよ。 あさ 9じに。
+韓 A: 그래. 아침 9시에 보자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。12 點在restaurant見。
+英 A: Ok. See you at the restaurant at 12.
+法 A: Ok. À le restaurant à 12 heures.
+日 A: いいよ。 12じに レストランで。
+韓 A: 그래. 12시에 식당에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿肉和衣服去。
+英 B: I take meat and clothes.
+法 B: Je prends de la viande et des vêtements.
+日 B: にくと ふくを もって いく。
+韓 B: 나는 고기랑 옷 가져갈게.
+
+中 A: 好。早上 11 點見。
+英 A: Ok. See you at 11 in the morning.
+法 A: Ok. À 11 heures du matin.
+日 A: いいよ。 あさ 11じに。
+韓 A: 그래. 아침 11시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。11 點在restaurant見。
+英 B: Ok. See you at the restaurant at 11.
+法 B: Ok. À le restaurant à 11 heures.
+日 B: いいよ。 11じに レストランで。
+韓 B: 그래. 11시에 식당에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。10 點在店見。
+英 B: Ok. See you at the shop at 10.
+法 B: Ok. À la boutique à 10 heures.
+日 B: いいよ。 10じに みせで。
+韓 B: 그래. 10시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。6 點在家見。
+英 A: Ok. See you at home at 6.
+法 A: Ok. À la maison à 6 heures.
+日 A: いいよ。 6じに いえで。
+韓 A: 그래. 6시에 집에서 보자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。4 點在market見。
+英 B: Ok. See you at market at 4.
+法 B: Ok. À marché à 4 heures.
+日 B: いいよ。 4じに marketで。
+韓 B: 그래. 4시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。9 點在車站見。
+英 B: Ok. See you at the station at 9.
+法 B: Ok. À la gare à 9 heures.
+日 B: いいよ。 9じに えきで。
+韓 B: 그래. 9시에 역에서 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去海邊玩吧。
+英 A: We go to the sea on the weekend.
+法 A: Allons à la mer ce weekend.
+日 A: しゅうまつ うみへ あそびに いこう。
+韓 A: 주말에 바다에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我拿水果和medicine去。
+英 B: I take fruit and medicine.
+法 B: Je prends des fruits et un médicament.
+日 B: くだものと くすりを もって いく。
+韓 B: 나는 과일랑 약 가져갈게.
+
+中 A: 好。早上 2 點見。
+英 A: Ok. See you at 2 in the morning.
+法 A: Ok. À 2 heures du matin.
+日 A: いいよ。 あさ 2じに。
+韓 A: 그래. 아침 2시에 보자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿蛋和電話去。
+英 A: I take eggs and phone.
+法 A: Je prends des œufs et le téléphone.
+日 A: たまごと でんわを もって いく。
+韓 A: 나는 달걀랑 전화 가져갈게.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。10 點在hospital見。
+英 B: Ok. See you at hospital at 10.
+法 B: Ok. À hôpital à 10 heures.
+日 B: いいよ。 10じに びょういんで。
+韓 B: 그래. 10시에 병원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我拿魚和衣服去。
+英 A: I take fish and clothes.
+法 A: Je prends du poisson et des vêtements.
+日 A: さかなと ふくを もって いく。
+韓 A: 나는 물고기랑 옷 가져갈게.
+
+中 B: 好。早上 7 點見。
+英 B: Ok. See you at 7 in the morning.
+法 B: Ok. À 7 heures du matin.
+日 B: いいよ。 あさ 7じに。
+韓 B: 그래. 아침 7시에 보자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿bread和umbrella去。
+英 A: I take bread and umbrella.
+法 A: Je prends du pain et un parapluie.
+日 A: パンと かさを もって いく。
+韓 A: 나는 빵랑 우산 가져갈게.
+
+中 B: 好。早上 10 點見。
+英 B: Ok. See you at 10 in the morning.
+法 B: Ok. À 10 heures du matin.
+日 B: いいよ。 あさ 10じに。
+韓 B: 그래. 아침 10시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿魚和電話去。
+英 B: I take fish and phone.
+法 B: Je prends du poisson et le téléphone.
+日 B: さかなと でんわを もって いく。
+韓 B: 나는 물고기랑 전화 가져갈게.
+
+中 A: 好。早上 8 點見。
+英 A: Ok. See you at 8 in the morning.
+法 A: Ok. À 8 heures du matin.
+日 A: いいよ。 あさ 8じに。
+韓 A: 그래. 아침 8시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我拿cake和衣服去。
+英 A: I take cake and clothes.
+法 A: Je prends du gâteau et des vêtements.
+日 A: ケーキと ふくを もって いく。
+韓 A: 나는 케이크랑 옷 가져갈게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。早上 3 點見。
+英 A: Ok. See you at 3 in the morning.
+法 A: Ok. À 3 heures du matin.
+日 A: いいよ。 あさ 3じに。
+韓 A: 그래. 아침 3시에 보자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿cake和衣服去。
+英 A: I take cake and clothes.
+法 A: Je prends du gâteau et des vêtements.
+日 A: ケーキと ふくを もって いく。
+韓 A: 나는 케이크랑 옷 가져갈게.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。6 點在家見。
+英 A: Ok. See you at home at 6.
+法 A: Ok. À la maison à 6 heures.
+日 A: いいよ。 6じに いえで。
+韓 A: 그래. 6시에 집에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。12 點在車站見。
+英 A: Ok. See you at the station at 12.
+法 A: Ok. À la gare à 12 heures.
+日 A: いいよ。 12じに えきで。
+韓 A: 그래. 12시에 역에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。1 點在restaurant見。
+英 A: Ok. See you at the restaurant at 1.
+法 A: Ok. À le restaurant à 1 heures.
+日 A: いいよ。 1じに レストランで。
+韓 A: 그래. 1시에 식당에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿茶和花去。
+英 A: I take tea and flowers.
+法 A: Je prends du thé et des fleurs.
+日 A: おちゃと はなを もって いく。
+韓 A: 나는 차랑 꽃 가져갈게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。早上 2 點見。
+英 A: Ok. See you at 2 in the morning.
+法 A: Ok. À 2 heures du matin.
+日 A: いいよ。 あさ 2じに。
+韓 A: 그래. 아침 2시에 보자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。7 點在park見。
+英 A: Ok. See you at park at 7.
+法 A: Ok. À parc à 7 heures.
+日 A: いいよ。 7じに parkで。
+韓 A: 그래. 7시에 공원에서 보자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。5 點在market見。
+英 B: Ok. See you at market at 5.
+法 B: Ok. À marché à 5 heures.
+日 B: いいよ。 5じに marketで。
+韓 B: 그래. 5시에 시장에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 我拿魚和medicine去。
+英 B: I take fish and medicine.
+法 B: Je prends du poisson et un médicament.
+日 B: さかなと くすりを もって いく。
+韓 B: 나는 물고기랑 약 가져갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。早上 3 點見。
+英 B: Ok. See you at 3 in the morning.
+法 B: Ok. À 3 heures du matin.
+日 B: いいよ。 あさ 3じに。
+韓 B: 그래. 아침 3시에 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。5 點在restaurant見。
+英 B: Ok. See you at the restaurant at 5.
+法 B: Ok. À le restaurant à 5 heures.
+日 B: いいよ。 5じに レストランで。
+韓 B: 그래. 5시에 식당에서 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。7 點在店見。
+英 A: Ok. See you at the shop at 7.
+法 A: Ok. À la boutique à 7 heures.
+日 A: いいよ。 7じに みせで。
+韓 A: 그래. 7시에 가게에서 보자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿水果和球去。
+英 A: I take fruit and a ball.
+法 A: Je prends des fruits et un ballon.
+日 A: くだものと ボールを もって いく。
+韓 A: 나는 과일랑 공 가져갈게.
+
+中 B: 好。早上 9 點見。
+英 B: Ok. See you at 9 in the morning.
+法 B: Ok. À 9 heures du matin.
+日 B: いいよ。 あさ 9じに。
+韓 B: 그래. 아침 9시에 보자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去海邊玩吧。
+英 A: We go to the sea on the weekend.
+法 A: Allons à la mer ce weekend.
+日 A: しゅうまつ うみへ あそびに いこう。
+韓 A: 주말에 바다에 놀러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我拿茶和鳥去。
+英 A: I take tea and birds.
+法 A: Je prends du thé et des oiseaux.
+日 A: おちゃと とりを もって いく。
+韓 A: 나는 차랑 새 가져갈게.
+
+中 B: 好。早上 5 點見。
+英 B: Ok. See you at 5 in the morning.
+法 B: Ok. À 5 heures du matin.
+日 B: いいよ。 あさ 5じに。
+韓 B: 그래. 아침 5시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿水果和umbrella去。
+英 B: I take fruit and umbrella.
+法 B: Je prends des fruits et un parapluie.
+日 B: くだものと かさを もって いく。
+韓 B: 나는 과일랑 우산 가져갈게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。早上 7 點見。
+英 B: Ok. See you at 7 in the morning.
+法 B: Ok. À 7 heures du matin.
+日 B: いいよ。 あさ 7じに。
+韓 B: 그래. 아침 7시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿茶和medicine去。
+英 A: I take tea and medicine.
+法 A: Je prends du thé et un médicament.
+日 A: おちゃと くすりを もって いく。
+韓 A: 나는 차랑 약 가져갈게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。早上 6 點見。
+英 A: Ok. See you at 6 in the morning.
+法 A: Ok. À 6 heures du matin.
+日 A: いいよ。 あさ 6じに。
+韓 A: 그래. 아침 6시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿cake和衣服去。
+英 A: I take cake and clothes.
+法 A: Je prends du gâteau et des vêtements.
+日 A: ケーキと ふくを もって いく。
+韓 A: 나는 케이크랑 옷 가져갈게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。早上 1 點見。
+英 A: Ok. See you at 1 in the morning.
+法 A: Ok. À 1 heures du matin.
+日 A: いいよ。 あさ 1じに。
+韓 A: 그래. 아침 1시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。9 點在market見。
+英 A: Ok. See you at market at 9.
+法 A: Ok. À marché à 9 heures.
+日 A: いいよ。 9じに marketで。
+韓 A: 그래. 9시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。8 點在market見。
+英 B: Ok. See you at market at 8.
+法 B: Ok. À marché à 8 heures.
+日 B: いいよ。 8じに marketで。
+韓 B: 그래. 8시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿蛋和電話去。
+英 A: I take eggs and phone.
+法 A: Je prends des œufs et le téléphone.
+日 A: たまごと でんわを もって いく。
+韓 A: 나는 달걀랑 전화 가져갈게.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。1 點在車站見。
+英 A: Ok. See you at the station at 1.
+法 A: Ok. À la gare à 1 heures.
+日 A: いいよ。 1じに えきで。
+韓 A: 그래. 1시에 역에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿菜和錢去。
+英 A: I take food and money.
+法 A: Je prends de la nourriture et l'argent.
+日 A: やさいと お金を もって いく。
+韓 A: 나는 요리랑 돈 가져갈게.
+
+中 B: 好。早上 12 點見。
+英 B: Ok. See you at 12 in the morning.
+法 B: Ok. À 12 heures du matin.
+日 B: いいよ。 あさ 12じに。
+韓 B: 그래. 아침 12시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 我拿飯和鳥去。
+英 B: I take rice and birds.
+法 B: Je prends du riz et des oiseaux.
+日 B: ごはんと とりを もって いく。
+韓 B: 나는 밥랑 새 가져갈게.
+
+中 A: 好。早上 10 點見。
+英 A: Ok. See you at 10 in the morning.
+法 A: Ok. À 10 heures du matin.
+日 A: いいよ。 あさ 10じに。
+韓 A: 그래. 아침 10시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。9 點在店見。
+英 A: Ok. See you at the shop at 9.
+法 A: Ok. À la boutique à 9 heures.
+日 A: いいよ。 9じに みせで。
+韓 A: 그래. 9시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。1 點在店見。
+英 B: Ok. See you at the shop at 1.
+法 B: Ok. À la boutique à 1 heures.
+日 B: いいよ。 1じに みせで。
+韓 B: 그래. 1시에 가게에서 보자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我拿魚和花去。
+英 A: I take fish and flowers.
+法 A: Je prends du poisson et des fleurs.
+日 A: さかなと はなを もって いく。
+韓 A: 나는 물고기랑 꽃 가져갈게.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。12 點在market見。
+英 A: Ok. See you at market at 12.
+法 A: Ok. À marché à 12 heures.
+日 A: いいよ。 12じに marketで。
+韓 A: 그래. 12시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我要去看花。
+英 A: Ok. I want to see flowers.
+法 A: Ok. Je veux voir des fleurs.
+日 A: いいよ。 はなが みたい。
+韓 A: 그래. 나는 꽃 보고 싶어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我拿水和球去。
+英 A: I take water and a ball.
+法 A: Je prends de l'eau et un ballon.
+日 A: みずと ボールを もって いく。
+韓 A: 나는 물랑 공 가져갈게.
+
+中 B: 好。早上 7 點見。
+英 B: Ok. See you at 7 in the morning.
+法 B: Ok. À 7 heures du matin.
+日 B: いいよ。 あさ 7じに。
+韓 B: 그래. 아침 7시에 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去park玩吧。
+英 A: We go to park on the weekend.
+法 A: Allons à parc ce weekend.
+日 A: しゅうまつ parkへ あそびに いこう。
+韓 A: 주말에 공원에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿bread和花去。
+英 A: I take bread and flowers.
+法 A: Je prends du pain et des fleurs.
+日 A: パンと はなを もって いく。
+韓 A: 나는 빵랑 꽃 가져갈게.
+
+中 B: 好。早上 7 點見。
+英 B: Ok. See you at 7 in the morning.
+法 B: Ok. À 7 heures du matin.
+日 B: いいよ。 あさ 7じに。
+韓 B: 그래. 아침 7시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。2 點在market見。
+英 A: Ok. See you at market at 2.
+法 A: Ok. À marché à 2 heures.
+日 A: いいよ。 2じに marketで。
+韓 A: 그래. 2시에 시장에서 보자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去車站玩吧。
+英 A: We go to the station on the weekend.
+法 A: Allons à la gare ce weekend.
+日 A: しゅうまつ えきへ あそびに いこう。
+韓 A: 주말에 역에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我拿bread和花去。
+英 B: I take bread and flowers.
+法 B: Je prends du pain et des fleurs.
+日 B: パンと はなを もって いく。
+韓 B: 나는 빵랑 꽃 가져갈게.
+
+中 A: 好。早上 12 點見。
+英 A: Ok. See you at 12 in the morning.
+法 A: Ok. À 12 heures du matin.
+日 A: いいよ。 あさ 12じに。
+韓 A: 그래. 아침 12시에 보자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。9 點在海邊見。
+英 B: Ok. See you at the sea at 9.
+法 B: Ok. À la mer à 9 heures.
+日 B: いいよ。 9じに うみで。
+韓 B: 그래. 9시에 바다에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。7 點在海邊見。
+英 B: Ok. See you at the sea at 7.
+法 B: Ok. À la mer à 7 heures.
+日 B: いいよ。 7じに うみで。
+韓 B: 그래. 7시에 바다에서 보자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 我拿菜和電話去。
+英 B: I take food and phone.
+法 B: Je prends de la nourriture et le téléphone.
+日 B: やさいと でんわを もって いく。
+韓 B: 나는 요리랑 전화 가져갈게.
+
+中 A: 好。早上 4 點見。
+英 A: Ok. See you at 4 in the morning.
+法 A: Ok. À 4 heures du matin.
+日 A: いいよ。 あさ 4じに。
+韓 A: 그래. 아침 4시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去海邊玩吧。
+英 A: We go to the sea on the weekend.
+法 A: Allons à la mer ce weekend.
+日 A: しゅうまつ うみへ あそびに いこう。
+韓 A: 주말에 바다에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我拿茶和錢去。
+英 B: I take tea and money.
+法 B: Je prends du thé et l'argent.
+日 B: おちゃと お金を もって いく。
+韓 B: 나는 차랑 돈 가져갈게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。早上 4 點見。
+英 B: Ok. See you at 4 in the morning.
+法 B: Ok. À 4 heures du matin.
+日 B: いいよ。 あさ 4じに。
+韓 B: 그래. 아침 4시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去market玩吧。
+英 A: We go to market on the weekend.
+法 A: Allons à marché ce weekend.
+日 A: しゅうまつ marketへ あそびに いこう。
+韓 A: 주말에 시장에 놀러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 我拿茶和umbrella去。
+英 B: I take tea and umbrella.
+法 B: Je prends du thé et un parapluie.
+日 B: おちゃと かさを もって いく。
+韓 B: 나는 차랑 우산 가져갈게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。早上 8 點見。
+英 B: Ok. See you at 8 in the morning.
+法 B: Ok. À 8 heures du matin.
+日 B: いいよ。 あさ 8じに。
+韓 B: 그래. 아침 8시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿魚和書去。
+英 A: I take fish and a book.
+法 A: Je prends du poisson et un livre.
+日 A: さかなと ほんを もって いく。
+韓 A: 나는 물고기랑 책 가져갈게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。早上 3 點見。
+英 A: Ok. See you at 3 in the morning.
+法 A: Ok. À 3 heures du matin.
+日 A: いいよ。 あさ 3じに。
+韓 A: 그래. 아침 3시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我拿菜和電話去。
+英 B: I take food and phone.
+法 B: Je prends de la nourriture et le téléphone.
+日 B: やさいと でんわを もって いく。
+韓 B: 나는 요리랑 전화 가져갈게.
+
+中 A: 好。早上 9 點見。
+英 A: Ok. See you at 9 in the morning.
+法 A: Ok. À 9 heures du matin.
+日 A: いいよ。 あさ 9じに。
+韓 A: 그래. 아침 9시에 보자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 我拿bread和鳥去。
+英 A: I take bread and birds.
+法 A: Je prends du pain et des oiseaux.
+日 A: パンと とりを もって いく。
+韓 A: 나는 빵랑 새 가져갈게.
+
+中 B: 好。早上 6 點見。
+英 B: Ok. See you at 6 in the morning.
+法 B: Ok. À 6 heures du matin.
+日 B: いいよ。 あさ 6じに。
+韓 B: 그래. 아침 6시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿水和鳥去。
+英 A: I take water and birds.
+法 A: Je prends de l'eau et des oiseaux.
+日 A: みずと とりを もって いく。
+韓 A: 나는 물랑 새 가져갈게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。早上 2 點見。
+英 A: Ok. See you at 2 in the morning.
+法 A: Ok. À 2 heures du matin.
+日 A: いいよ。 あさ 2じに。
+韓 A: 그래. 아침 2시에 보자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我拿菜和medicine去。
+英 B: I take food and medicine.
+法 B: Je prends de la nourriture et un médicament.
+日 B: やさいと くすりを もって いく。
+韓 B: 나는 요리랑 약 가져갈게.
+
+中 A: 好。早上 7 點見。
+英 A: Ok. See you at 7 in the morning.
+法 A: Ok. À 7 heures du matin.
+日 A: いいよ。 あさ 7じに。
+韓 A: 그래. 아침 7시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去restaurant玩吧。
+英 A: We go to the restaurant on the weekend.
+法 A: Allons à le restaurant ce weekend.
+日 A: しゅうまつ レストランへ あそびに いこう。
+韓 A: 주말에 식당에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我拿魚和umbrella去。
+英 B: I take fish and umbrella.
+法 B: Je prends du poisson et un parapluie.
+日 B: さかなと かさを もって いく。
+韓 B: 나는 물고기랑 우산 가져갈게.
+
+中 A: 好。早上 4 點見。
+英 A: Ok. See you at 4 in the morning.
+法 A: Ok. À 4 heures du matin.
+日 A: いいよ。 あさ 4じに。
+韓 A: 그래. 아침 4시에 보자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去hospital玩吧。
+英 A: We go to hospital on the weekend.
+法 A: Allons à hôpital ce weekend.
+日 A: しゅうまつ びょういんへ あそびに いこう。
+韓 A: 주말에 병원에 놀러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我拿菜和錢去。
+英 A: I take food and money.
+法 A: Je prends de la nourriture et l'argent.
+日 A: やさいと お金を もって いく。
+韓 A: 나는 요리랑 돈 가져갈게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。早上 12 點見。
+英 A: Ok. See you at 12 in the morning.
+法 A: Ok. À 12 heures du matin.
+日 A: いいよ。 あさ 12じに。
+韓 A: 그래. 아침 12시에 보자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。7 點在家見。
+英 B: Ok. See you at home at 7.
+法 B: Ok. À la maison à 7 heures.
+日 B: いいよ。 7じに いえで。
+韓 B: 그래. 7시에 집에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。7 點在hospital見。
+英 A: Ok. See you at hospital at 7.
+法 A: Ok. À hôpital à 7 heures.
+日 A: いいよ。 7じに びょういんで。
+韓 A: 그래. 7시에 병원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。我要去看umbrella。
+英 B: Ok. I want to see umbrella.
+法 B: Ok. Je veux voir un parapluie.
+日 B: いいよ。 かさが みたい。
+韓 B: 그래. 나는 우산 보고 싶어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我拿cake和medicine去。
+英 B: I take cake and medicine.
+法 B: Je prends du gâteau et un médicament.
+日 B: ケーキと くすりを もって いく。
+韓 B: 나는 케이크랑 약 가져갈게.
+
+中 A: 好。早上 2 點見。
+英 A: Ok. See you at 2 in the morning.
+法 A: Ok. À 2 heures du matin.
+日 A: いいよ。 あさ 2じに。
+韓 A: 그래. 아침 2시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。12 點在restaurant見。
+英 A: Ok. See you at the restaurant at 12.
+法 A: Ok. À le restaurant à 12 heures.
+日 A: いいよ。 12じに レストランで。
+韓 A: 그래. 12시에 식당에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去家玩吧。
+英 A: We go to home on the weekend.
+法 A: Allons à la maison ce weekend.
+日 A: しゅうまつ いえへ あそびに いこう。
+韓 A: 주말에 집에 놀러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我拿茶和電話去。
+英 A: I take tea and phone.
+法 A: Je prends du thé et le téléphone.
+日 A: おちゃと でんわを もって いく。
+韓 A: 나는 차랑 전화 가져갈게.
+
+中 B: 好。早上 5 點見。
+英 B: Ok. See you at 5 in the morning.
+法 B: Ok. À 5 heures du matin.
+日 B: いいよ。 あさ 5じに。
+韓 B: 그래. 아침 5시에 보자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。7 點在家見。
+英 B: Ok. See you at home at 7.
+法 B: Ok. À la maison à 7 heures.
+日 B: いいよ。 7じに いえで。
+韓 B: 그래. 7시에 집에서 보자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我拿水和球去。
+英 B: I take water and a ball.
+法 B: Je prends de l'eau et un ballon.
+日 B: みずと ボールを もって いく。
+韓 B: 나는 물랑 공 가져갈게.
+
+中 A: 好。早上 12 點見。
+英 A: Ok. See you at 12 in the morning.
+法 A: Ok. À 12 heures du matin.
+日 A: いいよ。 あさ 12じに。
+韓 A: 그래. 아침 12시에 보자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。9 點在店見。
+英 B: Ok. See you at the shop at 9.
+法 B: Ok. À la boutique à 9 heures.
+日 B: いいよ。 9じに みせで。
+韓 B: 그래. 9시에 가게에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 我們去打球吧。
+英 B: We go to play ball.
+法 B: On va jouer au ballon.
+日 B: ボールを あそびに いこう。
+韓 B: 공 하러 가자.
+
+中 A: 好。12 點在market見。
+英 A: Ok. See you at market at 12.
+法 A: Ok. À marché à 12 heures.
+日 A: いいよ。 12じに marketで。
+韓 A: 그래. 12시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。5 點在restaurant見。
+英 B: Ok. See you at the restaurant at 5.
+法 B: Ok. À le restaurant à 5 heures.
+日 B: いいよ。 5じに レストランで。
+韓 B: 그래. 5시에 식당에서 보자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。海很綠。
+英 A: Ok. The sea is very green.
+法 A: Ok. La mer est très vert.
+日 A: いいよ。 うみは とても みどり。
+韓 A: 그래. 바다가 아주 초록야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去店玩吧。
+英 A: We go to the shop on the weekend.
+法 A: Allons à la boutique ce weekend.
+日 A: しゅうまつ みせへ あそびに いこう。
+韓 A: 주말에 가게에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我拿魚和書去。
+英 B: I take fish and a book.
+法 B: Je prends du poisson et un livre.
+日 B: さかなと ほんを もって いく。
+韓 B: 나는 물고기랑 책 가져갈게.
+
+中 A: 好。早上 9 點見。
+英 A: Ok. See you at 9 in the morning.
+法 A: Ok. À 9 heures du matin.
+日 A: いいよ。 あさ 9じに。
+韓 A: 그래. 아침 9시에 보자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。10 點在market見。
+英 B: Ok. See you at market at 10.
+法 B: Ok. À marché à 10 heures.
+日 B: いいよ。 10じに marketで。
+韓 B: 그래. 10시에 시장에서 보자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我要去看鳥。
+英 A: Ok. I want to see birds.
+法 A: Ok. Je veux voir des oiseaux.
+日 A: いいよ。 とりが みたい。
+韓 A: 그래. 나는 새 보고 싶어.
+
+中 B: 我拿蛋和錢去。
+英 B: I take eggs and money.
+法 B: Je prends des œufs et l'argent.
+日 B: たまごと お金を もって いく。
+韓 B: 나는 달걀랑 돈 가져갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。早上 4 點見。
+英 B: Ok. See you at 4 in the morning.
+法 B: Ok. À 4 heures du matin.
+日 B: いいよ。 あさ 4じに。
+韓 B: 그래. 아침 4시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 好。11 點在market見。
+英 B: Ok. See you at market at 11.
+法 B: Ok. À marché à 11 heures.
+日 B: いいよ。 11じに marketで。
+韓 B: 그래. 11시에 시장에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很藍。
+英 B: Ok. The sea is very blue.
+法 B: Ok. La mer est très bleu.
+日 B: いいよ。 うみは とても あおい。
+韓 B: 그래. 바다가 아주 파란야.
+
+中 A: 我喜歡看海。
+英 A: I like to look at the sea.
+法 A: J'aime regarder la mer.
+日 A: うみを みるのが すきだ。
+韓 A: 나는 바다 보는 걸 좋아해.
+
+中 B: 我也是。下次再來。
+英 B: Me too. We come again next time.
+法 B: Moi aussi. On revient la prochaine fois.
+日 B: わたしも。 つぎも こよう。
+韓 B: 나도. 다음에 또 오자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去海邊玩吧。
+英 A: We go to the sea on the weekend.
+法 A: Allons à la mer ce weekend.
+日 A: しゅうまつ うみへ あそびに いこう。
+韓 A: 주말에 바다에 놀러 가자.
+
+中 B: 好。我要去看花。
+英 B: Ok. I want to see flowers.
+法 B: Ok. Je veux voir des fleurs.
+日 B: いいよ。 はなが みたい。
+韓 B: 그래. 나는 꽃 보고 싶어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我拿魚和電話去。
+英 B: I take fish and phone.
+法 B: Je prends du poisson et le téléphone.
+日 B: さかなと でんわを もって いく。
+韓 B: 나는 물고기랑 전화 가져갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。早上 2 點見。
+英 B: Ok. See you at 2 in the morning.
+法 B: Ok. À 2 heures du matin.
+日 B: いいよ。 あさ 2じに。
+韓 B: 그래. 아침 2시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 有。怎麼了？
+英 A: Yes. Why?
+法 A: Oui. Pourquoi ?
+日 A: あるよ。 どうした？
+韓 A: 있어. 왜?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。10 點在hospital見。
+英 A: Ok. See you at hospital at 10.
+法 A: Ok. À hôpital à 10 heures.
+日 A: いいよ。 10じに びょういんで。
+韓 A: 그래. 10시에 병원에서 보자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。3 點在park見。
+英 A: Ok. See you at park at 3.
+法 A: Ok. À parc à 3 heures.
+日 A: いいよ。 3じに parkで。
+韓 A: 그래. 3시에 공원에서 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。海很綠。
+英 B: Ok. The sea is very green.
+法 B: Ok. La mer est très vert.
+日 B: いいよ。 うみは とても みどり。
+韓 B: 그래. 바다가 아주 초록야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去market玩吧。
+英 A: We go to market on the weekend.
+法 A: Allons à marché ce weekend.
+日 A: しゅうまつ marketへ あそびに いこう。
+韓 A: 주말에 시장에 놀러 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我要去看umbrella。
+英 A: Ok. I want to see umbrella.
+法 A: Ok. Je veux voir un parapluie.
+日 A: いいよ。 かさが みたい。
+韓 A: 그래. 나는 우산 보고 싶어.
+
+中 B: 我拿水果和錢去。
+英 B: I take fruit and money.
+法 B: Je prends des fruits et l'argent.
+日 B: くだものと お金を もって いく。
+韓 B: 나는 과일랑 돈 가져갈게.
+
+中 A: 好。早上 5 點見。
+英 A: Ok. See you at 5 in the morning.
+法 A: Ok. À 5 heures du matin.
+日 A: いいよ。 あさ 5じに。
+韓 A: 그래. 아침 5시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: weekend 我們去學校玩吧。
+英 A: We go to school on the weekend.
+法 A: Allons à école ce weekend.
+日 A: しゅうまつ がっこうへ あそびに いこう。
+韓 A: 주말에 학교에 놀러 가자.
+
+中 B: 好。我要去看鳥。
+英 B: Ok. I want to see birds.
+法 B: Ok. Je veux voir des oiseaux.
+日 B: いいよ。 とりが みたい。
+韓 B: 그래. 나는 새 보고 싶어.
+
+中 A: 我拿肉和medicine去。
+英 A: I take meat and medicine.
+法 A: Je prends de la viande et un médicament.
+日 A: にくと くすりを もって いく。
+韓 A: 나는 고기랑 약 가져갈게.
+
+中 B: 好。早上 11 點見。
+英 B: Ok. See you at 11 in the morning.
+法 B: Ok. À 11 heures du matin.
+日 B: いいよ。 あさ 11じに。
+韓 B: 그래. 아침 11시에 보자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去海邊吧。
+英 A: We go to the sea.
+法 A: Allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。海很藍。
+英 A: Ok. The sea is very blue.
+法 A: Ok. La mer est très bleu.
+日 A: いいよ。 うみは とても あおい。
+韓 A: 그래. 바다가 아주 파란야.
+
+中 B: 我喜歡看海。
+英 B: I like to look at the sea.
+法 B: J'aime regarder la mer.
+日 B: うみを みるのが すきだ。
+韓 B: 나는 바다 보는 걸 좋아해.
+
+中 A: 我也是。下次再來。
+英 A: Me too. We come again next time.
+法 A: Moi aussi. On revient la prochaine fois.
+日 A: わたしも。 つぎも こよう。
+韓 A: 나도. 다음에 또 오자.
+
+
+# mini-x 合成多語對話：outing（由 llm/generate_corpus.py 產生）
+
+中 A: 明天你有空嗎？
+英 A: Are you free tomorrow?
+法 A: Es-tu libre demain ?
+日 A: あした ひま？
+韓 A: 내일 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. Why?
+法 B: Oui. Pourquoi ?
+日 B: あるよ。 どうした？
+韓 B: 있어. 왜?
+
+中 A: 我們去打球吧。
+英 A: We go to play ball.
+法 A: On va jouer au ballon.
+日 A: ボールを あそびに いこう。
+韓 A: 공 하러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。2 點在車站見。
+英 A: Ok. See you at the station at 2.
+法 A: Ok. À la gare à 2 heures.
+日 A: いいよ。 2じに えきで。
+韓 A: 그래. 2시에 역에서 보자.

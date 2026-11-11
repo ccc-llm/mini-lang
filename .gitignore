@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# rucloud 本機狀態（D1 檔案等）
+cloudflare/.rucloud/
+.rucloud/

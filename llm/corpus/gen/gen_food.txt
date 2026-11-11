@@ -1,0 +1,11392 @@
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 8 個水果。
+英 B: I want 8 fruit.
+法 B: Je veux 8 des fruits.
+日 B: くだものを 8 つ。
+韓 B: 과일 8개.
+
+中 A: 我要水。還要 1 個飯。
+英 A: I want water. Also 1 rice.
+法 A: Je veux de l'eau. Et 1 riz.
+日 A: みずが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 4 個蛋。
+英 B: I want 4 eggs.
+法 B: Je veux 4 des œufs.
+日 B: たまごを 4 つ。
+韓 B: 달걀 4개.
+
+中 A: 我要菜。還要 1 個飯。
+英 A: I want food. Also 1 rice.
+法 A: Je veux de la nourriture. Et 1 riz.
+日 A: やさいが ほしい。 ごはんも 1 つ。
+韓 A: 나는 요리 먹을래. 밥도 1개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣蛋、茶和 soup。
+英 B: They sell eggs, tea and soup.
+法 B: Ils vendent des œufs, du thé et de la soupe.
+日 B: たまごと おちゃと soupを うって いる。
+韓 B: 달걀랑 차, soup을 팔아.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 7 個茶。
+英 A: I want 7 tea.
+法 A: Je veux 7 du thé.
+日 A: おちゃを 7 つ。
+韓 A: 차 7개.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要肉。還要 1 個飯。
+英 A: I want meat. Also 1 rice.
+法 A: Je veux de la viande. Et 1 riz.
+日 A: にくが ほしい。 ごはんも 1 つ。
+韓 A: 나는 고기 먹을래. 밥도 1개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個cake。
+英 B: I want 9 cake.
+法 B: Je veux 9 du gâteau.
+日 B: ケーキを 9 つ。
+韓 B: 케이크 9개.
+
+中 A: 我要cake。還要 1 個飯。
+英 A: I want cake. Also 1 rice.
+法 A: Je veux du gâteau. Et 1 riz.
+日 A: ケーキが ほしい。 ごはんも 1 つ。
+韓 A: 나는 케이크 먹을래. 밥도 1개.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 4 個菜。
+英 B: I want 4 food.
+法 B: Je veux 4 de la nourriture.
+日 B: やさいを 4 つ。
+韓 B: 요리 4개.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要蛋。還要 1 個飯。
+英 B: I want eggs. Also 1 rice.
+法 B: Je veux des œufs. Et 1 riz.
+日 B: たまごが ほしい。 ごはんも 1 つ。
+韓 B: 나는 달걀 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣bread、肉和 soup。
+英 B: They sell bread, meat and soup.
+法 B: Ils vendent du pain, de la viande et de la soupe.
+日 B: パンと にくと soupを うって いる。
+韓 B: 빵랑 고기, soup을 팔아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個茶。
+英 B: I want 9 tea.
+法 B: Je veux 9 du thé.
+日 B: おちゃを 9 つ。
+韓 B: 차 9개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個飯。
+英 B: I want 9 rice.
+法 B: Je veux 9 du riz.
+日 B: ごはんを 9 つ。
+韓 B: 밥 9개.
+
+中 A: 我要飯。還要 1 個飯。
+英 A: I want rice. Also 1 rice.
+法 A: Je veux du riz. Et 1 riz.
+日 A: ごはんが ほしい。 ごはんも 1 つ。
+韓 A: 나는 밥 먹을래. 밥도 1개.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 賣肉、bread和 soup。
+英 A: They sell meat, bread and soup.
+法 A: Ils vendent de la viande, du pain et de la soupe.
+日 A: にくと パンと soupを うって いる。
+韓 A: 고기랑 빵, soup을 팔아.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個菜。
+英 B: I want 7 food.
+法 B: Je veux 7 de la nourriture.
+日 B: やさいを 7 つ。
+韓 B: 요리 7개.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要水。還要 1 個飯。
+英 B: I want water. Also 1 rice.
+法 B: Je veux de l'eau. Et 1 riz.
+日 B: みずが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我要 7 個茶。
+英 A: I want 7 tea.
+法 A: Je veux 7 du thé.
+日 A: おちゃを 7 つ。
+韓 A: 차 7개.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣蛋、肉和 soup。
+英 A: They sell eggs, meat and soup.
+法 A: Ils vendent des œufs, de la viande et de la soupe.
+日 A: たまごと にくと soupを うって いる。
+韓 A: 달걀랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 5 個菜。
+英 B: I want 5 food.
+法 B: Je veux 5 de la nourriture.
+日 B: やさいを 5 つ。
+韓 B: 요리 5개.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣蛋、cake和 soup。
+英 A: They sell eggs, cake and soup.
+法 A: Ils vendent des œufs, du gâteau et de la soupe.
+日 A: たまごと ケーキと soupを うって いる。
+韓 A: 달걀랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個bread。
+英 B: I want 9 bread.
+法 B: Je veux 9 du pain.
+日 B: パンを 9 つ。
+韓 B: 빵 9개.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個蛋。
+英 B: I want 2 eggs.
+法 B: Je veux 2 des œufs.
+日 B: たまごを 2 つ。
+韓 B: 달걀 2개.
+
+中 A: 我要cake。還要 1 個飯。
+英 A: I want cake. Also 1 rice.
+法 A: Je veux du gâteau. Et 1 riz.
+日 A: ケーキが ほしい。 ごはんも 1 つ。
+韓 A: 나는 케이크 먹을래. 밥도 1개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣魚、bread和 soup。
+英 A: They sell fish, bread and soup.
+法 A: Ils vendent du poisson, du pain et de la soupe.
+日 A: さかなと パンと soupを うって いる。
+韓 A: 물고기랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個bread。
+英 B: I want 3 bread.
+法 B: Je veux 3 du pain.
+日 B: パンを 3 つ。
+韓 B: 빵 3개.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個菜。
+英 B: I want 2 food.
+法 B: Je veux 2 de la nourriture.
+日 B: やさいを 2 つ。
+韓 B: 요리 2개.
+
+中 A: 我要茶。還要 1 個飯。
+英 A: I want tea. Also 1 rice.
+法 A: Je veux du thé. Et 1 riz.
+日 A: おちゃが ほしい。 ごはんも 1 つ。
+韓 A: 나는 차 먹을래. 밥도 1개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 賣水、菜和 soup。
+英 A: They sell water, food and soup.
+法 A: Ils vendent de l'eau, de la nourriture et de la soupe.
+日 A: みずと やさいと soupを うって いる。
+韓 A: 물랑 요리, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 賣飯、蛋和 soup。
+英 A: They sell rice, eggs and soup.
+法 A: Ils vendent du riz, des œufs et de la soupe.
+日 A: ごはんと たまごと soupを うって いる。
+韓 A: 밥랑 달걀, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個蛋。
+英 B: I want 9 eggs.
+法 B: Je veux 9 des œufs.
+日 B: たまごを 9 つ。
+韓 B: 달걀 9개.
+
+中 A: 我要魚。還要 1 個飯。
+英 A: I want fish. Also 1 rice.
+法 A: Je veux du poisson. Et 1 riz.
+日 A: さかなが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물고기 먹을래. 밥도 1개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個水。
+英 B: I want 1 water.
+法 B: Je veux 1 de l'eau.
+日 B: みずを 1 つ。
+韓 B: 물 1개.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要bread。還要 1 個飯。
+英 B: I want bread. Also 1 rice.
+法 B: Je veux du pain. Et 1 riz.
+日 B: パンが ほしい。 ごはんも 1 つ。
+韓 B: 나는 빵 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 賣魚、cake和 soup。
+英 B: They sell fish, cake and soup.
+法 B: Ils vendent du poisson, du gâteau et de la soupe.
+日 B: さかなと ケーキと soupを うって いる。
+韓 B: 물고기랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要 2 個水。
+英 A: I want 2 water.
+法 A: Je veux 2 de l'eau.
+日 A: みずを 2 つ。
+韓 A: 물 2개.
+
+中 B: 我要蛋。還要 1 個飯。
+英 B: I want eggs. Also 1 rice.
+法 B: Je veux des œufs. Et 1 riz.
+日 B: たまごが ほしい。 ごはんも 1 つ。
+韓 B: 나는 달걀 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 4 個茶。
+英 B: I want 4 tea.
+法 B: Je veux 4 du thé.
+日 B: おちゃを 4 つ。
+韓 B: 차 4개.
+
+中 A: 我要菜。還要 1 個飯。
+英 A: I want food. Also 1 rice.
+法 A: Je veux de la nourriture. Et 1 riz.
+日 A: やさいが ほしい。 ごはんも 1 つ。
+韓 A: 나는 요리 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣菜、水果和 soup。
+英 A: They sell food, fruit and soup.
+法 A: Ils vendent de la nourriture, des fruits et de la soupe.
+日 A: やさいと くだものと soupを うって いる。
+韓 A: 요리랑 과일, soup을 팔아.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣飯、cake和 soup。
+英 B: They sell rice, cake and soup.
+法 B: Ils vendent du riz, du gâteau et de la soupe.
+日 B: ごはんと ケーキと soupを うって いる。
+韓 B: 밥랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水、飯和 soup。
+英 B: They sell water, rice and soup.
+法 B: Ils vendent de l'eau, du riz et de la soupe.
+日 B: みずと ごはんと soupを うって いる。
+韓 B: 물랑 밥, soup을 팔아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 賣蛋、bread和 soup。
+英 B: They sell eggs, bread and soup.
+法 B: Ils vendent des œufs, du pain et de la soupe.
+日 B: たまごと パンと soupを うって いる。
+韓 B: 달걀랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個肉。
+英 B: I want 9 meat.
+法 B: Je veux 9 de la viande.
+日 B: にくを 9 つ。
+韓 B: 고기 9개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣cake、水果和 soup。
+英 A: They sell cake, fruit and soup.
+法 A: Ils vendent du gâteau, des fruits et de la soupe.
+日 A: ケーキと くだものと soupを うって いる。
+韓 A: 케이크랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個飯。
+英 B: I want 2 rice.
+法 B: Je veux 2 du riz.
+日 B: ごはんを 2 つ。
+韓 B: 밥 2개.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 賣水果、茶和 soup。
+英 B: They sell fruit, tea and soup.
+法 B: Ils vendent des fruits, du thé et de la soupe.
+日 B: くだものと おちゃと soupを うって いる。
+韓 B: 과일랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水、肉和 soup。
+英 B: They sell water, meat and soup.
+法 B: Ils vendent de l'eau, de la viande et de la soupe.
+日 B: みずと にくと soupを うって いる。
+韓 B: 물랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個肉。
+英 B: I want 7 meat.
+法 B: Je veux 7 de la viande.
+日 B: にくを 7 つ。
+韓 B: 고기 7개.
+
+中 A: 我要水。還要 1 個飯。
+英 A: I want water. Also 1 rice.
+法 A: Je veux de l'eau. Et 1 riz.
+日 A: みずが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要 8 個飯。
+英 A: I want 8 rice.
+法 A: Je veux 8 du riz.
+日 A: ごはんを 8 つ。
+韓 A: 밥 8개.
+
+中 B: 我要水果。還要 1 個飯。
+英 B: I want fruit. Also 1 rice.
+法 B: Je veux des fruits. Et 1 riz.
+日 B: くだものが ほしい。 ごはんも 1 つ。
+韓 B: 나는 과일 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個cake。
+英 B: I want 2 cake.
+法 B: Je veux 2 du gâteau.
+日 B: ケーキを 2 つ。
+韓 B: 케이크 2개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣茶、菜和 soup。
+英 B: They sell tea, food and soup.
+法 B: Ils vendent du thé, de la nourriture et de la soupe.
+日 B: おちゃと やさいと soupを うって いる。
+韓 B: 차랑 요리, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣bread、茶和 soup。
+英 B: They sell bread, tea and soup.
+法 B: Ils vendent du pain, du thé et de la soupe.
+日 B: パンと おちゃと soupを うって いる。
+韓 B: 빵랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 8 個蛋。
+英 B: I want 8 eggs.
+法 B: Je veux 8 des œufs.
+日 B: たまごを 8 つ。
+韓 B: 달걀 8개.
+
+中 A: 我要茶。還要 1 個飯。
+英 A: I want tea. Also 1 rice.
+法 A: Je veux du thé. Et 1 riz.
+日 A: おちゃが ほしい。 ごはんも 1 つ。
+韓 A: 나는 차 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要 7 個水。
+英 A: I want 7 water.
+法 A: Je veux 7 de l'eau.
+日 A: みずを 7 つ。
+韓 A: 물 7개.
+
+中 B: 我要肉。還要 1 個飯。
+英 B: I want meat. Also 1 rice.
+法 B: Je veux de la viande. Et 1 riz.
+日 B: にくが ほしい。 ごはんも 1 つ。
+韓 B: 나는 고기 먹을래. 밥도 1개.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣cake、cake和 soup。
+英 A: They sell cake, cake and soup.
+法 A: Ils vendent du gâteau, du gâteau et de la soupe.
+日 A: ケーキと ケーキと soupを うって いる。
+韓 A: 케이크랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要 9 個飯。
+英 A: I want 9 rice.
+法 A: Je veux 9 du riz.
+日 A: ごはんを 9 つ。
+韓 A: 밥 9개.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要水果。還要 1 個飯。
+英 A: I want fruit. Also 1 rice.
+法 A: Je veux des fruits. Et 1 riz.
+日 A: くだものが ほしい。 ごはんも 1 つ。
+韓 A: 나는 과일 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣魚、肉和 soup。
+英 B: They sell fish, meat and soup.
+法 B: Ils vendent du poisson, de la viande et de la soupe.
+日 B: さかなと にくと soupを うって いる。
+韓 B: 물고기랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣cake、飯和 soup。
+英 B: They sell cake, rice and soup.
+法 B: Ils vendent du gâteau, du riz et de la soupe.
+日 B: ケーキと ごはんと soupを うって いる。
+韓 B: 케이크랑 밥, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣肉、魚和 soup。
+英 B: They sell meat, fish and soup.
+法 B: Ils vendent de la viande, du poisson et de la soupe.
+日 B: にくと さかなと soupを うって いる。
+韓 B: 고기랑 물고기, soup을 팔아.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣蛋、bread和 soup。
+英 B: They sell eggs, bread and soup.
+法 B: Ils vendent des œufs, du pain et de la soupe.
+日 B: たまごと パンと soupを うって いる。
+韓 B: 달걀랑 빵, soup을 팔아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個魚。
+英 B: I want 1 fish.
+法 B: Je veux 1 du poisson.
+日 B: さかなを 1 つ。
+韓 B: 물고기 1개.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個cake。
+英 B: I want 2 cake.
+法 B: Je veux 2 du gâteau.
+日 B: ケーキを 2 つ。
+韓 B: 케이크 2개.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣肉、蛋和 soup。
+英 A: They sell meat, eggs and soup.
+法 A: Ils vendent de la viande, des œufs et de la soupe.
+日 A: にくと たまごと soupを うって いる。
+韓 A: 고기랑 달걀, soup을 팔아.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣水、肉和 soup。
+英 A: They sell water, meat and soup.
+法 A: Ils vendent de l'eau, de la viande et de la soupe.
+日 A: みずと にくと soupを うって いる。
+韓 A: 물랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水、cake和 soup。
+英 B: They sell water, cake and soup.
+法 B: Ils vendent de l'eau, du gâteau et de la soupe.
+日 B: みずと ケーキと soupを うって いる。
+韓 B: 물랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要 7 個魚。
+英 A: I want 7 fish.
+法 A: Je veux 7 du poisson.
+日 A: さかなを 7 つ。
+韓 A: 물고기 7개.
+
+中 B: 我要菜。還要 1 個飯。
+英 B: I want food. Also 1 rice.
+法 B: Je veux de la nourriture. Et 1 riz.
+日 B: やさいが ほしい。 ごはんも 1 つ。
+韓 B: 나는 요리 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個bread。
+英 B: I want 3 bread.
+法 B: Je veux 3 du pain.
+日 B: パンを 3 つ。
+韓 B: 빵 3개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要 2 個肉。
+英 A: I want 2 meat.
+法 A: Je veux 2 de la viande.
+日 A: にくを 2 つ。
+韓 A: 고기 2개.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 賣菜、菜和 soup。
+英 B: They sell food, food and soup.
+法 B: Ils vendent de la nourriture, de la nourriture et de la soupe.
+日 B: やさいと やさいと soupを うって いる。
+韓 B: 요리랑 요리, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 4 個菜。
+英 B: I want 4 food.
+法 B: Je veux 4 de la nourriture.
+日 B: やさいを 4 つ。
+韓 B: 요리 4개.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要水果。還要 1 個飯。
+英 B: I want fruit. Also 1 rice.
+法 B: Je veux des fruits. Et 1 riz.
+日 B: くだものが ほしい。 ごはんも 1 つ。
+韓 B: 나는 과일 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 賣水、cake和 soup。
+英 B: They sell water, cake and soup.
+法 B: Ils vendent de l'eau, du gâteau et de la soupe.
+日 B: みずと ケーキと soupを うって いる。
+韓 B: 물랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣魚、肉和 soup。
+英 A: They sell fish, meat and soup.
+法 A: Ils vendent du poisson, de la viande et de la soupe.
+日 A: さかなと にくと soupを うって いる。
+韓 A: 물고기랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 8 個蛋。
+英 A: I want 8 eggs.
+法 A: Je veux 8 des œufs.
+日 A: たまごを 8 つ。
+韓 A: 달걀 8개.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 4 個蛋。
+英 A: I want 4 eggs.
+法 A: Je veux 4 des œufs.
+日 A: たまごを 4 つ。
+韓 A: 달걀 4개.
+
+中 B: 我要bread。還要 1 個飯。
+英 B: I want bread. Also 1 rice.
+法 B: Je veux du pain. Et 1 riz.
+日 B: パンが ほしい。 ごはんも 1 つ。
+韓 B: 나는 빵 먹을래. 밥도 1개.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個水果。
+英 B: I want 3 fruit.
+法 B: Je veux 3 des fruits.
+日 B: くだものを 3 つ。
+韓 B: 과일 3개.
+
+中 A: 我要飯。還要 1 個飯。
+英 A: I want rice. Also 1 rice.
+法 A: Je veux du riz. Et 1 riz.
+日 A: ごはんが ほしい。 ごはんも 1 つ。
+韓 A: 나는 밥 먹을래. 밥도 1개.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個魚。
+英 B: I want 7 fish.
+法 B: Je veux 7 du poisson.
+日 B: さかなを 7 つ。
+韓 B: 물고기 7개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個菜。
+英 B: I want 9 food.
+法 B: Je veux 9 de la nourriture.
+日 B: やさいを 9 つ。
+韓 B: 요리 9개.
+
+中 A: 我要菜。還要 1 個飯。
+英 A: I want food. Also 1 rice.
+法 A: Je veux de la nourriture. Et 1 riz.
+日 A: やさいが ほしい。 ごはんも 1 つ。
+韓 A: 나는 요리 먹을래. 밥도 1개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣飯、cake和 soup。
+英 A: They sell rice, cake and soup.
+法 A: Ils vendent du riz, du gâteau et de la soupe.
+日 A: ごはんと ケーキと soupを うって いる。
+韓 A: 밥랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣cake、魚和 soup。
+英 B: They sell cake, fish and soup.
+法 B: Ils vendent du gâteau, du poisson et de la soupe.
+日 B: ケーキと さかなと soupを うって いる。
+韓 B: 케이크랑 물고기, soup을 팔아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個飯。
+英 B: I want 2 rice.
+法 B: Je veux 2 du riz.
+日 B: ごはんを 2 つ。
+韓 B: 밥 2개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個水果。
+英 B: I want 2 fruit.
+法 B: Je veux 2 des fruits.
+日 B: くだものを 2 つ。
+韓 B: 과일 2개.
+
+中 A: 我要肉。還要 1 個飯。
+英 A: I want meat. Also 1 rice.
+法 A: Je veux de la viande. Et 1 riz.
+日 A: にくが ほしい。 ごはんも 1 つ。
+韓 A: 나는 고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 7 個菜。
+英 A: I want 7 food.
+法 A: Je veux 7 de la nourriture.
+日 A: やさいを 7 つ。
+韓 A: 요리 7개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 7 個菜。
+英 A: I want 7 food.
+法 A: Je veux 7 de la nourriture.
+日 A: やさいを 7 つ。
+韓 A: 요리 7개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要肉。還要 1 個飯。
+英 A: I want meat. Also 1 rice.
+法 A: Je veux de la viande. Et 1 riz.
+日 A: にくが ほしい。 ごはんも 1 つ。
+韓 A: 나는 고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣飯、cake和 soup。
+英 B: They sell rice, cake and soup.
+法 B: Ils vendent du riz, du gâteau et de la soupe.
+日 B: ごはんと ケーキと soupを うって いる。
+韓 B: 밥랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣cake、cake和 soup。
+英 B: They sell cake, cake and soup.
+法 B: Ils vendent du gâteau, du gâteau et de la soupe.
+日 B: ケーキと ケーキと soupを うって いる。
+韓 B: 케이크랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 賣水果、水果和 soup。
+英 B: They sell fruit, fruit and soup.
+法 B: Ils vendent des fruits, des fruits et de la soupe.
+日 B: くだものと くだものと soupを うって いる。
+韓 B: 과일랑 과일, soup을 팔아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣cake、水果和 soup。
+英 B: They sell cake, fruit and soup.
+法 B: Ils vendent du gâteau, des fruits et de la soupe.
+日 B: ケーキと くだものと soupを うって いる。
+韓 B: 케이크랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣魚、茶和 soup。
+英 A: They sell fish, tea and soup.
+法 A: Ils vendent du poisson, du thé et de la soupe.
+日 A: さかなと おちゃと soupを うって いる。
+韓 A: 물고기랑 차, soup을 팔아.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣菜、肉和 soup。
+英 A: They sell food, meat and soup.
+法 A: Ils vendent de la nourriture, de la viande et de la soupe.
+日 A: やさいと にくと soupを うって いる。
+韓 A: 요리랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣蛋、水和 soup。
+英 A: They sell eggs, water and soup.
+法 A: Ils vendent des œufs, de l'eau et de la soupe.
+日 A: たまごと みずと soupを うって いる。
+韓 A: 달걀랑 물, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個肉。
+英 B: I want 2 meat.
+法 B: Je veux 2 de la viande.
+日 B: にくを 2 つ。
+韓 B: 고기 2개.
+
+中 A: 我要bread。還要 1 個飯。
+英 A: I want bread. Also 1 rice.
+法 A: Je veux du pain. Et 1 riz.
+日 A: パンが ほしい。 ごはんも 1 つ。
+韓 A: 나는 빵 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 賣cake、肉和 soup。
+英 A: They sell cake, meat and soup.
+法 A: Ils vendent du gâteau, de la viande et de la soupe.
+日 A: ケーキと にくと soupを うって いる。
+韓 A: 케이크랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個魚。
+英 B: I want 1 fish.
+法 B: Je veux 1 du poisson.
+日 B: さかなを 1 つ。
+韓 B: 물고기 1개.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個菜。
+英 B: I want 3 food.
+法 B: Je veux 3 de la nourriture.
+日 B: やさいを 3 つ。
+韓 B: 요리 3개.
+
+中 A: 我要cake。還要 1 個飯。
+英 A: I want cake. Also 1 rice.
+法 A: Je veux du gâteau. Et 1 riz.
+日 A: ケーキが ほしい。 ごはんも 1 つ。
+韓 A: 나는 케이크 먹을래. 밥도 1개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 8 個cake。
+英 B: I want 8 cake.
+法 B: Je veux 8 du gâteau.
+日 B: ケーキを 8 つ。
+韓 B: 케이크 8개.
+
+中 A: 我要飯。還要 1 個飯。
+英 A: I want rice. Also 1 rice.
+法 A: Je veux du riz. Et 1 riz.
+日 A: ごはんが ほしい。 ごはんも 1 つ。
+韓 A: 나는 밥 먹을래. 밥도 1개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 5 個魚。
+英 A: I want 5 fish.
+法 A: Je veux 5 du poisson.
+日 A: さかなを 5 つ。
+韓 A: 물고기 5개.
+
+中 B: 我要蛋。還要 1 個飯。
+英 B: I want eggs. Also 1 rice.
+法 B: Je veux des œufs. Et 1 riz.
+日 B: たまごが ほしい。 ごはんも 1 つ。
+韓 B: 나는 달걀 먹을래. 밥도 1개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 賣飯、蛋和 soup。
+英 B: They sell rice, eggs and soup.
+法 B: Ils vendent du riz, des œufs et de la soupe.
+日 B: ごはんと たまごと soupを うって いる。
+韓 B: 밥랑 달걀, soup을 팔아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 賣魚、蛋和 soup。
+英 A: They sell fish, eggs and soup.
+法 A: Ils vendent du poisson, des œufs et de la soupe.
+日 A: さかなと たまごと soupを うって いる。
+韓 A: 물고기랑 달걀, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個水果。
+英 B: I want 2 fruit.
+法 B: Je veux 2 des fruits.
+日 B: くだものを 2 つ。
+韓 B: 과일 2개.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我要菜。還要 1 個飯。
+英 B: I want food. Also 1 rice.
+法 B: Je veux de la nourriture. Et 1 riz.
+日 B: やさいが ほしい。 ごはんも 1 つ。
+韓 B: 나는 요리 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣茶、魚和 soup。
+英 B: They sell tea, fish and soup.
+法 B: Ils vendent du thé, du poisson et de la soupe.
+日 B: おちゃと さかなと soupを うって いる。
+韓 B: 차랑 물고기, soup을 팔아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水、魚和 soup。
+英 B: They sell water, fish and soup.
+法 B: Ils vendent de l'eau, du poisson et de la soupe.
+日 B: みずと さかなと soupを うって いる。
+韓 B: 물랑 물고기, soup을 팔아.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣茶、水果和 soup。
+英 A: They sell tea, fruit and soup.
+法 A: Ils vendent du thé, des fruits et de la soupe.
+日 A: おちゃと くだものと soupを うって いる。
+韓 A: 차랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 賣肉、bread和 soup。
+英 A: They sell meat, bread and soup.
+法 A: Ils vendent de la viande, du pain et de la soupe.
+日 A: にくと パンと soupを うって いる。
+韓 A: 고기랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水果、bread和 soup。
+英 B: They sell fruit, bread and soup.
+法 B: Ils vendent des fruits, du pain et de la soupe.
+日 B: くだものと パンと soupを うって いる。
+韓 B: 과일랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 5 個魚。
+英 B: I want 5 fish.
+法 B: Je veux 5 du poisson.
+日 B: さかなを 5 つ。
+韓 B: 물고기 5개.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要水果。還要 1 個飯。
+英 B: I want fruit. Also 1 rice.
+法 B: Je veux des fruits. Et 1 riz.
+日 B: くだものが ほしい。 ごはんも 1 つ。
+韓 B: 나는 과일 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水、bread和 soup。
+英 B: They sell water, bread and soup.
+法 B: Ils vendent de l'eau, du pain et de la soupe.
+日 B: みずと パンと soupを うって いる。
+韓 B: 물랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個cake。
+英 B: I want 1 cake.
+法 B: Je veux 1 du gâteau.
+日 B: ケーキを 1 つ。
+韓 B: 케이크 1개.
+
+中 A: 我要菜。還要 1 個飯。
+英 A: I want food. Also 1 rice.
+法 A: Je veux de la nourriture. Et 1 riz.
+日 A: やさいが ほしい。 ごはんも 1 つ。
+韓 A: 나는 요리 먹을래. 밥도 1개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣飯、飯和 soup。
+英 B: They sell rice, rice and soup.
+法 B: Ils vendent du riz, du riz et de la soupe.
+日 B: ごはんと ごはんと soupを うって いる。
+韓 B: 밥랑 밥, soup을 팔아.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣茶、蛋和 soup。
+英 A: They sell tea, eggs and soup.
+法 A: Ils vendent du thé, des œufs et de la soupe.
+日 A: おちゃと たまごと soupを うって いる。
+韓 A: 차랑 달걀, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣茶、水果和 soup。
+英 B: They sell tea, fruit and soup.
+法 B: Ils vendent du thé, des fruits et de la soupe.
+日 B: おちゃと くだものと soupを うって いる。
+韓 B: 차랑 과일, soup을 팔아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣飯、蛋和 soup。
+英 B: They sell rice, eggs and soup.
+法 B: Ils vendent du riz, des œufs et de la soupe.
+日 B: ごはんと たまごと soupを うって いる。
+韓 B: 밥랑 달걀, soup을 팔아.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣水果、茶和 soup。
+英 A: They sell fruit, tea and soup.
+法 A: Ils vendent des fruits, du thé et de la soupe.
+日 A: くだものと おちゃと soupを うって いる。
+韓 A: 과일랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣魚、茶和 soup。
+英 B: They sell fish, tea and soup.
+法 B: Ils vendent du poisson, du thé et de la soupe.
+日 B: さかなと おちゃと soupを うって いる。
+韓 B: 물고기랑 차, soup을 팔아.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣cake、魚和 soup。
+英 B: They sell cake, fish and soup.
+法 B: Ils vendent du gâteau, du poisson et de la soupe.
+日 B: ケーキと さかなと soupを うって いる。
+韓 B: 케이크랑 물고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣蛋、蛋和 soup。
+英 B: They sell eggs, eggs and soup.
+法 B: Ils vendent des œufs, des œufs et de la soupe.
+日 B: たまごと たまごと soupを うって いる。
+韓 B: 달걀랑 달걀, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要 3 個cake。
+英 A: I want 3 cake.
+法 A: Je veux 3 du gâteau.
+日 A: ケーキを 3 つ。
+韓 A: 케이크 3개.
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 8 個水。
+英 B: I want 8 water.
+法 B: Je veux 8 de l'eau.
+日 B: みずを 8 つ。
+韓 B: 물 8개.
+
+中 A: 我要魚。還要 1 個飯。
+英 A: I want fish. Also 1 rice.
+法 A: Je veux du poisson. Et 1 riz.
+日 A: さかなが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 賣bread、水果和 soup。
+英 A: They sell bread, fruit and soup.
+法 A: Ils vendent du pain, des fruits et de la soupe.
+日 A: パンと くだものと soupを うって いる。
+韓 A: 빵랑 과일, soup을 팔아.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣魚、cake和 soup。
+英 A: They sell fish, cake and soup.
+法 A: Ils vendent du poisson, du gâteau et de la soupe.
+日 A: さかなと ケーキと soupを うって いる。
+韓 A: 물고기랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 賣菜、菜和 soup。
+英 B: They sell food, food and soup.
+法 B: Ils vendent de la nourriture, de la nourriture et de la soupe.
+日 B: やさいと やさいと soupを うって いる。
+韓 B: 요리랑 요리, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個蛋。
+英 B: I want 2 eggs.
+法 B: Je veux 2 des œufs.
+日 B: たまごを 2 つ。
+韓 B: 달걀 2개.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣bread、肉和 soup。
+英 B: They sell bread, meat and soup.
+法 B: Ils vendent du pain, de la viande et de la soupe.
+日 B: パンと にくと soupを うって いる。
+韓 B: 빵랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 4 個水。
+英 A: I want 4 water.
+法 A: Je veux 4 de l'eau.
+日 A: みずを 4 つ。
+韓 A: 물 4개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要cake。還要 1 個飯。
+英 A: I want cake. Also 1 rice.
+法 A: Je veux du gâteau. Et 1 riz.
+日 A: ケーキが ほしい。 ごはんも 1 つ。
+韓 A: 나는 케이크 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個茶。
+英 B: I want 9 tea.
+法 B: Je veux 9 du thé.
+日 B: おちゃを 9 つ。
+韓 B: 차 9개.
+
+中 A: 我要水果。還要 1 個飯。
+英 A: I want fruit. Also 1 rice.
+法 A: Je veux des fruits. Et 1 riz.
+日 A: くだものが ほしい。 ごはんも 1 つ。
+韓 A: 나는 과일 먹을래. 밥도 1개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣bread、水和 soup。
+英 A: They sell bread, water and soup.
+法 A: Ils vendent du pain, de l'eau et de la soupe.
+日 A: パンと みずと soupを うって いる。
+韓 A: 빵랑 물, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣肉、魚和 soup。
+英 B: They sell meat, fish and soup.
+法 B: Ils vendent de la viande, du poisson et de la soupe.
+日 B: にくと さかなと soupを うって いる。
+韓 B: 고기랑 물고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣蛋、肉和 soup。
+英 B: They sell eggs, meat and soup.
+法 B: Ils vendent des œufs, de la viande et de la soupe.
+日 B: たまごと にくと soupを うって いる。
+韓 B: 달걀랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣菜、茶和 soup。
+英 B: They sell food, tea and soup.
+法 B: Ils vendent de la nourriture, du thé et de la soupe.
+日 B: やさいと おちゃと soupを うって いる。
+韓 B: 요리랑 차, soup을 팔아.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個水果。
+英 B: I want 1 fruit.
+法 B: Je veux 1 des fruits.
+日 B: くだものを 1 つ。
+韓 B: 과일 1개.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣飯、飯和 soup。
+英 B: They sell rice, rice and soup.
+法 B: Ils vendent du riz, du riz et de la soupe.
+日 B: ごはんと ごはんと soupを うって いる。
+韓 B: 밥랑 밥, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣蛋、bread和 soup。
+英 A: They sell eggs, bread and soup.
+法 A: Ils vendent des œufs, du pain et de la soupe.
+日 A: たまごと パンと soupを うって いる。
+韓 A: 달걀랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 4 個菜。
+英 B: I want 4 food.
+法 B: Je veux 4 de la nourriture.
+日 B: やさいを 4 つ。
+韓 B: 요리 4개.
+
+中 A: 我要魚。還要 1 個飯。
+英 A: I want fish. Also 1 rice.
+法 A: Je veux du poisson. Et 1 riz.
+日 A: さかなが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要 6 個cake。
+英 A: I want 6 cake.
+法 A: Je veux 6 du gâteau.
+日 A: ケーキを 6 つ。
+韓 A: 케이크 6개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要飯。還要 1 個飯。
+英 A: I want rice. Also 1 rice.
+法 A: Je veux du riz. Et 1 riz.
+日 A: ごはんが ほしい。 ごはんも 1 つ。
+韓 A: 나는 밥 먹을래. 밥도 1개.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我要 1 個bread。
+英 A: I want 1 bread.
+法 A: Je veux 1 du pain.
+日 A: パンを 1 つ。
+韓 A: 빵 1개.
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣飯、bread和 soup。
+英 A: They sell rice, bread and soup.
+法 A: Ils vendent du riz, du pain et de la soupe.
+日 A: ごはんと パンと soupを うって いる。
+韓 A: 밥랑 빵, soup을 팔아.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 賣菜、cake和 soup。
+英 B: They sell food, cake and soup.
+法 B: Ils vendent de la nourriture, du gâteau et de la soupe.
+日 B: やさいと ケーキと soupを うって いる。
+韓 B: 요리랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣cake、水和 soup。
+英 A: They sell cake, water and soup.
+法 A: Ils vendent du gâteau, de l'eau et de la soupe.
+日 A: ケーキと みずと soupを うって いる。
+韓 A: 케이크랑 물, soup을 팔아.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣cake、cake和 soup。
+英 A: They sell cake, cake and soup.
+法 A: Ils vendent du gâteau, du gâteau et de la soupe.
+日 A: ケーキと ケーキと soupを うって いる。
+韓 A: 케이크랑 케이크, soup을 팔아.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 9 個bread。
+英 A: I want 9 bread.
+法 A: Je veux 9 du pain.
+日 A: パンを 9 つ。
+韓 A: 빵 9개.
+
+中 B: 我要菜。還要 1 個飯。
+英 B: I want food. Also 1 rice.
+法 B: Je veux de la nourriture. Et 1 riz.
+日 B: やさいが ほしい。 ごはんも 1 つ。
+韓 B: 나는 요리 먹을래. 밥도 1개.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣菜、茶和 soup。
+英 A: They sell food, tea and soup.
+法 A: Ils vendent de la nourriture, du thé et de la soupe.
+日 A: やさいと おちゃと soupを うって いる。
+韓 A: 요리랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 9 個菜。
+英 A: I want 9 food.
+法 A: Je veux 9 de la nourriture.
+日 A: やさいを 9 つ。
+韓 A: 요리 9개.
+
+中 B: 我要菜。還要 1 個飯。
+英 B: I want food. Also 1 rice.
+法 B: Je veux de la nourriture. Et 1 riz.
+日 B: やさいが ほしい。 ごはんも 1 つ。
+韓 B: 나는 요리 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣bread、茶和 soup。
+英 A: They sell bread, tea and soup.
+法 A: Ils vendent du pain, du thé et de la soupe.
+日 A: パンと おちゃと soupを うって いる。
+韓 A: 빵랑 차, soup을 팔아.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個bread。
+英 B: I want 9 bread.
+法 B: Je veux 9 du pain.
+日 B: パンを 9 つ。
+韓 B: 빵 9개.
+
+中 A: 我要魚。還要 1 個飯。
+英 A: I want fish. Also 1 rice.
+法 A: Je veux du poisson. Et 1 riz.
+日 A: さかなが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要 2 個菜。
+英 A: I want 2 food.
+法 A: Je veux 2 de la nourriture.
+日 A: やさいを 2 つ。
+韓 A: 요리 2개.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 8 個飯。
+英 B: I want 8 rice.
+法 B: Je veux 8 du riz.
+日 B: ごはんを 8 つ。
+韓 B: 밥 8개.
+
+中 A: 我要肉。還要 1 個飯。
+英 A: I want meat. Also 1 rice.
+法 A: Je veux de la viande. Et 1 riz.
+日 A: にくが ほしい。 ごはんも 1 つ。
+韓 A: 나는 고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個蛋。
+英 B: I want 7 eggs.
+法 B: Je veux 7 des œufs.
+日 B: たまごを 7 つ。
+韓 B: 달걀 7개.
+
+中 A: 我要茶。還要 1 個飯。
+英 A: I want tea. Also 1 rice.
+法 A: Je veux du thé. Et 1 riz.
+日 A: おちゃが ほしい。 ごはんも 1 つ。
+韓 A: 나는 차 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 賣茶、肉和 soup。
+英 B: They sell tea, meat and soup.
+法 B: Ils vendent du thé, de la viande et de la soupe.
+日 B: おちゃと にくと soupを うって いる。
+韓 B: 차랑 고기, soup을 팔아.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個茶。
+英 B: I want 2 tea.
+法 B: Je veux 2 du thé.
+日 B: おちゃを 2 つ。
+韓 B: 차 2개.
+
+中 A: 我要cake。還要 1 個飯。
+英 A: I want cake. Also 1 rice.
+法 A: Je veux du gâteau. Et 1 riz.
+日 A: ケーキが ほしい。 ごはんも 1 つ。
+韓 A: 나는 케이크 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣水果、肉和 soup。
+英 A: They sell fruit, meat and soup.
+法 A: Ils vendent des fruits, de la viande et de la soupe.
+日 A: くだものと にくと soupを うって いる。
+韓 A: 과일랑 고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣茶、茶和 soup。
+英 B: They sell tea, tea and soup.
+法 B: Ils vendent du thé, du thé et de la soupe.
+日 B: おちゃと おちゃと soupを うって いる。
+韓 B: 차랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 賣飯、茶和 soup。
+英 B: They sell rice, tea and soup.
+法 B: Ils vendent du riz, du thé et de la soupe.
+日 B: ごはんと おちゃと soupを うって いる。
+韓 B: 밥랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個蛋。
+英 B: I want 9 eggs.
+法 B: Je veux 9 des œufs.
+日 B: たまごを 9 つ。
+韓 B: 달걀 9개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 賣茶、茶和 soup。
+英 B: They sell tea, tea and soup.
+法 B: Ils vendent du thé, du thé et de la soupe.
+日 B: おちゃと おちゃと soupを うって いる。
+韓 B: 차랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個菜。
+英 B: I want 7 food.
+法 B: Je veux 7 de la nourriture.
+日 B: やさいを 7 つ。
+韓 B: 요리 7개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣水、魚和 soup。
+英 A: They sell water, fish and soup.
+法 A: Ils vendent de l'eau, du poisson et de la soupe.
+日 A: みずと さかなと soupを うって いる。
+韓 A: 물랑 물고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 4 個肉。
+英 A: I want 4 meat.
+法 A: Je veux 4 de la viande.
+日 A: にくを 4 つ。
+韓 A: 고기 4개.
+
+中 B: 我要水果。還要 1 個飯。
+英 B: I want fruit. Also 1 rice.
+法 B: Je veux des fruits. Et 1 riz.
+日 B: くだものが ほしい。 ごはんも 1 つ。
+韓 B: 나는 과일 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣飯、cake和 soup。
+英 A: They sell rice, cake and soup.
+法 A: Ils vendent du riz, du gâteau et de la soupe.
+日 A: ごはんと ケーキと soupを うって いる。
+韓 A: 밥랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 4 個蛋。
+英 A: I want 4 eggs.
+法 A: Je veux 4 des œufs.
+日 A: たまごを 4 つ。
+韓 A: 달걀 4개.
+
+中 B: 我要茶。還要 1 個飯。
+英 B: I want tea. Also 1 rice.
+法 B: Je veux du thé. Et 1 riz.
+日 B: おちゃが ほしい。 ごはんも 1 つ。
+韓 B: 나는 차 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 6 個魚。
+英 A: I want 6 fish.
+法 A: Je veux 6 du poisson.
+日 A: さかなを 6 つ。
+韓 A: 물고기 6개.
+
+中 B: 我要茶。還要 1 個飯。
+英 B: I want tea. Also 1 rice.
+法 B: Je veux du thé. Et 1 riz.
+日 B: おちゃが ほしい。 ごはんも 1 つ。
+韓 B: 나는 차 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 5 個cake。
+英 A: I want 5 cake.
+法 A: Je veux 5 du gâteau.
+日 A: ケーキを 5 つ。
+韓 A: 케이크 5개.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要 4 個水果。
+英 A: I want 4 fruit.
+法 A: Je veux 4 des fruits.
+日 A: くだものを 4 つ。
+韓 A: 과일 4개.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 6 個肉。
+英 B: I want 6 meat.
+法 B: Je veux 6 de la viande.
+日 B: にくを 6 つ。
+韓 B: 고기 6개.
+
+中 A: 我要魚。還要 1 個飯。
+英 A: I want fish. Also 1 rice.
+法 A: Je veux du poisson. Et 1 riz.
+日 A: さかなが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我要 3 個cake。
+英 A: I want 3 cake.
+法 A: Je veux 3 du gâteau.
+日 A: ケーキを 3 つ。
+韓 A: 케이크 3개.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我要魚。還要 1 個飯。
+英 A: I want fish. Also 1 rice.
+法 A: Je veux du poisson. Et 1 riz.
+日 A: さかなが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물고기 먹을래. 밥도 1개.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣水果、茶和 soup。
+英 A: They sell fruit, tea and soup.
+法 A: Ils vendent des fruits, du thé et de la soupe.
+日 A: くだものと おちゃと soupを うって いる。
+韓 A: 과일랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 賣肉、魚和 soup。
+英 A: They sell meat, fish and soup.
+法 A: Ils vendent de la viande, du poisson et de la soupe.
+日 A: にくと さかなと soupを うって いる。
+韓 A: 고기랑 물고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣蛋、cake和 soup。
+英 B: They sell eggs, cake and soup.
+法 B: Ils vendent des œufs, du gâteau et de la soupe.
+日 B: たまごと ケーキと soupを うって いる。
+韓 B: 달걀랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個茶。
+英 B: I want 3 tea.
+法 B: Je veux 3 du thé.
+日 B: おちゃを 3 つ。
+韓 B: 차 3개.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要飯。還要 1 個飯。
+英 B: I want rice. Also 1 rice.
+法 B: Je veux du riz. Et 1 riz.
+日 B: ごはんが ほしい。 ごはんも 1 つ。
+韓 B: 나는 밥 먹을래. 밥도 1개.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去西邊那家店。
+英 B: We go to that shop on the west side.
+法 B: Allons à la boutique à ouest.
+日 B: にしがわの みせへ いこう。
+韓 B: 서쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣茶、飯和 soup。
+英 B: They sell tea, rice and soup.
+法 B: Ils vendent du thé, du riz et de la soupe.
+日 B: おちゃと ごはんと soupを うって いる。
+韓 B: 차랑 밥, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個魚。
+英 B: I want 7 fish.
+法 B: Je veux 7 du poisson.
+日 B: さかなを 7 つ。
+韓 B: 물고기 7개.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我要水果。還要 1 個飯。
+英 B: I want fruit. Also 1 rice.
+法 B: Je veux des fruits. Et 1 riz.
+日 B: くだものが ほしい。 ごはんも 1 つ。
+韓 B: 나는 과일 먹을래. 밥도 1개.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個飯。
+英 B: I want 3 rice.
+法 B: Je veux 3 du riz.
+日 B: ごはんを 3 つ。
+韓 B: 밥 3개.
+
+中 A: 我要水果。還要 1 個飯。
+英 A: I want fruit. Also 1 rice.
+法 A: Je veux des fruits. Et 1 riz.
+日 A: くだものが ほしい。 ごはんも 1 つ。
+韓 A: 나는 과일 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個魚。
+英 B: I want 2 fish.
+法 B: Je veux 2 du poisson.
+日 B: さかなを 2 つ。
+韓 B: 물고기 2개.
+
+中 A: 我要菜。還要 1 個飯。
+英 A: I want food. Also 1 rice.
+法 A: Je veux de la nourriture. Et 1 riz.
+日 A: やさいが ほしい。 ごはんも 1 つ。
+韓 A: 나는 요리 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個肉。
+英 B: I want 2 meat.
+法 B: Je veux 2 de la viande.
+日 B: にくを 2 つ。
+韓 B: 고기 2개.
+
+中 A: 我要飯。還要 1 個飯。
+英 A: I want rice. Also 1 rice.
+法 A: Je veux du riz. Et 1 riz.
+日 A: ごはんが ほしい。 ごはんも 1 つ。
+韓 A: 나는 밥 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個肉。
+英 B: I want 1 meat.
+法 B: Je veux 1 de la viande.
+日 B: にくを 1 つ。
+韓 B: 고기 1개.
+
+中 A: 我要肉。還要 1 個飯。
+英 A: I want meat. Also 1 rice.
+法 A: Je veux de la viande. Et 1 riz.
+日 A: にくが ほしい。 ごはんも 1 つ。
+韓 A: 나는 고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 2 個蛋。
+英 B: I want 2 eggs.
+法 B: Je veux 2 des œufs.
+日 B: たまごを 2 つ。
+韓 B: 달걀 2개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣肉、魚和 soup。
+英 A: They sell meat, fish and soup.
+法 A: Ils vendent de la viande, du poisson et de la soupe.
+日 A: にくと さかなと soupを うって いる。
+韓 A: 고기랑 물고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣肉、菜和 soup。
+英 A: They sell meat, food and soup.
+法 A: Ils vendent de la viande, de la nourriture et de la soupe.
+日 A: にくと やさいと soupを うって いる。
+韓 A: 고기랑 요리, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個cake。
+英 B: I want 3 cake.
+法 B: Je veux 3 du gâteau.
+日 B: ケーキを 3 つ。
+韓 B: 케이크 3개.
+
+中 A: 我要cake。還要 1 個飯。
+英 A: I want cake. Also 1 rice.
+法 A: Je veux du gâteau. Et 1 riz.
+日 A: ケーキが ほしい。 ごはんも 1 つ。
+韓 A: 나는 케이크 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 賣蛋、水果和 soup。
+英 A: They sell eggs, fruit and soup.
+法 A: Ils vendent des œufs, des fruits et de la soupe.
+日 A: たまごと くだものと soupを うって いる。
+韓 A: 달걀랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我要 1 個肉。
+英 A: I want 1 meat.
+法 A: Je veux 1 de la viande.
+日 A: にくを 1 つ。
+韓 A: 고기 1개.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要水果。還要 1 個飯。
+英 A: I want fruit. Also 1 rice.
+法 A: Je veux des fruits. Et 1 riz.
+日 A: くだものが ほしい。 ごはんも 1 つ。
+韓 A: 나는 과일 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 5 個飯。
+英 B: I want 5 rice.
+法 B: Je veux 5 du riz.
+日 B: ごはんを 5 つ。
+韓 B: 밥 5개.
+
+中 A: 我要水果。還要 1 個飯。
+英 A: I want fruit. Also 1 rice.
+法 A: Je veux des fruits. Et 1 riz.
+日 A: くだものが ほしい。 ごはんも 1 つ。
+韓 A: 나는 과일 먹을래. 밥도 1개.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 賣魚、cake和 soup。
+英 B: They sell fish, cake and soup.
+法 B: Ils vendent du poisson, du gâteau et de la soupe.
+日 B: さかなと ケーキと soupを うって いる。
+韓 B: 물고기랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 9 個水果。
+英 A: I want 9 fruit.
+法 A: Je veux 9 des fruits.
+日 A: くだものを 9 つ。
+韓 A: 과일 9개.
+
+中 B: 我要飯。還要 1 個飯。
+英 B: I want rice. Also 1 rice.
+法 B: Je veux du riz. Et 1 riz.
+日 B: ごはんが ほしい。 ごはんも 1 つ。
+韓 B: 나는 밥 먹을래. 밥도 1개.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣蛋、蛋和 soup。
+英 A: They sell eggs, eggs and soup.
+法 A: Ils vendent des œufs, des œufs et de la soupe.
+日 A: たまごと たまごと soupを うって いる。
+韓 A: 달걀랑 달걀, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣cake、魚和 soup。
+英 B: They sell cake, fish and soup.
+法 B: Ils vendent du gâteau, du poisson et de la soupe.
+日 B: ケーキと さかなと soupを うって いる。
+韓 B: 케이크랑 물고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣魚、飯和 soup。
+英 B: They sell fish, rice and soup.
+法 B: Ils vendent du poisson, du riz et de la soupe.
+日 B: さかなと ごはんと soupを うって いる。
+韓 B: 물고기랑 밥, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣魚、bread和 soup。
+英 A: They sell fish, bread and soup.
+法 A: Ils vendent du poisson, du pain et de la soupe.
+日 A: さかなと パンと soupを うって いる。
+韓 A: 물고기랑 빵, soup을 팔아.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 賣cake、cake和 soup。
+英 B: They sell cake, cake and soup.
+法 B: Ils vendent du gâteau, du gâteau et de la soupe.
+日 B: ケーキと ケーキと soupを うって いる。
+韓 B: 케이크랑 케이크, soup을 팔아.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 去北邊那家店。
+英 B: We go to that shop on the north side.
+法 B: Allons à la boutique à nord.
+日 B: きたがわの みせへ いこう。
+韓 B: 북쪽 가게로 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣菜、茶和 soup。
+英 A: They sell food, tea and soup.
+法 A: Ils vendent de la nourriture, du thé et de la soupe.
+日 A: やさいと おちゃと soupを うって いる。
+韓 A: 요리랑 차, soup을 팔아.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個水。
+英 B: I want 9 water.
+法 B: Je veux 9 de l'eau.
+日 B: みずを 9 つ。
+韓 B: 물 9개.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我要水果。還要 1 個飯。
+英 B: I want fruit. Also 1 rice.
+法 B: Je veux des fruits. Et 1 riz.
+日 B: くだものが ほしい。 ごはんも 1 つ。
+韓 B: 나는 과일 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 5 個蛋。
+英 B: I want 5 eggs.
+法 B: Je veux 5 des œufs.
+日 B: たまごを 5 つ。
+韓 B: 달걀 5개.
+
+中 A: 我要肉。還要 1 個飯。
+英 A: I want meat. Also 1 rice.
+法 A: Je veux de la viande. Et 1 riz.
+日 A: にくが ほしい。 ごはんも 1 つ。
+韓 A: 나는 고기 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個水果。
+英 B: I want 7 fruit.
+法 B: Je veux 7 des fruits.
+日 B: くだものを 7 つ。
+韓 B: 과일 7개.
+
+中 A: 我要水。還要 1 個飯。
+英 A: I want water. Also 1 rice.
+法 A: Je veux de l'eau. Et 1 riz.
+日 A: みずが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 4 個水。
+英 B: I want 4 water.
+法 B: Je veux 4 de l'eau.
+日 B: みずを 4 つ。
+韓 B: 물 4개.
+
+中 A: 我要肉。還要 1 個飯。
+英 A: I want meat. Also 1 rice.
+法 A: Je veux de la viande. Et 1 riz.
+日 A: にくが ほしい。 ごはんも 1 つ。
+韓 A: 나는 고기 먹을래. 밥도 1개.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個蛋。
+英 B: I want 1 eggs.
+法 B: Je veux 1 des œufs.
+日 B: たまごを 1 つ。
+韓 B: 달걀 1개.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我要cake。還要 1 個飯。
+英 B: I want cake. Also 1 rice.
+法 B: Je veux du gâteau. Et 1 riz.
+日 B: ケーキが ほしい。 ごはんも 1 つ。
+韓 B: 나는 케이크 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 賣飯、bread和 soup。
+英 B: They sell rice, bread and soup.
+法 B: Ils vendent du riz, du pain et de la soupe.
+日 B: ごはんと パンと soupを うって いる。
+韓 B: 밥랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個飯。
+英 B: I want 1 rice.
+法 B: Je veux 1 du riz.
+日 B: ごはんを 1 つ。
+韓 B: 밥 1개.
+
+中 A: 我要水。還要 1 個飯。
+英 A: I want water. Also 1 rice.
+法 A: Je veux de l'eau. Et 1 riz.
+日 A: みずが ほしい。 ごはんも 1 つ。
+韓 A: 나는 물 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣菜、水果和 soup。
+英 A: They sell food, fruit and soup.
+法 A: Ils vendent de la nourriture, des fruits et de la soupe.
+日 A: やさいと くだものと soupを うって いる。
+韓 A: 요리랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣cake、菜和 soup。
+英 B: They sell cake, food and soup.
+法 B: Ils vendent du gâteau, de la nourriture et de la soupe.
+日 B: ケーキと やさいと soupを うって いる。
+韓 B: 케이크랑 요리, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣魚、蛋和 soup。
+英 A: They sell fish, eggs and soup.
+法 A: Ils vendent du poisson, des œufs et de la soupe.
+日 A: さかなと たまごと soupを うって いる。
+韓 A: 물고기랑 달걀, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我要 6 個bread。
+英 A: I want 6 bread.
+法 A: Je veux 6 du pain.
+日 A: パンを 6 つ。
+韓 A: 빵 6개.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我要 9 個cake。
+英 A: I want 9 cake.
+法 A: Je veux 9 du gâteau.
+日 A: ケーキを 9 つ。
+韓 A: 케이크 9개.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我要cake。還要 1 個飯。
+英 A: I want cake. Also 1 rice.
+法 A: Je veux du gâteau. Et 1 riz.
+日 A: ケーキが ほしい。 ごはんも 1 つ。
+韓 A: 나는 케이크 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 賣茶、茶和 soup。
+英 B: They sell tea, tea and soup.
+法 B: Ils vendent du thé, du thé et de la soupe.
+日 B: おちゃと おちゃと soupを うって いる。
+韓 B: 차랑 차, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水、bread和 soup。
+英 B: They sell water, bread and soup.
+法 B: Ils vendent de l'eau, du pain et de la soupe.
+日 B: みずと パンと soupを うって いる。
+韓 B: 물랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 9 個飯。
+英 B: I want 9 rice.
+法 B: Je veux 9 du riz.
+日 B: ごはんを 9 つ。
+韓 B: 밥 9개.
+
+中 A: 我要菜。還要 1 個飯。
+英 A: I want food. Also 1 rice.
+法 A: Je veux de la nourriture. Et 1 riz.
+日 A: やさいが ほしい。 ごはんも 1 つ。
+韓 A: 나는 요리 먹을래. 밥도 1개.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 賣水、cake和 soup。
+英 B: They sell water, cake and soup.
+法 B: Ils vendent de l'eau, du gâteau et de la soupe.
+日 B: みずと ケーキと soupを うって いる。
+韓 B: 물랑 케이크, soup을 팔아.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個bread。
+英 B: I want 3 bread.
+法 B: Je veux 3 du pain.
+日 B: パンを 3 つ。
+韓 B: 빵 3개.
+
+中 A: 我要水果。還要 1 個飯。
+英 A: I want fruit. Also 1 rice.
+法 A: Je veux des fruits. Et 1 riz.
+日 A: くだものが ほしい。 ごはんも 1 つ。
+韓 A: 나는 과일 먹을래. 밥도 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 よぶね。
+韓 B: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 3 個魚。
+英 B: I want 3 fish.
+法 B: Je veux 3 du poisson.
+日 B: さかなを 3 つ。
+韓 B: 물고기 3개.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我要飯。還要 1 個飯。
+英 B: I want rice. Also 1 rice.
+法 B: Je veux du riz. Et 1 riz.
+日 B: ごはんが ほしい。 ごはんも 1 つ。
+韓 B: 나는 밥 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去南邊那家店。
+英 A: We go to that shop on the south side.
+法 A: Allons à la boutique à sud.
+日 A: みなみがわの みせへ いこう。
+韓 A: 남쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 賣茶、bread和 soup。
+英 B: They sell tea, bread and soup.
+法 B: Ils vendent du thé, du pain et de la soupe.
+日 B: おちゃと パンと soupを うって いる。
+韓 B: 차랑 빵, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 賣菜、菜和 soup。
+英 A: They sell food, food and soup.
+法 A: Ils vendent de la nourriture, de la nourriture et de la soupe.
+日 A: やさいと やさいと soupを うって いる。
+韓 A: 요리랑 요리, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 7 個水。
+英 B: I want 7 water.
+法 B: Je veux 7 de l'eau.
+日 B: みずを 7 つ。
+韓 B: 물 7개.
+
+中 A: 我要蛋。還要 1 個飯。
+英 A: I want eggs. Also 1 rice.
+法 A: Je veux des œufs. Et 1 riz.
+日 A: たまごが ほしい。 ごはんも 1 つ。
+韓 A: 나는 달걀 먹을래. 밥도 1개.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣肉、菜和 soup。
+英 B: They sell meat, food and soup.
+法 B: Ils vendent de la viande, de la nourriture et de la soupe.
+日 B: にくと やさいと soupを うって いる。
+韓 B: 고기랑 요리, soup을 팔아.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 賣水果、飯和 soup。
+英 A: They sell fruit, rice and soup.
+法 A: Ils vendent des fruits, du riz et de la soupe.
+日 A: くだものと ごはんと soupを うって いる。
+韓 A: 과일랑 밥, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我也是。很好吃。
+英 B: Me too. It was very good.
+法 B: Moi aussi. C'était très bon.
+日 B: わたしも。 とても おいしかった。
+韓 B: 나도. 정말 맛있었어.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 賣蛋、水果和 soup。
+英 B: They sell eggs, fruit and soup.
+法 B: Ils vendent des œufs, des fruits et de la soupe.
+日 B: たまごと くだものと soupを うって いる。
+韓 B: 달걀랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣cake、肉和 soup。
+英 A: They sell cake, meat and soup.
+法 A: Ils vendent du gâteau, de la viande et de la soupe.
+日 A: ケーキと にくと soupを うって いる。
+韓 A: 케이크랑 고기, soup을 팔아.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家店。
+英 A: We go to that shop on the east side.
+法 A: Allons à la boutique à est.
+日 A: ひがしがわの みせへ いこう。
+韓 A: 동쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 賣茶、cake和 soup。
+英 B: They sell tea, cake and soup.
+法 B: Ils vendent du thé, du gâteau et de la soupe.
+日 B: おちゃと ケーキと soupを うって いる。
+韓 B: 차랑 케이크, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 去北邊那家店。
+英 A: We go to that shop on the north side.
+法 A: Allons à la boutique à nord.
+日 A: きたがわの みせへ いこう。
+韓 A: 북쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣飯、飯和 soup。
+英 A: They sell rice, rice and soup.
+法 A: Ils vendent du riz, du riz et de la soupe.
+日 A: ごはんと ごはんと soupを うって いる。
+韓 A: 밥랑 밥, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 4 個魚。
+英 B: I want 4 fish.
+法 B: Je veux 4 du poisson.
+日 B: さかなを 4 つ。
+韓 B: 물고기 4개.
+
+中 A: 我要水果。還要 1 個飯。
+英 A: I want fruit. Also 1 rice.
+法 A: Je veux des fruits. Et 1 riz.
+日 A: くだものが ほしい。 ごはんも 1 つ。
+韓 A: 나는 과일 먹을래. 밥도 1개.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 今天我給錢。
+英 A: Today I give the money.
+法 A: Aujourd'hui je paie.
+日 A: きょうは お金を わたす。
+韓 A: 오늘은 내가 낼게.
+
+中 B: 好。下次我給。
+英 B: Ok. Next time I give.
+法 B: Ok. La prochaine fois je paie.
+日 B: いいよ。 つぎは わたしが はらう。
+韓 B: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: たべおわった。
+韓 A: 다 먹었어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我也是。很好吃。
+英 A: Me too. It was very good.
+法 A: Moi aussi. C'était très bon.
+日 A: わたしも。 とても おいしかった。
+韓 A: 나도. 정말 맛있었어.
+
+中 B: 今天我給錢。
+英 B: Today I give the money.
+法 B: Aujourd'hui je paie.
+日 B: きょうは お金を わたす。
+韓 B: 오늘은 내가 낼게.
+
+中 A: 好。下次我給。
+英 A: Ok. Next time I give.
+法 A: Ok. La prochaine fois je paie.
+日 A: いいよ。 つぎは わたしが はらう。
+韓 A: 그래. 다음엔 내가 낼게.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 賣肉、水果和 soup。
+英 B: They sell meat, fruit and soup.
+法 B: Ils vendent de la viande, des fruits et de la soupe.
+日 B: にくと くだものと soupを うって いる。
+韓 B: 고기랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 賣水、魚和 soup。
+英 A: They sell water, fish and soup.
+法 A: Ils vendent de l'eau, du poisson et de la soupe.
+日 A: みずと さかなと soupを うって いる。
+韓 A: 물랑 물고기, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去西邊那家店。
+英 A: We go to that shop on the west side.
+法 A: Allons à la boutique à ouest.
+日 A: にしがわの みせへ いこう。
+韓 A: 서쪽 가게로 가자.
+
+中 B: 那裡賣什麼？
+英 B: What do they sell there?
+法 B: Qu'y vendent-ils ?
+日 B: そこは なにを うって いる？
+韓 B: 거긴 뭘 파는 거야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 賣菜、水果和 soup。
+英 B: They sell food, fruit and soup.
+法 B: Ils vendent de la nourriture, des fruits et de la soupe.
+日 B: やさいと くだものと soupを うって いる。
+韓 B: 요리랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我要 7 個肉。
+英 A: I want 7 meat.
+法 A: Je veux 7 de la viande.
+日 A: にくを 7 つ。
+韓 A: 고기 7개.
+
+中 B: 我要魚。還要 1 個飯。
+英 B: I want fish. Also 1 rice.
+法 B: Je veux du poisson. Et 1 riz.
+日 B: さかなが ほしい。 ごはんも 1 つ。
+韓 B: 나는 물고기 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去東邊那家店。
+英 B: We go to that shop on the east side.
+法 B: Allons à la boutique à est.
+日 B: ひがしがわの みせへ いこう。
+韓 B: 동쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 賣水果、水果和 soup。
+英 B: They sell fruit, fruit and soup.
+法 B: Ils vendent des fruits, des fruits et de la soupe.
+日 B: くだものと くだものと soupを うって いる。
+韓 B: 과일랑 과일, soup을 팔아.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 我們去吃飯吧。
+英 A: We go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。想去哪裡吃？
+英 A: Ok. Where do you want to eat?
+法 A: Ok. Où veux-tu manger ?
+日 A: いいよ。 どこで たべたい？
+韓 A: 그래. 어디서 먹고 싶어?
+
+中 B: 去南邊那家店。
+英 B: We go to that shop on the south side.
+法 B: Allons à la boutique à sud.
+日 B: みなみがわの みせへ いこう。
+韓 B: 남쪽 가게로 가자.
+
+中 A: 那裡賣什麼？
+英 A: What do they sell there?
+法 A: Qu'y vendent-ils ?
+日 A: そこは なにを うって いる？
+韓 A: 거긴 뭘 파는 거야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 賣飯、水果和 soup。
+英 A: They sell rice, fruit and soup.
+法 A: Ils vendent du riz, des fruits et de la soupe.
+日 A: ごはんと くだものと soupを うって いる。
+韓 A: 밥랑 과일, soup을 팔아.
+
+
+# mini-x 合成多語對話：food（由 llm/generate_corpus.py 產生）
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我要 2 個bread。
+英 A: I want 2 bread.
+法 A: Je veux 2 du pain.
+日 A: パンを 2 つ。
+韓 A: 빵 2개.
+
+中 B: 我要肉。還要 1 個飯。
+英 B: I want meat. Also 1 rice.
+法 B: Je veux de la viande. Et 1 riz.
+日 B: にくが ほしい。 ごはんも 1 つ。
+韓 B: 나는 고기 먹을래. 밥도 1개.
+
+中 A: 好。我去叫。
+英 A: Ok. I go to call.
+法 A: Ok. Je vais appeler.
+日 A: いいよ。 よぶね。
+韓 A: 그래. 내가 부를게.

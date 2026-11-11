@@ -1,0 +1,8092 @@
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 7 次。
+英 B: Yes. The doctor says to take it 7 times a day.
+法 B: Oui. Le médecin dit 7 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 7かいと いった。
+韓 B: 응. 의사가 하루에 7번 먹으래.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 拿了。醫生說一天吃 7 次。
+英 A: Yes. The doctor says to take it 7 times a day.
+法 A: Oui. Le médecin dit 7 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 7かいと いった。
+韓 A: 응. 의사가 하루에 7번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 9 次。
+英 B: Yes. The doctor says to take it 9 times a day.
+法 B: Oui. Le médecin dit 9 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 B: 응. 의사가 하루에 9번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 6 次。
+英 B: Yes. The doctor says to take it 6 times a day.
+法 B: Oui. Le médecin dit 6 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 B: 응. 의사가 하루에 6번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 拿了。醫生說一天吃 9 次。
+英 A: Yes. The doctor says to take it 9 times a day.
+法 A: Oui. Le médecin dit 9 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 A: 응. 의사가 하루에 9번 먹으래.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 9 次。
+英 B: Yes. The doctor says to take it 9 times a day.
+法 B: Oui. Le médecin dit 9 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 B: 응. 의사가 하루에 9번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 2 次。
+英 B: Yes. The doctor says to take it 2 times a day.
+法 B: Oui. Le médecin dit 2 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 2かいと いった。
+韓 B: 응. 의사가 하루에 2번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 拿了。醫生說一天吃 7 次。
+英 A: Yes. The doctor says to take it 7 times a day.
+法 A: Oui. Le médecin dit 7 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 7かいと いった。
+韓 A: 응. 의사가 하루에 7번 먹으래.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 拿了。醫生說一天吃 3 次。
+英 A: Yes. The doctor says to take it 3 times a day.
+法 A: Oui. Le médecin dit 3 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 A: 응. 의사가 하루에 3번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 拿了。醫生說一天吃 5 次。
+英 A: Yes. The doctor says to take it 5 times a day.
+法 A: Oui. Le médecin dit 5 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 A: 응. 의사가 하루에 5번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 拿了。醫生說一天吃 4 次。
+英 A: Yes. The doctor says to take it 4 times a day.
+法 A: Oui. Le médecin dit 4 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 A: 응. 의사가 하루에 4번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 6 次。
+英 B: Yes. The doctor says to take it 6 times a day.
+法 B: Oui. Le médecin dit 6 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 B: 응. 의사가 하루에 6번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 2 次。
+英 B: Yes. The doctor says to take it 2 times a day.
+法 B: Oui. Le médecin dit 2 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 2かいと いった。
+韓 B: 응. 의사가 하루에 2번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 拿了。醫生說一天吃 9 次。
+英 A: Yes. The doctor says to take it 9 times a day.
+法 A: Oui. Le médecin dit 9 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 A: 응. 의사가 하루에 9번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 5 次。
+英 B: Yes. The doctor says to take it 5 times a day.
+法 B: Oui. Le médecin dit 5 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 B: 응. 의사가 하루에 5번 먹으래.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 拿了。醫生說一天吃 1 次。
+英 A: Yes. The doctor says to take it 1 times a day.
+法 A: Oui. Le médecin dit 1 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 A: 응. 의사가 하루에 1번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 9 次。
+英 B: Yes. The doctor says to take it 9 times a day.
+法 B: Oui. Le médecin dit 9 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 B: 응. 의사가 하루에 9번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 6 次。
+英 B: Yes. The doctor says to take it 6 times a day.
+法 B: Oui. Le médecin dit 6 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 B: 응. 의사가 하루에 6번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 拿了。醫生說一天吃 3 次。
+英 A: Yes. The doctor says to take it 3 times a day.
+法 A: Oui. Le médecin dit 3 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 A: 응. 의사가 하루에 3번 먹으래.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 拿了。醫生說一天吃 8 次。
+英 A: Yes. The doctor says to take it 8 times a day.
+法 A: Oui. Le médecin dit 8 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 A: 응. 의사가 하루에 8번 먹으래.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 拿了。醫生說一天吃 1 次。
+英 A: Yes. The doctor says to take it 1 times a day.
+法 A: Oui. Le médecin dit 1 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 A: 응. 의사가 하루에 1번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 拿了。醫生說一天吃 5 次。
+英 A: Yes. The doctor says to take it 5 times a day.
+法 A: Oui. Le médecin dit 5 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 A: 응. 의사가 하루에 5번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 2 次。
+英 B: Yes. The doctor says to take it 2 times a day.
+法 B: Oui. Le médecin dit 2 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 2かいと いった。
+韓 B: 응. 의사가 하루에 2번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 拿了。醫生說一天吃 5 次。
+英 A: Yes. The doctor says to take it 5 times a day.
+法 A: Oui. Le médecin dit 5 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 A: 응. 의사가 하루에 5번 먹으래.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 拿了。醫生說一天吃 1 次。
+英 A: Yes. The doctor says to take it 1 times a day.
+法 A: Oui. Le médecin dit 1 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 A: 응. 의사가 하루에 1번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 拿了。醫生說一天吃 8 次。
+英 A: Yes. The doctor says to take it 8 times a day.
+法 A: Oui. Le médecin dit 8 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 A: 응. 의사가 하루에 8번 먹으래.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 拿了。醫生說一天吃 4 次。
+英 A: Yes. The doctor says to take it 4 times a day.
+法 A: Oui. Le médecin dit 4 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 A: 응. 의사가 하루에 4번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 拿了。醫生說一天吃 8 次。
+英 A: Yes. The doctor says to take it 8 times a day.
+法 A: Oui. Le médecin dit 8 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 A: 응. 의사가 하루에 8번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 9 次。
+英 B: Yes. The doctor says to take it 9 times a day.
+法 B: Oui. Le médecin dit 9 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 B: 응. 의사가 하루에 9번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 6 次。
+英 B: Yes. The doctor says to take it 6 times a day.
+法 B: Oui. Le médecin dit 6 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 B: 응. 의사가 하루에 6번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 5 次。
+英 B: Yes. The doctor says to take it 5 times a day.
+法 B: Oui. Le médecin dit 5 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 B: 응. 의사가 하루에 5번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 2 次。
+英 B: Yes. The doctor says to take it 2 times a day.
+法 B: Oui. Le médecin dit 2 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 2かいと いった。
+韓 B: 응. 의사가 하루에 2번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 6 次。
+英 B: Yes. The doctor says to take it 6 times a day.
+法 B: Oui. Le médecin dit 6 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 B: 응. 의사가 하루에 6번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 拿了。醫生說一天吃 4 次。
+英 A: Yes. The doctor says to take it 4 times a day.
+法 A: Oui. Le médecin dit 4 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 A: 응. 의사가 하루에 4번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 拿了。醫生說一天吃 1 次。
+英 A: Yes. The doctor says to take it 1 times a day.
+法 A: Oui. Le médecin dit 1 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 A: 응. 의사가 하루에 1번 먹으래.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 拿了。醫生說一天吃 1 次。
+英 A: Yes. The doctor says to take it 1 times a day.
+法 A: Oui. Le médecin dit 1 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 A: 응. 의사가 하루에 1번 먹으래.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 7 次。
+英 B: Yes. The doctor says to take it 7 times a day.
+法 B: Oui. Le médecin dit 7 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 7かいと いった。
+韓 B: 응. 의사가 하루에 7번 먹으래.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 拿了。醫生說一天吃 3 次。
+英 A: Yes. The doctor says to take it 3 times a day.
+法 A: Oui. Le médecin dit 3 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 A: 응. 의사가 하루에 3번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 5 次。
+英 B: Yes. The doctor says to take it 5 times a day.
+法 B: Oui. Le médecin dit 5 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 B: 응. 의사가 하루에 5번 먹으래.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 2 次。
+英 B: Yes. The doctor says to take it 2 times a day.
+法 B: Oui. Le médecin dit 2 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 2かいと いった。
+韓 B: 응. 의사가 하루에 2번 먹으래.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 6 次。
+英 B: Yes. The doctor says to take it 6 times a day.
+法 B: Oui. Le médecin dit 6 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 B: 응. 의사가 하루에 6번 먹으래.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 9 次。
+英 B: Yes. The doctor says to take it 9 times a day.
+法 B: Oui. Le médecin dit 9 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 B: 응. 의사가 하루에 9번 먹으래.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 拿了。醫生說一天吃 9 次。
+英 A: Yes. The doctor says to take it 9 times a day.
+法 A: Oui. Le médecin dit 9 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 9かいと いった。
+韓 A: 응. 의사가 하루에 9번 먹으래.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 5 次。
+英 B: Yes. The doctor says to take it 5 times a day.
+法 B: Oui. Le médecin dit 5 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 B: 응. 의사가 하루에 5번 먹으래.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 5 次。
+英 B: Yes. The doctor says to take it 5 times a day.
+法 B: Oui. Le médecin dit 5 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 5かいと いった。
+韓 B: 응. 의사가 하루에 5번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 拿了。醫生說一天吃 8 次。
+英 A: Yes. The doctor says to take it 8 times a day.
+法 A: Oui. Le médecin dit 8 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 A: 응. 의사가 하루에 8번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 拿了。醫生說一天吃 6 次。
+英 A: Yes. The doctor says to take it 6 times a day.
+法 A: Oui. Le médecin dit 6 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 A: 응. 의사가 하루에 6번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 拿了。醫生說一天吃 8 次。
+英 A: Yes. The doctor says to take it 8 times a day.
+法 A: Oui. Le médecin dit 8 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 A: 응. 의사가 하루에 8번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 拿了。醫生說一天吃 1 次。
+英 A: Yes. The doctor says to take it 1 times a day.
+法 A: Oui. Le médecin dit 1 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 A: 응. 의사가 하루에 1번 먹으래.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 拿了。醫生說一天吃 7 次。
+英 A: Yes. The doctor says to take it 7 times a day.
+法 A: Oui. Le médecin dit 7 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 7かいと いった。
+韓 A: 응. 의사가 하루에 7번 먹으래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 拿了。醫生說一天吃 3 次。
+英 A: Yes. The doctor says to take it 3 times a day.
+法 A: Oui. Le médecin dit 3 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 A: 응. 의사가 하루에 3번 먹으래.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 4 次。
+英 B: Yes. The doctor says to take it 4 times a day.
+法 B: Oui. Le médecin dit 4 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 4かいと いった。
+韓 B: 응. 의사가 하루에 4번 먹으래.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 2 次。
+英 B: Yes. The doctor says to take it 2 times a day.
+法 B: Oui. Le médecin dit 2 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 2かいと いった。
+韓 B: 응. 의사가 하루에 2번 먹으래.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 6 次。
+英 B: Yes. The doctor says to take it 6 times a day.
+法 B: Oui. Le médecin dit 6 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 6かいと いった。
+韓 B: 응. 의사가 하루에 6번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 拿了。醫生說一天吃 3 次。
+英 A: Yes. The doctor says to take it 3 times a day.
+法 A: Oui. Le médecin dit 3 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 A: 응. 의사가 하루에 3번 먹으래.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 那你早一點睡。
+英 B: Then sleep early.
+法 B: Alors dors tôt.
+日 B: じゃ はやく ねて。
+韓 B: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 3 次。
+英 B: Yes. The doctor says to take it 3 times a day.
+法 B: Oui. Le médecin dit 3 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 B: 응. 의사가 하루에 3번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 8 次。
+英 B: Yes. The doctor says to take it 8 times a day.
+法 B: Oui. Le médecin dit 8 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 8かいと いった。
+韓 B: 응. 의사가 하루에 8번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 拿了。醫生說一天吃 3 次。
+英 A: Yes. The doctor says to take it 3 times a day.
+法 A: Oui. Le médecin dit 3 fois par jour.
+日 A: のんだ。 いしゃは 1にちに 3かいと いった。
+韓 A: 응. 의사가 하루에 3번 먹으래.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你拿 medicine 了嗎？
+英 A: Did you take your medicine?
+法 A: As-tu pris ton médicament ?
+日 A: くすりを もった？
+韓 A: 약 가져왔어?
+
+中 B: 拿了。醫生說一天吃 1 次。
+英 B: Yes. The doctor says to take it 1 times a day.
+法 B: Oui. Le médecin dit 1 fois par jour.
+日 B: のんだ。 いしゃは 1にちに 1かいと いった。
+韓 B: 응. 의사가 하루에 1번 먹으래.
+
+中 A: 那你早一點睡。
+英 A: Then sleep early.
+法 A: Alors dors tôt.
+日 A: じゃ はやく ねて。
+韓 A: 그럼 일찍 자.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我病了，沒有去上學。
+英 B: I am sick. I did not go to school.
+法 B: Je suis malade. Je ne suis pas allé à l'école.
+日 B: びょうきで、 がっこうへ いかなかった。
+韓 B: 아파서 학교에 안 갔어.
+
+中 A: 我們去 hospital 吧。
+英 A: We go to the hospital.
+法 A: Allons à l'hôpital.
+日 A: びょういんへ いこう。
+韓 A: 병원에 가자.
+
+中 B: 好。謝謝你。
+英 B: Ok. Thank you.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。謝謝你。
+英 B: Yes. Thank you.
+法 B: Oui. Merci.
+日 B: うん。 ありがとう。
+韓 B: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你要多喝水，多睡。
+英 A: Drink more water and sleep more.
+法 A: Bois plus d'eau et dors plus.
+日 A: 水を たくさん のんで、 たくさん ねて。
+韓 A: 물 많이 마시고 푹 자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 是。謝謝你。
+英 A: Yes. Thank you.
+法 A: Oui. Merci.
+日 A: うん。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：health（由 llm/generate_corpus.py 產生）
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'as-tu aujourd'hui ?
+日 A: きょうは どうしたの？
+韓 A: 오늘 왜 그래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我病了，沒有去上學。
+英 A: I am sick. I did not go to school.
+法 A: Je suis malade. Je ne suis pas allé à l'école.
+日 A: びょうきで、 がっこうへ いかなかった。
+韓 A: 아파서 학교에 안 갔어.
+
+中 B: 我們去 hospital 吧。
+英 B: We go to the hospital.
+法 B: Allons à l'hôpital.
+日 B: びょういんへ いこう。
+韓 B: 병원에 가자.
+
+中 A: 好。謝謝你。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.

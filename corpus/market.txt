@@ -1,0 +1,405 @@
+# mini-x 多語對話：市場購物
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/market.txt 相同。
+
+中 A: 我們去 market 吧。
+英 A: We go to market.
+法 A: Nous allons au marché.
+日 A: わたしたち いちばへ いく。
+韓 A: 우리는 시장에 가요.
+
+中 B: 好。要買什麼？
+英 B: Ok. What do you want to buy?
+法 B: Ok. Tu veux acheter quoi ?
+日 B: いいよ。 なにを かう？
+韓 B: 그래. 뭘 살 거야?
+
+中 A: 買菜和水果。還要買 1 個蛋。
+英 A: I buy food and fruit. I also buy 1 egg.
+法 A: J'achète de la nourriture et du fruit. J'achète aussi 1 œuf.
+日 A: やさいと くだものを かう。 たまごも 1つ かう。
+韓 A: 채소와 과일을 사. 달걀도 1개 사.
+
+中 B: 好。我要買肉和魚。
+英 B: Ok. I want to buy meat and fish.
+法 B: Ok. Je veux acheter de la viande et du poisson.
+日 B: いいよ。 にくと さかなを かう。
+韓 B: 그래. 고기와 물고기를 사.
+
+中 A: 你想吃什麼肉？
+英 A: What meat do you want to eat?
+法 A: Quelle viande veux-tu manger ?
+日 A: なにの にくを たべるの？
+韓 A: 무슨 고기를 먹고 싶어?
+
+中 B: 雞肉。媽媽說今天有好的雞肉。
+英 B: Chicken. Mother says there is good chicken today.
+法 B: Poulet. Maman dit qu'il y a de la bonne viande de poulet aujourd'hui.
+日 B: とりにく。 おかあさんは きょう よい とりにくが あると いう。
+韓 B: 닭고기. 엄마는 오늘 좋은 닭고기가 있다고 해.
+
+中 A: 我要買 1 個白菜。
+英 A: I want to buy 1 white food.
+法 A: Je veux acheter 1 nourriture blanche.
+日 A: わたしは はくさいを 1つ かう。
+韓 A: 배추를 1개 사.
+
+中 B: 好。白菜對小孩好。
+英 B: Ok. White food is good for the child.
+法 B: Ok. La nourriture blanche est bonne pour l'enfant.
+日 B: いいよ。 はくさいは こどもに いい。
+韓 B: 그래. 배추는 아이에게 좋아.
+
+中 A: 你看，這個菜很新。
+英 A: Look, this food is very new.
+法 A: Regarde, cette nourriture est très nouvelle.
+日 A: みて、 この やさいは とても あたらしい。
+韓 A: 봐, 이 채소는 아주 새로워.
+
+中 B: 是。這個菜很綠。
+英 B: Yes. This food is very green.
+法 B: Oui. Cette nourriture est très verte.
+日 B: うん。 この やさいは とても みどりだ。
+韓 B: 응. 이 채소는 아주 초록이야.
+
+中 A: 一個多少錢？
+英 A: What is the price of 1?
+法 A: Quel est le prix de 1 ?
+日 A: 1つ いくら？
+韓 A: 1개 얼마야?
+
+中 B: 一個 3 塊。
+英 B: 3 for 1.
+法 B: 3 pour un.
+日 B: 1つ 3えんです。
+韓 B: 1개에 3원이야.
+
+中 A: 我要 4 個。
+英 A: I want 4.
+法 A: Je veux 4.
+日 A: 4つ ほしい。
+韓 A: 4개 189.
+
+中 B: 好。要我幫你拿嗎？
+英 B: Ok. Do you want me to take it for you?
+法 B: Ok. Tu veux que je le porte pour toi ?
+日 B: いいよ。 わたしが もって あげる？
+韓 B: 그래. 내가 들어줄까?
+
+中 A: 謝謝。
+英 A: Thanks.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워요.
+
+中 B: 不用謝。
+英 B: No need to say thanks.
+法 B: Pas besoin de dire merci.
+日 B: いいよ。 いらないよ。
+韓 B: 괜찮아. 고마워할 필요 없어.
+
+中 A: 這個水果是什麼？
+英 A: What is this fruit?
+法 A: Qu'est-ce que ce fruit ?
+日 A: この くだものは なに？
+韓 A: 이 과일은 뭐야?
+
+中 B: 是 apple。你要幾個？
+英 B: It is apple. How many do you want?
+法 B: C'est une apple. Combien en veux-tu ?
+日 B: りんごだ。 いくつ ほしい？
+韓 B: 사과야. 몇 개 원해?
+
+中 A: 我要 5 個。
+英 A: I want 5.
+法 A: Je veux 5.
+日 A: 5つ ほしい。
+韓 A: 5개 189.
+
+中 B: 好。你要紅的還是綠的？
+英 B: Ok. Do you want red or green?
+法 B: Ok. Tu veux rouge ou vert ?
+日 B: いいよ。 あかい いろと みどりの いろの どちら？
+韓 B: 그래. 빨간 거 초록 거 중 뭐?
+
+中 A: 紅的。紅的更甜。
+英 A: Red. Red is sweeter.
+法 A: Rouge. Le rouge est plus doux.
+日 A: あかい。 あかいの ほうが もっと あまい。
+韓 A: 빨간 거. 빨간 게 더 달아.
+
+中 B: 是。紅的也更好看。
+英 B: Yes. Red is also good to look at.
+法 B: Oui. Le rouge est aussi plus bon à regarder.
+日 B: うん。 あかいの ほうが みる ほうが いい。
+韓 B: 응. 빨간 게 더 보기 좋아.
+
+中 A: 這裡的東西真多。
+英 A: There are many things here.
+法 A: Il y a beaucoup de choses ici.
+日 A: ここには ものが たくさん ある。
+韓 A: 여기에는 물건이 정말 많아.
+
+中 B: 是。這裡都是賣東西的。
+英 B: Yes. Here they sell things.
+法 B: Oui. Ici on vend des choses.
+日 B: うん。 ここでは ものを うっている。
+韓 B: 응. 여기서는 물건을 팔아.
+
+中 A: 我以前沒有來過。
+英 A: I never came here.
+法 A: Je ne suis pas venu ici.
+日 A: わたしは まえに ここへ きた ことが ない。
+韓 A: 나는 전에 여기 온 적 없어.
+
+中 B: 我每個週都來。這裡的菜更新，錢也更少。
+英 B: I come here every week. The food here is newer and the money is less.
+法 B: Je viens ici chaque semaine. La nourriture ici est plus nouvelle et l'argent est plus petit.
+日 B: わたしは まいしゅう ここへ くる。 ここの やさいは もっと あたらしく、 おかねも もっと すくない。
+韓 B: 나는 매주 여기에 가. 여기 채소는 더 새롭고 돈도 더 적어.
+
+中 A: 好。那我以後也來。
+英 A: Ok. Then I will come here too.
+法 A: Ok. Alors je viendrai aussi ici.
+日 A: いいよ。 じゃ わたしも あとで くる。
+韓 A: 그래. 그럼 나중에 나도 갈게.
+
+中 B: 好。我和你一起來。
+英 B: Ok. I come with you.
+法 B: Ok. Je viens avec toi.
+日 B: いいよ。 わたしと いっしょに くる。
+韓 B: 그래. 너와 같이 가자.
+
+中 A: 這個怎麼賣？
+英 A: How do you sell this?
+法 A: Comment tu le vends ?
+日 A: これは どう うるの？
+韓 A: 이건 어떻게 팔아?
+
+中 B: 這個 10 塊。
+英 B: The price is 10.
+法 B: Le prix est 10.
+日 B: これは 10えんです。
+韓 B: 이건 10원이야.
+
+中 A: 太貴了。8 塊可以嗎？
+英 A: The price is very big. Can it be 8?
+法 A: Le prix est très grand. 8, ça va ?
+日 A: たかすぎる。 8えんで いい？
+韓 A: 너무 비싸. 8원이면 돼?
+
+中 B: 8 塊不要。9 塊吧。
+英 B: Not 8. 9 is ok.
+法 B: Pas 8. 9, ok ?
+日 B: 8は だめ。 9えんに しよう。
+韓 B: 8은 안 돼. 9원으로 하자.
+
+中 A: 好。要 2 個。
+英 A: Ok. I want 2.
+法 A: Ok. Je veux 2.
+日 A: いいよ。 2つ ほしい。
+韓 A: 그래. 2개 189.
+
+中 B: 好。你要 bag 嗎？
+英 B: Ok. Do you want bag?
+法 B: Ok. Tu veux un bag ?
+日 B: いいよ。 かばんが ほしい？
+韓 B: 그래. 가방 필요해?
+
+中 A: 不要。我自己拿。
+英 A: No. I take it.
+法 A: Non. Je prends.
+日 A: いいえ。 わたしで もつ。
+韓 A: 아니. 내가 들게.
+
+中 A: 你買了什麼？
+英 A: What did you buy?
+法 A: Qu'est-ce que tu as acheté ?
+日 A: なにを かった？
+韓 A: 뭐 샀어?
+
+中 B: 肉、魚、蛋、還有一個花。
+英 B: Meat, fish, egg, and 1 flower.
+法 B: Viande, poisson, œufs et 1 fleur.
+日 B: にく、 さかな、 たまご、 あと はな 1つ。
+韓 B: 고기, 물고기, 달걀, 그리고 꽃 1개.
+
+中 A: 好看。你要拿給誰？
+英 A: It looks good. Who do you give it to?
+法 A: C'est bon. Tu le donnes à qui ?
+日 A: みためが いい。 だれに もって いくの？
+韓 A: 이쁘다. 누구한테 가져갈 거야?
+
+中 B: 給媽媽。媽媽今天生日。
+英 B: For mother. Mother has a birthday today.
+法 B: Pour maman. Aujourd'hui, c'est l'anniversaire de maman.
+日 B: おかあさんに。 おかあさんは きょう たんじょうび。
+韓 B: 엄마한테. 오늘은 엄마 생일.
+
+中 A: 是你媽媽生日？那我要買 cake。
+英 A: Is it your mother's birthday? Then I want to buy cake.
+法 A: C'est l'anniversaire de ta mère ? Alors je veux acheter un gâteau.
+日 A: おかあさんの たんじょうび？ じゃ ケーキを かう。
+韓 A: 엄마 생일이야? 그럼 케이크를 살게.
+
+中 B: 好想法。你知道哪裡有賣 cake 嗎？
+英 B: Good idea. Do you know where they sell cake?
+法 B: Bonne idée. Tu sais où on vend un gâteau ?
+日 B: いい アイデアだ。 どこに ケーキを うるか わかる？
+韓 B: 좋은 생각이다. 케이크 파는 곳 알아?
+
+中 A: 我知道。我以前去過。
+英 A: I know. I went there last time.
+法 A: Je sais. Je suis allé là.
+日 A: しってる。 まえに そこへ いった ことがある。
+韓 A: 알아. 전에 거기 가 본 적 있어.
+
+中 A: 你還要買什麼嗎？
+英 A: Do you want to buy more things?
+法 A: Tu veux acheter plus de choses ?
+日 A: まだ なにを かうの？
+韓 A: 더 사려면 뭐가 필요해?
+
+中 B: 我想再買一點肉。我錢不多了。
+英 B: I want to buy more meat. My money is small.
+法 B: Je veux acheter plus de viande. Je n'ai pas beaucoup d'argent.
+日 B: もう すこし にくを かう。 おかねが すくない。
+韓 B: 조금 더 고기를 사고 싶어. 돈이 별로 없어.
+
+中 A: 我有 50 塊。我給你錢。
+英 A: I have 50. I give you money.
+法 A: J'ai 50. Je te donne de l'argent.
+日 A: わたしは 50もっている。 おかねを あげる。
+韓 A: 나한테 50원 있어. 줄게.
+
+中 B: 不用。我自己有。我只是不想買多。
+英 B: No need. I have money. I do not want to buy more.
+法 B: Pas besoin. J'ai le mien. Je ne veux pas acheter plus.
+日 B: いいよ。 わたしが もっている。 ただ 多く かう だけじゃ ない。
+韓 B: 괜찮아. 내 돈 있어. 그냥 더는 안 사.
+
+中 A: 好。那你買少一點。
+英 A: Ok. Then buy less.
+法 A: Ok. Alors achète moins.
+日 A: いいよ。 じゃ すこし すくなく かう。
+韓 A: 그래. 그럼 조금만 사.
+
+中 B: 好。3 天的量就好。
+英 B: Ok. I need food for 3 days.
+法 B: Ok. Pour 3 jours.
+日 B: いいよ。 3にちぶん だけで いい。
+韓 B: 그래. 3일치면 돼.
+
+中 A: 好。我等你。
+英 A: Ok. I wait for you.
+法 A: Ok. Je t'attends.
+日 A: いいよ。 まつ。
+韓 A: 그래. 기다릴게.
+
+中 A: 買好了。我們回家吧。
+英 A: I bought them. We go home.
+法 A: J'ai fini. On va à la maison.
+日 A: かった。 うちへ かえろう。
+韓 A: 다 샀어. 집에 가자.
+
+中 B: 好。這些東西給我拿。
+英 B: Ok. Give me these things to take.
+法 B: Ok. Donne-moi ces choses à porter.
+日 B: いいよ。 この ものを わたしが もって いく。
+韓 B: 그래. 이 물건들 내가 들게.
+
+中 A: 我拿菜和水果。
+英 A: I take food and fruit.
+法 A: Je prends la nourriture et le fruit.
+日 A: わたしが やさいと くだものを もつ。
+韓 A: 나는 채소와 과일을 들게.
+
+中 B: 好。走快一點，我要做飯。
+英 B: Ok. Walk fast. I want to cook.
+法 B: Ok. Marche vite. Je veux cuisiner.
+日 B: いいよ。 はやく あるく。 ごはんを つくる。
+韓 B: 그래. 빨리 가. 밥을 하려고 해.
+
+中 A: 好。你要做什麼菜？
+英 A: Ok. What food do you want to make?
+法 A: Ok. Quelle nourriture veux-tu faire ?
+日 A: いいよ。 なにの やさいを つくるの？
+韓 A: 그래. 무슨 요리를 만들 거야?
+
+中 B: 做魚和菜。還要做飯。
+英 B: I make fish and food. Also I make rice.
+法 B: Je fais du poisson et de la nourriture. Je fais aussi du riz.
+日 B: さかなと やさいを つくる。 ごはんも つくる。
+韓 B: 물고기와 채소를 해. 밥도 만들어.
+
+中 A: 我來幫你洗菜。
+英 A: I come to help you wash the food.
+法 A: Je viens t'aider à laver la nourriture.
+日 A: わたしが てつだって やさいを あらって あげる。
+韓 A: 내가 도와줄게. 채소를 씻어줄게.
+
+中 B: 好。你洗，我做。
+英 B: Ok. You wash, I make.
+法 B: Ok. Tu laves, je fais.
+日 B: いいよ。 あなたが あらって、 わたしが つくる。
+韓 B: 그래. 네가 씻어, 나는 해.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 你買的東西真多。
+英 A: You bought many things.
+法 A: Tu as acheté beaucoup de choses.
+日 A: あなたは たくさんの ものを かった。
+韓 A: 너는 물건을 정말 많이 샀어.
+
+中 B: 是。這是我一個週的東西。
+英 B: Yes. This is my food for 1 week.
+法 B: Oui. C'est ma nourriture pour 1 semaine.
+日 B: うん。 これが 1しゅうかんの もの。
+韓 B: 응. 이게 일주일치야.
+
+中 A: 你一個人吃嗎？
+英 A: Are you 1 person?
+法 A: Tu manges 1 personne ?
+日 A: ひとりで たべるの？
+韓 A: 혼자 먹어?
+
+中 B: 不是。和我媽媽一起。媽媽 60 歲了。
+英 B: No. With my mother. Mother is 60.
+法 B: Non. Avec ma mère. Maman a 60 ans.
+日 B: いいえ。 おかあさんと いっしょに。 おかあさんは 60さい。
+韓 B: 아니. 엄마랑 같이. 엄마는 60살이야.
+
+中 A: 那你們吃很多。
+英 A: Then you eat more food.
+法 A: Alors vous mangez plus.
+日 A: じゃ あなたたちは たくさん たべるね。
+韓 A: 그럼 너희는 많이 먹네.
+
+中 B: 是。媽媽喜歡吃魚和肉。
+英 B: Yes. Mother likes to eat fish and meat.
+法 B: Oui. Maman aime manger du poisson et de la viande.
+日 B: うん。 おかあさんは さかなと にくを たべるのが すき。
+韓 B: 응. 엄마는 물고기고 고기를 좋아해.
+
+中 A: 真好。有人一起吃飯。
+英 A: Very good. People eat with you.
+法 A: Très bien. Les gens mangent ensemble.
+日 A: いいなあ。 みんなで ごはんを いっしょに たべる。
+韓 A: 좋다. 같이 밥 먹는 사람이 있어.
+
+中 B: 是。快來幫我做飯。
+英 B: Yes. Come fast to help me cook.
+法 B: Oui. Viens vite m'aider à cuisiner.
+日 B: うん。 はやく きて ごはんを つくるのを てつだって。
+韓 B: 응. 빨리 와서 밥하는 거 도와줘.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.

@@ -1,0 +1,411 @@
+# mini-x 多語對話：電話與訊息
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/phone.txt 相同。
+
+中 A: 你好？
+英 A: Good day?
+法 A: Tu es là ?
+日 A: こんにちは？
+韓 A: 안녕하세요?
+
+中 B: 你好，我是文。
+英 B: Good day. I am Wen.
+法 B: Je suis Wen. Tu es là ?
+日 B: こんにちは。 わたしは ぶん。
+韓 B: 안녕하세요. 나는 문이야.
+
+中 A: 你好，力。你在學校嗎？
+英 A: Good day, Li. Are you at school?
+法 A: Tu es là, Li. Tu es à l'école ?
+日 A: こんにちは、 力。 あなたは がっこうに いる？
+韓 A: 안녕하세요. 너는 학교에 있어?
+
+中 B: 是。你呢？
+英 B: Yes. And you?
+法 B: Oui. Et toi ?
+日 B: うん。 あなたは？
+韓 B: 그래. 너는?
+
+中 A: 我在家裡的房間。我現在有空。
+英 A: I am in my room at home. I have time now.
+法 A: Je suis dans ma chambre à la maison. J'ai le temps maintenant.
+日 A: わたしは うちの へやに いる。 いま ひまが ある。
+韓 A: 나는 집 방에 있어. 지금 시간이 있어.
+
+中 B: 好。那我們去 park 吧。
+英 B: Ok. Then we go to the park.
+法 B: Ok. Alors nous allons au parc.
+日 B: いいよ。 じゃ パークへ いこう。
+韓 B: 그래. 그럼 공원에 가자.
+
+中 A: 好。幾點？
+英 A: Ok. What time?
+法 A: Ok. Quelle heure ?
+日 A: いいよ。 なんじ？
+韓 A: 그래. 몇 시?
+
+中 B: 3 點。學校門口等你。
+英 B: 3 o'clock. I wait for you at the school gate.
+法 B: 3 heures. Je t'attends à la porte de l'école.
+日 B: 3じ。 がっこうの 門で まつ。
+韓 B: 3시. 학교 앞에서 기다릴게.
+
+中 A: 好。3 點見。
+英 A: Ok. See you at 3.
+法 A: Ok. On se voit à 3 heures.
+日 A: いいよ。 3じに あう。
+韓 A: 그래. 3시에 보자.
+
+中 A: 你打電話給我。
+英 A: You call me.
+法 A: Tu m'appelles par téléphone.
+日 A: あなたは わたしに 電話して。
+韓 A: 너는 나에게 전화해.
+
+中 B: 你在嗎？
+英 B: Are you there?
+法 B: Tu es là ?
+日 B: あなたは いる？
+韓 B: 너 있어?
+
+中 A: 在。什麼事？
+英 A: I am here. What is it?
+法 A: Je suis là. C'est quoi ?
+日 A: いる。 なに？
+韓 A: 있어. 무슨 일이야?
+
+中 B: 我有一個問題想問你。
+英 B: I have 1 question to ask you.
+法 B: J'ai 1 question à te poser.
+日 B: わたしは もんだいが 1つ ある。 あなたに きいて ほしい。
+韓 B: 나에게 물어볼 질문이 1개 있어.
+
+中 A: 問吧。
+英 A: Ask me.
+法 A: Demande.
+日 A: きいて。
+韓 A: 물어봐.
+
+中 B: 明天的題你會做嗎？
+英 B: Can you do the question of tomorrow?
+法 B: Tu peux faire le problème de demain ?
+日 B: あしたの もんだいが できる？
+韓 B: 내일 문제를 할 수 있어?
+
+中 A: 第 2 題我不會。
+英 A: I can not do question 2.
+法 A: Je ne sais pas faire le problème 2.
+日 A: 2つめ の もんだいが わからない。
+韓 A: 2번 문제는 못해.
+
+中 B: 我也不會。我們一起做。
+英 B: I can not either. We do it together.
+法 B: Moi non plus. Nous le faisons ensemble.
+日 B: わたしも できない。 いっしょに やりましょう。
+韓 B: 나도 못해. 같이 하자.
+
+中 A: 好。3 點我打給你。
+英 A: Ok. At 3 I call you.
+法 A: Ok. À 3 heures je t'appelle.
+日 A: いいよ。 3じに 電話する。
+韓 A: 그래. 3시에 전화할게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 你的 message 我看到了。
+英 A: I saw your message.
+法 A: J'ai vu ton message.
+日 A: あなたの messageを み た。
+韓 A: 네 message를 봤어.
+
+中 B: 真的？我 10 分鐘前 send。
+英 B: Really? I sent it 10 minutes ago.
+法 B: Vraiment ? Je l'ai envoyé il y a 10 minutes.
+日 B: ほんとう？ 10ふんまえに おくった。
+韓 B: 그래? 10분 전에 보냈어.
+
+中 A: 是。我現在在看。
+英 A: Yes. I am reading it now.
+法 A: Oui. Je le lis maintenant.
+日 A: うん。 いま よんで いる。
+韓 A: 응. 지금 읽고 있어.
+
+中 B: 好。那我們在學校說。
+英 B: Ok. Then we talk at school.
+法 B: Ok. Alors nous parlons à l'école.
+日 B: いいよ。 がっこうで はなそう。
+韓 B: 그래. 학교에서 얘기하자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 你的電話壞了。
+英 A: Your phone is bad.
+法 A: Ton téléphone est mauvais.
+日 A: あなたの 電話が こわれた。
+韓 A: 네 전화가 고장 났어.
+
+中 B: 真的？我早上還可以用。
+英 B: Really? This morning I can use it.
+法 B: Vraiment ? Ce matin je peux l'utiliser.
+日 B: ほんとう？ あさ まだ つかえる。
+韓 B: 그래? 아침에는 아직 쓸 수 있어.
+
+中 A: 是。我打過去沒有聲音。
+英 A: Yes. I called but there was no sound.
+法 A: Oui. J'ai appelé, il n'y avait pas de son.
+日 A: うん。 かけても 音が なかった。
+韓 A: 응. 전화했는데 소리가 없었어.
+
+中 B: 那我怎麼找你？
+英 B: Then how do I find you?
+法 B: Alors, comment je te trouve ?
+日 B: じゃ どう あなたを みつける？
+韓 B: 그럼 어떻게 너를 찾지?
+
+中 A: 我用 message 給你。
+英 A: I use the message to you.
+法 A: Je t'envoie un message.
+日 A: わたしは messageで おくる。
+韓 A: 내가 message로 보낼게.
+
+中 B: 好。要是有快事，就用 2 個電話打。
+英 B: Ok. If it is fast, use 2 phones.
+法 B: Ok. Si c'est rapide, utilise 2 téléphones.
+日 B: いいよ。 いそがしい とき、 2つの 電話で かける。
+韓 B: 그래. 바쁠 때 2개 전화로 걸어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: わかった。
+韓 A: 알겠어.
+
+中 A: 你今天可以出來嗎？
+英 A: Can you come out today?
+法 A: Tu peux sortir aujourd'hui ?
+日 A: あなたは きょう でる ことが できる？
+韓 A: 너 오늘 나올 수 있어?
+
+中 B: 可以。我 6 點以後有空。
+英 B: Yes. I have time after 6 o'clock.
+法 B: Oui. J'ai le temps après 6 heures.
+日 B: できる。 6じ いじょう ひまが ある。
+韓 B: 응. 6시 이후에 시간이 있어.
+
+中 A: 好。我們去吃飯。
+英 A: Ok. We go to eat.
+法 A: Ok. Nous allons manger.
+日 A: いいよ。 ごはんを たべに いこう。
+韓 A: 그래. 밥 먹으러 가자.
+
+中 B: 好。你找地方。
+英 B: Ok. You find the place.
+法 B: Ok. Tu trouves le restaurant ?
+日 B: いいよ。 ばしょは あなたに まかせた。
+韓 B: 그래. 네가 장소를 찾아.
+
+中 A: 好。我去問一下媽媽。
+英 A: Ok. I go to ask mother.
+法 A: Ok. Je vais demander à maman.
+日 A: いいよ。 ははに きいて みる。
+韓 A: 그래. 엄마한테 물어볼게.
+
+中 B: 好。等你 message。
+英 B: Ok. I wait for your message.
+法 B: Ok. J'attends ton message.
+日 B: いいよ。 messageを まつ。
+韓 B: 그래. message를 기다릴게.
+
+中 A: 媽媽打電話來說晚上不能出去。
+英 A: Mother called and says at night I can not go out.
+法 A: Maman a appelé et dit qu'on ne peut pas sortir le soir.
+日 A: ははが 電話して よるは でられないと い った。
+韓 A: 엄마가 전화해서 밤에는 나갈 수 없다고 했어.
+
+中 B: 為什麼？
+英 B: Why?
+法 B: Pourquoi ?
+日 B: なぜ？
+韓 B: 왜?
+
+中 A: 媽媽說我還沒有做 homework。
+英 A: Mother says I have not done my homework.
+法 A: Maman dit que je n'ai pas fait mon homework.
+日 A: ははが まだ homeworkを して いないと い った。
+韓 A: 엄마가 아직 homework를 안 했다고 했어.
+
+中 B: 那你快去做。
+英 B: Then you go do it fast.
+法 B: Alors, fais-le vite.
+日 B: じゃ はやく やりな。
+韓 B: 그럼 빨리 해.
+
+中 A: 你可以等一下嗎？我先做。
+英 A: Can you wait? I do it first.
+法 A: Tu peux attendre ? Je commence.
+日 A: すこし まって いい？ わたしが 先に する。
+韓 A: 잠깐 기다릴 수 있어? 내가 먼저 할게.
+
+中 B: 好。我 8 點再打給你。
+英 B: Ok. I call you again at 8.
+法 B: Ok. Je t'appelle encore à 8 heures.
+日 B: いいよ。 8じに もう 1かい 電話する。
+韓 B: 그래. 8시에 다시 전화할게.
+
+中 A: 好。到時再說。
+英 A: Ok. We talk then.
+法 A: Ok. On en parle alors.
+日 A: いいよ。 そのとき 話そう。
+韓 A: 그래. 그때 얘기해.
+
+中 A: 你的聲音聽不懂。
+英 A: I can not hear you well.
+法 A: Je ne comprends pas bien.
+日 A: あなたの こえが きこえない。
+韓 A: 네 목소리를 못 알아들어.
+
+中 B: 是嗎？這裡風很大。
+英 B: Is it? The wind is very strong here.
+法 B: Vraiment ? Le vent est très fort ici.
+日 B: そう？ ここでは 風が とても つよい。
+韓 B: 그래? 여긴 바람이 아주 세.
+
+中 A: 你到裡邊去。
+英 A: You go to the room.
+法 A: Va dans la chambre.
+日 A: あなたは なかに いりな。
+韓 A: 너 안으로 들어가.
+
+中 B: 好。現在呢？
+英 B: Ok. Now?
+法 B: Ok. Maintenant ?
+日 B: いいよ。 いまは？
+韓 B: 그래. 지금은?
+
+中 A: 好一點了。
+英 A: It is a little better.
+法 A: C'est un peu mieux.
+日 A: ちょっと よくなった。
+韓 A: 조금 나아졌어.
+
+中 B: 那我說，你要不要一起做 project？
+英 B: Then I say, do you want to do a project with me?
+法 B: Alors je dis : veux-tu faire un project avec moi ?
+日 B: じゃ いうよ。 わたしと いっしょに projectを する？
+韓 B: 그럼 말할게. 나랑 같이 project 할래?
+
+中 A: 好。你幾點做？
+英 A: Ok. What time do you do it?
+法 A: Ok. Tu le fais à quelle heure ?
+日 A: いいよ。 なんじに やる？
+韓 A: 그래. 몇 시에 해?
+
+中 B: 今晚 7 點。
+英 B: Tonight at 7.
+法 B: Ce soir à 7 heures.
+日 B: よる 7じ。
+韓 B: 오늘 밤 7시.
+
+中 A: 好。我先吃飯，7 點上 computer。
+英 A: Ok. I eat first, at 7 I use the computer.
+法 A: Ok. Je mange d'abord, à 7 heures j'utilise l'ordinateur.
+日 A: いいよ。 先に ごはん、 7じに computerを つかう。
+韓 A: 그래. 먼저 밥 먹고 7시에 computer 켜.
+
+中 B: 好。我等你。
+英 B: Ok. I wait for you.
+法 B: Ok. Je t'attends.
+日 B: いいよ。 まつ。
+韓 B: 그래. 기다릴게.
+
+中 A: 我的電話壞了。
+英 A: My phone is bad.
+法 A: Mon téléphone est mauvais.
+日 A: わたしの 電話が こわれた。
+韓 A: 내 전화가 고장 났어.
+
+中 B: 沒事。要不要我打回去？
+英 B: No problem. Do you want me to call back?
+法 B: Pas de problème. Tu veux que je rappelle ?
+日 B: もんだいない。 わたしに かけなおす？
+韓 B: 괜찮아. 내가 다시 전화할까?
+
+中 A: 不用。是我壞了。
+英 A: No need. It is me.
+法 A: Pas besoin. C'est moi.
+日 A: いいえ。 わたしが こさせた。
+韓 A: 아니야. 내가 망가뜨렸어.
+
+中 B: 好。那你小心。
+英 B: Ok. Then be careful.
+法 B: Ok. Alors, fais attention.
+日 B: いいよ。 きゅうに ちゅういして。
+韓 B: 그래. 조심해.
+
+中 A: 謝謝。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 A: 你明天有事嗎？
+英 A: Do you have something tomorrow?
+法 A: Tu as quelque chose demain ?
+日 A: あなたは あした ことが ある？
+韓 A: 너 내일 할 일 있어?
+
+中 B: 有一個小小的會。
+英 B: There is 1 small meeting.
+法 B: Il y a 1 petite chose.
+日 B: ちいさな かいぎが 1つ ある。
+韓 B: 작은 모임이 1개 있어.
+
+中 A: 幾點？
+英 A: What time?
+法 A: Quelle heure ?
+日 A: なんじ？
+韓 A: 몇 시?
+
+中 B: 上午 10 點。
+英 B: In the morning at 10.
+法 B: À 10 heures du matin.
+日 B: あさ 10じ。
+韓 B: 오전 10시.
+
+中 A: 那我們下午見。
+英 A: Then we see each other in the afternoon.
+法 A: Alors on se voit l'après-midi.
+日 A: じゃ ごごに あう。
+韓 A: 그럼 오후에 보자.
+
+中 B: 好。下午 2 點，老地方。
+英 B: Ok. At 2 in the afternoon, the old place.
+法 B: Ok. À 2 heures de l'après-midi, au parc.
+日 B: いいよ。 ごご 2じ、 いつもの ばしょで。
+韓 B: 그래. 오후 2시에, 늘 가던 장소에서.
+
+中 A: 好。記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je me souviens.
+日 A: いいよ。 おぼえて おく。
+韓 A: 그래. 기억해 둘게.
+
+中 B: 好。明天見。
+英 B: Ok. See you tomorrow.
+法 B: Ok. À demain.
+日 B: いいよ。 あした あう。
+韓 B: 그래. 내일 봐.
+
+中 A: 明天見。
+英 A: See you tomorrow.
+法 A: À demain.
+日 A: あした あう。
+韓 A: 내일 봐.

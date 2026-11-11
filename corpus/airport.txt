@@ -1,0 +1,435 @@
+# mini-x 多語對話：機場
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/airport.txt 相同。
+
+中 A: 我們到 airport 了。
+英 A: We are at airport now.
+法 A: Nous sommes à l'aéroport.
+日 A: いま くうこうに ついた。
+韓 A: 우리는 공항에 도착했어.
+
+中 B: 你要先去哪裡？
+英 B: Where do you want to go first?
+法 B: Où vas-tu en premier ?
+日 B: あなたは まず どこへ いく？
+韓 B: 너는 먼저 어디에 가고 싶어?
+
+中 A: 我要去 check in。
+英 A: I want to go check in.
+法 A: Je veux aller check in.
+日 A: わたしは チェックインに いく。
+韓 A: 나는 체크인하러 가.
+
+中 B: 我要去買 water。你要一起嗎？
+英 B: I want to buy water. Do you go with me?
+法 B: Je veux acheter de l'eau. Tu viens avec moi ?
+日 B: わたしは 水を かう。 あなたは いっしょに いく？
+韓 B: 나는 물을 사러 가. 너도 같이 갈래?
+
+中 A: 不要。我在這裡等。
+英 A: No. I wait here.
+法 A: Non. J'attends ici.
+日 A: いいえ。 ここで まつ。
+韓 A: 아니. 여기서 기다릴게.
+
+中 B: 好。那我 10 分鐘後來找你。
+英 B: Ok. I come to find you after 10 minutes.
+法 B: Ok. Je viens te chercher après 10 minutes.
+日 B: いいよ。 10 ふんの あと わたしは あなたに あいに いく。
+韓 B: 그래. 10분 후에 내가 너를 찾으러 갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 我沒有 passport。
+英 A: I do not have passport.
+法 A: Je n'ai pas de passport.
+日 A: わたしは パスポートが ない。
+韓 A: 나는 여권이 없어.
+
+中 B: 真的嗎？那要很多時間。
+英 B: Really? Then it takes much time.
+法 B: Vraiment ? Il faut beaucoup de temps.
+日 B: ほんとう？ それで 時間が たくさん かかる。
+韓 B: 그래요? 그럼 시간이 많이 걸려요.
+
+中 A: 我放在家裡了。
+英 A: I put it at home.
+法 A: Je l'ai mis à la maison.
+日 A: わたしは それを 家に おいた。
+韓 A: 나는 그것을 집에 뒀어.
+
+中 B: 你要打電話回去嗎？
+英 B: Do you want to call home?
+法 B: Tu veux appeler à la maison ?
+日 B: あなたは 家に 電話する？
+韓 B: 너는 집에 전화할 거야?
+
+中 A: 要。我現在就打。
+英 A: Yes. I call now.
+法 A: Oui. J'appelle maintenant.
+日 A: うん。 いま 電話する。
+韓 A: 응. 지금 전화할게.
+
+中 B: 快打。不可以上飛機。
+英 B: Call quickly. You can not go on plane.
+法 B: Appelle vite. Tu ne peux pas monter dans l'avion.
+日 B: はやく 電話して。 ひこうきに のぼっては いけない。
+韓 B: 빨리 전화해. 비행기에 타면 안 돼.
+
+中 A: 媽媽聽到了。媽媽說可以拿來。
+英 A: Mother heard. Mother says I can bring it.
+法 A: Maman a entendu. Maman dit que je peux l'apporter.
+日 A: おかあさんが きいた。 おかあさんは もって きても いいと いう。
+韓 A: 엄마가 들었어. 엄마가 가져와도 된다고 했어.
+
+中 B: 好。那你等 30 分鐘。
+英 B: Ok. Then you wait 30 minutes.
+法 B: Ok. Alors tu attends 30 minutes.
+日 B: いいよ。 30 ふん まって。
+韓 B: 그래. 30분 기다려.
+
+中 A: 謝謝。
+英 A: Thanks.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워요.
+
+中 A: 這裡人真多。
+英 A: There are many people here.
+法 A: Il y a beaucoup de gens ici.
+日 A: ここは 人が たくさん いる。
+韓 A: 여기 사람이 정말 많아.
+
+中 B: 是。今天很多人要出門。
+英 B: Yes. Many people go out today.
+法 B: Oui. Beaucoup de gens sortent aujourd'hui.
+日 B: うん。 きょうは 人が たくさん でる。
+韓 B: 응. 오늘 사람들이 많이 나가.
+
+中 A: 你要去哪裡？
+英 A: Where do you want to go?
+法 A: Où vas-tu ?
+日 A: あなたは どこへ いく？
+韓 A: 너는 어디에 가?
+
+中 B: 我去南方看家人。坐飛機要 3 個小時。
+英 B: I go south to see my family. It takes 3 hours by plane.
+法 B: Je vais au sud voir ma famille. C'est 3 heures en avion.
+日 B: わたしは 南へ かぞくを みに いく。 ひこうきで 3 じかん かかる。
+韓 B: 나는 남쪽으로 가서 가족을 봐. 비행기로 3시간 걸려.
+
+中 A: 那真遠。
+英 A: That is really far.
+法 A: C'est vraiment loin.
+日 A: それは ほんとうに 遠い。
+韓 A: 그건 정말 멀다.
+
+中 B: 是。我 2 年沒有回去了。
+英 B: Yes. I did not go back for 2 years.
+法 B: Oui. Je ne suis pas rentré depuis 2 ans.
+日 B: うん。 わたしは 2 ねん もどって いない。
+韓 B: 그래. 나는 2년 동안 돌아가지 않았어.
+
+中 A: 你要拿什麼回去？
+英 A: What do you want to take back?
+法 A: Que veux-tu rapporter ?
+日 A: あなたは なにを もって くの？
+韓 A: 너는 뭘 가져가?
+
+中 B: 一些茶和衣服。還要給我兒子買 1 個 toy。
+英 B: Some tea and clothes. I also buy 1 toy for my son.
+法 B: Du thé et des vêtements. Je vais aussi acheter 1 toy pour mon fils.
+日 B: 茶と 服を もって いく。 むすこに おもちゃを 1 つ かう。
+韓 B: 차와 옷. 아들에게 장난감 1개도 사.
+
+中 A: 他幾歲？
+英 A: How old is he?
+法 A: Quel âge a-t-il ?
+日 A: かれは なんさい？
+韓 A: 몇 살이야?
+
+中 B: 他 7 歲。他最喜歡玩球。
+英 B: He is 7. He likes to play ball most.
+法 B: Il a 7 ans. Il aime jouer à la balle le plus.
+日 B: かれは 7 さい。 かれは ボールを あそぶのが いちばん すき。
+韓 B: 7살이야. 공을 하는 걸 제일 좋아해.
+
+中 A: 可以給我看你的 ticket 嗎？
+英 A: Can you show me your ticket?
+法 A: Peux-tu me montrer ton ticket ?
+日 A: きっぷを みせて くれない？
+韓 A: 표를 보여 줄 수 있어?
+
+中 B: 可以。在這裡。
+英 B: Ok. Here it is.
+法 B: Ok. Le voici.
+日 B: いいよ。 ここです。
+韓 B: 그래. 여기 있어.
+
+中 A: 謝謝。我是第 21 位。
+英 A: Thanks. I am number 21.
+法 A: Merci. Je suis le 21.
+日 A: ありがとう。 わたしは 第 21 です。
+韓 A: 고마워요. 나는 21번째야.
+
+中 B: 我是第 23 位。在後邊。
+英 B: I am number 23. I am at the back.
+法 B: Je suis le 23. Je suis derrière.
+日 B: わたしは 第 23 です。 うしろに います。
+韓 B: 나는 23번째야. 뒤에 있어.
+
+中 A: 我們很近。
+英 A: We are very near.
+法 A: Nous sommes très près.
+日 A: わたしたちは 近い。
+韓 A: 우리는 가까워.
+
+中 B: 是。上飛機後我們可以說話。
+英 B: Yes. After we go on plane, we can talk.
+法 B: Oui. Après l'avion, nous pouvons parler.
+日 B: うん。 ひこうきに のぼった あと、 はなせる。
+韓 B: 응. 비행기 탄 다음에 우리 말할 수 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 飛機要飛了。
+英 A: The plane will fly now.
+法 A: L'avion va partir.
+日 A: ひこうきが とぶ。
+韓 A: 비행기가 출발해.
+
+中 B: 東西放好，belt 要用好。
+英 B: Put your things well. Use belt well.
+法 B: Plaque bien tes choses. Utilise bien le belt.
+日 B: ものを よく おいて、 ベルトを つかう。
+韓 B: 물건을 잘 두고, 벨트는 잘 매.
+
+中 A: 這個 belt 我不會用。
+英 A: I can not use this belt.
+法 A: Je ne sais pas utiliser ce belt.
+日 A: この ベルトの つかいかたが わからない。
+韓 A: 이 벨트 사용법을 몰라.
+
+中 B: 我教你。這樣。
+英 B: I teach you. Like this.
+法 B: Je te montre. Comme ça.
+日 B: わたしは おしえる。 この ように。
+韓 B: 내가 알려줄게. 이렇게.
+
+中 A: 會了。謝謝。
+英 A: I know now. Thanks.
+法 A: Je sais. Merci.
+日 A: できた。 ありがとう。
+韓 A: 알겠어. 고마워.
+
+中 B: 不用謝。
+英 B: You do not need to say thanks.
+法 B: Tu n'as pas besoin de dire merci.
+日 B: いいよ。 いらないよ。
+韓 B: 고마워할 필요 없어.
+
+中 A: 我有點怕。
+英 A: I am a little afraid.
+法 A: J'ai un peu peur.
+日 A: わたしは すこし こわい。
+韓 A: 나는 조금 무서워.
+
+中 B: 不要怕。第一次都這樣。看看外邊，天很藍。
+英 B: Do not be afraid. The first time is always like this. Look outside, the sky is blue.
+法 B: N'aie pas peur. La première fois, c'est toujours comme ça. Regarde dehors, le ciel est bleu.
+日 B: こわが ないで。 さいしょは いつも こうだ。 そらを みて。 あおい そらだ。
+韓 B: 무서워하지 마. 처음엔 늘 그래. 밖을 봐, 하늘이 파래.
+
+中 A: 是。真的很好。
+英 A: Yes. It is really very good.
+法 A: Oui. C'est vraiment très bien.
+日 A: うん。 ほんとうに とても いい。
+韓 A: 응. 진짜 아주 좋아.
+
+中 A: 你要吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: あなたは なにを たべる？
+韓 A: 너는 뭐 먹을래?
+
+中 B: 我有一個雞蛋和 1 個水。
+英 B: I have 1 egg and 1 water.
+法 B: J'ai 1 œuf et 1 eau.
+日 B: わたしは たまごを 1 つ と 水を 1 つ。
+韓 B: 나는 달걀 1개와 물 1개.
+
+中 A: 我也是雞蛋。這裡的雞蛋比家裡的好吃。
+英 A: I also have egg. The egg here is better than at home.
+法 A: Moi aussi, un œuf. L'œuf ici est meilleur qu'à la maison.
+日 A: わたしも たまご。 ここの たまごは 家の ものより おいしい。
+韓 A: 나도 달걀. 여기 달걀은 집의 것보다 맛있어.
+
+中 B: 是。因為飛機上的飯不多，每個人都很喜歡。
+英 B: Yes. Because there is not much food on plane, everyone likes it.
+法 B: Oui. Parce qu'il n'y a pas beaucoup de nourriture dans l'avion, tout le monde l'aime.
+日 B: うん。 ひこうきの ご飯が 少ないから、 みんな すきだ。
+韓 B: 응. 비행기에 밥이 많지 않아서 모두가 좋아해.
+
+中 A: 一會兒要去吃飯嗎？
+英 A: Do we eat after a little time?
+法 A: On mange dans un peu de temps ?
+日 A: 少し したら ごはんを たべる？
+韓 A: 조금 있으면 밥 먹을까?
+
+中 B: 要。飛機上會有 meal。
+英 B: Yes. There is meal on plane.
+法 B: Oui. Il y a un meal dans l'avion.
+日 B: うん。 ひこうきで しょくじを する。
+韓 B: 응. 비행기에서 식사해.
+
+中 A: 你在找什麼？
+英 A: What are you looking for?
+法 A: Qu'est-ce que tu cherches ?
+日 A: あなたは なにを さがして いる？
+韓 A: 너는 뭐 찾고 있어?
+
+中 B: 我的 bag。不見了。
+英 B: My bag. It is not here.
+法 B: Mon bag. Il a disparu.
+日 B: わたしの バッグが ない。
+韓 B: 내 가방이야. 사라졌어.
+
+中 A: 不要怕。是不是在位子下邊？
+英 A: Do not be afraid. Is it under the seat?
+法 A: N'aie pas peur. C'est sous le siège ?
+日 A: こわが ないで。 ばしょの 下に ある？
+韓 A: 무서워하지 마. 자리 아래에 있니?
+
+中 B: 是！在這裡。謝謝你。
+英 B: Yes! It is here. Thanks.
+法 B: Oui ! Le voilà. Merci.
+日 B: ある！ ここだ。 ありがとう。
+韓 B: 있어! 여기야. 고마워.
+
+中 A: 好。以後東西放在上邊。
+英 A: Ok. Put things on the top after this.
+法 A: Ok. Mets toujours tes choses en haut.
+日 A: いいよ。 ものを うえに おいて。
+韓 A: 그래. 앞으로 물건은 위에 둬.
+
+中 B: 好。我知道了。
+英 B: Ok. I know.
+法 B: Ok. Je sais.
+日 B: いいよ。 わかった。
+韓 B: 그래. 알겠어.
+
+中 A: 有人在說話。
+英 A: Someone is talking.
+法 A: Quelqu'un parle.
+日 A: だれかが はなして いる。
+韓 A: 누가 말하고 있어.
+
+中 B: 是機長在說話。
+英 B: Yes. The pilot is talking.
+法 B: Oui. Le pilote parle.
+日 B: うん。 パイロットが はなして いる。
+韓 B: 응. 조종사가 말하고 있어.
+
+中 A: 他在說什麼？
+英 A: What is he saying?
+法 A: Que dit-il ?
+日 A: かれは なにを いって いる？
+韓 A: 그 사람은 뭐라고 해?
+
+中 B: 他說天氣很好，所以會早一點到。
+英 B: He says the weather is very good, so we will come early.
+法 B: Il dit que le temps est très beau, alors il arrive plus tôt.
+日 B: てんきが いいから、 すこし 早く つく。
+韓 B: 날씨가 좋아서 조금 일찍 도착한다고 해.
+
+中 A: 好。那我們可以多一點時間看海了。
+英 A: Ok. Then we have more time to see the sea.
+法 A: Ok. Alors nous avons plus de temps pour voir la mer.
+日 A: いいよ。 それで 海を みる 時間が もっと ある。
+韓 A: 그래. 그러면 바다를 볼 시간이 더 있겠네.
+
+中 B: 是。我要先睡一會兒。
+英 B: Yes. I want to sleep a little.
+法 B: Oui. Je vais dormir un peu.
+日 B: うん。 わたしは すこし ねる。
+韓 B: 응. 나는 먼저 좀 잘게.
+
+中 A: 我也是。明天見。
+英 A: I also. See you tomorrow.
+法 A: Moi aussi. À demain.
+日 A: わたしも。 あした みよ。
+韓 A: 나도. 내일 봐.
+
+中 B: 明天見。
+英 B: See you tomorrow.
+法 B: À demain.
+日 B: あした みよ。
+韓 B: 내일 봐.
+
+中 A: 我們要下飛機了。
+英 A: We will get off the plane.
+法 A: Nous allons descendre de l'avion.
+日 A: わたしたちは ひこうきから おりる。
+韓 A: 우리가 비행기에서 내릴 거야.
+
+中 B: 好。東西不要不見了。
+英 B: Ok. Do not lose your things.
+法 B: Ok. Ne perds pas tes choses.
+日 B: いいよ。 ものを なくさない ように。
+韓 B: 그래. 물건을 잃어버리지 마.
+
+中 A: 我有 1 個 bag 和 1 個書。
+英 A: I have 1 bag and 1 book.
+法 A: J'ai 1 bag et 1 livre.
+日 A: わたしは バッグを 1 つ と ほんを 1 つ。
+韓 A: 나는 가방 1개와 책 1개가 있어.
+
+中 B: 我也是。走吧。
+英 B: I also. Let's go.
+法 B: Moi aussi. Allons-y.
+日 B: わたしも。 いこう。
+韓 B: 나도. 가자.
+
+中 A: 好。下一站是 hotel 嗎？
+英 A: Ok. Is the next station a hotel?
+法 A: Ok. La prochaine station est un hôtel ?
+日 A: いいよ。 つぎの えきは ホテル？
+韓 A: 그래. 다음 역은 호텔이야?
+
+中 B: 是。我的房間好了。
+英 B: Yes. My room is ready.
+法 B: Oui. Ma chambre est prête.
+日 B: うん。 わたしの へやは できあがった。
+韓 B: 그래. 내 방은 준비됐어.
+
+中 A: 好。我還沒有 book。
+英 A: Ok. I do not have book yet.
+法 A: Ok. Je n'ai pas book.
+日 A: いいよ。 わたしは まだ よやくして いない。
+韓 A: 그래. 나는 아직 예약 안 했어.
+
+中 B: 你快去 book。不可以沒有房間了。
+英 B: Go book now. There can not be any room.
+法 B: Va book tout de suite. Il ne doit plus y avoir de chambre.
+日 B: はやく よやくして。 へやが ないかも。
+韓 B: 빨리 예약해. 방이 없을 수도 있어.
+
+中 A: 好。我馬上打電話。
+英 A: Ok. I will call now.
+法 A: Ok. Je vais appeler maintenant.
+日 A: いいよ。 いま 電話する。
+韓 A: 그래. 지금 전화할게.
+
+中 B: 我等你。
+英 B: I wait for you.
+法 B: Je t'attends.
+日 B: わたしは まつ。
+韓 B: 기다릴게.

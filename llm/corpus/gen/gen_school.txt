@@ -1,0 +1,9946 @@
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿電話和鳥。
+英 B: We take phone and birds.
+法 B: On apporte le téléphone et des oiseaux.
+日 B: でんわと とりを もって いく。
+韓 B: 전화랑 새 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 學了國文。
+英 A: I learned language.
+法 A: J'ai appris le français.
+日 A: こくごを ならった。
+韓 A: 국어을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 學了畫。
+英 A: I learned drawing.
+法 A: J'ai appris le dessin.
+日 A: えを ならった。
+韓 A: 그림을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 7 個句子。
+英 B: Write 7 sentences.
+法 B: Écris 7 phrases.
+日 B: ぶんを 7 つ かく。
+韓 B: 문장을 7개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 7 個句子。
+英 B: Write 7 sentences.
+法 B: Écris 7 phrases.
+日 B: ぶんを 7 つ かく。
+韓 B: 문장을 7개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 學了畫。
+英 A: I learned drawing.
+法 A: J'ai appris le dessin.
+日 A: えを ならった。
+韓 A: 그림을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿錢和鳥。
+英 B: We take money and birds.
+法 B: On apporte l'argent et des oiseaux.
+日 B: お金と とりを もって いく。
+韓 B: 돈랑 새 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和球。
+英 B: We take medicine and a ball.
+法 B: On apporte un médicament et un ballon.
+日 B: くすりと ボールを もって いく。
+韓 B: 약랑 공 가져가.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 學了物理。
+英 A: I learned physics.
+法 A: J'ai appris la physique.
+日 A: ぶつりを ならった。
+韓 A: 물리을 배웠어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿球和錢。
+英 B: We take a ball and money.
+法 B: On apporte un ballon et l'argent.
+日 B: ボールと お金を もって いく。
+韓 B: 공랑 돈 가져가.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿umbrella和電話。
+英 B: We take umbrella and phone.
+法 B: On apporte un parapluie et le téléphone.
+日 B: かさと でんわを もって いく。
+韓 B: 우산랑 전화 가져가.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿medicine和球。
+英 A: We take medicine and a ball.
+法 A: On apporte un médicament et un ballon.
+日 A: くすりと ボールを もって いく。
+韓 A: 약랑 공 가져가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿鳥和花。
+英 B: We take birds and flowers.
+法 B: On apporte des oiseaux et des fleurs.
+日 B: とりと はなを もって いく。
+韓 B: 새랑 꽃 가져가.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿球和書。
+英 B: We take a ball and a book.
+法 B: On apporte un ballon et un livre.
+日 B: ボールと ほんを もって いく。
+韓 B: 공랑 책 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 要拿衣服和鳥。
+英 A: We take clothes and birds.
+法 A: On apporte des vêtements et des oiseaux.
+日 A: ふくと とりを もって いく。
+韓 A: 옷랑 새 가져가.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 寫 5 個句子。
+英 A: Write 5 sentences.
+法 A: Écris 5 phrases.
+日 A: ぶんを 5 つ かく。
+韓 A: 문장을 5개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿umbrella和衣服。
+英 A: We take umbrella and clothes.
+法 A: On apporte un parapluie et des vêtements.
+日 A: かさと ふくを もって いく。
+韓 A: 우산랑 옷 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 學了物理。
+英 A: I learned physics.
+法 A: J'ai appris la physique.
+日 A: ぶつりを ならった。
+韓 A: 물리을 배웠어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿衣服和medicine。
+英 B: We take clothes and medicine.
+法 B: On apporte des vêtements et un médicament.
+日 B: ふくと くすりを もって いく。
+韓 B: 옷랑 약 가져가.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 7 個句子。
+英 A: Write 7 sentences.
+法 A: Écris 7 phrases.
+日 A: ぶんを 7 つ かく。
+韓 A: 문장을 7개 쓰기.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿錢和球。
+英 B: We take money and a ball.
+法 B: On apporte l'argent et un ballon.
+日 B: お金と ボールを もって いく。
+韓 B: 돈랑 공 가져가.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和medicine。
+英 B: We take medicine and medicine.
+法 B: On apporte un médicament et un médicament.
+日 B: くすりと くすりを もって いく。
+韓 B: 약랑 약 가져가.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 學了畫。
+英 A: I learned drawing.
+法 A: J'ai appris le dessin.
+日 A: えを ならった。
+韓 A: 그림을 배웠어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿電話和花。
+英 A: We take phone and flowers.
+法 A: On apporte le téléphone et des fleurs.
+日 A: でんわと はなを もって いく。
+韓 A: 전화랑 꽃 가져가.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 要拿鳥和umbrella。
+英 A: We take birds and umbrella.
+法 A: On apporte des oiseaux et un parapluie.
+日 A: とりと かさを もって いく。
+韓 A: 새랑 우산 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 寫 4 個句子。
+英 A: Write 4 sentences.
+法 A: Écris 4 phrases.
+日 A: ぶんを 4 つ かく。
+韓 A: 문장을 4개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 學了國文。
+英 A: I learned language.
+法 A: J'ai appris le français.
+日 A: こくごを ならった。
+韓 A: 국어을 배웠어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 學了國文。
+英 A: I learned language.
+法 A: J'ai appris le français.
+日 A: こくごを ならった。
+韓 A: 국어을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 學了國文。
+英 A: I learned language.
+法 A: J'ai appris le français.
+日 A: こくごを ならった。
+韓 A: 국어을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和umbrella。
+英 B: We take medicine and umbrella.
+法 B: On apporte un médicament et un parapluie.
+日 B: くすりと かさを もって いく。
+韓 B: 약랑 우산 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 要拿球和衣服。
+英 A: We take a ball and clothes.
+法 A: On apporte un ballon et des vêtements.
+日 A: ボールと ふくを もって いく。
+韓 A: 공랑 옷 가져가.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和電話。
+英 B: We take a book and phone.
+法 B: On apporte un livre et le téléphone.
+日 B: ほんと でんわを もって いく。
+韓 B: 책랑 전화 가져가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 要拿medicine和umbrella。
+英 A: We take medicine and umbrella.
+法 A: On apporte un médicament et un parapluie.
+日 A: くすりと かさを もって いく。
+韓 A: 약랑 우산 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 要拿medicine和umbrella。
+英 A: We take medicine and umbrella.
+法 A: On apporte un médicament et un parapluie.
+日 A: くすりと かさを もって いく。
+韓 A: 약랑 우산 가져가.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和umbrella。
+英 B: We take a book and umbrella.
+法 B: On apporte un livre et un parapluie.
+日 B: ほんと かさを もって いく。
+韓 B: 책랑 우산 가져가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿umbrella和umbrella。
+英 B: We take umbrella and umbrella.
+法 B: On apporte un parapluie et un parapluie.
+日 B: かさと かさを もって いく。
+韓 B: 우산랑 우산 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿衣服和medicine。
+英 B: We take clothes and medicine.
+法 B: On apporte des vêtements et un médicament.
+日 B: ふくと くすりを もって いく。
+韓 B: 옷랑 약 가져가.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿鳥和花。
+英 B: We take birds and flowers.
+法 B: On apporte des oiseaux et des fleurs.
+日 B: とりと はなを もって いく。
+韓 B: 새랑 꽃 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 5 個句子。
+英 B: Write 5 sentences.
+法 B: Écris 5 phrases.
+日 B: ぶんを 5 つ かく。
+韓 B: 문장을 5개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 要拿衣服和書。
+英 A: We take clothes and a book.
+法 A: On apporte des vêtements et un livre.
+日 A: ふくと ほんを もって いく。
+韓 A: 옷랑 책 가져가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 要拿鳥和medicine。
+英 A: We take birds and medicine.
+法 A: On apporte des oiseaux et un médicament.
+日 A: とりと くすりを もって いく。
+韓 A: 새랑 약 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 要拿鳥和鳥。
+英 A: We take birds and birds.
+法 A: On apporte des oiseaux et des oiseaux.
+日 A: とりと とりを もって いく。
+韓 A: 새랑 새 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 4 個句子。
+英 A: Write 4 sentences.
+法 A: Écris 4 phrases.
+日 A: ぶんを 4 つ かく。
+韓 A: 문장을 4개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 寫 7 個句子。
+英 A: Write 7 sentences.
+法 A: Écris 7 phrases.
+日 A: ぶんを 7 つ かく。
+韓 A: 문장을 7개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 寫 4 個句子。
+英 A: Write 4 sentences.
+法 A: Écris 4 phrases.
+日 A: ぶんを 4 つ かく。
+韓 A: 문장을 4개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 3 個句子。
+英 B: Write 3 sentences.
+法 B: Écris 3 phrases.
+日 B: ぶんを 3 つ かく。
+韓 B: 문장을 3개 쓰기.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 要拿鳥和錢。
+英 A: We take birds and money.
+法 A: On apporte des oiseaux et l'argent.
+日 A: とりと お金を もって いく。
+韓 A: 새랑 돈 가져가.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿花和衣服。
+英 B: We take flowers and clothes.
+法 B: On apporte des fleurs et des vêtements.
+日 B: はなと ふくを もって いく。
+韓 B: 꽃랑 옷 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 學了國文。
+英 A: I learned language.
+法 A: J'ai appris le français.
+日 A: こくごを ならった。
+韓 A: 국어을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和錢。
+英 B: We take medicine and money.
+法 B: On apporte un médicament et l'argent.
+日 B: くすりと お金を もって いく。
+韓 B: 약랑 돈 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 要拿花和球。
+英 A: We take flowers and a ball.
+法 A: On apporte des fleurs et un ballon.
+日 A: はなと ボールを もって いく。
+韓 A: 꽃랑 공 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 寫 7 個句子。
+英 A: Write 7 sentences.
+法 A: Écris 7 phrases.
+日 A: ぶんを 7 つ かく。
+韓 A: 문장을 7개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 要拿umbrella和umbrella。
+英 A: We take umbrella and umbrella.
+法 A: On apporte un parapluie et un parapluie.
+日 A: かさと かさを もって いく。
+韓 A: 우산랑 우산 가져가.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 寫 5 個句子。
+英 A: Write 5 sentences.
+法 A: Écris 5 phrases.
+日 A: ぶんを 5 つ かく。
+韓 A: 문장을 5개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 要拿書和medicine。
+英 A: We take a book and medicine.
+法 A: On apporte un livre et un médicament.
+日 A: ほんと くすりを もって いく。
+韓 A: 책랑 약 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿電話和電話。
+英 B: We take phone and phone.
+法 B: On apporte le téléphone et le téléphone.
+日 B: でんわと でんわを もって いく。
+韓 B: 전화랑 전화 가져가.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿花和鳥。
+英 B: We take flowers and birds.
+法 B: On apporte des fleurs et des oiseaux.
+日 B: はなと とりを もって いく。
+韓 B: 꽃랑 새 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 要拿電話和medicine。
+英 A: We take phone and medicine.
+法 A: On apporte le téléphone et un médicament.
+日 A: でんわと くすりを もって いく。
+韓 A: 전화랑 약 가져가.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 5 個句子。
+英 B: Write 5 sentences.
+法 B: Écris 5 phrases.
+日 B: ぶんを 5 つ かく。
+韓 B: 문장을 5개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和鳥。
+英 B: We take medicine and birds.
+法 B: On apporte un médicament et des oiseaux.
+日 B: くすりと とりを もって いく。
+韓 B: 약랑 새 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 4 個句子。
+英 A: Write 4 sentences.
+法 A: Écris 4 phrases.
+日 A: ぶんを 4 つ かく。
+韓 A: 문장을 4개 쓰기.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和球。
+英 B: We take medicine and a ball.
+法 B: On apporte un médicament et un ballon.
+日 B: くすりと ボールを もって いく。
+韓 B: 약랑 공 가져가.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 要拿球和電話。
+英 A: We take a ball and phone.
+法 A: On apporte un ballon et le téléphone.
+日 A: ボールと でんわを もって いく。
+韓 A: 공랑 전화 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿鳥和電話。
+英 B: We take birds and phone.
+法 B: On apporte des oiseaux et le téléphone.
+日 B: とりと でんわを もって いく。
+韓 B: 새랑 전화 가져가.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 要拿衣服和衣服。
+英 A: We take clothes and clothes.
+法 A: On apporte des vêtements et des vêtements.
+日 A: ふくと ふくを もって いく。
+韓 A: 옷랑 옷 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 寫 1 個句子。
+英 A: Write 1 sentences.
+法 A: Écris 1 phrases.
+日 A: ぶんを 1 つ かく。
+韓 A: 문장을 1개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 要拿球和電話。
+英 A: We take a ball and phone.
+法 A: On apporte un ballon et le téléphone.
+日 A: ボールと でんわを もって いく。
+韓 A: 공랑 전화 가져가.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和書。
+英 B: We take a book and a book.
+法 B: On apporte un livre et un livre.
+日 B: ほんと ほんを もって いく。
+韓 B: 책랑 책 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 學了物理。
+英 A: I learned physics.
+法 A: J'ai appris la physique.
+日 A: ぶつりを ならった。
+韓 A: 물리을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 寫 9 個句子。
+英 A: Write 9 sentences.
+法 A: Écris 9 phrases.
+日 A: ぶんを 9 つ かく。
+韓 A: 문장을 9개 쓰기.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 要拿medicine和鳥。
+英 A: We take medicine and birds.
+法 A: On apporte un médicament et des oiseaux.
+日 A: くすりと とりを もって いく。
+韓 A: 약랑 새 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 要拿花和medicine。
+英 A: We take flowers and medicine.
+法 A: On apporte des fleurs et un médicament.
+日 A: はなと くすりを もって いく。
+韓 A: 꽃랑 약 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 寫 5 個句子。
+英 A: Write 5 sentences.
+法 A: Écris 5 phrases.
+日 A: ぶんを 5 つ かく。
+韓 A: 문장을 5개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和錢。
+英 B: We take medicine and money.
+法 B: On apporte un médicament et l'argent.
+日 B: くすりと お金を もって いく。
+韓 B: 약랑 돈 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 學了畫。
+英 A: I learned drawing.
+法 A: J'ai appris le dessin.
+日 A: えを ならった。
+韓 A: 그림을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 3 個句子。
+英 B: Write 3 sentences.
+法 B: Écris 3 phrases.
+日 B: ぶんを 3 つ かく。
+韓 B: 문장을 3개 쓰기.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 學了畫。
+英 A: I learned drawing.
+法 A: J'ai appris le dessin.
+日 A: えを ならった。
+韓 A: 그림을 배웠어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 寫 5 個句子。
+英 A: Write 5 sentences.
+法 A: Écris 5 phrases.
+日 A: ぶんを 5 つ かく。
+韓 A: 문장을 5개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和電話。
+英 B: We take a book and phone.
+法 B: On apporte un livre et le téléphone.
+日 B: ほんと でんわを もって いく。
+韓 B: 책랑 전화 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 寫 6 個句子。
+英 A: Write 6 sentences.
+法 A: Écris 6 phrases.
+日 A: ぶんを 6 つ かく。
+韓 A: 문장을 6개 쓰기.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿花和電話。
+英 B: We take flowers and phone.
+法 B: On apporte des fleurs et le téléphone.
+日 B: はなと でんわを もって いく。
+韓 B: 꽃랑 전화 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 學了物理。
+英 A: I learned physics.
+法 A: J'ai appris la physique.
+日 A: ぶつりを ならった。
+韓 A: 물리을 배웠어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿球和花。
+英 B: We take a ball and flowers.
+法 B: On apporte un ballon et des fleurs.
+日 B: ボールと はなを もって いく。
+韓 B: 공랑 꽃 가져가.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 寫 3 個句子。
+英 A: Write 3 sentences.
+法 A: Écris 3 phrases.
+日 A: ぶんを 3 つ かく。
+韓 A: 문장을 3개 쓰기.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿鳥和花。
+英 B: We take birds and flowers.
+法 B: On apporte des oiseaux et des fleurs.
+日 B: とりと はなを もって いく。
+韓 B: 새랑 꽃 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 學了數學。
+英 A: I learned math.
+法 A: J'ai appris les mathématiques.
+日 A: さんすうを ならった。
+韓 A: 수학을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿球和medicine。
+英 B: We take a ball and medicine.
+法 B: On apporte un ballon et un médicament.
+日 B: ボールと くすりを もって いく。
+韓 B: 공랑 약 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿鳥和衣服。
+英 A: We take birds and clothes.
+法 A: On apporte des oiseaux et des vêtements.
+日 A: とりと ふくを もって いく。
+韓 A: 새랑 옷 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 要拿umbrella和umbrella。
+英 A: We take umbrella and umbrella.
+法 A: On apporte un parapluie et un parapluie.
+日 A: かさと かさを もって いく。
+韓 A: 우산랑 우산 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 要拿花和花。
+英 A: We take flowers and flowers.
+法 A: On apporte des fleurs et des fleurs.
+日 A: はなと はなを もって いく。
+韓 A: 꽃랑 꽃 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 寫 3 個句子。
+英 A: Write 3 sentences.
+法 A: Écris 3 phrases.
+日 A: ぶんを 3 つ かく。
+韓 A: 문장을 3개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和衣服。
+英 B: We take a book and clothes.
+法 B: On apporte un livre et des vêtements.
+日 B: ほんと ふくを もって いく。
+韓 B: 책랑 옷 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 1 個句子。
+英 B: Write 1 sentences.
+法 B: Écris 1 phrases.
+日 B: ぶんを 1 つ かく。
+韓 B: 문장을 1개 쓰기.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 要拿衣服和書。
+英 A: We take clothes and a book.
+法 A: On apporte des vêtements et un livre.
+日 A: ふくと ほんを もって いく。
+韓 A: 옷랑 책 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 1 個句子。
+英 B: Write 1 sentences.
+法 B: Écris 1 phrases.
+日 B: ぶんを 1 つ かく。
+韓 B: 문장을 1개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 寫 8 個句子。
+英 A: Write 8 sentences.
+法 A: Écris 8 phrases.
+日 A: ぶんを 8 つ かく。
+韓 A: 문장을 8개 쓰기.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 學了國文。
+英 A: I learned language.
+法 A: J'ai appris le français.
+日 A: こくごを ならった。
+韓 A: 국어을 배웠어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 5 個句子。
+英 B: Write 5 sentences.
+法 B: Écris 5 phrases.
+日 B: ぶんを 5 つ かく。
+韓 B: 문장을 5개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿錢和衣服。
+英 B: We take money and clothes.
+法 B: On apporte l'argent et des vêtements.
+日 B: お金と ふくを もって いく。
+韓 B: 돈랑 옷 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和umbrella。
+英 B: We take medicine and umbrella.
+法 B: On apporte un médicament et un parapluie.
+日 B: くすりと かさを もって いく。
+韓 B: 약랑 우산 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 學了數學。
+英 A: I learned math.
+法 A: J'ai appris les mathématiques.
+日 A: さんすうを ならった。
+韓 A: 수학을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 寫 8 個句子。
+英 A: Write 8 sentences.
+法 A: Écris 8 phrases.
+日 A: ぶんを 8 つ かく。
+韓 A: 문장을 8개 쓰기.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 寫 1 個句子。
+英 A: Write 1 sentences.
+法 A: Écris 1 phrases.
+日 A: ぶんを 1 つ かく。
+韓 A: 문장을 1개 쓰기.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 7 個句子。
+英 B: Write 7 sentences.
+法 B: Écris 7 phrases.
+日 B: ぶんを 7 つ かく。
+韓 B: 문장을 7개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 7 個句子。
+英 B: Write 7 sentences.
+法 B: Écris 7 phrases.
+日 B: ぶんを 7 つ かく。
+韓 B: 문장을 7개 쓰기.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 7 個句子。
+英 A: Write 7 sentences.
+法 A: Écris 7 phrases.
+日 A: ぶんを 7 つ かく。
+韓 A: 문장을 7개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 3 個句子。
+英 B: Write 3 sentences.
+法 B: Écris 3 phrases.
+日 B: ぶんを 3 つ かく。
+韓 B: 문장을 3개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 3 個句子。
+英 B: Write 3 sentences.
+法 B: Écris 3 phrases.
+日 B: ぶんを 3 つ かく。
+韓 B: 문장을 3개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 5 個句子。
+英 B: Write 5 sentences.
+法 B: Écris 5 phrases.
+日 B: ぶんを 5 つ かく。
+韓 B: 문장을 5개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 3 個句子。
+英 A: Write 3 sentences.
+法 A: Écris 3 phrases.
+日 A: ぶんを 3 つ かく。
+韓 A: 문장을 3개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和書。
+英 B: We take medicine and a book.
+法 B: On apporte un médicament et un livre.
+日 B: くすりと ほんを もって いく。
+韓 B: 약랑 책 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿球和medicine。
+英 A: We take a ball and medicine.
+法 A: On apporte un ballon et un médicament.
+日 A: ボールと くすりを もって いく。
+韓 A: 공랑 약 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 3 個句子。
+英 B: Write 3 sentences.
+法 B: Écris 3 phrases.
+日 B: ぶんを 3 つ かく。
+韓 B: 문장을 3개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 要拿medicine和球。
+英 A: We take medicine and a ball.
+法 A: On apporte un médicament et un ballon.
+日 A: くすりと ボールを もって いく。
+韓 A: 약랑 공 가져가.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 要拿花和衣服。
+英 A: We take flowers and clothes.
+法 A: On apporte des fleurs et des vêtements.
+日 A: はなと ふくを もって いく。
+韓 A: 꽃랑 옷 가져가.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 學了數學。
+英 A: I learned math.
+法 A: J'ai appris les mathématiques.
+日 A: さんすうを ならった。
+韓 A: 수학을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 寫 7 個句子。
+英 A: Write 7 sentences.
+法 A: Écris 7 phrases.
+日 A: ぶんを 7 つ かく。
+韓 A: 문장을 7개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 寫 6 個句子。
+英 A: Write 6 sentences.
+法 A: Écris 6 phrases.
+日 A: ぶんを 6 つ かく。
+韓 A: 문장을 6개 쓰기.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 3 個句子。
+英 B: Write 3 sentences.
+法 B: Écris 3 phrases.
+日 B: ぶんを 3 つ かく。
+韓 B: 문장을 3개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 要拿錢和錢。
+英 A: We take money and money.
+法 A: On apporte l'argent et l'argent.
+日 A: お金と お金を もって いく。
+韓 A: 돈랑 돈 가져가.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿電話和鳥。
+英 B: We take phone and birds.
+法 B: On apporte le téléphone et des oiseaux.
+日 B: でんわと とりを もって いく。
+韓 B: 전화랑 새 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和球。
+英 B: We take a book and a ball.
+法 B: On apporte un livre et un ballon.
+日 B: ほんと ボールを もって いく。
+韓 B: 책랑 공 가져가.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿衣服和錢。
+英 B: We take clothes and money.
+法 B: On apporte des vêtements et l'argent.
+日 B: ふくと お金を もって いく。
+韓 B: 옷랑 돈 가져가.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿書和電話。
+英 A: We take a book and phone.
+法 A: On apporte un livre et le téléphone.
+日 A: ほんと でんわを もって いく。
+韓 A: 책랑 전화 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 要拿電話和衣服。
+英 A: We take phone and clothes.
+法 A: On apporte le téléphone et des vêtements.
+日 A: でんわと ふくを もって いく。
+韓 A: 전화랑 옷 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 7 個句子。
+英 B: Write 7 sentences.
+法 B: Écris 7 phrases.
+日 B: ぶんを 7 つ かく。
+韓 B: 문장을 7개 쓰기.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 1 個句子。
+英 B: Write 1 sentences.
+法 B: Écris 1 phrases.
+日 B: ぶんを 1 つ かく。
+韓 B: 문장을 1개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿花和球。
+英 A: We take flowers and a ball.
+法 A: On apporte des fleurs et un ballon.
+日 A: はなと ボールを もって いく。
+韓 A: 꽃랑 공 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿鳥和衣服。
+英 B: We take birds and clothes.
+法 B: On apporte des oiseaux et des vêtements.
+日 B: とりと ふくを もって いく。
+韓 B: 새랑 옷 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 寫 7 個句子。
+英 A: Write 7 sentences.
+法 A: Écris 7 phrases.
+日 A: ぶんを 7 つ かく。
+韓 A: 문장을 7개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 寫 8 個句子。
+英 A: Write 8 sentences.
+法 A: Écris 8 phrases.
+日 A: ぶんを 8 つ かく。
+韓 A: 문장을 8개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 學了國文。
+英 A: I learned language.
+法 A: J'ai appris le français.
+日 A: こくごを ならった。
+韓 A: 국어을 배웠어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿umbrella和medicine。
+英 B: We take umbrella and medicine.
+法 B: On apporte un parapluie et un médicament.
+日 B: かさと くすりを もって いく。
+韓 B: 우산랑 약 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿花和花。
+英 B: We take flowers and flowers.
+法 B: On apporte des fleurs et des fleurs.
+日 B: はなと はなを もって いく。
+韓 B: 꽃랑 꽃 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 1 個句子。
+英 B: Write 1 sentences.
+法 B: Écris 1 phrases.
+日 B: ぶんを 1 つ かく。
+韓 B: 문장을 1개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和球。
+英 B: We take a book and a ball.
+法 B: On apporte un livre et un ballon.
+日 B: ほんと ボールを もって いく。
+韓 B: 책랑 공 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿衣服和電話。
+英 B: We take clothes and phone.
+法 B: On apporte des vêtements et le téléphone.
+日 B: ふくと でんわを もって いく。
+韓 B: 옷랑 전화 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了國文。
+英 B: I learned language.
+法 B: J'ai appris le français.
+日 B: こくごを ならった。
+韓 B: 국어을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 1 個句子。
+英 B: Write 1 sentences.
+法 B: Écris 1 phrases.
+日 B: ぶんを 1 つ かく。
+韓 B: 문장을 1개 쓰기.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿鳥和電話。
+英 B: We take birds and phone.
+法 B: On apporte des oiseaux et le téléphone.
+日 B: とりと でんわを もって いく。
+韓 B: 새랑 전화 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了數學。
+英 B: I learned math.
+法 B: J'ai appris les mathématiques.
+日 B: さんすうを ならった。
+韓 B: 수학을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 寫 8 個句子。
+英 A: Write 8 sentences.
+法 A: Écris 8 phrases.
+日 A: ぶんを 8 つ かく。
+韓 A: 문장을 8개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 學了畫。
+英 A: I learned drawing.
+法 A: J'ai appris le dessin.
+日 A: えを ならった。
+韓 A: 그림을 배웠어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 1 個句子。
+英 B: Write 1 sentences.
+法 B: Écris 1 phrases.
+日 B: ぶんを 1 つ かく。
+韓 B: 문장을 1개 쓰기.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 學了數學。
+英 A: I learned math.
+法 A: J'ai appris les mathématiques.
+日 A: さんすうを ならった。
+韓 A: 수학을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 6 個句子。
+英 B: Write 6 sentences.
+法 B: Écris 6 phrases.
+日 B: ぶんを 6 つ かく。
+韓 B: 문장을 6개 쓰기.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿電話和umbrella。
+英 B: We take phone and umbrella.
+法 B: On apporte le téléphone et un parapluie.
+日 B: でんわと かさを もって いく。
+韓 B: 전화랑 우산 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 寫 1 個句子。
+英 A: Write 1 sentences.
+法 A: Écris 1 phrases.
+日 A: ぶんを 1 つ かく。
+韓 A: 문장을 1개 쓰기.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 學了物理。
+英 A: I learned physics.
+法 A: J'ai appris la physique.
+日 A: ぶつりを ならった。
+韓 A: 물리을 배웠어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 要拿umbrella和錢。
+英 A: We take umbrella and money.
+法 A: On apporte un parapluie et l'argent.
+日 A: かさと お金を もって いく。
+韓 A: 우산랑 돈 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿umbrella和電話。
+英 B: We take umbrella and phone.
+法 B: On apporte un parapluie et le téléphone.
+日 B: かさと でんわを もって いく。
+韓 B: 우산랑 전화 가져가.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 寫 5 個句子。
+英 A: Write 5 sentences.
+法 A: Écris 5 phrases.
+日 A: ぶんを 5 つ かく。
+韓 A: 문장을 5개 쓰기.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和花。
+英 B: We take medicine and flowers.
+法 B: On apporte un médicament et des fleurs.
+日 B: くすりと はなを もって いく。
+韓 B: 약랑 꽃 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 5 個句子。
+英 B: Write 5 sentences.
+法 B: Écris 5 phrases.
+日 B: ぶんを 5 つ かく。
+韓 B: 문장을 5개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和衣服。
+英 B: We take a book and clothes.
+法 B: On apporte un livre et des vêtements.
+日 B: ほんと ふくを もって いく。
+韓 B: 책랑 옷 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和電話。
+英 B: We take a book and phone.
+法 B: On apporte un livre et le téléphone.
+日 B: ほんと でんわを もって いく。
+韓 B: 책랑 전화 가져가.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿衣服和電話。
+英 B: We take clothes and phone.
+法 B: On apporte des vêtements et le téléphone.
+日 B: ふくと でんわを もって いく。
+韓 B: 옷랑 전화 가져가.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 學了數學。
+英 A: I learned math.
+法 A: J'ai appris les mathématiques.
+日 A: さんすうを ならった。
+韓 A: 수학을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 寫 5 個句子。
+英 A: Write 5 sentences.
+法 A: Écris 5 phrases.
+日 A: ぶんを 5 つ かく。
+韓 A: 문장을 5개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 要拿電話和花。
+英 A: We take phone and flowers.
+法 A: On apporte le téléphone et des fleurs.
+日 A: でんわと はなを もって いく。
+韓 A: 전화랑 꽃 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 要拿鳥和鳥。
+英 A: We take birds and birds.
+法 A: On apporte des oiseaux et des oiseaux.
+日 A: とりと とりを もって いく。
+韓 A: 새랑 새 가져가.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 寫 6 個句子。
+英 A: Write 6 sentences.
+法 A: Écris 6 phrases.
+日 A: ぶんを 6 つ かく。
+韓 A: 문장을 6개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿電話和電話。
+英 B: We take phone and phone.
+法 B: On apporte le téléphone et le téléphone.
+日 B: でんわと でんわを もって いく。
+韓 B: 전화랑 전화 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 4 個句子。
+英 B: Write 4 sentences.
+法 B: Écris 4 phrases.
+日 B: ぶんを 4 つ かく。
+韓 B: 문장을 4개 쓰기.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿錢和錢。
+英 B: We take money and money.
+法 B: On apporte l'argent et l'argent.
+日 B: お金と お金を もって いく。
+韓 B: 돈랑 돈 가져가.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿球和umbrella。
+英 B: We take a ball and umbrella.
+法 B: On apporte un ballon et un parapluie.
+日 B: ボールと かさを もって いく。
+韓 B: 공랑 우산 가져가.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 7 個句子。
+英 B: Write 7 sentences.
+法 B: Écris 7 phrases.
+日 B: ぶんを 7 つ かく。
+韓 B: 문장을 7개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 寫 8 個句子。
+英 A: Write 8 sentences.
+法 A: Écris 8 phrases.
+日 A: ぶんを 8 つ かく。
+韓 A: 문장을 8개 쓰기.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 7 個句子。
+英 A: Write 7 sentences.
+法 A: Écris 7 phrases.
+日 A: ぶんを 7 つ かく。
+韓 A: 문장을 7개 쓰기.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 8 個句子。
+英 B: Write 8 sentences.
+法 B: Écris 8 phrases.
+日 B: ぶんを 8 つ かく。
+韓 B: 문장을 8개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 1 個句子。
+英 A: Write 1 sentences.
+法 A: Écris 1 phrases.
+日 A: ぶんを 1 つ かく。
+韓 A: 문장을 1개 쓰기.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿電話和umbrella。
+英 B: We take phone and umbrella.
+法 B: On apporte le téléphone et un parapluie.
+日 B: でんわと かさを もって いく。
+韓 B: 전화랑 우산 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿umbrella和鳥。
+英 B: We take umbrella and birds.
+法 B: On apporte un parapluie et des oiseaux.
+日 B: かさと とりを もって いく。
+韓 B: 우산랑 새 가져가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 3 個句子。
+英 B: Write 3 sentences.
+法 B: Écris 3 phrases.
+日 B: ぶんを 3 つ かく。
+韓 B: 문장을 3개 쓰기.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿umbrella和衣服。
+英 B: We take umbrella and clothes.
+法 B: On apporte un parapluie et des vêtements.
+日 B: かさと ふくを もって いく。
+韓 B: 우산랑 옷 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿medicine和電話。
+英 B: We take medicine and phone.
+法 B: On apporte un médicament et le téléphone.
+日 B: くすりと でんわを もって いく。
+韓 B: 약랑 전화 가져가.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿衣服和錢。
+英 B: We take clothes and money.
+法 B: On apporte des vêtements et l'argent.
+日 B: ふくと お金を もって いく。
+韓 B: 옷랑 돈 가져가.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了畫。
+英 B: I learned drawing.
+法 B: J'ai appris le dessin.
+日 B: えを ならった。
+韓 B: 그림을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 要拿鳥和書。
+英 A: We take birds and a book.
+法 A: On apporte des oiseaux et un livre.
+日 A: とりと ほんを もって いく。
+韓 A: 새랑 책 가져가.
+
+中 B: 好。我記得了。
+英 B: Ok. I remember.
+法 B: Ok. Je m'en souviens.
+日 B: いいよ。 おぼえた。
+韓 B: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿書和球。
+英 B: We take a book and a ball.
+法 B: On apporte un livre et un ballon.
+日 B: ほんと ボールを もって いく。
+韓 B: 책랑 공 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 2 個句子。
+英 B: Write 2 sentences.
+法 B: Écris 2 phrases.
+日 B: ぶんを 2 つ かく。
+韓 B: 문장을 2개 쓰기.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了物理。
+英 B: I learned physics.
+法 B: J'ai appris la physique.
+日 B: ぶつりを ならった。
+韓 B: 물리을 배웠어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 4 個句子。
+英 A: Write 4 sentences.
+法 A: Écris 4 phrases.
+日 A: ぶんを 4 つ かく。
+韓 A: 문장을 4개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿錢和電話。
+英 B: We take money and phone.
+法 B: On apporte l'argent et le téléphone.
+日 B: お金と でんわを もって いく。
+韓 B: 돈랑 전화 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 學了數學。
+英 A: I learned math.
+法 A: J'ai appris les mathématiques.
+日 A: さんすうを ならった。
+韓 A: 수학을 배웠어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要拿電話和電話。
+英 A: We take phone and phone.
+法 A: On apporte le téléphone et le téléphone.
+日 A: でんわと でんわを もって いく。
+韓 A: 전화랑 전화 가져가.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 寫 2 個句子。
+英 A: Write 2 sentences.
+法 A: Écris 2 phrases.
+日 A: ぶんを 2 つ かく。
+韓 A: 문장을 2개 쓰기.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 多嗎？
+英 A: Is it many?
+法 A: C'est beaucoup ?
+日 A: おおい？
+韓 A: 많아?
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 寫 4 個句子。
+英 A: Write 4 sentences.
+法 A: Écris 4 phrases.
+日 A: ぶんを 4 つ かく。
+韓 A: 문장을 4개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 9 個句子。
+英 B: Write 9 sentences.
+法 B: Écris 9 phrases.
+日 B: ぶんを 9 つ かく。
+韓 B: 문장을 9개 쓰기.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 學了物理。
+英 A: I learned physics.
+法 A: J'ai appris la physique.
+日 A: ぶつりを ならった。
+韓 A: 물리을 배웠어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 有一點難，不過我喜歡。
+英 B: A little hard, but I like it.
+法 B: Un peu difficile, mais j'aime ça.
+日 B: ちょっと むずかしいけど、 すきだ。
+韓 B: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 寫 8 個句子。
+英 A: Write 8 sentences.
+法 A: Écris 8 phrases.
+日 A: ぶんを 8 つ かく。
+韓 A: 문장을 8개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 學了物理。
+英 A: I learned physics.
+法 A: J'ai appris la physique.
+日 A: ぶつりを ならった。
+韓 A: 물리을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 學了音樂。
+英 B: I learned music.
+法 B: J'ai appris la musique.
+日 B: おんがくを ならった。
+韓 B: 음악을 배웠어.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 寫 3 個句子。
+英 A: Write 3 sentences.
+法 A: Écris 3 phrases.
+日 A: ぶんを 3 つ かく。
+韓 A: 문장을 3개 쓰기.
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 不多。我 30 分鐘就寫完。
+英 A: Not many. I finish in 30 minutes.
+法 A: Pas beaucoup. Je finis en 30 minutes.
+日 A: 多くない。 30ぷんで かける。
+韓 A: 많지 않아. 30분이면 써.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 要拿衣服和電話。
+英 A: We take clothes and phone.
+法 A: On apporte des vêtements et le téléphone.
+日 A: ふくと でんわを もって いく。
+韓 A: 옷랑 전화 가져가.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿錢和球。
+英 B: We take money and a ball.
+法 B: On apporte l'argent et un ballon.
+日 B: お金と ボールを もって いく。
+韓 B: 돈랑 공 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 學了數學。
+英 A: I learned math.
+法 A: J'ai appris les mathématiques.
+日 A: さんすうを ならった。
+韓 A: 수학을 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天老師叫你寫什麼？
+英 A: What did the teacher ask you to write today?
+法 A: Que t'a demandé d'écrire le professeur ?
+日 A: きょう せんせいは なにを かけ といった？
+韓 A: 오늘 선생님이 뭐 쓰래?
+
+中 B: 寫 5 個句子。
+英 B: Write 5 sentences.
+法 B: Écris 5 phrases.
+日 B: ぶんを 5 つ かく。
+韓 B: 문장을 5개 쓰기.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 多嗎？
+英 B: Is it many?
+法 B: C'est beaucoup ?
+日 B: おおい？
+韓 B: 많아?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 不多。我 30 分鐘就寫完。
+英 B: Not many. I finish in 30 minutes.
+法 B: Pas beaucoup. Je finis en 30 minutes.
+日 B: 多くない。 30ぷんで かける。
+韓 B: 많지 않아. 30분이면 써.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 要拿球和衣服。
+英 A: We take a ball and clothes.
+法 A: On apporte un ballon et des vêtements.
+日 A: ボールと ふくを もって いく。
+韓 A: 공랑 옷 가져가.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿錢和書。
+英 B: We take money and a book.
+法 B: On apporte l'argent et un livre.
+日 B: お金と ほんを もって いく。
+韓 B: 돈랑 책 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 今天在學校學了什麼？
+英 A: What did you learn at school today?
+法 A: Qu'as-tu appris à l'école aujourd'hui ?
+日 A: きょう がっこうで なにを ならった？
+韓 A: 오늘 학교에서 뭐 배웠어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 學了音樂。
+英 A: I learned music.
+法 A: J'ai appris la musique.
+日 A: おんがくを ならった。
+韓 A: 음악을 배웠어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 難嗎？
+英 A: Is it hard?
+法 A: C'est difficile ?
+日 A: むずかしい？
+韓 A: 어려워?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有一點難，不過我喜歡。
+英 A: A little hard, but I like it.
+法 A: Un peu difficile, mais j'aime ça.
+日 A: ちょっと むずかしいけど、 すきだ。
+韓 A: 조금 어렵지만 좋아해.
+
+
+# mini-x 合成多語對話：school（由 llm/generate_corpus.py 產生）
+
+中 A: 明天要拿什麼去學校？
+英 A: What must we take to school tomorrow?
+法 A: Que doit-on apporter à l'école demain ?
+日 A: あした なにを がっこうに もって いく？
+韓 A: 내일 학교에 뭐 가져가야 해?
+
+中 B: 要拿衣服和umbrella。
+英 B: We take clothes and umbrella.
+法 B: On apporte des vêtements et un parapluie.
+日 B: ふくと かさを もって いく。
+韓 B: 옷랑 우산 가져가.
+
+中 A: 好。我記得了。
+英 A: Ok. I remember.
+法 A: Ok. Je m'en souviens.
+日 A: いいよ。 おぼえた。
+韓 A: 그래. 기억했어.

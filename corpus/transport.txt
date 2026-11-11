@@ -1,0 +1,501 @@
+# mini-x 多語對話：交通
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/transport.txt 相同。
+中 A: 我們怎麼去 library？
+英 A: How do we go to library?
+法 A: Comment allons-nous à la library ?
+日 A: わたしは どう して library へ いくの？
+韓 A: 우리는 어떻게 library에 가요?
+
+中 B: 坐 bus 吧。車站很近。
+英 B: Let's take the bus. The station is near.
+法 B: Prenons le bus. La gare est près.
+日 B: busに しましょう。 えきは ちかくに ある。
+韓 B: bus를 타자. 역은 가까워.
+
+中 A: 好。要坐幾站？
+英 A: Ok. How many stations do we ride?
+法 A: Ok. Combien de gares ?
+日 A: いいよ。 いくつ えきを すぎる？
+韓 A: 그래. 몇 역을 지나가야 해?
+
+中 B: 4 站。
+英 B: 4 stations.
+法 B: 4 gares.
+日 B: 4 えき。
+韓 B: 4역이야.
+
+中 A: 要多少錢？
+英 A: How much money?
+法 A: Combien d'argent ?
+日 A: おかねは いくら？
+韓 A: 돈이 얼마 필요해?
+
+中 B: 一個 2 塊。
+英 B: 2 for one.
+法 B: 2 pour un.
+日 B: 1つ 2 えんです。
+韓 B: 하나에 2원이야.
+
+中 A: 好。我有 money。
+英 A: Ok. I have money.
+法 A: Ok. J'ai de l'argent.
+日 A: いいよ。 わたしは おかねを もっている。
+韓 A: 그래. 나한테 돈이 있어.
+
+中 A: bus 來了。
+英 A: The bus is here.
+法 A: Le bus est là.
+日 A: busが きた。
+韓 A: bus가 왔어.
+
+中 B: 快上車。車上有位子。
+英 B: Get on fast. There is a room on the bus.
+法 B: Monte. Il y a de la place dans le bus.
+日 B: はやく のろう。 busに すわれる ばしょが ある。
+韓 B: 빨리 타. 버스에 자리가 있어.
+
+中 A: 我坐這裡。
+英 A: I sit here.
+法 A: Je m'assois ici.
+日 A: わたしは ここに すわる。
+韓 A: 나는 여기 앉을게.
+
+中 B: 我坐你邊上。
+英 B: I sit next to you.
+法 B: Je m'assois à côté de toi.
+日 B: わたしは あなたの となりに すわる。
+韓 B: 나는 네 옆에 앉을게.
+
+中 A: 好。這裡有風，很好。
+英 A: Ok. There is wind here. It is good.
+法 A: Ok. Il y a du vent ici. C'est bien.
+日 A: いいよ。 ここに かぜが ある。 とても いい。
+韓 A: 그래. 여기 바람이 불어. 좋아.
+
+中 B: 是。你看外邊。
+英 B: Yes. Look at the street.
+法 B: Oui. Regarde la rue.
+日 B: うん。 外を みて。
+韓 B: 응. 밖을 봐.
+
+中 A: 那些房子很高。
+英 A: Those houses are very tall.
+法 A: Ces maisons sont très hautes.
+日 A: その いえは とても たかい。
+韓 A: 그 집들은 아주 높아.
+
+中 B: 是。這是城裡邊。
+英 B: Yes. This is in the city.
+法 B: Oui. C'est dans la ville.
+日 B: うん。 これは まちの なかだ。
+韓 B: 응. 이것은 도시 안이야.
+
+中 A: 城裡的人真多。
+英 A: There are many people in the city.
+法 A: Il y a beaucoup de gens dans la ville.
+日 A: まちには 人が たくさん いる。
+韓 A: 도시에는 사람이 많아.
+
+中 A: 我們要坐不一樣的車了。
+英 A: We need to take another bus.
+法 A: Nous devons prendre un autre bus.
+日 A: わたしたちは ちがう busに のる。
+韓 A: 우리는 다른 버스를 타야 해.
+
+中 B: 對。這裡是要坐不一樣的車的地方。
+英 B: Yes. This is where we take another bus.
+法 B: Oui. C'est ici qu'on prend un autre bus.
+日 B: うん。 ここは ちがう busに のる ばしょだ。
+韓 B: 응. 여기가 다른 버스를 타는 곳이야.
+
+中 A: 下一個車是幾點？
+英 A: What time is the next bus?
+法 A: À quelle heure est le prochain bus ?
+日 A: つぎの busは なんじ？
+韓 A: 다음 버스는 몇 시에 와?
+
+中 B: 3 分鐘後。
+英 B: After 3 minutes.
+法 B: Dans 3 minutes.
+日 B: 3ぷんの あと。
+韓 B: 3분 뒤에.
+
+中 A: 好。我們在這裡等。
+英 A: Ok. We wait here.
+法 A: Ok. Nous attendons ici.
+日 A: いいよ。 ここで まつ。
+韓 A: 그래. 여기서 기다려.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 這裡的車很多。
+英 A: There are many buses here.
+法 A: Il y a beaucoup de bus ici.
+日 A: ここに busが たくさん ある。
+韓 A: 여기 버스가 많아.
+
+中 B: 是。車走得很慢。
+英 B: Yes. The bus goes very slow.
+法 B: Oui. Le bus va très lentement.
+日 B: うん。 busは とても おそい。
+韓 B: 응. 버스가 아주 느려.
+
+中 A: 我們要多少時間到？
+英 A: How many minutes do we need?
+法 A: Combien de minutes ?
+日 A: なんじかん ひつようなの？
+韓 A: 우리가 도착하려면 얼마나 걸려?
+
+中 B: 20 分鐘左右。
+英 B: About 20 minutes.
+法 B: Environ 20 minutes.
+日 B: 20ぷんくらい。
+韓 B: 20분쯤 걸려.
+
+中 A: 那我坐一下。
+英 A: Then I sit a little.
+法 A: Alors je m'assois un peu.
+日 A: じゃ すこし すわる。
+韓 A: 그럼 잠깐 앉을게.
+
+中 B: 好。到了我叫你。
+英 B: Ok. I will call you when we are there.
+法 B: Ok. Je t'appellerai quand nous serons là.
+日 B: いいよ。 ついたら よぶ。
+韓 B: 그래. 도착하면 부를게.
+
+中 A: 到站了。
+英 A: We are at the station.
+法 A: Nous sommes à la gare.
+日 A: えきに ついた。
+韓 A: 역에 도착했어.
+
+中 B: 快下車。不要坐過頭。
+英 B: Get off fast. Do not go too far.
+法 B: Descends. Ne va pas loin.
+日 B: はやく おりて。 その まえの えきを こえないで。
+韓 B: 빨리 내려. 다음 역에 내려.
+
+中 A: 我知道。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我們要去左邊嗎？
+英 B: Do we go left?
+法 B: Allons-nous à gauche ?
+日 B: ひだりへ いくの？
+韓 B: 왼쪽으로 가?
+
+中 A: 對。去左邊，過一個路口。
+英 A: Yes. Go left, over one street.
+法 A: Oui. Va à gauche, passe une rue.
+日 A: うん。 ひだりへ いって、 みちを ひとつ すぎる。
+韓 A: 응. 왼쪽으로 가서 길을 하나 지나.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我不知道路了。
+英 A: I do not know the way.
+法 A: Je ne connais pas la route.
+日 A: わたしは みちが わからない。
+韓 A: 나는 길을 몰라.
+
+中 B: 不要怕。你看那個大 building。
+英 B: Do not fear. Look at that big building.
+法 B: N'aie pas peur. Regarde ce grand building.
+日 B: こわくない で。 あの 大きい buildingを みて。
+韓 B: 무서워하지 마. 저 큰 building을 봐.
+
+中 A: 是。那是 library 嗎？
+英 A: Yes. Is that the library?
+法 A: Oui. C'est la library ?
+日 A: うん。 それは library かな？
+韓 A: 응. 저게 library야?
+
+中 B: 是。library 就在那裡。
+英 B: Yes. The library is there.
+法 B: Oui. La library est juste là.
+日 B: うん。 libraryは あそこだ。
+韓 B: 응. library는 바로 거기 있어.
+
+中 A: 太好了。
+英 A: That is good.
+法 A: C'est très bon.
+日 A: よかった。
+韓 A: 다행이다.
+
+中 B: 我說過我記得路。
+英 B: I told you I remember the way.
+法 B: Je te l'ai dit, je connais la route.
+日 B: わたしは みちを おぼえてる と いった だろ。
+韓 B: 내가 길 기억한다고 말했잖아.
+
+中 A: 你真會記路。
+英 A: You really remember the way.
+法 A: Tu connais très bien la route.
+日 A: あなたは みちを よく おぼえて いるね。
+韓 A: 너는 길을 잘 기억하네.
+
+中 A: 你要坐車回家嗎？
+英 A: Do you want to take the bus home?
+法 A: Tu veux rentrer en bus ?
+日 A: あなたは busに のって 家へ かえるの？
+韓 A: 너 bus 타고 집에 가?
+
+中 B: 要。我媽媽 6 點來。
+英 B: Yes. My mother comes at 6.
+法 B: Oui. Ma mère arrive à 6 heures.
+日 B: うん。 ははが 6じに くる。
+韓 B: 응. 엄마가 6시에 와.
+
+中 A: 好。我在這邊走回去。
+英 A: Ok. I walk from here.
+法 A: Ok. Je marche à pied d'ici.
+日 A: いいよ。 ここから あるいて かえる。
+韓 A: 그래. 여기서 걸어서 돌아가.
+
+中 B: 我和你一起走到路口。
+英 B: I walk with you over one street.
+法 B: Je marche avec toi, jusqu'à une rue.
+日 B: わたしは あなたと みちを ひとつ すぎる ところまで あるく。
+韓 B: 나도 너랑 길을 하나 지날 때까지 걸어.
+
+中 A: 不用了，我記得路。
+英 A: No need. I remember the way.
+法 A: Non, je connais la route.
+日 A: それは いい。 みちを おぼえて いる。
+韓 A: 괜찮아. 길은 기억해.
+
+中 B: 那你小心。
+英 B: Then be careful.
+法 B: Alors fais attention.
+日 B: じゃ きゅうけい して。
+韓 B: 그럼 조심해.
+
+中 A: 你也是。
+英 A: You too.
+法 A: Toi aussi.
+日 A: あなたも。
+韓 A: 너도.
+
+中 A: 你的 ticket 買了嗎？
+英 A: Did you buy your ticket?
+法 A: Tu as acheté ton billet ?
+日 A: あなたの きっぷを かいましたか？
+韓 A: 너 표는 샀어?
+
+中 B: 買了。今天的 ticket 很難買。
+英 B: I bought it. Today's ticket is hard to buy.
+法 B: Oui. Le billet d'aujourd'hui est difficile à acheter.
+日 B: かいました。 きょうの きっぷは かいたい ことが むずかしい。
+韓 B: 샀어. 오늘 표는 사기 어려워.
+
+中 A: 我沒有 ticket。
+英 A: I do not have a ticket.
+法 A: Je n'ai pas de billet.
+日 A: わたしは きっぷを もっていない。
+韓 A: 나는 표가 없어.
+
+中 B: 你坐哪裡？
+英 B: Where do you sit?
+法 B: Tu t'assois où ?
+日 B: あなたは どこに すわるの？
+韓 B: 너 어디에 앉아?
+
+中 A: 我和朋友一起。朋友有 ticket。
+英 A: I am with a friend. My friend has a ticket.
+法 A: Je suis avec un ami. Mon ami a un billet.
+日 A: わたしは 友だちと いっしょだ。 友だちが きっぷを もっている。
+韓 A: 나는 친구랑 같이 있어. 친구가 표를 가졌어.
+
+中 B: 那好。上車要給人看 ticket。
+英 B: Then ok. On the bus you must show your ticket.
+法 B: Alors ok. Dans le bus, tu dois montrer ton billet.
+日 B: じゃ いいよ。 busでは きっぷを みせないと いけない。
+韓 B: 그래. 버스에서 표를 보여줘야 해.
+
+中 A: 知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 A: 這車好多人。
+英 A: This bus has many people.
+法 A: Ce bus a beaucoup de gens.
+日 A: この busは 人が たくさん いる。
+韓 A: 이 버스에 사람이 많아.
+
+中 B: 是。現在是上工的時候。
+英 B: Yes. Now is the time to go to work.
+法 B: Oui. C'est l'heure d'aller travailler.
+日 B: うん。 いまは しごとに いく ときだ。
+韓 B: 응. 지금은 일하러 가는 시간이야.
+
+中 A: 我們等下一個車吧。
+英 A: Let's wait for the next bus.
+法 A: Attendons le prochain bus.
+日 A: つぎの busを まつましょう。
+韓 A: 다음 버스를 기다리자.
+
+中 B: 好。等 5 分鐘。
+英 B: Ok. Wait 5 minutes.
+法 B: Ok. Attends 5 minutes.
+日 B: いいよ。 5ぷん まつて。
+韓 B: 그래. 5분 기다려.
+
+中 A: 好。我站這裡等。
+英 A: Ok. I stand here and wait.
+法 A: Ok. Je reste debout ici.
+日 A: いいよ。 ここに たって まつ。
+韓 A: 그래. 여기 서서 기다릴게.
+
+中 B: 我去買 2 個 water。
+英 B: I go to buy 2 water.
+法 B: Je vais acheter 2 eau.
+日 B: わたしは 水を 2つ かいに いく。
+韓 B: 나 물 2개 사러 갈게.
+
+中 A: 好。我要 1 個。
+英 A: Ok. I want 1.
+法 A: Ok. Je veux 1.
+日 A: いいよ。 1つ ほしい。
+韓 A: 그래. 1개 주세요.
+
+中 A: 我想學開車。
+英 A: I want to learn to drive a car.
+法 A: Je veux apprendre à conduire.
+日 A: わたしは 車を うごかす ことを まなびたい。
+韓 A: 나는 운전하는 걸 배우고 싶어.
+
+中 B: 你幾歲？
+英 B: How old are you?
+法 B: Quel âge as-tu ?
+日 B: なんさい？
+韓 B: 몇 살이야?
+
+中 A: 我 18 歲。
+英 A: I am 18.
+法 A: J'ai 18 ans.
+日 A: わたしは 18 さい。
+韓 A: 나는 18살이야.
+
+中 B: 那你可以學。
+英 B: Then you can learn.
+法 B: Alors tu peux apprendre.
+日 B: じゃ まなべる よ。
+韓 B: 그럼 배울 수 있어.
+
+中 A: 我要去學。
+英 A: I want to go learn.
+法 A: Je veux aller apprendre.
+日 A: わたしは まなびに いく。
+韓 A: 나는 배우러 갈 거야.
+
+中 B: 好。學車要用 money。
+英 B: Ok. Learning to drive needs money.
+法 B: Ok. Conduire demande de l'argent.
+日 B: いいよ。 車を うかす には おかねが ひつようだ。
+韓 B: 그래. 운전 배우려면 돈이 들어.
+
+中 A: 我知道。我先問媽媽。
+英 A: I know. I ask mother first.
+法 A: Je sais. Je demande d'abord à maman.
+日 A: しってる。 まず ははに きく。
+韓 A: 알아. 먼저 엄마한테 물어볼게.
+
+中 B: 你媽媽會說好的。
+英 B: Your mother will say yes.
+法 B: Ta mère dira oui.
+日 B: ははが いいと いう はずだ。
+韓 B: 엄마가 좋다고 할 거야.
+
+中 A: 你看，那邊有人用 bike。
+英 A: Look. Someone over there is using a bike.
+法 A: Regarde. Quelqu'un là-bas utilise un bike.
+日 A: みて。 あっちで 人が bikeを つかって いる。
+韓 A: 봐. 저쪽에서 사람이 bike를 타고 있어.
+
+中 B: 是。有人用 bike 上工。
+英 B: Yes. Someone uses a bike to go to work.
+法 B: Oui. Quelqu'un utilise un bike pour travailler.
+日 B: うん。 人が bikeで しごとに いく。
+韓 B: 응. 누군가 bike로 일하러 가.
+
+中 A: 在城裡用 bike 好嗎？
+英 A: Is it good to use a bike in the city?
+法 A: C'est bon d'utiliser un bike dans la ville ?
+日 A: まちで bikeを つかうのは いいの？
+韓 A: 도시에서 bike를 타는 게 좋아?
+
+中 B: 好。比坐車快。
+英 B: Good. It is faster than taking the bus.
+法 B: Bien. C'est plus rapide que le bus.
+日 B: いいよ。 busに のるより はやい。
+韓 B: 좋아. 버스보다 빨라.
+
+中 A: 我也想學。
+英 A: I want to learn too.
+法 A: Je veux aussi apprendre.
+日 A: わたしも まなびたい。
+韓 A: 나도 배우고 싶어.
+
+中 B: 你學會了和我說。
+英 B: Tell me when you learn it.
+法 B: Dis-moi quand tu l'auras appris.
+日 B: まなべたら おしえて ください。
+韓 B: 배우면 말해.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 路上車很多。
+英 A: There are many cars on the road.
+法 A: Il y a beaucoup de voitures sur la route.
+日 A: みちに 車が たくさん ある。
+韓 A: 길에 차가 많아.
+
+中 B: 是。大家的時間都很少。
+英 B: Yes. Everyone has a short time.
+法 B: Oui. Tout le monde a peu de minutes.
+日 B: うん。 みんな じかんが すくない。
+韓 B: 응. 모두 시간이 적어.
+
+中 A: 是。每個人都想快一點。
+英 A: Yes. Everyone wants to be a little faster.
+法 A: Oui. Tout le monde veut aller un peu plus vite.
+日 A: うん。 みんな すこし はやく したい と おもう。
+韓 A: 응. 모두가 조금 더 빠르게 가고 싶어.
+
+中 B: 不過不要太快，好不好？
+英 B: But do not go too fast, ok?
+法 B: Mais ne va pas trop vite, d'accord ?
+日 B: ただし あまり はやくと いけない よ。
+韓 B: 하지만 너무 빠르지 마, 알겠지?
+
+中 A: 我知道。我慢慢走。
+英 A: I know. I walk slow.
+法 A: Je sais. Je marche lentement.
+日 A: しってる。 ゆっくり あるく。
+韓 A: 알아. 천천히 걸을게.
+
+中 B: 好。我和你一起走一會兒。
+英 B: Ok. I walk with you for a short time.
+法 B: Ok. Je marche avec toi un peu.
+日 B: いいよ。 あなたと すこし あるく。
+韓 B: 그래. 너랑 잠깐 걸을게.
+

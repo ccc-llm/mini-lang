@@ -1,0 +1,8134 @@
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 2 去。
+英 B: We take bus 2.
+法 B: On prend le bus 2.
+日 B: bus 2に のる。
+韓 B: 2번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去車站。
+英 B: Ok. We go to the station by car.
+法 B: Ok. Nous allons à la gare en voiture.
+日 B: いいよ。 車で えきへ いこう。
+韓 B: 그래. 차로 역에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去hospital。
+英 B: Ok. We go to hospital by car.
+法 B: Ok. Nous allons à hôpital en voiture.
+日 B: いいよ。 車で びょういんへ いこう。
+韓 B: 그래. 차로 병원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 坐 bus 22 去。
+英 A: We take bus 22.
+法 A: On prend le bus 22.
+日 A: bus 22に のる。
+韓 A: 22번 버스를 타.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 30 分鐘。
+英 A: 30 minutes.
+法 A: 30 minutes.
+日 A: 30ぷん。
+韓 A: 30분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 坐 bus 7 去。
+英 A: We take bus 7.
+法 A: On prend le bus 7.
+日 A: bus 7に のる。
+韓 A: 7번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 30 分鐘。
+英 A: 30 minutes.
+法 A: 30 minutes.
+日 A: 30ぷん。
+韓 A: 30분.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 坐 bus 3 去。
+英 A: We take bus 3.
+法 A: On prend le bus 3.
+日 A: bus 3に のる。
+韓 A: 3번 버스를 타.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 不遠。走 15 分鐘就到。
+英 A: Not far. 15 minutes on foot.
+法 A: Pas loin. 15 minutes à pied.
+日 A: とおくない。 あるいて 15ぷん。
+韓 A: 안 멀어. 걸어서 15분.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 不遠。走 15 分鐘就到。
+英 A: Not far. 15 minutes on foot.
+法 A: Pas loin. 15 minutes à pied.
+日 A: とおくない。 あるいて 15ぷん。
+韓 A: 안 멀어. 걸어서 15분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我們坐車去店。
+英 A: Ok. We go to the shop by car.
+法 A: Ok. Nous allons à la boutique en voiture.
+日 A: いいよ。 車で みせへ いこう。
+韓 A: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去hospital。
+英 B: Ok. We go to hospital by car.
+法 B: Ok. Nous allons à hôpital en voiture.
+日 B: いいよ。 車で びょういんへ いこう。
+韓 B: 그래. 차로 병원에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去park。
+英 B: Ok. We go to park by car.
+法 B: Ok. Nous allons à parc en voiture.
+日 B: いいよ。 車で parkへ いこう。
+韓 B: 그래. 차로 공원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 坐 bus 24 去。
+英 A: We take bus 24.
+法 A: On prend le bus 24.
+日 A: bus 24に のる。
+韓 A: 24번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 20 分鐘。
+英 B: 20 minutes.
+法 B: 20 minutes.
+日 B: 20ぷん。
+韓 B: 20분.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們坐車去restaurant。
+英 A: Ok. We go to the restaurant by car.
+法 A: Ok. Nous allons à le restaurant en voiture.
+日 A: いいよ。 車で レストランへ いこう。
+韓 A: 그래. 차로 식당에 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我們坐車去hospital。
+英 A: Ok. We go to hospital by car.
+法 A: Ok. Nous allons à hôpital en voiture.
+日 A: いいよ。 車で びょういんへ いこう。
+韓 A: 그래. 차로 병원에 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 坐 bus 3 去。
+英 A: We take bus 3.
+法 A: On prend le bus 3.
+日 A: bus 3に のる。
+韓 A: 3번 버스를 타.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 坐 bus 30 去。
+英 B: We take bus 30.
+法 B: On prend le bus 30.
+日 B: bus 30に のる。
+韓 B: 30번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們坐車去market。
+英 A: Ok. We go to market by car.
+法 A: Ok. Nous allons à marché en voiture.
+日 A: いいよ。 車で marketへ いこう。
+韓 A: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去車站。
+英 B: Ok. We go to the station by car.
+法 B: Ok. Nous allons à la gare en voiture.
+日 B: いいよ。 車で えきへ いこう。
+韓 B: 그래. 차로 역에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 坐 bus 2 去。
+英 A: We take bus 2.
+法 A: On prend le bus 2.
+日 A: bus 2に のる。
+韓 A: 2번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去學校？
+英 A: How do we go to school?
+法 A: Comment allons-nous à école ?
+日 A: がっこうへ どう いく？
+韓 A: 학교에 어떻게 가?
+
+中 B: 坐 bus 1 去。
+英 B: We take bus 1.
+法 B: On prend le bus 1.
+日 B: bus 1に のる。
+韓 B: 1번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 坐 bus 9 去。
+英 A: We take bus 9.
+法 A: On prend le bus 9.
+日 A: bus 9に のる。
+韓 A: 9번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去hospital？
+英 A: How do we go to hospital?
+法 A: Comment allons-nous à hôpital ?
+日 A: びょういんへ どう いく？
+韓 A: 병원에 어떻게 가?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 坐 bus 10 去。
+英 A: We take bus 10.
+法 A: On prend le bus 10.
+日 A: bus 10に のる。
+韓 A: 10번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 坐 bus 6 去。
+英 A: We take bus 6.
+法 A: On prend le bus 6.
+日 A: bus 6に のる。
+韓 A: 6번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 20 分鐘。
+英 A: 20 minutes.
+法 A: 20 minutes.
+日 A: 20ぷん。
+韓 A: 20분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 19 去。
+英 B: We take bus 19.
+法 B: On prend le bus 19.
+日 B: bus 19に のる。
+韓 B: 19번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 20 分鐘。
+英 B: 20 minutes.
+法 B: 20 minutes.
+日 B: 20ぷん。
+韓 B: 20분.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去學校。
+英 B: Ok. We go to school by car.
+法 B: Ok. Nous allons à école en voiture.
+日 B: いいよ。 車で がっこうへ いこう。
+韓 B: 그래. 차로 학교에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不遠。走 15 分鐘就到。
+英 A: Not far. 15 minutes on foot.
+法 A: Pas loin. 15 minutes à pied.
+日 A: とおくない。 あるいて 15ぷん。
+韓 A: 안 멀어. 걸어서 15분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 15 去。
+英 B: We take bus 15.
+法 B: On prend le bus 15.
+日 B: bus 15に のる。
+韓 B: 15번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 20 分鐘。
+英 B: 20 minutes.
+法 B: 20 minutes.
+日 B: 20ぷん。
+韓 B: 20분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不遠。走 20 分鐘就到。
+英 A: Not far. 20 minutes on foot.
+法 A: Pas loin. 20 minutes à pied.
+日 A: とおくない。 あるいて 20ぷん。
+韓 A: 안 멀어. 걸어서 20분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我們坐車去學校。
+英 A: Ok. We go to school by car.
+法 A: Ok. Nous allons à école en voiture.
+日 A: いいよ。 車で がっこうへ いこう。
+韓 A: 그래. 차로 학교에 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 坐 bus 24 去。
+英 A: We take bus 24.
+法 A: On prend le bus 24.
+日 A: bus 24に のる。
+韓 A: 24번 버스를 타.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 不遠。走 15 分鐘就到。
+英 A: Not far. 15 minutes on foot.
+法 A: Pas loin. 15 minutes à pied.
+日 A: とおくない。 あるいて 15ぷん。
+韓 A: 안 멀어. 걸어서 15분.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 24 去。
+英 B: We take bus 24.
+法 B: On prend le bus 24.
+日 B: bus 24に のる。
+韓 B: 24번 버스를 타.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 坐 bus 6 去。
+英 B: We take bus 6.
+法 B: On prend le bus 6.
+日 B: bus 6に のる。
+韓 B: 6번 버스를 타.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 10 分鐘。
+英 A: 10 minutes.
+法 A: 10 minutes.
+日 A: 10ぷん。
+韓 A: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 坐 bus 29 去。
+英 A: We take bus 29.
+法 A: On prend le bus 29.
+日 A: bus 29に のる。
+韓 A: 29번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不遠。走 30 分鐘就到。
+英 A: Not far. 30 minutes on foot.
+法 A: Pas loin. 30 minutes à pied.
+日 A: とおくない。 あるいて 30ぷん。
+韓 A: 안 멀어. 걸어서 30분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 坐 bus 13 去。
+英 A: We take bus 13.
+法 A: On prend le bus 13.
+日 A: bus 13に のる。
+韓 A: 13번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 30 分鐘。
+英 B: 30 minutes.
+法 B: 30 minutes.
+日 B: 30ぷん。
+韓 B: 30분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 坐 bus 6 去。
+英 B: We take bus 6.
+法 B: On prend le bus 6.
+日 B: bus 6に のる。
+韓 B: 6번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 20 分鐘。
+英 B: 20 minutes.
+法 B: 20 minutes.
+日 B: 20ぷん。
+韓 B: 20분.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去學校？
+英 A: How do we go to school?
+法 A: Comment allons-nous à école ?
+日 A: がっこうへ どう いく？
+韓 A: 학교에 어떻게 가?
+
+中 B: 坐 bus 7 去。
+英 B: We take bus 7.
+法 B: On prend le bus 7.
+日 B: bus 7に のる。
+韓 B: 7번 버스를 타.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 16 去。
+英 B: We take bus 16.
+法 B: On prend le bus 16.
+日 B: bus 16に のる。
+韓 B: 16번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我們坐車去restaurant。
+英 A: Ok. We go to the restaurant by car.
+法 A: Ok. Nous allons à le restaurant en voiture.
+日 A: いいよ。 車で レストランへ いこう。
+韓 A: 그래. 차로 식당에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 20 去。
+英 B: We take bus 20.
+法 B: On prend le bus 20.
+日 B: bus 20に のる。
+韓 B: 20번 버스를 타.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去hospital。
+英 B: Ok. We go to hospital by car.
+法 B: Ok. Nous allons à hôpital en voiture.
+日 B: いいよ。 車で びょういんへ いこう。
+韓 B: 그래. 차로 병원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 15 去。
+英 B: We take bus 15.
+法 B: On prend le bus 15.
+日 B: bus 15に のる。
+韓 B: 15번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 坐 bus 25 去。
+英 B: We take bus 25.
+法 B: On prend le bus 25.
+日 B: bus 25に のる。
+韓 B: 25번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們坐車去海邊。
+英 A: Ok. We go to the sea by car.
+法 A: Ok. Nous allons à la mer en voiture.
+日 A: いいよ。 車で うみへ いこう。
+韓 A: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 13 去。
+英 B: We take bus 13.
+法 B: On prend le bus 13.
+日 B: bus 13に のる。
+韓 B: 13번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們坐車去車站。
+英 A: Ok. We go to the station by car.
+法 A: Ok. Nous allons à la gare en voiture.
+日 A: いいよ。 車で えきへ いこう。
+韓 A: 그래. 차로 역에 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們坐車去海邊。
+英 A: Ok. We go to the sea by car.
+法 A: Ok. Nous allons à la mer en voiture.
+日 A: いいよ。 車で うみへ いこう。
+韓 A: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不遠。走 30 分鐘就到。
+英 A: Not far. 30 minutes on foot.
+法 A: Pas loin. 30 minutes à pied.
+日 A: とおくない。 あるいて 30ぷん。
+韓 A: 안 멀어. 걸어서 30분.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 24 去。
+英 B: We take bus 24.
+法 B: On prend le bus 24.
+日 B: bus 24に のる。
+韓 B: 24번 버스를 타.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 5 去。
+英 B: We take bus 5.
+法 B: On prend le bus 5.
+日 B: bus 5に のる。
+韓 B: 5번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我們坐車去海邊。
+英 A: Ok. We go to the sea by car.
+法 A: Ok. Nous allons à la mer en voiture.
+日 A: いいよ。 車で うみへ いこう。
+韓 A: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 坐 bus 22 去。
+英 A: We take bus 22.
+法 A: On prend le bus 22.
+日 A: bus 22に のる。
+韓 A: 22번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 6 去。
+英 B: We take bus 6.
+法 B: On prend le bus 6.
+日 B: bus 6に のる。
+韓 B: 6번 버스를 타.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 20 分鐘。
+英 A: 20 minutes.
+法 A: 20 minutes.
+日 A: 20ぷん。
+韓 A: 20분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 15 去。
+英 B: We take bus 15.
+法 B: On prend le bus 15.
+日 B: bus 15に のる。
+韓 B: 15번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我們坐車去market。
+英 A: Ok. We go to market by car.
+法 A: Ok. Nous allons à marché en voiture.
+日 A: いいよ。 車で marketへ いこう。
+韓 A: 그래. 차로 시장에 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 30 去。
+英 B: We take bus 30.
+法 B: On prend le bus 30.
+日 B: bus 30に のる。
+韓 B: 30번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 坐 bus 2 去。
+英 A: We take bus 2.
+法 A: On prend le bus 2.
+日 A: bus 2に のる。
+韓 A: 2번 버스를 타.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 30 分鐘。
+英 A: 30 minutes.
+法 A: 30 minutes.
+日 A: 30ぷん。
+韓 A: 30분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 坐 bus 29 去。
+英 B: We take bus 29.
+法 B: On prend le bus 29.
+日 B: bus 29に のる。
+韓 B: 29번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 30 分鐘。
+英 B: 30 minutes.
+法 B: 30 minutes.
+日 B: 30ぷん。
+韓 B: 30분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 坐 bus 21 去。
+英 A: We take bus 21.
+法 A: On prend le bus 21.
+日 A: bus 21に のる。
+韓 A: 21번 버스를 타.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 坐 bus 17 去。
+英 A: We take bus 17.
+法 A: On prend le bus 17.
+日 A: bus 17に のる。
+韓 A: 17번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去hospital。
+英 B: Ok. We go to hospital by car.
+法 B: Ok. Nous allons à hôpital en voiture.
+日 B: いいよ。 車で びょういんへ いこう。
+韓 B: 그래. 차로 병원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們坐車去hospital。
+英 A: Ok. We go to hospital by car.
+法 A: Ok. Nous allons à hôpital en voiture.
+日 A: いいよ。 車で びょういんへ いこう。
+韓 A: 그래. 차로 병원에 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 坐 bus 11 去。
+英 A: We take bus 11.
+法 A: On prend le bus 11.
+日 A: bus 11に のる。
+韓 A: 11번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 坐 bus 9 去。
+英 A: We take bus 9.
+法 A: On prend le bus 9.
+日 A: bus 9に のる。
+韓 A: 9번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不遠。走 5 分鐘就到。
+英 A: Not far. 5 minutes on foot.
+法 A: Pas loin. 5 minutes à pied.
+日 A: とおくない。 あるいて 5ぷん。
+韓 A: 안 멀어. 걸어서 5분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我們坐車去學校。
+英 A: Ok. We go to school by car.
+法 A: Ok. Nous allons à école en voiture.
+日 A: いいよ。 車で がっこうへ いこう。
+韓 A: 그래. 차로 학교에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 坐 bus 27 去。
+英 B: We take bus 27.
+法 B: On prend le bus 27.
+日 B: bus 27に のる。
+韓 B: 27번 버스를 타.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 8 去。
+英 B: We take bus 8.
+法 B: On prend le bus 8.
+日 B: bus 8に のる。
+韓 B: 8번 버스를 타.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 10 去。
+英 B: We take bus 10.
+法 B: On prend le bus 10.
+日 B: bus 10に のる。
+韓 B: 10번 버스를 타.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 坐 bus 15 去。
+英 B: We take bus 15.
+法 B: On prend le bus 15.
+日 B: bus 15に のる。
+韓 B: 15번 버스를 타.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 坐 bus 23 去。
+英 B: We take bus 23.
+法 B: On prend le bus 23.
+日 B: bus 23に のる。
+韓 B: 23번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 10 分鐘。
+英 A: 10 minutes.
+法 A: 10 minutes.
+日 A: 10ぷん。
+韓 A: 10분.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 17 去。
+英 B: We take bus 17.
+法 B: On prend le bus 17.
+日 B: bus 17に のる。
+韓 B: 17번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 30 分鐘。
+英 B: 30 minutes.
+法 B: 30 minutes.
+日 B: 30ぷん。
+韓 B: 30분.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 24 去。
+英 B: We take bus 24.
+法 B: On prend le bus 24.
+日 B: bus 24に のる。
+韓 B: 24번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 30 分鐘。
+英 A: 30 minutes.
+法 A: 30 minutes.
+日 A: 30ぷん。
+韓 A: 30분.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 坐 bus 18 去。
+英 B: We take bus 18.
+法 B: On prend le bus 18.
+日 B: bus 18に のる。
+韓 B: 18번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去學校。
+英 B: Ok. We go to school by car.
+法 B: Ok. Nous allons à école en voiture.
+日 B: いいよ。 車で がっこうへ いこう。
+韓 B: 그래. 차로 학교에 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去學校。
+英 B: Ok. We go to school by car.
+法 B: Ok. Nous allons à école en voiture.
+日 B: いいよ。 車で がっこうへ いこう。
+韓 B: 그래. 차로 학교에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們坐車去market。
+英 A: Ok. We go to market by car.
+法 A: Ok. Nous allons à marché en voiture.
+日 A: いいよ。 車で marketへ いこう。
+韓 A: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我們坐車去學校。
+英 A: Ok. We go to school by car.
+法 A: Ok. Nous allons à école en voiture.
+日 A: いいよ。 車で がっこうへ いこう。
+韓 A: 그래. 차로 학교에 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們坐車去hospital。
+英 A: Ok. We go to hospital by car.
+法 A: Ok. Nous allons à hôpital en voiture.
+日 A: いいよ。 車で びょういんへ いこう。
+韓 A: 그래. 차로 병원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 21 去。
+英 B: We take bus 21.
+法 B: On prend le bus 21.
+日 B: bus 21に のる。
+韓 B: 21번 버스를 타.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我們坐車去market。
+英 A: Ok. We go to market by car.
+法 A: Ok. Nous allons à marché en voiture.
+日 A: いいよ。 車で marketへ いこう。
+韓 A: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去學校？
+英 A: How do we go to school?
+法 A: Comment allons-nous à école ?
+日 A: がっこうへ どう いく？
+韓 A: 학교에 어떻게 가?
+
+中 B: 坐 bus 2 去。
+英 B: We take bus 2.
+法 B: On prend le bus 2.
+日 B: bus 2に のる。
+韓 B: 2번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 坐 bus 12 去。
+英 B: We take bus 12.
+法 B: On prend le bus 12.
+日 B: bus 12に のる。
+韓 B: 12번 버스를 타.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去park。
+英 B: Ok. We go to park by car.
+法 B: Ok. Nous allons à parc en voiture.
+日 B: いいよ。 車で parkへ いこう。
+韓 B: 그래. 차로 공원에 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 坐 bus 7 去。
+英 B: We take bus 7.
+法 B: On prend le bus 7.
+日 B: bus 7に のる。
+韓 B: 7번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去hospital。
+英 B: Ok. We go to hospital by car.
+法 B: Ok. Nous allons à hôpital en voiture.
+日 B: いいよ。 車で びょういんへ いこう。
+韓 B: 그래. 차로 병원에 가자.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去park。
+英 B: Ok. We go to park by car.
+法 B: Ok. Nous allons à parc en voiture.
+日 B: いいよ。 車で parkへ いこう。
+韓 B: 그래. 차로 공원에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我們坐車去店。
+英 A: Ok. We go to the shop by car.
+法 A: Ok. Nous allons à la boutique en voiture.
+日 A: いいよ。 車で みせへ いこう。
+韓 A: 그래. 차로 가게에 가자.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去學校？
+英 A: How do we go to school?
+法 A: Comment allons-nous à école ?
+日 A: がっこうへ どう いく？
+韓 A: 학교에 어떻게 가?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 坐 bus 19 去。
+英 A: We take bus 19.
+法 A: On prend le bus 19.
+日 A: bus 19に のる。
+韓 A: 19번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 坐 bus 29 去。
+英 B: We take bus 29.
+法 B: On prend le bus 29.
+日 B: bus 29に のる。
+韓 B: 29번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不遠。走 20 分鐘就到。
+英 A: Not far. 20 minutes on foot.
+法 A: Pas loin. 20 minutes à pied.
+日 A: とおくない。 あるいて 20ぷん。
+韓 A: 안 멀어. 걸어서 20분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我們坐車去家。
+英 A: Ok. We go to home by car.
+法 A: Ok. Nous allons à la maison en voiture.
+日 A: いいよ。 車で いえへ いこう。
+韓 A: 그래. 차로 집에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 7 去。
+英 B: We take bus 7.
+法 B: On prend le bus 7.
+日 B: bus 7に のる。
+韓 B: 7번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 20 分鐘。
+英 B: 20 minutes.
+法 B: 20 minutes.
+日 B: 20ぷん。
+韓 B: 20분.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們坐車去restaurant。
+英 A: Ok. We go to the restaurant by car.
+法 A: Ok. Nous allons à le restaurant en voiture.
+日 A: いいよ。 車で レストランへ いこう。
+韓 A: 그래. 차로 식당에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我們坐車去restaurant。
+英 A: Ok. We go to the restaurant by car.
+法 A: Ok. Nous allons à le restaurant en voiture.
+日 A: いいよ。 車で レストランへ いこう。
+韓 A: 그래. 차로 식당에 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去hospital。
+英 B: Ok. We go to hospital by car.
+法 B: Ok. Nous allons à hôpital en voiture.
+日 B: いいよ。 車で びょういんへ いこう。
+韓 B: 그래. 차로 병원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我們坐車去家。
+英 A: Ok. We go to home by car.
+法 A: Ok. Nous allons à la maison en voiture.
+日 A: いいよ。 車で いえへ いこう。
+韓 A: 그래. 차로 집에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 26 去。
+英 B: We take bus 26.
+法 B: On prend le bus 26.
+日 B: bus 26に のる。
+韓 B: 26번 버스를 타.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 坐 bus 24 去。
+英 A: We take bus 24.
+法 A: On prend le bus 24.
+日 A: bus 24に のる。
+韓 A: 24번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 13 去。
+英 B: We take bus 13.
+法 B: On prend le bus 13.
+日 B: bus 13に のる。
+韓 B: 13번 버스를 타.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 20 分鐘。
+英 A: 20 minutes.
+法 A: 20 minutes.
+日 A: 20ぷん。
+韓 A: 20분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不遠。走 5 分鐘就到。
+英 A: Not far. 5 minutes on foot.
+法 A: Pas loin. 5 minutes à pied.
+日 A: とおくない。 あるいて 5ぷん。
+韓 A: 안 멀어. 걸어서 5분.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去車站。
+英 B: Ok. We go to the station by car.
+法 B: Ok. Nous allons à la gare en voiture.
+日 B: いいよ。 車で えきへ いこう。
+韓 B: 그래. 차로 역에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們坐車去學校。
+英 A: Ok. We go to school by car.
+法 A: Ok. Nous allons à école en voiture.
+日 A: いいよ。 車で がっこうへ いこう。
+韓 A: 그래. 차로 학교에 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去hospital？
+英 A: How do we go to hospital?
+法 A: Comment allons-nous à hôpital ?
+日 A: びょういんへ どう いく？
+韓 A: 병원에 어떻게 가?
+
+中 B: 坐 bus 23 去。
+英 B: We take bus 23.
+法 B: On prend le bus 23.
+日 B: bus 23に のる。
+韓 B: 23번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去學校。
+英 B: Ok. We go to school by car.
+法 B: Ok. Nous allons à école en voiture.
+日 B: いいよ。 車で がっこうへ いこう。
+韓 B: 그래. 차로 학교에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 坐 bus 6 去。
+英 A: We take bus 6.
+法 A: On prend le bus 6.
+日 A: bus 6に のる。
+韓 A: 6번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 10 分鐘。
+英 A: 10 minutes.
+法 A: 10 minutes.
+日 A: 10ぷん。
+韓 A: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去park。
+英 B: Ok. We go to park by car.
+法 B: Ok. Nous allons à parc en voiture.
+日 B: いいよ。 車で parkへ いこう。
+韓 B: 그래. 차로 공원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 坐 bus 26 去。
+英 B: We take bus 26.
+法 B: On prend le bus 26.
+日 B: bus 26に のる。
+韓 B: 26번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不遠。走 5 分鐘就到。
+英 A: Not far. 5 minutes on foot.
+法 A: Pas loin. 5 minutes à pied.
+日 A: とおくない。 あるいて 5ぷん。
+韓 A: 안 멀어. 걸어서 5분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們坐車去park。
+英 A: Ok. We go to park by car.
+法 A: Ok. Nous allons à parc en voiture.
+日 A: いいよ。 車で parkへ いこう。
+韓 A: 그래. 차로 공원에 가자.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 坐 bus 10 去。
+英 A: We take bus 10.
+法 A: On prend le bus 10.
+日 A: bus 10に のる。
+韓 A: 10번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 10 分鐘。
+英 A: 10 minutes.
+法 A: 10 minutes.
+日 A: 10ぷん。
+韓 A: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我們坐車去market。
+英 A: Ok. We go to market by car.
+法 A: Ok. Nous allons à marché en voiture.
+日 A: いいよ。 車で marketへ いこう。
+韓 A: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 7 去。
+英 B: We take bus 7.
+法 B: On prend le bus 7.
+日 B: bus 7に のる。
+韓 B: 7번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 20 去。
+英 B: We take bus 20.
+法 B: On prend le bus 20.
+日 B: bus 20に のる。
+韓 B: 20번 버스를 타.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 坐 bus 20 去。
+英 B: We take bus 20.
+法 B: On prend le bus 20.
+日 B: bus 20に のる。
+韓 B: 20번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去學校。
+英 B: Ok. We go to school by car.
+法 B: Ok. Nous allons à école en voiture.
+日 B: いいよ。 車で がっこうへ いこう。
+韓 B: 그래. 차로 학교에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去學校？
+英 A: How do we go to school?
+法 A: Comment allons-nous à école ?
+日 A: がっこうへ どう いく？
+韓 A: 학교에 어떻게 가?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 坐 bus 1 去。
+英 A: We take bus 1.
+法 A: On prend le bus 1.
+日 A: bus 1に のる。
+韓 A: 1번 버스를 타.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不遠。走 5 分鐘就到。
+英 A: Not far. 5 minutes on foot.
+法 A: Pas loin. 5 minutes à pied.
+日 A: とおくない。 あるいて 5ぷん。
+韓 A: 안 멀어. 걸어서 5분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 坐 bus 26 去。
+英 B: We take bus 26.
+法 B: On prend le bus 26.
+日 B: bus 26に のる。
+韓 B: 26번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去hospital？
+英 A: How do we go to hospital?
+法 A: Comment allons-nous à hôpital ?
+日 A: びょういんへ どう いく？
+韓 A: 병원에 어떻게 가?
+
+中 B: 坐 bus 29 去。
+英 B: We take bus 29.
+法 B: On prend le bus 29.
+日 B: bus 29に のる。
+韓 B: 29번 버스를 타.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 30 分鐘。
+英 B: 30 minutes.
+法 B: 30 minutes.
+日 B: 30ぷん。
+韓 B: 30분.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去restaurant。
+英 B: Ok. We go to the restaurant by car.
+法 B: Ok. Nous allons à le restaurant en voiture.
+日 B: いいよ。 車で レストランへ いこう。
+韓 B: 그래. 차로 식당에 가자.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去學校？
+英 A: How do we go to school?
+法 A: Comment allons-nous à école ?
+日 A: がっこうへ どう いく？
+韓 A: 학교에 어떻게 가?
+
+中 B: 坐 bus 23 去。
+英 B: We take bus 23.
+法 B: On prend le bus 23.
+日 B: bus 23に のる。
+韓 B: 23번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去hospital？
+英 A: How do we go to hospital?
+法 A: Comment allons-nous à hôpital ?
+日 A: びょういんへ どう いく？
+韓 A: 병원에 어떻게 가?
+
+中 B: 坐 bus 12 去。
+英 B: We take bus 12.
+法 B: On prend le bus 12.
+日 B: bus 12に のる。
+韓 B: 12번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 坐 bus 2 去。
+英 B: We take bus 2.
+法 B: On prend le bus 2.
+日 B: bus 2に のる。
+韓 B: 2번 버스를 타.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去hospital。
+英 B: Ok. We go to hospital by car.
+法 B: Ok. Nous allons à hôpital en voiture.
+日 B: いいよ。 車で びょういんへ いこう。
+韓 B: 그래. 차로 병원에 가자.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 不遠。走 10 分鐘就到。
+英 A: Not far. 10 minutes on foot.
+法 A: Pas loin. 10 minutes à pied.
+日 A: とおくない。 あるいて 10ぷん。
+韓 A: 안 멀어. 걸어서 10분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不遠。走 15 分鐘就到。
+英 A: Not far. 15 minutes on foot.
+法 A: Pas loin. 15 minutes à pied.
+日 A: とおくない。 あるいて 15ぷん。
+韓 A: 안 멀어. 걸어서 15분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我們坐車去market。
+英 A: Ok. We go to market by car.
+法 A: Ok. Nous allons à marché en voiture.
+日 A: いいよ。 車で marketへ いこう。
+韓 A: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 不遠。走 20 分鐘就到。
+英 A: Not far. 20 minutes on foot.
+法 A: Pas loin. 20 minutes à pied.
+日 A: とおくない。 あるいて 20ぷん。
+韓 A: 안 멀어. 걸어서 20분.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去park。
+英 B: Ok. We go to park by car.
+法 B: Ok. Nous allons à parc en voiture.
+日 B: いいよ。 車で parkへ いこう。
+韓 B: 그래. 차로 공원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去hospital？
+英 A: How do we go to hospital?
+法 A: Comment allons-nous à hôpital ?
+日 A: びょういんへ どう いく？
+韓 A: 병원에 어떻게 가?
+
+中 B: 坐 bus 19 去。
+英 B: We take bus 19.
+法 B: On prend le bus 19.
+日 B: bus 19に のる。
+韓 B: 19번 버스를 타.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我們坐車去家。
+英 A: Ok. We go to home by car.
+法 A: Ok. Nous allons à la maison en voiture.
+日 A: いいよ。 車で いえへ いこう。
+韓 A: 그래. 차로 집에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 不遠。走 30 分鐘就到。
+英 A: Not far. 30 minutes on foot.
+法 A: Pas loin. 30 minutes à pied.
+日 A: とおくない。 あるいて 30ぷん。
+韓 A: 안 멀어. 걸어서 30분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我們坐車去學校。
+英 A: Ok. We go to school by car.
+法 A: Ok. Nous allons à école en voiture.
+日 A: いいよ。 車で がっこうへ いこう。
+韓 A: 그래. 차로 학교에 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 坐 bus 9 去。
+英 B: We take bus 9.
+法 B: On prend le bus 9.
+日 B: bus 9に のる。
+韓 B: 9번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去車站。
+英 B: Ok. We go to the station by car.
+法 B: Ok. Nous allons à la gare en voiture.
+日 B: いいよ。 車で えきへ いこう。
+韓 B: 그래. 차로 역에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 不遠。走 20 分鐘就到。
+英 A: Not far. 20 minutes on foot.
+法 A: Pas loin. 20 minutes à pied.
+日 A: とおくない。 あるいて 20ぷん。
+韓 A: 안 멀어. 걸어서 20분.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 不遠。走 20 分鐘就到。
+英 A: Not far. 20 minutes on foot.
+法 A: Pas loin. 20 minutes à pied.
+日 A: とおくない。 あるいて 20ぷん。
+韓 A: 안 멀어. 걸어서 20분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不遠。走 20 分鐘就到。
+英 A: Not far. 20 minutes on foot.
+法 A: Pas loin. 20 minutes à pied.
+日 A: とおくない。 あるいて 20ぷん。
+韓 A: 안 멀어. 걸어서 20분.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 坐 bus 15 去。
+英 A: We take bus 15.
+法 A: On prend le bus 15.
+日 A: bus 15に のる。
+韓 A: 15번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去家？
+英 A: How do we go to home?
+法 A: Comment allons-nous à la maison ?
+日 A: いえへ どう いく？
+韓 A: 집에 어떻게 가?
+
+中 B: 坐 bus 8 去。
+英 B: We take bus 8.
+法 B: On prend le bus 8.
+日 B: bus 8に のる。
+韓 B: 8번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 坐 bus 6 去。
+英 A: We take bus 6.
+法 A: On prend le bus 6.
+日 A: bus 6に のる。
+韓 A: 6번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 30 分鐘。
+英 A: 30 minutes.
+法 A: 30 minutes.
+日 A: 30ぷん。
+韓 A: 30분.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去海邊？
+英 A: How do we go to the sea?
+法 A: Comment allons-nous à la mer ?
+日 A: うみへ どう いく？
+韓 A: 바다에 어떻게 가?
+
+中 B: 坐 bus 20 去。
+英 B: We take bus 20.
+法 B: On prend le bus 20.
+日 B: bus 20に のる。
+韓 B: 20번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去海邊。
+英 B: Ok. We go to the sea by car.
+法 B: Ok. Nous allons à la mer en voiture.
+日 B: いいよ。 車で うみへ いこう。
+韓 B: 그래. 차로 바다에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去家。
+英 B: Ok. We go to home by car.
+法 B: Ok. Nous allons à la maison en voiture.
+日 B: いいよ。 車で いえへ いこう。
+韓 B: 그래. 차로 집에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去車站。
+英 B: Ok. We go to the station by car.
+法 B: Ok. Nous allons à la gare en voiture.
+日 B: いいよ。 車で えきへ いこう。
+韓 B: 그래. 차로 역에 가자.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我們坐車去hospital。
+英 A: Ok. We go to hospital by car.
+法 A: Ok. Nous allons à hôpital en voiture.
+日 A: いいよ。 車で びょういんへ いこう。
+韓 A: 그래. 차로 병원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們坐車去車站。
+英 A: Ok. We go to the station by car.
+法 A: Ok. Nous allons à la gare en voiture.
+日 A: いいよ。 車で えきへ いこう。
+韓 A: 그래. 차로 역에 가자.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 坐 bus 6 去。
+英 B: We take bus 6.
+法 B: On prend le bus 6.
+日 B: bus 6に のる。
+韓 B: 6번 버스를 타.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 10 分鐘。
+英 B: 10 minutes.
+法 B: 10 minutes.
+日 B: 10ぷん。
+韓 B: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去hospital？
+英 A: How do we go to hospital?
+法 A: Comment allons-nous à hôpital ?
+日 A: びょういんへ どう いく？
+韓 A: 병원에 어떻게 가?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 坐 bus 19 去。
+英 A: We take bus 19.
+法 A: On prend le bus 19.
+日 A: bus 19に のる。
+韓 A: 19번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 40 分鐘。
+英 B: 40 minutes.
+法 B: 40 minutes.
+日 B: 40ぷん。
+韓 B: 40분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去車站。
+英 B: Ok. We go to the station by car.
+法 B: Ok. Nous allons à la gare en voiture.
+日 B: いいよ。 車で えきへ いこう。
+韓 B: 그래. 차로 역에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去店？
+英 A: How do we go to the shop?
+法 A: Comment allons-nous à la boutique ?
+日 A: みせへ どう いく？
+韓 A: 가게에 어떻게 가?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 坐 bus 5 去。
+英 A: We take bus 5.
+法 A: On prend le bus 5.
+日 A: bus 5に のる。
+韓 A: 5번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我們坐車去店。
+英 A: Ok. We go to the shop by car.
+法 A: Ok. Nous allons à la boutique en voiture.
+日 A: いいよ。 車で みせへ いこう。
+韓 A: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 不遠。走 20 分鐘就到。
+英 A: Not far. 20 minutes on foot.
+法 A: Pas loin. 20 minutes à pied.
+日 A: とおくない。 あるいて 20ぷん。
+韓 A: 안 멀어. 걸어서 20분.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 不遠。走 5 分鐘就到。
+英 A: Not far. 5 minutes on foot.
+法 A: Pas loin. 5 minutes à pied.
+日 A: とおくない。 あるいて 5ぷん。
+韓 A: 안 멀어. 걸어서 5분.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不遠。走 5 分鐘就到。
+英 A: Not far. 5 minutes on foot.
+法 A: Pas loin. 5 minutes à pied.
+日 A: とおくない。 あるいて 5ぷん。
+韓 A: 안 멀어. 걸어서 5분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 5 去。
+英 B: We take bus 5.
+法 B: On prend le bus 5.
+日 B: bus 5に のる。
+韓 B: 5번 버스를 타.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 5 分鐘。
+英 A: 5 minutes.
+法 A: 5 minutes.
+日 A: 5ぷん。
+韓 A: 5분.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 坐 bus 23 去。
+英 B: We take bus 23.
+法 B: On prend le bus 23.
+日 B: bus 23に のる。
+韓 B: 23번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 30 分鐘。
+英 B: 30 minutes.
+法 B: 30 minutes.
+日 B: 30ぷん。
+韓 B: 30분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 不遠。走 30 分鐘就到。
+英 A: Not far. 30 minutes on foot.
+法 A: Pas loin. 30 minutes à pied.
+日 A: とおくない。 あるいて 30ぷん。
+韓 A: 안 멀어. 걸어서 30분.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 5 分鐘就到。
+英 B: Not far. 5 minutes on foot.
+法 B: Pas loin. 5 minutes à pied.
+日 B: とおくない。 あるいて 5ぷん。
+韓 B: 안 멀어. 걸어서 5분.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不遠。走 5 分鐘就到。
+英 A: Not far. 5 minutes on foot.
+法 A: Pas loin. 5 minutes à pied.
+日 A: とおくない。 あるいて 5ぷん。
+韓 A: 안 멀어. 걸어서 5분.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去hospital？
+英 A: How do we go to hospital?
+法 A: Comment allons-nous à hôpital ?
+日 A: びょういんへ どう いく？
+韓 A: 병원에 어떻게 가?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 坐 bus 10 去。
+英 A: We take bus 10.
+法 A: On prend le bus 10.
+日 A: bus 10に のる。
+韓 A: 10번 버스를 타.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 20 分鐘。
+英 A: 20 minutes.
+法 A: 20 minutes.
+日 A: 20ぷん。
+韓 A: 20분.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去park。
+英 B: Ok. We go to park by car.
+法 B: Ok. Nous allons à parc en voiture.
+日 B: いいよ。 車で parkへ いこう。
+韓 B: 그래. 차로 공원에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 坐 bus 13 去。
+英 B: We take bus 13.
+法 B: On prend le bus 13.
+日 B: bus 13に のる。
+韓 B: 13번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 30 分鐘。
+英 B: 30 minutes.
+法 B: 30 minutes.
+日 B: 30ぷん。
+韓 B: 30분.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去車站？
+英 A: How do we go to the station?
+法 A: Comment allons-nous à la gare ?
+日 A: えきへ どう いく？
+韓 A: 역에 어떻게 가?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 坐 bus 3 去。
+英 A: We take bus 3.
+法 A: On prend le bus 3.
+日 A: bus 3に のる。
+韓 A: 3번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 20 分鐘。
+英 A: 20 minutes.
+法 A: 20 minutes.
+日 A: 20ぷん。
+韓 A: 20분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 不遠。走 30 分鐘就到。
+英 A: Not far. 30 minutes on foot.
+法 A: Pas loin. 30 minutes à pied.
+日 A: とおくない。 あるいて 30ぷん。
+韓 A: 안 멀어. 걸어서 30분.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 15 分鐘就到。
+英 B: Not far. 15 minutes on foot.
+法 B: Pas loin. 15 minutes à pied.
+日 B: とおくない。 あるいて 15ぷん。
+韓 B: 안 멀어. 걸어서 15분.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 坐 bus 5 去。
+英 A: We take bus 5.
+法 A: On prend le bus 5.
+日 A: bus 5に のる。
+韓 A: 5번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 15 分鐘。
+英 A: 15 minutes.
+法 A: 15 minutes.
+日 A: 15ぷん。
+韓 A: 15분.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 10 分鐘就到。
+英 B: Not far. 10 minutes on foot.
+法 B: Pas loin. 10 minutes à pied.
+日 B: とおくない。 あるいて 10ぷん。
+韓 B: 안 멀어. 걸어서 10분.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 坐 bus 22 去。
+英 A: We take bus 22.
+法 A: On prend le bus 22.
+日 A: bus 22に のる。
+韓 A: 22번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 20 分鐘。
+英 A: 20 minutes.
+法 A: 20 minutes.
+日 A: 20ぷん。
+韓 A: 20분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去學校？
+英 A: How do we go to school?
+法 A: Comment allons-nous à école ?
+日 A: がっこうへ どう いく？
+韓 A: 학교에 어떻게 가?
+
+中 B: 坐 bus 9 去。
+英 B: We take bus 9.
+法 B: On prend le bus 9.
+日 B: bus 9に のる。
+韓 B: 9번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 40 分鐘。
+英 A: 40 minutes.
+法 A: 40 minutes.
+日 A: 40ぷん。
+韓 A: 40분.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 不遠。走 40 分鐘就到。
+英 A: Not far. 40 minutes on foot.
+法 A: Pas loin. 40 minutes à pied.
+日 A: とおくない。 あるいて 40ぷん。
+韓 A: 안 멀어. 걸어서 40분.
+
+中 B: 好。我們走吧。
+英 B: Ok. We go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去學校。
+英 B: Ok. We go to school by car.
+法 B: Ok. Nous allons à école en voiture.
+日 B: いいよ。 車で がっこうへ いこう。
+韓 B: 그래. 차로 학교에 가자.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去restaurant？
+英 A: How do we go to the restaurant?
+法 A: Comment allons-nous à le restaurant ?
+日 A: レストランへ どう いく？
+韓 A: 식당에 어떻게 가?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 坐 bus 10 去。
+英 A: We take bus 10.
+法 A: On prend le bus 10.
+日 A: bus 10に のる。
+韓 A: 10번 버스를 타.
+
+中 B: 要坐多長時間？
+英 B: How long does it take?
+法 B: Ça prend combien de temps ?
+日 B: どのくらい かかる？
+韓 B: 얼마나 걸려?
+
+中 A: 20 分鐘。
+英 A: 20 minutes.
+法 A: 20 minutes.
+日 A: 20ぷん。
+韓 A: 20분.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 3 去。
+英 B: We take bus 3.
+法 B: On prend le bus 3.
+日 B: bus 3に のる。
+韓 B: 3번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 20 分鐘。
+英 B: 20 minutes.
+法 B: 20 minutes.
+日 B: 20ぷん。
+韓 B: 20분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我們坐車去學校。
+英 A: Ok. We go to school by car.
+法 A: Ok. Nous allons à école en voiture.
+日 A: いいよ。 車で がっこうへ いこう。
+韓 A: 그래. 차로 학교에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 不遠。走 15 分鐘就到。
+英 A: Not far. 15 minutes on foot.
+法 A: Pas loin. 15 minutes à pied.
+日 A: とおくない。 あるいて 15ぷん。
+韓 A: 안 멀어. 걸어서 15분.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去market。
+英 B: Ok. We go to market by car.
+法 B: Ok. Nous allons à marché en voiture.
+日 B: いいよ。 車で marketへ いこう。
+韓 B: 그래. 차로 시장에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 20 分鐘就到。
+英 B: Not far. 20 minutes on foot.
+法 B: Pas loin. 20 minutes à pied.
+日 B: とおくない。 あるいて 20ぷん。
+韓 B: 안 멀어. 걸어서 20분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去park？
+英 A: How do we go to park?
+法 A: Comment allons-nous à parc ?
+日 A: parkへ どう いく？
+韓 A: 공원에 어떻게 가?
+
+中 B: 坐 bus 13 去。
+英 B: We take bus 13.
+法 B: On prend le bus 13.
+日 B: bus 13に のる。
+韓 B: 13번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 15 分鐘。
+英 B: 15 minutes.
+法 B: 15 minutes.
+日 B: 15ぷん。
+韓 B: 15분.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 6 去。
+英 B: We take bus 6.
+法 B: On prend le bus 6.
+日 B: bus 6に のる。
+韓 B: 6번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 10 分鐘。
+英 A: 10 minutes.
+法 A: 10 minutes.
+日 A: 10ぷん。
+韓 A: 10분.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 40 分鐘就到。
+英 B: Not far. 40 minutes on foot.
+法 B: Pas loin. 40 minutes à pied.
+日 B: とおくない。 あるいて 40ぷん。
+韓 B: 안 멀어. 걸어서 40분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 車站遠嗎？
+英 A: Is the station far?
+法 A: La gare est loin ?
+日 A: えきは とおい？
+韓 A: 역은 멀어?
+
+中 B: 不遠。走 30 分鐘就到。
+英 B: Not far. 30 minutes on foot.
+法 B: Pas loin. 30 minutes à pied.
+日 B: とおくない。 あるいて 30ぷん。
+韓 B: 안 멀어. 걸어서 30분.
+
+中 A: 好。我們走吧。
+英 A: Ok. We go.
+法 A: Ok. Allons-y.
+日 A: いいよ。 いこう。
+韓 A: 그래. 가자.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我爸爸開車來了。
+英 A: My father comes by car.
+法 A: Mon père vient en voiture.
+日 A: おとうさんが 車で きた。
+韓 A: 아빠가 차로 왔어.
+
+中 B: 好。我們坐車去店。
+英 B: Ok. We go to the shop by car.
+法 B: Ok. Nous allons à la boutique en voiture.
+日 B: いいよ。 車で みせへ いこう。
+韓 B: 그래. 차로 가게에 가자.
+
+
+# mini-x 合成多語對話：transport（由 llm/generate_corpus.py 產生）
+
+中 A: 我們怎麼去market？
+英 A: How do we go to market?
+法 A: Comment allons-nous à marché ?
+日 A: marketへ どう いく？
+韓 A: 시장에 어떻게 가?
+
+中 B: 坐 bus 5 去。
+英 B: We take bus 5.
+法 B: On prend le bus 5.
+日 B: bus 5に のる。
+韓 B: 5번 버스를 타.
+
+中 A: 要坐多長時間？
+英 A: How long does it take?
+法 A: Ça prend combien de temps ?
+日 A: どのくらい かかる？
+韓 A: 얼마나 걸려?
+
+中 B: 5 分鐘。
+英 B: 5 minutes.
+法 B: 5 minutes.
+日 B: 5ぷん。
+韓 B: 5분.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?

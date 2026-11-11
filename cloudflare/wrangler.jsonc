@@ -1,0 +1,25 @@
+// wrangler 設定：https://developers.cloudflare.com/workers/wrangler/configuration/
+// 本機測試：rucloud dev cloudflare --d1-init DB=db/schema.sql
+// 部署前把 database_id 換成真的 D1 id（npx wrangler d1 create mini-lang-db）
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mini-lang-web",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-11-01",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    // /api/* 一定先進 Worker，其他路徑有檔案就直接回靜態檔案
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "mini-lang-db",
+      "database_id": "7f768cf9-a03a-48d3-9895-e6ac9e7f003a"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}

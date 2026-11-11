@@ -1,0 +1,8194 @@
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有肉和bread。
+英 A: There are meat and bread.
+法 A: Il y a de la viande et du pain.
+日 A: にくと パンが ある。
+韓 A: 고기랑 빵 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有bread和魚。
+英 B: There are bread and fish.
+法 B: Il y a du pain et du poisson.
+日 B: パンと さかなが ある。
+韓 B: 빵랑 물고기 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和水果。
+英 A: There are cake and fruit.
+法 A: Il y a du gâteau et des fruits.
+日 A: ケーキと くだものが ある。
+韓 A: 케이크랑 과일 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和魚。
+英 A: There are water and fish.
+法 A: Il y a de l'eau et du poisson.
+日 A: みずと さかなが ある。
+韓 A: 물랑 물고기 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有魚和菜。
+英 A: There are fish and food.
+法 A: Il y a du poisson et de la nourriture.
+日 A: さかなと やさいが ある。
+韓 A: 물고기랑 요리 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有蛋和飯。
+英 A: There are eggs and rice.
+法 A: Il y a des œufs et du riz.
+日 A: たまごと ごはんが ある。
+韓 A: 달걀랑 밥 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有魚和飯。
+英 A: There are fish and rice.
+法 A: Il y a du poisson et du riz.
+日 A: さかなと ごはんが ある。
+韓 A: 물고기랑 밥 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有飯和魚。
+英 A: There are rice and fish.
+法 A: Il y a du riz et du poisson.
+日 A: ごはんと さかなが ある。
+韓 A: 밥랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有水果和魚。
+英 B: There are fruit and fish.
+法 B: Il y a des fruits et du poisson.
+日 B: くだものと さかなが ある。
+韓 B: 과일랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水果和茶。
+英 A: There are fruit and tea.
+法 A: Il y a des fruits et du thé.
+日 A: くだものと おちゃが ある。
+韓 A: 과일랑 차 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有茶和魚。
+英 A: There are tea and fish.
+法 A: Il y a du thé et du poisson.
+日 A: おちゃと さかなが ある。
+韓 A: 차랑 물고기 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有bread和cake。
+英 B: There are bread and cake.
+法 B: Il y a du pain et du gâteau.
+日 B: パンと ケーキが ある。
+韓 B: 빵랑 케이크 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有 2 個人。
+英 A: We are 2 people.
+法 A: Nous sommes 2.
+日 A: 2にん いる。
+韓 A: 2명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有飯和魚。
+英 A: There are rice and fish.
+法 A: Il y a du riz et du poisson.
+日 A: ごはんと さかなが ある。
+韓 A: 밥랑 물고기 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有cake和肉。
+英 A: There are cake and meat.
+法 A: Il y a du gâteau et de la viande.
+日 A: ケーキと にくが ある。
+韓 A: 케이크랑 고기 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有 2 個人。
+英 A: We are 2 people.
+法 A: Nous sommes 2.
+日 A: 2にん いる。
+韓 A: 2명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有肉和水。
+英 B: There are meat and water.
+法 B: Il y a de la viande et de l'eau.
+日 B: にくと みずが ある。
+韓 B: 고기랑 물 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有魚和魚。
+英 A: There are fish and fish.
+法 A: Il y a du poisson et du poisson.
+日 A: さかなと さかなが ある。
+韓 A: 물고기랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有 4 個人。
+英 A: We are 4 people.
+法 A: Nous sommes 4.
+日 A: 4にん いる。
+韓 A: 4명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水果和bread。
+英 A: There are fruit and bread.
+法 A: Il y a des fruits et du pain.
+日 A: くだものと パンが ある。
+韓 A: 과일랑 빵 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有飯和蛋。
+英 B: There are rice and eggs.
+法 B: Il y a du riz et des œufs.
+日 B: ごはんと たまごが ある。
+韓 B: 밥랑 달걀 있어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有茶和茶。
+英 B: There are tea and tea.
+法 B: Il y a du thé et du thé.
+日 B: おちゃと おちゃが ある。
+韓 B: 차랑 차 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有水和魚。
+英 A: There are water and fish.
+法 A: Il y a de l'eau et du poisson.
+日 A: みずと さかなが ある。
+韓 A: 물랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水果和蛋。
+英 A: There are fruit and eggs.
+法 A: Il y a des fruits et des œufs.
+日 A: くだものと たまごが ある。
+韓 A: 과일랑 달걀 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有 4 個人。
+英 A: We are 4 people.
+法 A: Nous sommes 4.
+日 A: 4にん いる。
+韓 A: 4명이야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有菜和茶。
+英 A: There are food and tea.
+法 A: Il y a de la nourriture et du thé.
+日 A: やさいと おちゃが ある。
+韓 A: 요리랑 차 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有茶和蛋。
+英 A: There are tea and eggs.
+法 A: Il y a du thé et des œufs.
+日 A: おちゃと たまごが ある。
+韓 A: 차랑 달걀 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有魚和水。
+英 B: There are fish and water.
+法 B: Il y a du poisson et de l'eau.
+日 B: さかなと みずが ある。
+韓 B: 물고기랑 물 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和bread。
+英 A: There are water and bread.
+法 A: Il y a de l'eau et du pain.
+日 A: みずと パンが ある。
+韓 A: 물랑 빵 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和茶。
+英 A: There are cake and tea.
+法 A: Il y a du gâteau et du thé.
+日 A: ケーキと おちゃが ある。
+韓 A: 케이크랑 차 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有肉和飯。
+英 B: There are meat and rice.
+法 B: Il y a de la viande et du riz.
+日 B: にくと ごはんが ある。
+韓 B: 고기랑 밥 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有魚和cake。
+英 B: There are fish and cake.
+法 B: Il y a du poisson et du gâteau.
+日 B: さかなと ケーキが ある。
+韓 B: 물고기랑 케이크 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和cake。
+英 A: There are cake and cake.
+法 A: Il y a du gâteau et du gâteau.
+日 A: ケーキと ケーキが ある。
+韓 A: 케이크랑 케이크 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和茶。
+英 A: There are cake and tea.
+法 A: Il y a du gâteau et du thé.
+日 A: ケーキと おちゃが ある。
+韓 A: 케이크랑 차 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有蛋和水果。
+英 A: There are eggs and fruit.
+法 A: Il y a des œufs et des fruits.
+日 A: たまごと くだものが ある。
+韓 A: 달걀랑 과일 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有 4 個人。
+英 A: We are 4 people.
+法 A: Nous sommes 4.
+日 A: 4にん いる。
+韓 A: 4명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有菜和bread。
+英 A: There are food and bread.
+法 A: Il y a de la nourriture et du pain.
+日 A: やさいと パンが ある。
+韓 A: 요리랑 빵 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有bread和水果。
+英 A: There are bread and fruit.
+法 A: Il y a du pain et des fruits.
+日 A: パンと くだものが ある。
+韓 A: 빵랑 과일 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有水果和飯。
+英 A: There are fruit and rice.
+法 A: Il y a des fruits et du riz.
+日 A: くだものと ごはんが ある。
+韓 A: 과일랑 밥 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有飯和茶。
+英 B: There are rice and tea.
+法 B: Il y a du riz et du thé.
+日 B: ごはんと おちゃが ある。
+韓 B: 밥랑 차 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有茶和魚。
+英 B: There are tea and fish.
+法 B: Il y a du thé et du poisson.
+日 B: おちゃと さかなが ある。
+韓 B: 차랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有cake和肉。
+英 B: There are cake and meat.
+法 B: Il y a du gâteau et de la viande.
+日 B: ケーキと にくが ある。
+韓 B: 케이크랑 고기 있어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有cake和cake。
+英 B: There are cake and cake.
+法 B: Il y a du gâteau et du gâteau.
+日 B: ケーキと ケーキが ある。
+韓 B: 케이크랑 케이크 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有魚和水。
+英 A: There are fish and water.
+法 A: Il y a du poisson et de l'eau.
+日 A: さかなと みずが ある。
+韓 A: 물고기랑 물 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有蛋和飯。
+英 B: There are eggs and rice.
+法 B: Il y a des œufs et du riz.
+日 B: たまごと ごはんが ある。
+韓 B: 달걀랑 밥 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 有水和蛋。
+英 B: There are water and eggs.
+法 B: Il y a de l'eau et des œufs.
+日 B: みずと たまごが ある。
+韓 B: 물랑 달걀 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水果和茶。
+英 A: There are fruit and tea.
+法 A: Il y a des fruits et du thé.
+日 A: くだものと おちゃが ある。
+韓 A: 과일랑 차 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有 5 個人。
+英 A: We are 5 people.
+法 A: Nous sommes 5.
+日 A: 5にん いる。
+韓 A: 5명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 有茶和水。
+英 B: There are tea and water.
+法 B: Il y a du thé et de l'eau.
+日 B: おちゃと みずが ある。
+韓 B: 차랑 물 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有肉和茶。
+英 A: There are meat and tea.
+法 A: Il y a de la viande et du thé.
+日 A: にくと おちゃが ある。
+韓 A: 고기랑 차 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有肉和cake。
+英 B: There are meat and cake.
+法 B: Il y a de la viande et du gâteau.
+日 B: にくと ケーキが ある。
+韓 B: 고기랑 케이크 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有bread和水。
+英 A: There are bread and water.
+法 A: Il y a du pain et de l'eau.
+日 A: パンと みずが ある。
+韓 A: 빵랑 물 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有肉和飯。
+英 B: There are meat and rice.
+法 B: Il y a de la viande et du riz.
+日 B: にくと ごはんが ある。
+韓 B: 고기랑 밥 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和水。
+英 A: There are water and water.
+法 A: Il y a de l'eau et de l'eau.
+日 A: みずと みずが ある。
+韓 A: 물랑 물 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有茶和bread。
+英 A: There are tea and bread.
+法 A: Il y a du thé et du pain.
+日 A: おちゃと パンが ある。
+韓 A: 차랑 빵 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有 5 個人。
+英 A: We are 5 people.
+法 A: Nous sommes 5.
+日 A: 5にん いる。
+韓 A: 5명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有菜和水。
+英 B: There are food and water.
+法 B: Il y a de la nourriture et de l'eau.
+日 B: やさいと みずが ある。
+韓 B: 요리랑 물 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有bread和cake。
+英 A: There are bread and cake.
+法 A: Il y a du pain et du gâteau.
+日 A: パンと ケーキが ある。
+韓 A: 빵랑 케이크 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 有水果和飯。
+英 B: There are fruit and rice.
+法 B: Il y a des fruits et du riz.
+日 B: くだものと ごはんが ある。
+韓 B: 과일랑 밥 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有飯和水果。
+英 A: There are rice and fruit.
+法 A: Il y a du riz et des fruits.
+日 A: ごはんと くだものが ある。
+韓 A: 밥랑 과일 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有cake和cake。
+英 B: There are cake and cake.
+法 B: Il y a du gâteau et du gâteau.
+日 B: ケーキと ケーキが ある。
+韓 B: 케이크랑 케이크 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有 2 個人。
+英 A: We are 2 people.
+法 A: Nous sommes 2.
+日 A: 2にん いる。
+韓 A: 2명이야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有cake和水。
+英 B: There are cake and water.
+法 B: Il y a du gâteau et de l'eau.
+日 B: ケーキと みずが ある。
+韓 B: 케이크랑 물 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 有菜和水果。
+英 B: There are food and fruit.
+法 B: Il y a de la nourriture et des fruits.
+日 B: やさいと くだものが ある。
+韓 B: 요리랑 과일 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和飯。
+英 A: There are water and rice.
+法 A: Il y a de l'eau et du riz.
+日 A: みずと ごはんが ある。
+韓 A: 물랑 밥 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和肉。
+英 A: There are cake and meat.
+法 A: Il y a du gâteau et de la viande.
+日 A: ケーキと にくが ある。
+韓 A: 케이크랑 고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 有bread和cake。
+英 B: There are bread and cake.
+法 B: Il y a du pain et du gâteau.
+日 B: パンと ケーキが ある。
+韓 B: 빵랑 케이크 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有茶和bread。
+英 A: There are tea and bread.
+法 A: Il y a du thé et du pain.
+日 A: おちゃと パンが ある。
+韓 A: 차랑 빵 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有cake和魚。
+英 B: There are cake and fish.
+法 B: Il y a du gâteau et du poisson.
+日 B: ケーキと さかなが ある。
+韓 B: 케이크랑 물고기 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有蛋和菜。
+英 A: There are eggs and food.
+法 A: Il y a des œufs et de la nourriture.
+日 A: たまごと やさいが ある。
+韓 A: 달걀랑 요리 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水果和飯。
+英 A: There are fruit and rice.
+法 A: Il y a des fruits et du riz.
+日 A: くだものと ごはんが ある。
+韓 A: 과일랑 밥 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有菜和肉。
+英 A: There are food and meat.
+法 A: Il y a de la nourriture et de la viande.
+日 A: やさいと にくが ある。
+韓 A: 요리랑 고기 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 有菜和水。
+英 B: There are food and water.
+法 B: Il y a de la nourriture et de l'eau.
+日 B: やさいと みずが ある。
+韓 B: 요리랑 물 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 有魚和茶。
+英 B: There are fish and tea.
+法 B: Il y a du poisson et du thé.
+日 B: さかなと おちゃが ある。
+韓 B: 물고기랑 차 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和飯。
+英 A: There are water and rice.
+法 A: Il y a de l'eau et du riz.
+日 A: みずと ごはんが ある。
+韓 A: 물랑 밥 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有菜和水。
+英 B: There are food and water.
+法 B: Il y a de la nourriture et de l'eau.
+日 B: やさいと みずが ある。
+韓 B: 요리랑 물 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有 4 個人。
+英 A: We are 4 people.
+法 A: Nous sommes 4.
+日 A: 4にん いる。
+韓 A: 4명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 5 個人。
+英 A: We are 5 people.
+法 A: Nous sommes 5.
+日 A: 5にん いる。
+韓 A: 5명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 有水和菜。
+英 A: There are water and food.
+法 A: Il y a de l'eau et de la nourriture.
+日 A: みずと やさいが ある。
+韓 A: 물랑 요리 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和飯。
+英 A: There are cake and rice.
+法 A: Il y a du gâteau et du riz.
+日 A: ケーキと ごはんが ある。
+韓 A: 케이크랑 밥 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 有飯和水。
+英 B: There are rice and water.
+法 B: Il y a du riz et de l'eau.
+日 B: ごはんと みずが ある。
+韓 B: 밥랑 물 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有蛋和水果。
+英 B: There are eggs and fruit.
+法 B: Il y a des œufs et des fruits.
+日 B: たまごと くだものが ある。
+韓 B: 달걀랑 과일 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有魚和cake。
+英 A: There are fish and cake.
+法 A: Il y a du poisson et du gâteau.
+日 A: さかなと ケーキが ある。
+韓 A: 물고기랑 케이크 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和cake。
+英 A: There are water and cake.
+法 A: Il y a de l'eau et du gâteau.
+日 A: みずと ケーキが ある。
+韓 A: 물랑 케이크 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 有蛋和菜。
+英 B: There are eggs and food.
+法 B: Il y a des œufs et de la nourriture.
+日 B: たまごと やさいが ある。
+韓 B: 달걀랑 요리 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有 5 個人。
+英 A: We are 5 people.
+法 A: Nous sommes 5.
+日 A: 5にん いる。
+韓 A: 5명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 有bread和bread。
+英 B: There are bread and bread.
+法 B: Il y a du pain et du pain.
+日 B: パンと パンが ある。
+韓 B: 빵랑 빵 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有魚和魚。
+英 A: There are fish and fish.
+法 A: Il y a du poisson et du poisson.
+日 A: さかなと さかなが ある。
+韓 A: 물고기랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有飯和水。
+英 A: There are rice and water.
+法 A: Il y a du riz et de l'eau.
+日 A: ごはんと みずが ある。
+韓 A: 밥랑 물 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 2 個人。
+英 A: We are 2 people.
+法 A: Nous sommes 2.
+日 A: 2にん いる。
+韓 A: 2명이야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有菜和菜。
+英 A: There are food and food.
+法 A: Il y a de la nourriture et de la nourriture.
+日 A: やさいと やさいが ある。
+韓 A: 요리랑 요리 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 有 5 個人。
+英 A: We are 5 people.
+法 A: Nous sommes 5.
+日 A: 5にん いる。
+韓 A: 5명이야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 有cake和水果。
+英 A: There are cake and fruit.
+法 A: Il y a du gâteau et des fruits.
+日 A: ケーキと くだものが ある。
+韓 A: 케이크랑 과일 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有魚和蛋。
+英 B: There are fish and eggs.
+法 B: Il y a du poisson et des œufs.
+日 B: さかなと たまごが ある。
+韓 B: 물고기랑 달걀 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有蛋和魚。
+英 B: There are eggs and fish.
+法 B: Il y a des œufs et du poisson.
+日 B: たまごと さかなが ある。
+韓 B: 달걀랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 有魚和bread。
+英 B: There are fish and bread.
+法 B: Il y a du poisson et du pain.
+日 B: さかなと パンが ある。
+韓 B: 물고기랑 빵 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有水果和水果。
+英 B: There are fruit and fruit.
+法 B: Il y a des fruits et des fruits.
+日 B: くだものと くだものが ある。
+韓 B: 과일랑 과일 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和cake。
+英 A: There are cake and cake.
+法 A: Il y a du gâteau et du gâteau.
+日 A: ケーキと ケーキが ある。
+韓 A: 케이크랑 케이크 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 有水和魚。
+英 B: There are water and fish.
+法 B: Il y a de l'eau et du poisson.
+日 B: みずと さかなが ある。
+韓 B: 물랑 물고기 있어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 2 個人。
+英 B: We are 2 people.
+法 B: Nous sommes 2.
+日 B: 2にん いる。
+韓 B: 2명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和bread。
+英 A: There are water and bread.
+法 A: Il y a de l'eau et du pain.
+日 A: みずと パンが ある。
+韓 A: 물랑 빵 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有魚和蛋。
+英 A: There are fish and eggs.
+法 A: Il y a du poisson et des œufs.
+日 A: さかなと たまごが ある。
+韓 A: 물고기랑 달걀 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 3 個人。
+英 B: We are 3 people.
+法 B: Nous sommes 3.
+日 B: 3にん いる。
+韓 B: 3명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 2 個人。
+英 A: We are 2 people.
+法 A: Nous sommes 2.
+日 A: 2にん いる。
+韓 A: 2명이야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和cake。
+英 A: There are water and cake.
+法 A: Il y a de l'eau et du gâteau.
+日 A: みずと ケーキが ある。
+韓 A: 물랑 케이크 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有菜和肉。
+英 A: There are food and meat.
+法 A: Il y a de la nourriture et de la viande.
+日 A: やさいと にくが ある。
+韓 A: 요리랑 고기 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有魚和水果。
+英 B: There are fish and fruit.
+法 B: Il y a du poisson et des fruits.
+日 B: さかなと くだものが ある。
+韓 B: 물고기랑 과일 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 有 5 個人。
+英 A: We are 5 people.
+法 A: Nous sommes 5.
+日 A: 5にん いる。
+韓 A: 5명이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有蛋和茶。
+英 A: There are eggs and tea.
+法 A: Il y a des œufs et du thé.
+日 A: たまごと おちゃが ある。
+韓 A: 달걀랑 차 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有蛋和肉。
+英 A: There are eggs and meat.
+法 A: Il y a des œufs et de la viande.
+日 A: たまごと にくが ある。
+韓 A: 달걀랑 고기 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 2 個人。
+英 A: We are 2 people.
+法 A: Nous sommes 2.
+日 A: 2にん いる。
+韓 A: 2명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 有菜和cake。
+英 A: There are food and cake.
+法 A: Il y a de la nourriture et du gâteau.
+日 A: やさいと ケーキが ある。
+韓 A: 요리랑 케이크 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 有 3 個人。
+英 A: We are 3 people.
+法 A: Nous sommes 3.
+日 A: 3にん いる。
+韓 A: 3명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有肉和魚。
+英 A: There are meat and fish.
+法 A: Il y a de la viande et du poisson.
+日 A: にくと さかなが ある。
+韓 A: 고기랑 물고기 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有魚和菜。
+英 B: There are fish and food.
+法 B: Il y a du poisson et de la nourriture.
+日 B: さかなと やさいが ある。
+韓 B: 물고기랑 요리 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和蛋。
+英 A: There are water and eggs.
+法 A: Il y a de l'eau et des œufs.
+日 A: みずと たまごが ある。
+韓 A: 물랑 달걀 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水果和水。
+英 A: There are fruit and water.
+法 A: Il y a des fruits et de l'eau.
+日 A: くだものと みずが ある。
+韓 A: 과일랑 물 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 有 4 個人。
+英 A: We are 4 people.
+法 A: Nous sommes 4.
+日 A: 4にん いる。
+韓 A: 4명이야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 真好。今天有什麼？
+英 A: Very good. What is there today?
+法 A: Très bien. Qu'y a-t-il aujourd'hui ?
+日 A: いいね。 きょうは なに？
+韓 A: 좋다. 오늘 뭐야?
+
+中 B: 有飯和魚。
+英 B: There are rice and fish.
+法 B: Il y a du riz et du poisson.
+日 B: ごはんと さかなが ある。
+韓 B: 밥랑 물고기 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和蛋。
+英 A: There are cake and eggs.
+法 A: Il y a du gâteau et des œufs.
+日 A: ケーキと たまごが ある。
+韓 A: 케이크랑 달걀 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 有bread和蛋。
+英 B: There are bread and eggs.
+法 B: Il y a du pain et des œufs.
+日 B: パンと たまごが ある。
+韓 B: 빵랑 달걀 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有cake和茶。
+英 A: There are cake and tea.
+法 A: Il y a du gâteau et du thé.
+日 A: ケーキと おちゃが ある。
+韓 A: 케이크랑 차 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 4 個人。
+英 B: We are 4 people.
+法 B: Nous sommes 4.
+日 B: 4にん いる。
+韓 B: 4명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 6 個人。
+英 B: We are 6 people.
+法 B: Nous sommes 6.
+日 B: 6にん いる。
+韓 B: 6명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 有 6 個人。
+英 A: We are 6 people.
+法 A: Nous sommes 6.
+日 A: 6にん いる。
+韓 A: 6명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有魚和水。
+英 A: There are fish and water.
+法 A: Il y a du poisson et de l'eau.
+日 A: さかなと みずが ある。
+韓 A: 물고기랑 물 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有bread和菜。
+英 A: There are bread and food.
+法 A: Il y a du pain et de la nourriture.
+日 A: パンと やさいが ある。
+韓 A: 빵랑 요리 있어.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 有 4 個人。
+英 A: We are 4 people.
+法 A: Nous sommes 4.
+日 A: 4にん いる。
+韓 A: 4명이야.
+
+中 B: 你哥哥在做什麼？
+英 B: What does your brother do?
+法 B: Que fait ton grand frère ?
+日 B: おにいさんは なにを して いる？
+韓 B: 너 형은 뭐 해?
+
+中 A: 他在學校教書。
+英 A: He teaches at school.
+法 A: Il enseigne à l'école.
+日 A: がっこうで おしえて いる。
+韓 A: 학교에서 가르쳐.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 你家人多嗎？
+英 A: Is your family big?
+法 A: Ta famille est grande ?
+日 A: かぞくは おおい？
+韓 A: 네 가족은 많아?
+
+中 B: 有 5 個人。
+英 B: We are 5 people.
+法 B: Nous sommes 5.
+日 B: 5にん いる。
+韓 B: 5명이야.
+
+中 A: 你哥哥在做什麼？
+英 A: What does your brother do?
+法 A: Que fait ton grand frère ?
+日 A: おにいさんは なにを して いる？
+韓 A: 너 형은 뭐 해?
+
+中 B: 他在學校教書。
+英 B: He teaches at school.
+法 B: Il enseigne à l'école.
+日 B: がっこうで おしえて いる。
+韓 B: 학교에서 가르쳐.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我也來幫。
+英 A: Ok. I come to help too.
+法 A: Ok. Je viens aider aussi.
+日 A: いいよ。 わたしも たすける。
+韓 A: 그래. 나도 도울게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 媽媽在做飯。
+英 A: Mother is cooking.
+法 A: Maman cuisine.
+日 A: おかあさんが ごはんを つくって いる。
+韓 A: 엄마가 밥을 짓고 있어.
+
+中 B: 真好。今天有什麼？
+英 B: Very good. What is there today?
+法 B: Très bien. Qu'y a-t-il aujourd'hui ?
+日 B: いいね。 きょうは なに？
+韓 B: 좋다. 오늘 뭐야?
+
+中 A: 有水和茶。
+英 A: There are water and tea.
+法 A: Il y a de l'eau et du thé.
+日 A: みずと おちゃが ある。
+韓 A: 물랑 차 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：family（由 llm/generate_corpus.py 產生）
+
+中 A: 我要幫媽媽洗衣服。
+英 A: I help mother wash clothes.
+法 A: J'aide maman à laver les vêtements.
+日 A: おかあさんの ふくあらいを たすける。
+韓 A: 나는 엄마 도와서 빨래할 거야.
+
+中 B: 好。我也來幫。
+英 B: Ok. I come to help too.
+法 B: Ok. Je viens aider aussi.
+日 B: いいよ。 わたしも たすける。
+韓 B: 그래. 나도 도울게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.

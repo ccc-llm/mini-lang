@@ -1,0 +1,867 @@
+# mini-x 多語對話：對話
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/dialog.txt 相同。
+
+中 A: 你好。
+英 A: Hello.
+法 A: Bonjour.
+日 A: こんにちは。
+韓 A: 안녕.
+
+中 B: 你好，A。今天天氣怎樣？
+英 B: Hello, A. How is today?
+法 B: Bonjour, A. Comment est aujourd'hui ?
+日 B: こんにちは、 あなた。 きょうは どう？
+韓 B: 안녕, 너. 오늘 어때?
+
+中 A: 今天很熱。我想去外邊走一走。
+英 A: Today is hot. I want to walk outside.
+法 A: Aujourd'hui il fait chaud. Je veux marcher dehors.
+日 A: きょうは あつい。 そとへ あるきたい。
+韓 A: 오늘은 뜨거워. 밖에서 걷고 싶어.
+
+中 B: 現在 12 點，天很熱。我們在裡邊坐坐吧。
+英 B: Now it is 12, the day is hot. Let us sit inside.
+法 B: Il est 12 heures, il fait chaud. Asseyons-nous à l'intérieur.
+日 B: いま 12じだ、 てんは あつい。 なかに すんで しましょう。
+韓 B: 지금 12시야, 날이 뜨거워. 안에 앉아 있자.
+
+中 A: 好。你昨天做什麼？
+英 A: Ok. What did you do yesterday?
+法 A: Ok. Qu'as-tu fait hier ?
+日 A: いいよ。 きのう なにを した？
+韓 A: 그래. 어제 뭐 했어?
+
+中 B: 昨天我在家寫書，寫了 3 個小時。
+英 B: Yesterday I wrote books at home for 3 hours.
+法 B: Hier j'ai écrit des livres à la maison pendant 3 heures.
+日 B: きのう うちで ほんを 3じかん かいた。
+韓 B: 어제 집에서 3시간 동안 책을 썼어.
+
+中 A: 你寫什麼書？
+英 A: What book do you write?
+法 A: Quel livre écris-tu ?
+日 A: なにの ほんを かく？
+韓 A: 어떤 책을 써?
+
+中 B: 數學和物理的書。書裡有很多畫和詞。
+英 B: A book of math and physics. The book has many pictures and words.
+法 B: Un livre de mathématiques et de physique. Il y a beaucoup d'images et de mots.
+日 B: すうがくと ぶつりくの ほん。 ほんには えと ことばが たくさん ある。
+韓 B: 수학과 물리 책이야. 책에 그림과 말이 많아.
+
+中 A: 我喜歡數學。這書難嗎？
+英 A: I like math. Is this book hard?
+法 A: J'aime les mathématiques. Ce livre est-il difficile ?
+日 A: わたしは すうがくが すきだ。 この ほんは むずかしい？
+韓 A: 나는 수학을 좋아해. 이 책은 어려워?
+
+中 B: 有點難。有幾次我不懂，就去問人。
+英 B: It is a little hard. Some times I do not know, so I ask people.
+法 B: Un peu difficile. Quelques fois je ne sais pas, alors je demande aux gens.
+日 B: すこし むずかしい。 ときどき わからないから、 人に きく。
+韓 B: 조금 어려워. 가끔 몰라서 사람에게 물어.
+
+中 A: 我也是。我很多次這樣。不懂的時候，就問哥哥和姐姐。
+英 A: Me too. I do this many times. When I do not know, I ask big brother and big sister.
+法 A: Moi aussi. Je fais cela souvent. Quand je ne sais pas, je demande à mon grand frère et ma grande sœur.
+日 A: わたしも そう。 よく そう する。 わからないとき、 おにいさんと おねえさんに きく。
+韓 A: 나도 그래. 자주 그래. 모르면 형한테 누나한테 물어.
+
+中 B: 你哥哥懂很多嗎？
+英 B: Does your big brother know a lot?
+法 B: Ton grand frère sait-il beaucoup ?
+日 B: おにいさんは たくさん わかる？
+韓 B: 형은 많이 아는 거야?
+
+中 A: 他懂數學，也懂 chemistry。他現在在大學裡學。
+英 A: He knows math and chemistry too. He studies at the university now.
+法 A: Il sait les mathématiques et la chimie aussi. Il étudie à l'université maintenant.
+日 A: かれは すうがくと chemistryも わかる。 いま だいがくで べんきょう している。
+韓 A: 그는 수학과 chemistry를 알아. 지금 대학교에서 공부해.
+
+中 B: 那很好。你以後也要去大學嗎？
+英 B: That is good. Will you go to the university too?
+法 B: C'est bien. Vas-tu aussi aller à l'université ?
+日 B: それは いい。 あなたは あとで だいがくへ いく？
+韓 B: 좋아. 너도 나중에 대학교에 갈 거야?
+
+中 A: 我想。我最喜歡電腦和飛機。我想做一個會飛的東西。
+英 A: I want to. I like computer and plane most. I want to make a thing that can fly.
+法 A: Je veux. J'aime surtout l'ordinateur et l'avion. Je veux faire une chose qui vole.
+日 A: わたしは そう したい。 computerと ひこうきを いちばん すきだ。 とぶ ものを 1 つ つくりたい。
+韓 A: 나도. computer랑 비행기를 제일 좋아해. 나는 날 수 있는 걸 만들고 싶어.
+
+中 B: 那要很多時間，很多錢。
+英 B: That needs much time and much money.
+法 B: Cela demande beaucoup d'heures et beaucoup d'argent.
+日 B: それには たくさんの じかんと おかねが ひつようだ。
+韓 B: 그건 시간이 많이 필요하고 돈도 많이 필요해.
+
+中 A: 是很難。不過我 12 歲，還有 3 年。
+英 A: It is hard. But I am 12, I have 3 more years.
+法 A: C'est difficile. Mais j'ai 12 ans, j'ai encore 3 ans.
+日 A: むずかしい。 けれど わたしは 12さいで、 あと 3ねん ある。
+韓 A: 어려워. 하지만 나는 12살이고, 3년 남았어.
+
+中 B: 你先做一個小的，一個可以動的東西。
+英 B: First make a small one, a thing that can move.
+法 B: Fais d'abord un petit, une chose qui peut bouger.
+日 B: まず ちいさい ものを 1 つ、 うごける ものを つくりな。
+韓 B: 먼저 작은 걸 하나, 움직일 수 있는 걸 만들어.
+
+中 A: 好想法。
+英 A: Good idea.
+法 A: Bonne idée.
+日 A: いい かんがえだ。
+韓 A: 좋은 생각이야.
+
+中 B: 你媽媽今天來嗎？
+英 B: Does your mother come today?
+法 B: Ta mère vient-elle aujourd'hui ?
+日 B: おかあさんは きょう くる？
+韓 B: 엄마 오늘 와?
+
+中 A: 媽媽今天在店裡工作。媽媽在店裡賣衣服和菜。
+英 A: Mother works in the shop today. Mother sells clothes and food in the shop.
+法 A: Maman travaille à la boutique aujourd'hui. Elle vend des vêtements et de la nourriture à la boutique.
+日 A: おかあさんは きょう みせで はたらいて いる。 おかあさんは みせで 服と やさいを うる。
+韓 A: 엄마는 오늘 가게에서 일해. 엄마는 가게에서 옷하고 밥을 팔아.
+
+中 B: 你爸爸呢？
+英 B: What about your father?
+法 B: Et ton père ?
+日 B: おとうさんは？
+韓 B: 아빠는?
+
+中 A: 爸爸在 factory 做車。他很忙，每天早出晚回。
+英 A: Father makes cars at factory. He is very busy, he goes out early and comes back late every day.
+法 A: Père fait des voitures à la factory. Il est très occupé, il part tôt et revient tard chaque jour.
+日 A: おとうさんは factoryで くるまを つくる。 かれは とても いそがしくて、 まいにち はやく いって おそく もどる。
+韓 A: 아빠는 factory에서 차를 만들어. 아빠는 너무 바빠서 매일 일찍 나가 늦게 와.
+
+中 B: 你今天中午吃什麼？
+英 B: What do you eat at 12 today?
+法 B: Que manges-tu à 12 heures aujourd'hui ?
+日 B: きょうの 12じに なにを たべる？
+韓 B: 오늘 12시에 뭐 먹어?
+
+中 A: 媽媽做飯。媽媽做的魚和肉都很好吃。
+英 A: Mother cooks. The fish and meat mother makes are very good.
+法 A: Maman cuisine. Le poisson et la viande que maman fait sont très bons.
+日 A: おかあさんが ごはんを つくる。 おかあさんの さかなと にくは とても おいしい。
+韓 A: 엄마가 밥을 해. 엄마가 만든 물고기고 고기는 아주 맛있어.
+
+中 B: 我中午吃飯和菜。
+英 B: At 12 I eat rice and food.
+法 B: À 12 heures je mange du riz et de la nourriture.
+日 B: 12じに ごはんを やさいを たべる。
+韓 B: 12시에 밥과 요리를 먹어.
+
+中 A: 你會做飯？
+英 A: Can you cook?
+法 A: Tu sais cuisiner ?
+日 A: ごはんを つくる ことが できる？
+韓 A: 밥을 할 줄 알아?
+
+中 B: 我會做雞蛋，也會做茶。我只會一點。
+英 B: I can make eggs and tea. I can only a little.
+法 B: Je sais faire des œufs et du thé. Je sais très peu.
+日 B: たまごと ちゃは つくる ことが できる。 わたしは すこししか できない。
+韓 B: 나는 달걀하고 차를 할 수 있어. 나는 조금밖에 못해.
+
+中 A: 我只會做飯。
+英 A: I can only cook.
+法 A: Je sais seulement cuisiner.
+日 A: わたしは ごはんを つくる ことだけ できる。
+韓 A: 나는 밥만 할 수 있어.
+
+中 B: 那也很好。
+英 B: That is also good.
+法 B: C'est bien aussi.
+日 B: それで いい。
+韓 B: 그것도 좋아.
+
+中 A: 你今天下午有什麼事？
+英 A: What do you have this afternoon?
+法 A: Qu'as-tu cet après-midi ?
+日 A: きょうの ごごに なにが ある？
+韓 A: 오늘 오후에 뭐가 있어?
+
+中 B: 下午我要去醫生那裡。我有點病，醫生給我 medicine。
+英 B: This afternoon I go to the doctor. I am a little sick, the doctor gives me medicine.
+法 B: Cet après-midi, je vais chez le médecin. Je suis un peu malade, le médecin me donne un médicament.
+日 B: ごごに いしゃに いく。 わたしは すこし びょうきだ、 いしゃが medicineを くれる。
+韓 B: 오후에 의사에게 갈 거야. 나는 조금 아파서 의사가 medicine을 줘.
+
+中 A: 那你要早點去。多喝水，多睡覺。
+英 A: Then you must go early. Drink much water, sleep much.
+法 A: Alors tu dois y aller tôt. Bois beaucoup d'eau, dors beaucoup.
+日 A: じゃ はやく いって。 水を たくさん のみ、 よく ねな。
+韓 A: 그럼 일찍 가. 물 많이 마시고, 많이 자.
+
+中 B: 謝謝你。你說得對。我去醫生那裡拿 medicine。
+英 B: Thank you. You are right. I go to the doctor to get medicine.
+法 B: Merci. Tu as raison. Je vais chez le médecin pour prendre un médicament.
+日 B: ありがとう。 あなたは ただしい。 いしゃに medicineを とりに いく。
+韓 B: 고마워. 네 말이 맞아. 의사에게 medicine을 받으러 갈게.
+
+中 A: 我和你一起去。
+英 A: I go with you.
+法 A: Je vais avec toi.
+日 A: わたしは あなたと いっしょに いく。
+韓 A: 나도 너랑 같이 갈게.
+
+中 B: 不用了，我一個人可以。醫生那裡很近，走 10 分鐘就到。
+英 B: No need, I can go alone. The doctor is near, 10 minutes by walk.
+法 B: Non, je peux y aller seul. Le médecin est tout près, 10 minutes à pied.
+日 B: いいえ、 ひとりで いい。 いしゃは ちかい、 10ぷん あるけば すぐ つく。
+韓 B: 아니, 나 혼자 갈 수 있어. 의사는 가까워, 10분 걸으면 도착해.
+
+中 A: 回來以後，和我說醫生怎麼說。
+英 A: When you come back, tell me what the doctor says.
+法 A: Quand tu reviens, dis-moi ce que dit le médecin.
+日 A: かえってから、 いしゃが なんといったか 教えて ください。
+韓 A: 돌아오면 의사가 뭐라고 했는지 말해 줘.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我想問你 1 個問題。
+英 A: I want to ask you 1 question.
+法 A: Je veux te poser 1 question.
+日 A: わたしから 1つ もんだいを ききたい。
+韓 A: 나 너한테 질문 1개 하고 싶어.
+
+中 B: 問吧。
+英 B: Ask.
+法 B: Demande.
+日 B: きいて。
+韓 B: 물어봐.
+
+中 A: 你怕難嗎？
+英 A: Do you fear hard things?
+法 A: As-tu peur des choses difficiles ?
+日 A: むずかしい ことが こわいか？
+韓 A: 어려운 거 무서워?
+
+中 B: 我不怕。我最怕的是做不完事。
+英 B: I am not afraid. What I fear most is not finishing the work.
+法 B: Je n'ai pas peur. Ce que je crains le plus, c'est de ne pas finir le travail.
+日 B: わたしは こわくない。 いちばん こわいのは しごとを やりきれない ことだ。
+韓 B: 나는 안 무서워. 내가 제일 무서운 건 일을 끝내지 못하는 거야.
+
+中 A: 我也是。所以我每天早上 7 點就起來寫書。
+英 A: Me too. So I stand up at 7 every morning and write books.
+法 A: Moi aussi. Alors je me lève à 7 heures chaque matin et j'écris des livres.
+日 A: わたしも そう。 だから まいにち あさ 7じに おきて ほんを かく。
+韓 A: 나도 그래. 그래서 매일 아침 7시에 일어나서 책을 써.
+
+中 B: 晚上呢？
+英 B: And at night?
+法 B: Et le soir ?
+日 B: よるは？
+韓 B: 그럼 밤은?
+
+中 A: 晚上 9 點我睡覺。睡覺以前我看一點書。
+英 A: At 9 at night I sleep. Before I sleep I read a little book.
+法 A: À 9 heures le soir, je dors. Avant de dormir, je lis un peu.
+日 A: よる 9じに ねる。 ねる まえに ほんを すこし よむ。
+韓 A: 밤 9시에 자. 자기 전에 책 좀 읽어.
+
+中 B: 你看中文書嗎？
+英 B: Do you read Chinese books?
+法 B: Tu lis des livres en chinois ?
+日 B: あなたは ちゅうごくごの ほんを よむ？
+韓 B: 너 중국어 책 읽어?
+
+中 A: 是的，也有 English 書。English 的字多，我看得很慢。
+英 A: Yes, and English books too. English has many words, I read very slowly.
+法 A: Oui, et des livres en anglais. L'anglais a beaucoup de mots, je lis très lentement.
+日 A: そう、 Englishの ほんも ある。 Englishは ことばが たくさん ある、わたしは ゆっくり よむ。
+韓 A: 응, English 책도 있어. English는 말이 많아, 나는 천천히 읽어.
+
+中 B: 我學過 English，可是記得少。
+英 B: I have learned English, but I remember little.
+法 B: J'ai appris l'anglais, mais je me souviens de peu.
+日 B: わたしは Englishを べんきょう した、けれど おぼえて いるのは すこしだ。
+韓 B: 나는 English를 배웠지만, 기억하는 게 적어.
+
+中 A: 我也是。我只會說一點 English。
+英 A: Me too. I can only speak a little English.
+法 A: Moi aussi. Je ne parle qu'un peu anglais.
+日 A: わたしも そう。 Englishは すこししか はなせない。
+韓 A: 나도 그래. English는 조금밖에 못해.
+
+中 B: 沒事。每天用一點，慢慢就會了。
+英 B: No problem. Use it a little every day, slowly you will do it.
+法 B: Ce n'est rien. Un peu chaque jour, et petit à petit tu sauras.
+日 B: だいじょうぶ。 まいにち すこし つかえば、 ゆっくり できる ようになる。
+韓 B: 괜찮아. 매일 조금만 쓰면 천천히 할 수 있어.
+
+中 A: 你要買什麼？我下午去 market 買東西。
+英 A: What do you want to buy? I go to market in the afternoon to buy things.
+法 A: Que veux-tu acheter ? Cet après-midi, je vais au marché pour acheter des choses.
+日 A: なにを かうの？ わたしは ごごに marketへ かいに いく。
+韓 A: 뭐 살 거야? 나는 오후에 market에 가서 사.
+
+中 B: 我要買水果和肉。還要給女兒買 1 個書和 1 個 toy。
+英 B: I want to buy fruit and meat. I also want to buy 1 book and 1 toy for my girl.
+法 B: Je veux acheter des fruits et de la viande. Je veux aussi acheter 1 livre et 1 jouet pour ma fille.
+日 B: わたしは 果物と にくを かう。 むすめのために ほん 1つと toy 1つを かいたい。
+韓 B: 나는 과일하고 고기를 사. 딸에게 책 1개랑 toy 1개도 사려고.
+
+中 A: 你有女兒？多大了？
+英 A: You have a daughter? How old is she?
+法 A: Tu as une fille ? Quel âge a-t-elle ?
+日 A: むすめが いる？ なんさい？
+韓 A: 딸이 있어? 몇 살이야?
+
+中 B: 女兒 8 歲，最喜歡唱歌和畫畫。
+英 B: My girl is 8, she likes music and picture most.
+法 B: Ma fille a 8 ans, elle aime surtout chanter et regarder des images.
+日 B: むすめは 8さい、 うたう ことと えを みるのが いちばん すきだ。
+韓 B: 딸은 8살이야, 노래랑 그림을 제일 좋아해.
+
+中 A: 女兒唱得好嗎？
+英 A: Does your girl sing well?
+法 A: Ta fille chante-t-elle bien ?
+日 A: むすめは うまく うたえる？
+韓 A: 딸이 노래 잘 불러?
+
+中 B: 好。女兒的聲音很甜，比我好聽。
+英 B: Good. My girl is very sweet, better than me.
+法 B: Bien. Ma fille est très douce, plus douce que moi.
+日 B: いい。 むすめは とても やさしい、 わたしより うまい。
+韓 B: 좋아. 딸은 아주 부드러워, 나보다 더 좋아.
+
+中 A: 那真好。
+英 A: That is very good.
+法 A: C'est très bien.
+日 A: それは とても いい。
+韓 A: 그거 아주 좋아.
+
+中 B: 你會唱歌嗎？
+英 B: Can you sing?
+法 B: Tu sais chanter ?
+日 B: うたう ことが できる？
+韓 B: 노래 할 줄 알아?
+
+中 A: 我不太會。我只會 1 個歌，唱得很難聽。
+英 A: I am not good. I can only sing 1 song, I sing it very badly.
+法 A: Je ne suis pas très bon. Je ne connais qu'une chanson, je la chante très mal.
+日 A: わたしは あまり うまい ない。 うたは 1しゅだけ できる、 とても へたくに うたう。
+韓 A: 나는 잘 못해. 노래는 1곡만 할 수 있어, 아주 못 불려.
+
+中 B: 唱一次給我聽。
+英 B: Sing it once for me.
+法 B: Chante-la une fois pour moi.
+日 B: 1かい うたってみて ください。
+韓 B: 한 번 불러 줘.
+
+中 A: 太可怕了。
+英 A: I am very afraid.
+法 A: J'ai trop peur.
+日 A: とても こわい。
+韓 A: 너무 무서워.
+
+中 B: 不要怕，我不笑。
+英 B: Do not fear, I will not laugh.
+法 B: N'aie pas peur, je ne ris pas.
+日 B: こわがらないで、 わたしは 笑いません。
+韓 B: 무서워하지 마, 나는 안 웃어.
+
+中 A: 那……好吧。
+英 A: Well... ok.
+法 A: Bon... d'accord.
+日 A: じゃ... まあ いいや。
+韓 A: 그럼... 알겠어.
+
+中 A: 你這個月有多少錢？
+英 A: How much money do you have this month?
+法 A: Combien d'argent as-tu ce mois-ci ?
+日 A: きゅうげつに おかねが いくつ ある？
+韓 A: 이번 달에 돈이 얼마나 있어?
+
+中 B: 我有 2 千塊錢。我要給 rent 的錢，所以不多了。
+英 B: I have 2 thousand. I have to give rent money, so it is not much.
+法 B: J'ai 2 mille. Je dois payer le rent, donc il n'y en a pas beaucoup.
+日 B: わたしは 2せんえん ある。 rentの おかねが いえるから、 あまりない。
+韓 B: 나는 2천 원 있어. rent를 줘야 하니까, 많지 않아.
+
+中 A: 我有 100 塊錢，是媽媽給我的。
+英 A: I have 100, my mother gave it to me.
+法 A: J'ai 100, ma mère me l'a donné.
+日 A: わたしは 100 ある、 おかあさんが くれた。
+韓 A: 나는 100 있어, 엄마가 준 거야.
+
+中 B: 你要做什麼？
+英 B: What do you want to do?
+法 B: Que veux-tu faire ?
+日 B: なにを したい？
+韓 B: 뭐를 하고 싶어?
+
+中 A: 買書、一個球、一些紙和刀。
+英 A: Buy a book, a ball, some paper and a knife.
+法 A: Acheter un livre, une balle, du papier et un couteau.
+日 A: ほんを 1つ、 ボールを 1つ、 紙と ナイフを すこし かう。
+韓 A: 책 하나, 공 하나, 종이 좀, 칼을 사.
+
+中 B: 好。買書最好。
+英 B: Ok. Books are the best.
+法 B: Ok. Les livres, c'est le mieux.
+日 B: いい。 ほんを かうのが いちばん いい。
+韓 B: 그래. 책을 사는 게 제일 좋아.
+
+中 A: 你不買新衣服嗎？
+英 A: You do not buy new clothes?
+法 A: Tu n'achètes pas de nouveaux vêtements ?
+日 A: あたらしい 服を かわないの？
+韓 A: 새 옷은 안 사?
+
+中 B: 不買。我的衣服還能穿。我的錢不花，以後去看海。
+英 B: No. My clothes can still be worn. I do not spend my money, later I will see the sea.
+法 B: Non. Mes vêtements peuvent encore être portés. Je ne dépense pas mon argent, plus tard je verrai la mer.
+日 B: 買わない。 わたしの 服は まだ きれる。 おかねは つかわない、 あとで 海を みに いく。
+韓 B: 안 사. 내 옷은 아직 입을 수 있어. 돈은 안 쓸 거야, 나중에 바다를 볼 거야.
+
+中 A: 海！我最想去的地方也是海。
+英 A: The sea! The place I want to go most is also the sea.
+法 A: La mer ! L'endroit où je veux aller le plus est aussi la mer.
+日 A: 海！ わたしが いちばん いきたい ものも 海だ。
+韓 A: 바다! 내가 제일 가고 싶은 곳도 바다야.
+
+中 B: 我 3 個月的時候去過一次。海很大，天和水是一個色。
+英 B: I went there 3 months ago. The sea is very big, the sky and the water are one color.
+法 B: J'y suis allé il y a 3 mois. La mer est très grande, le ciel et l'eau sont de la même couleur.
+日 B: 3げつまえに 1かい いった。 海は とても 大きくて、 そらと みずは おなじ いろだ。
+韓 B: 3개월 전에 한 번 갔어. 바다가 아주 커서, 하늘과 물은 같은 색이야.
+
+中 A: 那我們一起去。
+英 A: Then we go together.
+法 A: Alors allons-y ensemble.
+日 A: じゃ いっしょに いこう。
+韓 A: 그럼 우리 같이 가자.
+
+中 B: 好。到時候再說。
+英 B: Ok. We will talk about it later.
+法 B: Ok. On en reparlera plus tard.
+日 B: いい。 あとで はなそう。
+韓 B: 그래. 나중에 얘기하자.
+
+中 B: 天要下雨了。你看那邊的雲。
+英 B: It will rain. Look at the clouds there.
+法 B: Il va faire de la pluie.
+日 B: あめが ふる よ。 そこの くもを みて。
+韓 B: 비가 올 거야. 저쪽 구름을 봐.
+
+中 A: 是，風也大了。我們要快點回去。
+英 A: Yes, the wind is strong too. We must go home fast.
+法 A: Oui, le vent est fort aussi. Nous devons aller à la maison vite.
+日 A: そう、 かぜも つよく なった。 さそく かえろう。
+韓 A: 응, 바람도 세졌어. 빨리 집에 가자.
+
+中 B: 我有 umbrella，你沒有嗎？
+英 B: I have an umbrella, do not you?
+法 B: J'ai un parapluie, et toi ?
+日 B: わたしは umbrellaを もって いる、 あなたは？
+韓 B: 나는 umbrella가 있어, 너는?
+
+中 A: 沒有。沒事。我走快一點回去。
+英 A: No. It is all right. I will go home faster.
+法 A: Non. Ce n'est rien. Je vais aller à la maison plus vite.
+日 A: ない。 だいじょうぶ。 わたしは はやく かえって いく。
+韓 A: 없어. 괜찮아. 더 빨리 갈게.
+
+中 B: 我在這裡等你。不要走太快。
+英 B: I wait for you here. Do not walk too fast.
+法 B: Je t'attends ici. Ne marche pas trop vite.
+日 B: ここで まってる。 あんまり はやく あるかないで。
+韓 B: 여기서 기다릴게. 너무 빨리 걷지 마.
+
+中 A: 5 分鐘後我回來。
+英 A: I will come back after 5 minutes.
+法 A: Je reviens dans 5 minutes.
+日 A: 5ぷんごに くる。
+韓 A: 5분 후에 돌아올게.
+
+中 B: 你回來了。身上都是水。
+英 B: You are back. Your body is all water.
+法 B: Tu es de retour. Ton corps est tout de l'eau.
+日 B: かえったんだね。 からだに みずが なって いる。
+韓 B: 돌아왔구나. 온몸에 물이야.
+
+中 A: 是。我走得快，不怕。
+英 A: Yes. I walk fast, I am not afraid.
+法 A: Oui. Je marche vite, je n'ai pas peur.
+日 A: そう。 わたしは はやく あるく、 こわくない。
+韓 A: 응. 빨리 걷니까, 안 무서워.
+
+中 B: 快去洗一下，用熱水，再穿衣服。
+英 B: Go and wash a little, use hot water, then wear your clothes.
+法 B: Va te laver un peu, utilise de l'eau chaude, puis mets tes vêtements.
+日 B: はやく あらって、 あたたかい みずを つかって、 服を きて。
+韓 B: 빨리 씻어, 뜨거운 물을 써, 옷을 입어.
+
+中 A: 好。媽媽做好飯了，在家等我。
+英 A: Ok. Mother has cooked the food, she waits for me at home.
+法 A: Ok. Maman a cuisine, elle m'attend à la maison.
+日 A: いい。 おかあさんが ごはんを つくり ました、 うちで まって いる。
+韓 A: 그래. 엄마가 밥을 했어, 집에서 기다려.
+
+中 B: 我也回家。明天見。
+英 B: I go home too. See you tomorrow.
+法 B: Je rentre aussi. À demain.
+日 B: わたしも かえって いく。 あしたね。
+韓 B: 나도 집에 가. 내일 봐.
+
+中 A: 明天見，玩得開心。
+英 A: See you tomorrow, play and be happy.
+法 A: À demain. Joues bien.
+日 A: あしたね、 よく あそんで うれしい もちで。
+韓 A: 내일 봐, 잘 놀아.
+
+中 A: 對了，我還想問你。
+英 A: By the way, I want to ask you too.
+法 A: Au fait, je veux aussi te demander.
+日 A: そういえば、 わたしも ききたいことが ある。
+韓 A: 그러고 보니, 나도 묻고 싶은 게 있어.
+
+中 B: 問。
+英 B: Ask.
+法 B: Demande.
+日 B: きいて。
+韓 B: 물어봐.
+
+中 A: 你上一次去海是什麼時候？
+英 A: When did you go to the sea before?
+法 A: Quand es-tu allé à la mer avant ?
+日 A: さいごに 海へ いったのは いつ？
+韓 A: 마지막으로 바다에 간 건 언제야?
+
+中 B: 3 個月的時候。那天很熱，海水很藍。
+英 B: 3 months ago. That day was hot, the sea water was very blue.
+法 B: Il y a 3 mois. Ce jour-là il faisait chaud, l'eau de la mer était très bleue.
+日 B: 3げつまえ。 あの日は あつかった、 海の みずは とても あおかった。
+韓 B: 3개월 전이야. 그날은 더웠고, 바닷물은 아주 파랬어.
+
+中 A: 你住在海邊嗎？
+英 A: Do you live by the sea?
+法 A: Habites-tu au bord de la mer ?
+日 A: 海の そばに すんで いる？
+韓 A: 바다 근처에 살아?
+
+中 B: 不是。我住在北方的一個城裡。從這裡到海要 2 天的路。
+英 B: No. I live in a city far away. From here to the sea is 2 days of road.
+法 B: Non. J'habite dans une ville très loin. D'ici à la mer, il y a 2 jours de route.
+日 B: いいえ。 わたしは 遠い ある まちに すんで いる。 ここから 海まで 2にち の みちだ。
+韓 B: 아니. 나는 멀리 있는 도시에 살아. 여기서 바다까지 2일 길이야.
+
+中 A: 那很遠。你要坐車嗎？
+英 A: That is far. Do you go by car?
+法 A: C'est loin. Tu vas en voiture ?
+日 A: それは 遠い。 くるまで いくの？
+韓 A: 그건 멀어. 차로 가?
+
+中 B: 要坐車，再坐 boat。車的錢不貴，不過要早點起。
+英 B: By car, then by boat. The car money is not expensive, but I must stand up early.
+法 B: En voiture, puis en bateau. L'argent de la voiture n'est pas cher, mais je dois me lever tôt.
+日 B: くるまに のって、それから boatに のる。 くるまの おかねは やすく ないけど、 はやく おきなければ。
+韓 B: 차를 타고, 그다음 boat를 타. 차 값은 비싸지 않지만, 일찍 일어나야 해.
+
+中 A: 你一個人去嗎？
+英 A: Do you go alone?
+法 A: Tu y vas seul ?
+日 A: ひとりで いくの？
+韓 A: 혼자 가?
+
+中 B: 不。這次和家人一起去。我哥哥和姐姐都去。
+英 B: No. This time I go with my family. My big brother and my big sister both go too.
+法 B: Non. Cette fois je vais avec ma famille. Mon grand frère et ma grande sœur y vont aussi.
+日 B: いいえ。 こんどは かぞくと いっしょに いく。 おにいさんと おねえさんも いく。
+韓 B: 아니. 이번에는 가족이랑 같이 가. 형이랑 누나도 가.
+
+中 A: 那很好。家人一起更好玩。
+英 A: That is good. It is more fun with family.
+法 A: C'est bien avec la famille.
+日 A: それは いい。 かぞくと いっしょの ほうが たのしい。
+韓 A: 좋아. 가족이랑 같이 하는 게 더 좋아.
+
+中 B: 是。爸爸也想去，他會做很多菜。
+英 B: Yes. Father wants to go too, he can make much food.
+法 B: Oui. Père veut venir aussi, il sait faire beaucoup de nourriture.
+日 B: そう。 おとうさんも いきたい、 かれは たくさんの ものが できる。
+韓 B: 응. 아빠도 가고 싶어 하셔, 많은 요리를 할 수 있어.
+
+中 A: 你爸爸做菜很好吃嗎？
+英 A: Does your father cook well?
+法 A: Ton père cuisine-t-il bien ?
+日 A: おとうさんの りょうりは おいしい？
+韓 A: 아빠 요리는 잘해?
+
+中 B: 他做的魚菜最好吃。他做菜比我媽媽好。
+英 B: His fish dish is the best. He cooks better than my mother.
+法 B: Son poisson est très bon. Il cuisine mieux que ma mère.
+日 B: かれの さかなの りょうりが いちばん おいしい。 りょうりは おかあさんより じょうずだ。
+韓 B: 아빠가 만든 물고기 요리가 제일 맛있어. 아빠는 엄마보다 요리를 잘해.
+
+中 A: 那這次是爸爸做飯。
+英 A: Then father cooks this time.
+法 A: Alors c'est père qui cuisine cette fois.
+日 A: じゃ こんどは おとうさんが ごはんを つくる。
+韓 A: 그럼 이번에는 아빠가 밥을 해.
+
+中 B: 是。我只幫忙拿東西和洗菜。
+英 B: Yes. I only help to take things and wash the food.
+法 B: Oui. J'aide seulement à porter des choses et à laver la nourriture.
+日 B: そう。 わたしは ものを もって いるのと やさいを あらう のを てつだうだけだ。
+韓 B: 응. 나는 물건 갖다 드리고 음식 씻는 걸 돕기만 해.
+
+中 A: 你還會洗衣服嗎？
+英 A: Can you also wash clothes?
+法 A: Tu sais aussi laver les vêtements ?
+日 A: 服を あらう ことも できる？
+韓 A: 옷도 빨아?
+
+中 B: 會。我會用手洗，也會用 machine。
+英 B: Yes. I can wash by hand, and I can use a machine.
+法 B: Oui. Je peux laver à la main, et je peux utiliser une machine.
+日 B: できる。 手で あらって、 machineでも あらえる。
+韓 B: 응. 손으로 빨 수도 있고, machine로도 빨 수 있어.
+
+中 A: 我不太會洗衣服，都是媽媽做。
+英 A: I am not good at washing clothes, mother does it all.
+法 A: Je ne sais pas bien laver les vêtements, c'est maman qui fait tout.
+日 A: わたしは 服を あらうのが へただ、 おかあさんが すべて する。
+韓 A: 나는 옷을 잘 못 빨아, 모두 엄마가 해.
+
+中 B: 你可以學。洗衣不難，水和 soap 就好。
+英 B: You can learn. Washing clothes is not hard, water and soap are all you need.
+法 B: Tu peux apprendre. Laver les vêtements n'est pas difficile, de l'eau et du savon sont tout ce qu'il faut.
+日 B: ならえる。 服を あらうのは むずしくない、 水と soapが あれば いい。
+韓 B: 배울 수 있어. 빨래는 어렵지 않아, 물과 soap이면 돼.
+
+中 A: 好。下次你教我。
+英 A: Ok. Next time you teach me.
+法 A: Ok. La prochaine fois, tu m'apprendras.
+日 A: いい。 つぎの とき 教えて ください。
+韓 A: 그래. 다음에 나한테 알려 줘.
+
+中 B: 好，我教你。
+英 B: Ok, I will teach you.
+法 B: Ok, je t'apprendrai.
+日 B: いい、 教えて あげる。
+韓 B: 그래, 알려 줄게.
+
+中 A: 我今天有一個新想法。
+英 A: Today I have 1 new idea.
+法 A: Aujourd'hui j'ai 1 nouvelle idée.
+日 A: きょう わたしは 新しい かんがえを 1つ した。
+韓 A: 오늘 나한테 새로운 생각 하나 있어.
+
+中 B: 說來聽聽。
+英 B: Say it, let me hear.
+法 B: Dis-moi.
+日 B: はなして ください。
+韓 B: 말해 봐.
+
+中 A: 我想寫 1 個書，寫給小孩看的書。
+英 A: I want to write 1 book, a book for children.
+法 A: Je veux écrire 1 livre, un livre pour les enfants.
+日 A: ほんを 1つ かきたい、 こどもが よむ ための ほんだ。
+韓 A: 나는 책 한 권을 쓰고 싶어, 아이들이 읽을 책으로.
+
+中 B: 好想法。寫什麼？
+英 B: Good idea. What do you write?
+法 B: Bonne idée. Tu écris quoi ?
+日 B: いい かんがえだ。 なにを かく？
+韓 B: 좋은 생각이야. 뭐를 써?
+
+中 A: 寫一個會飛的 robot，去找海的 robot。
+英 A: I write a robot that can fly, a robot that looks for the sea.
+法 A: J'écris un robot qui peut voler, un robot qui cherche la mer.
+日 A: とべる robotを かく、 海を さがす robotだ。
+韓 A: 나는 날 수 있는 robot를 써, 바다를 찾는 robot를.
+
+中 B: 這書很好。孩子會喜歡。
+英 B: This book is very good. Children will like it.
+法 B: Ce livre est très bien. Les enfants vont aimer.
+日 B: この ほんは とても いい。 こどもは すきに なる だろう。
+韓 B: 이 책은 아주 좋아. 아이들이 좋아할 거야.
+
+中 A: 你覺得書名叫什麼好？
+英 A: What do you think the book name should be?
+法 A: Comment trouves-tu le nom du livre ?
+日 A: ほんの なまえは なにが いい？
+韓 A: 책 이름은 뭐가 좋을까?
+
+中 B: 叫「飛機和海」好不好？
+英 B: Call it "plane and sea", is that good?
+法 B: « Avion et mer », c'est bien ?
+日 B: 「ひこうきと 海」に したら どう？
+韓 B: "비행기와 바다"라고 하면 어때?
+
+中 A: 好。書名就這個。
+英 A: Ok. The book name is this.
+法 A: Ok. Le nom du livre est celui-là.
+日 A: いい。 ほんの なまえは それで。
+韓 A: 그래. 책 이름은 그거야.
+
+中 B: 你寫多少字？
+英 B: How much do you write?
+法 B: Combien de choses écris-tu ?
+日 B: どれだけの ことばを かく？
+韓 B: 책을 얼마나 길게 쓸 거야?
+
+中 A: 想寫 2 萬字。我不知道能不能寫完。
+英 A: I want to write 20 thousand. I do not know if I can finish.
+法 A: Je veux écrire 20 mille. Je ne sais pas si je peux finir.
+日 A: 2まんの ことばを かきたい。 おわりまで かげるか わからない。
+韓 A: 2만 자를 쓰고 싶어. 끝낼 수 있는지 모르겠어.
+
+中 B: 不要怕難。每天寫 1 page，一年就很多了。
+英 B: Do not fear it is hard. Write 1 page every day, in one year it is a lot.
+法 B: N'aie pas peur d'être difficile. Écris 1 page par jour, en un an ce sera beaucoup.
+日 B: むずかしさに こわらないで。 まいにち 1ページ かけば、 1ねんで たくさん なる。
+韓 B: 어려워도 무서워하지 마. 매일 1page 쓰면, 1년이면 많아져.
+
+中 A: 你說得對。我明天就寫。
+英 A: You are right. I will write tomorrow.
+法 A: Tu as raison. J'écrirai demain.
+日 A: あなたは ただしい。 あした 書く。
+韓 A: 네 말이 맞아. 내일 쓸게.
+
+中 B: 你看，那邊有一個老人。
+英 B: Look, there is an old man there.
+法 B: Regarde, il y a un vieil homme là-bas.
+日 B: みて、 そこに 老人が いる。
+韓 B: 봐, 저기에 할아버지가 있어.
+
+中 A: 是。他坐在那裡，不說話。
+英 A: Yes. He sits there and does not speak.
+法 A: Oui. Il est assis là et ne parle pas.
+日 A: そう。 かれは そこに すんで、 はなさない。
+韓 A: 응. 거기 앉아서 말 안 해.
+
+中 B: 他在看書。
+英 B: He is reading a book.
+法 B: Il lit un livre.
+日 B: かれは ほんを よんで いる。
+韓 B: 그는 책 읽고 있어.
+
+中 A: 真好。這麼大歲數還喜歡看書。
+英 A: Very good. He is very old and he still likes reading books.
+法 A: C'est bien vrai. Il est très vieux et il aime lire.
+日 A: いいね。 かれは とても としを とっても ほんを よむのが すきだ。
+韓 A: 참 좋아. 그렇게 나이 먹어도 책 읽기를 좋아해.
+
+中 B: 我想，人活到那麼大歲數，可以做很多想做的事。
+英 B: I think, when a person lives that long, he can do many things he wants.
+法 B: Je pense, quand on vit jusqu'à cet âge, on peut faire beaucoup de choses qu'on veut.
+日 B: わたしは おもう、 ひとが そこまで いきると、 ほしいことが たくさん できる。
+韓 B: 나는 생각해, 사람이 그 나이까지 살면, 하고 싶은 걸 많이 할 수 있다고.
+
+中 A: 我也是。等我老了，我要住在海邊，每天看水。
+英 A: Me too. When I am old, I want to live by the sea and look at the water every day.
+法 A: Moi aussi. Quand je serai vieux, je veux habiter au bord de la mer et regarder l'eau chaque jour.
+日 A: わたしも そう。 年老いたら、 海の そばに すんで、 まいにち みずを みたい。
+韓 A: 나도 그래. 늙으면 바다 근처에 살면서 매일 물을 볼 거야.
+
+中 B: 那我們說好。
+英 B: Then it is a promise.
+法 B: Alors c'est d'accord.
+日 B: じゃ そう しましょう。
+韓 B: 그럼 우리 약속해.
+
+中 A: 好。50 歲的時候，我們一起去。
+英 A: Ok. When I am 50, we go together.
+法 A: Ok. Quand j'aurai 50 ans, nous irons ensemble.
+日 A: いい。 50さいの とき、 いっしょに いこう。
+韓 A: 그래. 50살 때 같이 가자.
+
+中 B: 好。我會去。
+英 B: Ok. I will go.
+法 B: Ok. J'y vais.
+日 B: いい。 わたしが いく。
+韓 B: 그래. 갈게.
+
+中 A: 我會記住。
+英 A: I will remember.
+法 A: Je m'en souviendrai.
+日 A: わたしは おぼえて おく。
+韓 A: 기억할게.
+
+中 A: 天更黑了，星星出來了。
+英 A: The night comes, the stars come out.
+法 A: La nuit arrive, les étoiles sortent.
+日 A: よるが きた、 星が でて きた。
+韓 A: 밤이 왔어, 별이 나왔어.
+
+中 B: 是。星星比城裡多。
+英 B: Yes. There are more stars than in the city.
+法 B: Oui. Il y a plus d'étoiles qu'en ville.
+日 B: そう。 まちより 星が たくさん ある。
+韓 B: 응. 도시보다 별이 많아.
+
+中 A: 你看那個最明的。
+英 A: Look at that light one.
+法 A: Regarde celui qui est le plus clair.
+日 A: あの いちばん 明るい ほしを みて。
+韓 A: 가장 밝은 거 봐.
+
+中 B: 我不知道那星的名字。
+英 B: I do not know the name of that star.
+法 B: Je ne connais pas le nom de cette étoile.
+日 B: その 星の なまえを わたしは 知らない。
+韓 B: 그 별 이름을 나도 몰라.
+
+中 A: 以前媽媽說過一個名字。我記不得了。
+英 A: Mother said a name before. I do not remember it.
+法 A: Maman a dit un nom avant. Je ne m'en souviens pas.
+日 A: まえに おかあさんが なまえを はなして いた。 わたしは おぼえて いない。
+韓 A: 전에 엄마가 이름을 말했어. 나는 기억 못 해.
+
+中 B: 沒事，以後我問了再和你說。
+英 B: It is all right, later I will ask and then tell you.
+法 B: Ce n'est rien, plus tard je demanderai et je te dirai.
+日 B: だいじょうぶ、 あとで きいて おしえる。
+韓 B: 괜찮아, 나중에 물어보고 알려 줄게.
+
+中 A: 好。這裡風也好。
+英 A: Ok. The wind here is also good.
+法 A: Ok. Le vent ici est aussi bon.
+日 A: いい。 ここの かぜも いい。
+韓 A: 좋아. 여긴 바람도 좋아.
+
+中 B: 是。我不想回去。
+英 B: Yes. I do not want to go back.
+法 B: Oui. Je ne veux pas rentrer.
+日 B: そう。 わたしは かえりたくない。
+韓 B: 응. 집에 가기 싫어.
+
+中 A: 我也是。不過明天還要上學。
+英 A: Me too. But tomorrow I must go to school.
+法 A: Moi aussi. Mais demain je dois aller à l'école.
+日 A: わたしも そう。 けれど あしたは がっこうへ いかないと。
+韓 A: 나도 그래. 하지만 내일도 학교에 가야 해.
+
+中 B: 對。走吧，明天早點起。
+英 B: Right. Let's go, tomorrow stand up early.
+法 B: Oui. Allons-y, demain il faut se lever tôt.
+日 B: そうだ。 いこう、 あした はやく おきて。
+韓 B: 그래. 가자, 내일 일찍 일어나.
+
+中 A: 明天見。
+英 A: See you tomorrow.
+法 A: À demain.
+日 A: あしたね。
+韓 A: 내일 봐.
+
+中 B: 明天見。睡得好。
+英 B: See you tomorrow. Sleep well.
+法 B: À demain. Bonne nuit.
+日 B: あしたね。 よく ねむ。
+韓 B: 내일 봐. 잘 자.

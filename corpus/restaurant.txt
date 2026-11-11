@@ -1,0 +1,357 @@
+# mini-x 多語對話：餐廳
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/restaurant.txt 相同。
+
+中 A: 我們去吃飯吧。
+英 A: Let's go to eat.
+法 A: Allons manger.
+日 A: ごはんを たべに いこう。
+韓 A: 밥 먹으러 가자.
+
+中 B: 好。想去哪裡吃？
+英 B: Ok. Where do you want to eat?
+法 B: Ok. Où veux-tu manger ?
+日 B: いいよ。 どこで たべたい？
+韓 B: 그래. 어디서 먹고 싶어?
+
+中 A: 去東邊那家新店。
+英 A: We go to that new shop.
+法 A: Nous allons au nouveau magasin.
+日 A: ひがしの あたらしい みせへ いこう。
+韓 A: 동쪽의 새 가게로 가자.
+
+中 B: 好。是賣什麼的？
+英 B: Ok. What do they sell?
+法 B: Ok. Que vendent-ils ?
+日 B: いいよ。 なにを うって いる？
+韓 B: 그래. 뭘 파는 거야?
+
+中 A: 賣飯、菜和 fish soup。
+英 A: They sell rice, food and fish soup.
+法 A: Ils vendent du riz, de la nourriture et de la fish soup.
+日 A: ごはん、 やさい、 fish soupを うって いる。
+韓 A: 밥이랑 요리, fish soup을 팔아.
+
+中 B: 好。我很多年沒有去那裡了。
+英 B: Ok. I did not go there for many years.
+法 B: Ok. Je n'y suis pas allé depuis des années.
+日 B: いいよ。 わたしは 多くの ねん あそこへ いって いない。
+韓 B: 그래. 나는 여러 해 동안 거기 안 갔어.
+
+中 A: 這裡人真多。
+英 A: There are many people here.
+法 A: Il y a beaucoup de gens ici.
+日 A: ここは 人が とても 多い。
+韓 A: 여긴 사람이 정말 많아.
+
+中 B: 是。weekend 都很多人。
+英 B: Yes. On weekend there are many people.
+法 B: Oui. Le weekend il y a beaucoup de gens.
+日 B: うん。 weekendも 人が 多い。
+韓 B: 응. weekend에도 사람이 많아.
+
+中 A: 我們坐那邊的位子。
+英 A: We sit at that table.
+法 A: Nous nous asseyons à cette table.
+日 A: あの テーブルに すもう。
+韓 A: 그쪽 테이블에 앉자.
+
+中 B: 好。那裡可以看到外邊。
+英 B: Ok. You can see outside there.
+法 B: Ok. On voit dehors de là.
+日 B: いいよ。 そこへ から そとが みえる。
+韓 B: 그래. 거기서 밖이 보여.
+
+中 A: 好。你坐那邊，我坐這邊。
+英 A: Ok. You sit there, I sit here.
+法 A: Ok. Tu t'assois là, je m'assois ici.
+日 A: いいよ。 あなたは あの ほうに すんで、 わたしは こっちに すむ。
+韓 A: 그래. 너는 그쪽에 앉아, 나는 이쪽에 앉아.
+
+中 A: 你想吃什麼？
+英 A: What do you want to eat?
+法 A: Que veux-tu manger ?
+日 A: なにを たべたい？
+韓 A: 뭐 먹고 싶어?
+
+中 B: 我要 1 個雞肉和 1 個菜。
+英 B: I want 1 chicken and 1 food.
+法 B: Je veux 1 poulet et 1 nourriture.
+日 B: とり肉を 1 つ、 やさいを 1 つ。
+韓 B: 닭고기 1개와 요리 1개.
+
+中 A: 我要魚。還要 1 個飯。
+英 A: I want fish. Also 1 rice.
+法 A: Je veux du poisson. Et 1 riz.
+日 A: さかなを ほしい。 ごはんも 1 つ。
+韓 A: 물고기를 먹을래. 밥도 1개.
+
+中 B: 好。要不要 soup？
+英 B: Ok. Do you want soup?
+法 B: Ok. Tu veux de la soupe ?
+日 B: いいよ。 soupを ほしい？
+韓 B: 그래. soup 줄까?
+
+中 A: 要。1 個 soup。
+英 A: Yes. 1 soup.
+法 A: Oui. 1 soupe.
+日 A: ほしい。 soupを 1 つ。
+韓 A: 그래. soup 1개.
+
+中 B: 好。我去叫。
+英 B: Ok. I go to call.
+法 B: Ok. Je vais appeler.
+日 B: いいよ。 わたしは よぶ。
+韓 B: 그래. 내가 부를게.
+
+中 A: 你的菜來了。
+英 A: Your food is here.
+法 A: Ta nourriture est là.
+日 A: あなたの やさいが きた。
+韓 A: 네 요리가 왔어.
+
+中 B: 謝謝。這個雞肉看起來很好吃。
+英 B: Thank you. This chicken looks very good.
+法 B: Merci. Ce poulet a l'air très bon.
+日 B: ありがとう。 この とり肉は とても おいしそうに みえる。
+韓 B: 고마워. 이 닭고기는 정말 맛있어 보여.
+
+中 A: 是。看那個色。
+英 A: Yes. Look at that.
+法 A: Oui. Regarde ça.
+日 A: うん。 その いろを みて。
+韓 A: 응. 그 색을 봐.
+
+中 B: 是。我先吃一口。
+英 B: Yes. I eat 1 first.
+法 B: Oui. Je mange 1 d'abord.
+日 B: うん。 まず 1 つ たべる。
+韓 B: 응. 먼저 한 입 먹을게.
+
+中 A: 好吃嗎？
+英 A: Is it good?
+法 A: C'est bon ?
+日 A: おいしい？
+韓 A: 맛있어?
+
+中 B: 好吃。比家裡的更好吃。
+英 B: It is good. It is better than at home.
+法 B: C'est bon. C'est plus bon qu'à la maison.
+日 B: おいしい。 うちより もっと おいしい。
+韓 B: 맛있어. 집에서 먹은 것보다 더 맛있어.
+
+中 A: 我這裡的魚也很好吃。
+英 A: The fish here is also very good.
+法 A: Le poisson ici est aussi très bon.
+日 A: わたしの さかなも とても おいしい。
+韓 A: 내 물고기도 정말 맛있어.
+
+中 B: 真的？那我們下次再來。
+英 B: Really? Then we come again.
+法 B: Vraiment ? Alors nous revenons.
+日 B: ほんとう？ じゃ つぎに また こよう。
+韓 B: 그래? 그럼 다음에 또 오자.
+
+中 A: 我要再要一點水。
+英 A: I want some more water.
+法 A: Je veux plus d'eau.
+日 A: わたしは 水を もう すこし ほしい。
+韓 A: 나는 물을 좀 더 마실래.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 你要嗎？
+英 A: Do you want it?
+法 A: Tu en veux ?
+日 A: あなたは ほしい？
+韓 A: 너도 마실래?
+
+中 B: 我不要。我要茶。
+英 B: I do not want. I want tea.
+法 B: Je n'en veux pas. Je veux du thé.
+日 B: わたしは いらない。 茶が ほしい。
+韓 B: 나는 안 마실래. 차 마실래.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 謝謝。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我吃完了。
+英 A: I finished eating.
+法 A: J'ai fini de manger.
+日 A: わたしは たべおわった。
+韓 A: 나는 다 먹었어.
+
+中 B: 我也吃完了。很好吃。
+英 B: I also finished. It is very good.
+法 B: J'ai aussi fini. C'est très bon.
+日 B: わたしも おわった。 とても おいしい。
+韓 B: 나도 다 먹었어. 정말 맛있어.
+
+中 A: 我要給錢。
+英 A: I want to give the money.
+法 A: Je veux donner l'argent.
+日 A: わたしは お金を わたす。
+韓 A: 나는 돈을 줄게.
+
+中 B: 我也要給錢。
+英 B: I also want to give the money.
+法 B: Je veux aussi donner l'argent.
+日 B: わたしも お金を わたす。
+韓 B: 나도 돈을 줄게.
+
+中 A: 今天我給。你不要給。
+英 A: Today I give the money. You do not give.
+法 A: Aujourd'hui je donne. Tu ne donnes pas.
+日 A: きょうは わたしが お金を わたす。 あなたは わたさないで。
+韓 A: 오늘은 내가 줄게. 너는 내지 마.
+
+中 B: 為什麼？
+英 B: Why?
+法 B: Pourquoi ?
+日 B: なぜ？
+韓 B: 왜?
+
+中 A: 因為上次是你給的。
+英 A: Because last time you gave it.
+法 A: Parce que c'est toi qui as donné.
+日 A: さっきは あなたが くれたから。
+韓 A: 지난번에 네가 줬으니까.
+
+中 B: 那這次就你給。下次我給。
+英 B: Then you give now. I give then.
+法 B: Alors c'est toi qui donnes. Après, je donne.
+日 B: じゃ きょうは あなたが わたして。 つぎは わたしが わたす。
+韓 B: 그럼 이번에 네가 줘. 그다음에 내가 줄게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 這裡的甜點很好。
+英 A: The sweet food here is very good.
+法 A: Les choses à manger ici sont très bonnes.
+日 A: ここの たべものは とても おいしい。
+韓 A: 여긴 달달한 음식이 정말 좋아.
+
+中 B: 是。cake 很好吃。
+英 B: Yes. The cake is very good.
+法 B: Oui. Le gâteau est très bon.
+日 B: うん。 cakeは とても おいしい。
+韓 B: 응. cake는 정말 맛있어.
+
+中 A: 我小時候最喜歡這個。
+英 A: I was small. I liked this most.
+法 A: J'étais petit. J'aimais le plus.
+日 A: わたしは ちいさい とき、 これが いちばん すきだった。
+韓 A: 나는 어렸을 때 이게 제일 좋았어.
+
+中 B: 我也是。這裡的甜點和媽媽做的一樣。
+英 B: Me too. The food here is not different from mother's.
+法 B: Moi aussi. La chose que maman fait est ici aussi.
+日 B: わたしも。 おかあさんが つくった ものも ここにある。
+韓 B: 나도. 여긴 엄마가 만든 것과 같아.
+
+中 A: 你媽媽也會做甜點？
+英 A: Can your mother make sweet food too?
+法 A: Ta maman peut-elle aussi faire des choses à manger ?
+日 A: おかあさんも たべものを 作れる？
+韓 A: 엄마도 음식을 만들 수 있어?
+
+中 B: 會。媽媽做的東西最好吃。
+英 B: Yes. The food mother makes is very good.
+法 B: Oui. La nourriture que maman fait est très bonne.
+日 B: できる。 おかあさんが つくった ものは とても おいしい。
+韓 B: 할 수 있어. 엄마가 만든 음식이 정말 맛있어.
+
+中 A: 真好。我想學。
+英 A: Very good. I want to learn.
+法 A: Très bien. Je veux apprendre.
+日 A: とても いい。 わたしは ならいたい。
+韓 A: 좋아. 배우고 싶어.
+
+中 B: 我可以教你。不過要先買 material。
+英 B: I can teach you. But first we must buy material.
+法 B: Je peux t'enseigner. Mais il faut acheter du material.
+日 B: おしえるよ。 ただし さきに materialを かう ひつよう。
+韓 B: 내가 가르쳐 줄게. 먼저 material을 사야 해.
+
+中 A: 好。下次一起去 market。
+英 A: Ok. Then we go to market together.
+法 A: Ok. Alors nous allons ensemble au marché.
+日 A: いいよ。 つぎに いっしょに marketへ いこう。
+韓 A: 그래. 다음에 같이 market에 가자.
+
+中 B: 你吃完了嗎？
+英 B: Did you finish eating?
+法 B: Tu as fini de manger ?
+日 B: たべおわった？
+韓 B: 다 먹었어?
+
+中 B: 吃完了。我吃了很多。
+英 B: I finished. I ate so much.
+法 B: J'ai fini. J'ai beaucoup mangé.
+日 B: おわった。 わたしは たくさん たべた。
+韓 B: 다 먹었어. 많이 먹었어.
+
+中 A: 我也是。太多菜了。
+英 A: Me too. The food is too much.
+法 A: Moi aussi. Il y a trop de nourriture.
+日 A: わたしも。 やさいが とても たくさん ある。
+韓 A: 나도. 요리가 너무 많아.
+
+中 B: 是。今天的菜比每一天多。
+英 B: Yes. Today's food is more than every day.
+法 B: Oui. La nourriture d'aujourd'hui est plus qu'hier.
+日 B: うん。 きょうの やさいは まえの ひより たくさん ある。
+韓 B: 응. 오늘 요리는 매일보다 많아.
+
+中 A: 要不要拿回去？
+英 A: Do you want to take it home?
+法 A: Tu veux prendre la nourriture à la maison ?
+日 A: うちへ もって いく？
+韓 A: 집에 가져갈까?
+
+中 B: 好。我要給弟弟。
+英 B: Ok. I will give it to my brother.
+法 B: Ok. Je vais le donner à mon frère.
+日 B: いいよ。 おとうとに あげる。
+韓 B: 그래. 동생에게 줄게.
+
+中 A: 我也要拿一點。
+英 A: I also want to take some.
+法 A: Je veux aussi en prendre un peu.
+日 A: わたしも すこし もって いく。
+韓 A: 나도 좀 가져갈게.
+
+中 B: 好。那邊的人來了。
+英 B: Ok. The people there are here.
+法 B: Ok. Les gens là sont ici.
+日 B: いいよ。 あの ほうの 人が きた。
+韓 B: 그래. 그쪽 사람들이 왔어.
+
+中 A: 快點。不過他們要關門了。
+英 A: Fast. But they will close the shop.
+法 A: Tout de suite. Mais ils vont fermer le magasin.
+日 A: はやく。 ただし かれらは みせを とじる。
+韓 A: 빨리. 하지만 그들은 문을 닫을 거야.
+
+中 B: 好。走吧。
+英 B: Ok. Let's go.
+法 B: Ok. Allons-y.
+日 B: いいよ。 いこう。
+韓 B: 그래. 가자.

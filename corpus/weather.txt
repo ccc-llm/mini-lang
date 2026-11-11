@@ -1,0 +1,381 @@
+# mini-x 多語對話：天氣
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/weather.txt 相同。
+
+中 A: 今天天氣真冷。
+英 A: Today is very cold.
+法 A: Aujourd'hui il fait très froid.
+日 A: きょうは とても つめたい。
+韓 A: 오늘은 정말 추워.
+
+中 B: 是。風也很大。
+英 B: Yes. The wind is very strong.
+法 B: Oui. Le vent est très fort.
+日 B: うん。 かぜも とても つよい。
+韓 B: 그래. 바람도 아주 세.
+
+中 A: 我要穿多一點衣服。
+英 A: I want to wear more clothes.
+法 A: Je veux porter plus de vêtements.
+日 A: わたしは 服を もっと きたない。
+韓 A: 나는 옷을 더 입고 싶어.
+
+中 B: 好。我媽媽說今天會下雪。
+英 B: Ok. My mother says it will snow today.
+法 B: Ok. Ma mère dit qu'il neigera aujourd'hui.
+日 B: いいよ。 おかあさんは きょう ゆきが ふると いう。
+韓 B: 그래. 엄마는 오늘 눈이 온대.
+
+中 A: 真的？下雪？
+英 A: Really? Snow?
+法 A: Vraiment ? De la neige ?
+日 A: ほんとう？ ゆき？
+韓 A: 진짜? 눈?
+
+中 B: 真的。下午就會下。
+英 B: Really. It will snow in the afternoon.
+法 B: Vraiment. Il neigera cet après-midi.
+日 B: ほんとう。 ごごに ふると いう。
+韓 B: 진짜. 오후에 내릴 거야.
+
+中 A: 我最喜歡下雪。
+英 A: I like snow the most.
+法 A: J'aime la neige le plus.
+日 A: わたしは ゆきが いちばん すきだ。
+韓 A: 나는 눈을 제일 좋아해.
+
+中 B: 我也是。不過路上要小心。
+英 B: I do too. But be careful on the road.
+法 B: Moi aussi. Mais fais attention sur la route.
+日 B: わたしも そう。 ただし どうろで ちゅうい して。
+韓 B: 나도 그래. 하지만 길에서 조심해.
+
+中 A: 你看，天黑了。
+英 A: Look. It is dark now.
+法 A: Regarde. Il fait nuit maintenant.
+日 A: みって。 いま くらい。
+韓 A: 봐. 지금 어두워.
+
+中 B: 是。今天 5 點就黑了。
+英 B: Yes. It is dark at 5 today.
+法 B: Oui. Aujourd'hui il fait nuit à 5 heures.
+日 B: うん。 きょうは 5じに くらい。
+韓 B: 그래. 오늘은 5시에 어두워.
+
+中 A: 天氣冷了。
+英 A: Now it is cold.
+法 A: Maintenant il fait froid.
+日 A: いまは つめたい。
+韓 A: 지금은 추워.
+
+中 B: 是。再過 2 個月天氣就會好。
+英 B: Yes. In 2 months it will be good.
+法 B: Oui. Dans 2 mois il fera bon.
+日 B: うん。 あと 2 かげつで てんきが よくなる。
+韓 B: 그래. 2개월 후에 날이 좋아질 거야.
+
+中 A: 我喜歡那個時候。可以去 park 玩。
+英 A: I like that time. We can go to the park and play.
+法 A: J'aime ce moment. On peut aller au parc et jouer.
+日 A: わたしは その ときが すきだ。 parkへ あそびに いける。
+韓 A: 나는 그때를 좋아해. 공원에 가서 놀 수 있어.
+
+中 B: 好。到時候花會開。
+英 B: Ok. The flowers will open then.
+法 B: Ok. Les fleurs s'ouvriront alors.
+日 B: いいよ。 その とき 花が さく。
+韓 B: 그래. 그때 꽃이 필 거야.
+
+中 A: 是。到時候我們去看花。
+英 A: Yes. We will go to see the flowers then.
+法 A: Oui. Nous irons voir les fleurs alors.
+日 A: うん。 その とき わたしたちは 花を みに いく。
+韓 A: 그래. 그때 우리 꽃을 보러 가.
+
+中 A: 今天下雨了。
+英 A: It is raining today.
+法 A: Il pleut aujourd'hui.
+日 A: きょうは あめが ふる。
+韓 A: 오늘은 비가 와.
+
+中 B: 是。我沒有拿 umbrella。
+英 B: Yes. I did not take my umbrella.
+法 B: Oui. Je n'ai pas pris mon parapluie.
+日 B: うん。 わたしは umbrellaを もって いない。
+韓 B: 그래. 나는 우산을 안 가져왔어.
+
+中 A: 我有。我們一起走。
+英 A: I have one. We go together.
+法 A: J'en ai un. Nous marchons ensemble.
+日 A: わたしは ある。 いっしょに いこう。
+韓 A: 나는 있어. 우리 같이 가.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不用謝。走吧。
+英 A: No thanks. We go now.
+法 A: Pas merci. Nous allons à la maison.
+日 A: いいよ。 いこ。
+韓 A: 아니에요. 가자.
+
+中 B: 好。你的衣服有一點水了。
+英 B: Ok. Your clothes have some water.
+法 B: Ok. Tes vêtements ont un peu d'eau.
+日 B: いいよ。 あなたの 服に 水が すこし ある。
+韓 B: 그래. 네 옷에 물이 조금 있어.
+
+中 A: 沒事。到家再穿衣服。
+英 A: It is ok. I will wear my clothes at home.
+法 A: Ce n'est rien. Je m'habille à la maison.
+日 A: だいじょうぶ。 いえに かえって 服を きたす。
+韓 A: 괜찮아. 집에 가서 옷을 입어.
+
+中 A: 天氣很好。
+英 A: Today is very good.
+法 A: Aujourd'hui il fait très bon.
+日 A: てんきは とても いい。
+韓 A: 오늘 날씨가 정말 좋아.
+
+中 B: 是。天空很藍，雲很少。
+英 B: Yes. The sky is very blue. There are some clouds.
+法 B: Oui. Le ciel est très bleu. Il y a quelques nuages.
+日 B: うん。 そらは とても あおくて、 くもは すこし。
+韓 B: 그래. 하늘은 아주 파래. 구름이 조금 있어.
+
+中 A: 是。今天不冷不熱。
+英 A: Yes. Today it is not cold and not hot.
+法 A: Oui. Aujourd'hui il ne fait ni froid ni chaud.
+日 A: うん。 きょうは つめたくない。 あつくない。
+韓 A: 그래. 오늘은 춥지도 덥지도 않아.
+
+中 B: 最喜歡這樣的天氣。可以出去走。
+英 B: I like this day the most. We can go out and walk.
+法 B: J'aime ce temps le plus. On peut aller marcher.
+日 B: わたしは この てんきが いちばん すきだ。 でて あるける。
+韓 B: 나는 이런 날씨를 제일 좋아해. 나가서 걸을 수 있어.
+
+中 A: 我們去海邊。
+英 A: We go to the sea.
+法 A: Nous allons à la mer.
+日 A: うみへ いこう。
+韓 A: 바다로 가자.
+
+中 B: 好。坐 bus 20 分鐘就到。
+英 B: Ok. It is 20 minutes by bus.
+法 B: Ok. C'est 20 minutes en bus.
+日 B: いいよ。 busで 20ぷんに つく。
+韓 B: 그래. 버스로 20분이면 도착해.
+
+中 A: 你聽。那個聲音很大。
+英 A: Listen. That music is very big.
+法 A: Entends. Cette musique est très forte.
+日 A: きいて。 その おとが とても 大きい。
+韓 A: 들어봐. 그 음악이 아주 커.
+
+中 B: 是。快下雨了。
+英 B: Yes. It will rain soon.
+法 B: Oui. Il va pleuvoir maintenant.
+日 B: うん。 まもなく あめが ふる。
+韓 B: 그래. 곧 비가 올 거야.
+
+中 A: 我們快回家。
+英 A: We go home fast.
+法 A: Nous allons vite à la maison.
+日 A: さそく いえに いこう。
+韓 A: 빨리 집에 가자.
+
+中 B: 好。不要用電腦和電。
+英 B: Ok. Do not use the computer and the light.
+法 B: Ok. N'utilise pas l'ordinateur et la lumière.
+日 B: いいよ。 computerと でんきを つかわない。
+韓 B: 그래. 컴퓨터와 전기를 쓰지 마.
+
+中 A: 知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我要關門。
+英 B: I will close the gate.
+法 B: Je vais fermer la porte.
+日 B: わたしは 門を しまう。
+韓 B: 나는 문을 닫을 거야.
+
+中 A: 我來拿衣服。快。
+英 A: I come to take the clothes. Fast.
+法 A: Je viens prendre les vêtements. Vite.
+日 A: わたしは 服を とりに くる。 はやく。
+韓 A: 나는 옷을 가지러 왔어. 빨리.
+
+中 A: 今天很熱。
+英 A: Today is very hot.
+法 A: Aujourd'hui il fait très chaud.
+日 A: きょうは とても あつい。
+韓 A: 오늘은 아주 더워.
+
+中 B: 是。sun 很大。
+英 B: Yes. The sun is very big.
+法 B: Oui. Le soleil est très grand.
+日 B: うん。 sunが とても 大きい。
+韓 B: 그래. 해가 아주 커.
+
+中 A: 我要 cap 和 glasses。
+英 A: I want a cap and glasses.
+法 A: Je veux cap et glasses.
+日 A: わたしは capと glassesを ほしい。
+韓 A: 나는 cap이랑 glasses를 원해.
+
+中 B: 好。我這裡有 1 個。
+英 B: Ok. I have 1 here.
+法 B: Ok. J'en ai 1 ici.
+日 B: いいよ。 ここに 1 つ ある。
+韓 B: 그래. 여기에 1개 있어.
+
+中 A: 謝謝。我還要水。
+英 A: Thanks. I want more water.
+法 A: Merci. Je veux plus d'eau.
+日 A: ありがとう。 わたしは 水が ほしい。
+韓 A: 고마워. 나는 물이 더 필요해.
+
+中 B: 我也是。天熱要多喝水。
+英 B: I do too. When it is hot, you must drink more water.
+法 B: Moi aussi. Quand il fait chaud, tu dois boire plus d'eau.
+日 B: わたしも そう。 あつい とき 水を たくさん のむ。
+韓 B: 나도 그래. 더울 때는 물을 많이 마셔.
+
+中 A: 你看，冰的東西在店裡。
+英 A: Look. The cold things are in the shop.
+法 A: Regarde. Les choses froides sont dans la boutique.
+日 A: みって。 つめたい ものが 店に ある。
+韓 A: 봐. 차가운 것이 가게에 있어.
+
+中 B: 我要 1 個。你要幾個？
+英 B: I want 1. How many do you want?
+法 B: Je veux 1. Tu en veux combien ?
+日 B: わたしは 1 つ ほしい。 あなたは いくつ？
+韓 B: 나는 1개. 너는 몇 개?
+
+中 A: 2 個。我可以幫你拿。
+英 A: 2. I can help you take them.
+法 A: 2. Je peux t'aider à les prendre.
+日 A: 2 つ。 わたしは たすける ことが できる。
+韓 A: 2개. 내가 도와줄게.
+
+中 B: 好。謝謝。
+英 B: Ok. Thanks.
+法 B: Ok. Merci.
+日 B: いいよ。 ありがとう。
+韓 B: 그래. 고마워.
+
+中 A: 大風要來了。
+英 A: A big wind is coming.
+法 A: Un grand vent arrive.
+日 A: つよい かぜが くる。
+韓 A: 큰 바람이 불어.
+
+中 B: 是。PA 說明天會很大。
+英 B: Yes. The PA says it will be strong tomorrow.
+法 B: Oui. Le PA dit que demain ce sera fort.
+日 B: うん。 PAは あした とても つよい と いう。
+韓 B: 그래. PA가 내일 아주 세다고 하대.
+
+中 A: 那我們不要出門。
+英 A: Then we stay at home.
+法 A: Alors nous restons à la maison.
+日 A: じゃ うちには でない。
+韓 A: 그럼 우리 집에 있자.
+
+中 B: 好。家裡的東西我都放好。
+英 B: Ok. I put all the things in the house.
+法 B: Ok. J'ai mis toutes les choses à la maison.
+日 B: いいよ。 いえの ものは すべて なおした。
+韓 B: 그래. 집의 물건은 다 넣어뒀어.
+
+中 A: 我來幫你。這裡的東西要放進去。
+英 A: I help you. The things here must go in.
+法 A: Je t'aide. Les choses ici doivent être dans la maison.
+日 A: わたしは たすける。 ここの ものは いれる ことが ひつよう。
+韓 A: 내가 도와줄게. 여기 있는 건 안에 넣어야 해.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 不用謝。要快點，天黑以前做完。
+英 A: No thanks. We must be fast and finish before it is dark.
+法 A: Pas merci. Il faut faire vite et finir avant la nuit.
+日 A: いいよ。 はやく して、 くらい まえに おわらせる。
+韓 A: 아니에요. 빨리 하고, 어두워지기 전에 끝내야 해.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 3 月到了。
+英 A: It is month 3 now.
+法 A: C'est le mois 3.
+日 A: 3 がつに なった。
+韓 A: 3월이야.
+
+中 B: 是。樹都綠了。
+英 B: Yes. The trees are all green.
+法 B: Oui. Tous les arbres sont verts.
+日 B: うん。 きは みんな あおい。
+韓 B: 그래. 나무는 모두 초록이야.
+
+中 A: 鳥也回來了。你聽。
+英 A: The birds come back too. Listen.
+法 A: Les oiseaux sont aussi revenus. Entends.
+日 A: とりも もどってきた。 きいて。
+韓 A: 새들도 돌아왔어. 들어봐.
+
+中 B: 是。真好聽。
+英 B: Yes. It is very good to hear.
+法 B: Oui. C'est très bon à entendre.
+日 B: うん。 とても きに なる。
+韓 B: 그래. 정말 듣기 좋아.
+
+中 A: 我們去外邊坐一下。
+英 A: We sit outside a little.
+法 A: Nous allons dans la rue et nous asseyons un peu.
+日 A: わたしは そとで すこし すむ。
+韓 A: 밖으로 나가서 좀 앉자.
+
+中 B: 好。今天天氣好，我也很開心。
+英 B: Ok. Today is good and I am happy too.
+法 B: Ok. Aujourd'hui c'est un bon jour et je suis content aussi.
+日 B: いいよ。 きょうは てんきが よく、 わたしも うれしい。
+韓 B: 그래. 오늘 날씨가 좋고, 나도 기뻐.
+
+中 A: 是。這是我最喜歡的時候。
+英 A: Yes. This is the time I like the most.
+法 A: Oui. C'est le moment que j'aime le plus.
+日 A: うん。 これが わたしの いちばん すきな ときだ。
+韓 A: 그래. 이게 내가 제일 좋아하는 때야.
+
+中 B: 是。6 月要更熱了。
+英 B: Yes. In month 6 it will be hotter.
+法 B: Oui. Au mois 6 il fera plus chaud.
+日 B: うん。 6 がつは もっと あつい。
+韓 B: 그래. 6월에는 더 더워져.
+
+中 A: 那我們 6 月去海邊。
+英 A: Then we go to the sea in month 6.
+法 A: Alors nous allons à la mer au mois 6.
+日 A: じゃ 6 がつの うみへ いこう。
+韓 A: 그럼 6월에 바다로 가자.
+
+中 B: 好。就這樣說。
+英 B: Ok. We do like that.
+法 B: Ok. On fait comme ça.
+日 B: いいよ。 そう しよう。
+韓 B: 그래. 그렇게 하자.

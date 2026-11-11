@@ -1,0 +1,603 @@
+# mini-x 多語對話：學校
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/school.txt 相同。
+
+中 A: 老師好。
+英 A: Hello teacher.
+法 A: Bonjour professeur.
+日 A: せんせい こんにちは。
+韓 A: 선생님 안녕하세요.
+
+中 B: 你好。請坐。
+英 B: Hello. Sit down.
+法 B: Bonjour. Assieds-toi.
+日 B: こんにちは。 すんで ください。
+韓 B: 안녕하세요. 앉으세요.
+
+中 A: 謝謝老師。
+英 A: Thank you, teacher.
+法 A: Merci, professeur.
+日 A: せんせい ありがとう。
+韓 A: 선생님 감사합니다.
+
+中 B: 今天有什麼事？
+英 B: What is it today?
+法 B: Qu'est-ce qu'il y a aujourd'hui ?
+日 B: きょうは なに？
+韓 B: 오늘 무슨 일이에요?
+
+中 A: 我有一個題不會。
+英 A: I have 1 question I can not do.
+法 A: J'ai un problème que je ne sais pas faire.
+日 A: わたしが わからない もんだいが 1 つ ある。
+韓 A: 내가 못 푸는 문제가 1개 있어.
+
+中 B: 說來聽聽。
+英 B: Tell me.
+法 B: Dis-moi.
+日 B: はなして ください。
+韓 B: 말해 봐.
+
+中 A: 這題怎麼做？
+英 A: How do I do this question?
+法 A: Comment faire ce problème ?
+日 A: この もんだいは どう する？
+韓 A: 이 문제는 어떻게 해?
+
+中 B: 你先說說看，你想了什麼。
+英 B: You say first. What did you think?
+法 B: Dis d'abord. Qu'est-ce que tu as dans la tête ?
+日 B: まず はなして ください。 なにを かんがえた？
+韓 B: 먼저 말해 봐. 무슨 생각했어?
+
+中 A: 我想了一個方法，不對。
+英 A: I have 1 idea. It is not good.
+法 A: J'ai une idée, mais ce n'est pas bon.
+日 A: わたしは 1 つの ほうほうを かんがえた。 ちがう。
+韓 A: 나는 한 방법을 생각했어. 틀려.
+
+中 B: 不要快。再想一次。
+英 B: Do not be fast. Think again.
+法 B: Ne va pas vite. Réessaie.
+日 B: すばやく しない ように。 もう 1 かいに かんがえて。
+韓 B: 서두르지 마. 한 번 더 생각해.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 昨天學了什麼？
+英 B: What did I learn yesterday?
+法 B: Qu'as-tu appris hier ?
+日 B: きのうは なにを べんきょうした？
+韓 B: 어제 무엇을 배웠어?
+
+中 A: 昨天學了 3 個詞和 1 個數學題。
+英 A: Yesterday I learned 3 things and 1 math problem.
+法 A: Hier j'ai appris 3 choses et 1 problème de mathématiques.
+日 A: きのうは ことば 3 つ と すうがくの もんだい 1 つを べんきょうした。
+韓 A: 어제 말 3개와 수학 문제 1개를 배웠어.
+
+中 B: 難嗎？
+英 B: Is it hard?
+法 B: C'est difficile ?
+日 B: むずかしい？
+韓 B: 어려워?
+
+中 A: 不太難。你回去做 10 題就會了。
+英 A: Not very hard. Do 10 questions at home and you will know.
+法 A: Pas très difficile. Fais 10 problèmes à la maison et tu sauras.
+日 A: あんまり むずかしくない。 うちで もんだいを 10 つ したら わかる。
+韓 A: 너무 어렵진 않아. 집에서 문제 10개 하면 할 수 있어.
+
+中 B: 我做。這樣有點多。
+英 B: I do it. This is a little many.
+法 B: Je le fais. C'est un peu beaucoup.
+日 B: わたしが する。 ちょっと おおい。
+韓 B: 내가 할게. 좀 많아.
+
+中 A: 10 題不多。你做幾題就坐一下。
+英 A: 10 problems are not many. Do some problems, then sit down.
+法 A: 10 problèmes, ce n'est pas beaucoup. Fais quelques problèmes, puis assieds-toi.
+日 A: 10 つは おおい こと じゃない。 すこし やってから すんで。
+韓 A: 문제 10개는 많아. 몇 개 풀고 좀 앉아.
+
+中 B: 好。坐一下再來做。
+英 B: Ok. I sit down a little, then I come again.
+法 B: Ok. Je m'assieds un peu, puis je reviens.
+日 B: いいよ。 すこし すんで、 また する。
+韓 B: 그래. 좀 앉았다가 다시 할게.
+
+中 A: 對。坐 10 分鐘就好。
+英 A: Yes. Sit for 10 minutes, that is all.
+法 A: Bien. Assieds-toi 10 minutes, c'est tout.
+日 A: そう。 10 ぷん すんで おわり。
+韓 A: 맞아. 10분만 앉으면 돼.
+
+中 B: 我會做。
+英 B: I can do it.
+法 B: Je sais faire.
+日 B: わたしは できる。
+韓 B: 나 할 수 있어.
+
+中 A: 你知道下週的 test 嗎？
+英 A: Do you know the test next week?
+法 A: Est-ce que tu sais pour le test de la semaine prochaine ?
+日 A: らいしゅうの テストを しってる？
+韓 A: 다음 주 시험 알아?
+
+中 B: 知道。日子是 15 日。
+英 B: I know. The day is 15.
+法 B: Je sais. Le jour est 15.
+日 B: しってる。 にちじは 15 にち。
+韓 B: 알아. 날짜는 15일이야.
+
+中 A: 我有一點怕。
+英 A: I have a little fear.
+法 A: J'ai un peu peur.
+日 A: すこし こわい。
+韓 A: 조금 무서워.
+
+中 B: 不要怕。你每天都學，很好。
+英 B: Do not fear. You study every day. That is good.
+法 B: N'aie pas peur. Tu étudies chaque jour. C'est bon.
+日 B: こわが ないで。 まいにち べんきょうして いる。 それは いい。
+韓 B: 무서워하지 마. 매일 배우고 있어. 잘했어.
+
+中 A: 媽媽說我上次做得不好。
+英 A: Mother says I did not do good last time.
+法 A: Maman dit que je n'ai pas bien fait avant.
+日 A: ははが さいごは よく できなかった と いった。
+韓 A: 엄마가 지난번에 잘 못했다고 했어.
+
+中 B: 上次是上次。這次會更好。
+英 B: Last time is last time. This time will be good.
+法 B: La fois d'avant, c'est la fois d'avant. Cette fois, ce sera bon.
+日 B: さいごは さいご。 こんせつ は もっと よく なる。
+韓 B: 지난번은 지난번이야. 이번에는 더 잘할 거야.
+
+中 A: 真的嗎？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 真的。你比去年更懂事。
+英 B: Really. You know more things now. Last year is less.
+法 B: Vraiment. Tu sais plus de choses que l'année d'avant.
+日 B: ほんとう。 きょねんより よく わかっている。
+韓 B: 그래. 작년에 더 잘 알아.
+
+中 A: 那我更想學了。
+英 A: Then I want to learn more.
+法 A: Alors je veux apprendre plus.
+日 A: じゃ もっと べんきょうしたい。
+韓 A: 그럼 더 배우고 싶어.
+
+中 B: 我想也是。
+英 B: I think so too.
+法 B: Moi aussi.
+日 B: わたしも おもう。
+韓 B: 나도 그래.
+
+中 A: 學校裡有很多書。
+英 A: There are many books in the school.
+法 A: Il y a beaucoup de livres à l'école.
+日 A: がっこうに ほんが たくさん ある。
+韓 A: 학교에 책이 많아.
+
+中 B: 是的。有 2 千個。
+英 B: Yes. There are 2000.
+法 B: Oui. Il y en a 2000.
+日 B: うん。 2000 こ ある。
+韓 B: 응. 2000개 있어.
+
+中 A: 我可以拿回去看嗎？
+英 A: Can I take them home and read them?
+法 A: Puis-je les prendre à la maison et les lire ?
+日 A: うちへ もって よんで いい？
+韓 A: 집에 가져가서 읽어도 돼?
+
+中 B: 可以。每人可以拿 3 個，2 週裡要還。
+英 B: Yes. Every person can take 3, and must give them back in 2 weeks.
+法 B: Oui. Chaque personne peut prendre 3. Après 2 semaines, ils reviennent.
+日 B: いいよ。 ひとりで 3 つ もって いい。 2 しゅうで かえして ね。
+韓 B: 그래. 한 사람이 3개 가져가도 돼. 2주 후에 돌려줘야 해.
+
+中 A: 我要看數學和物理。
+英 A: I want to read math and physics.
+法 A: Je veux lire les mathématiques et la physique.
+日 A: すうがくと ぶつりくを よみたい。
+韓 A: 수학과 물리를 읽고 싶어.
+
+中 B: 好。你要記得還。
+英 B: Ok. Remember to give them back.
+法 B: Ok. N'oublie pas de les donner.
+日 B: いいよ。 かえすことを わすれない ように。
+韓 B: 그래. 돌려주는 것 잊지 마.
+
+中 A: 我知道。我會看快一點。
+英 A: I know. I will read fast.
+法 A: Je sais. Je vais lire rapide.
+日 A: しってる。 はやく よむ。
+韓 A: 알아. 빨리 읽을게.
+
+中 B: 看不懂就來問我。
+英 B: If you do not know, come and ask me.
+法 B: Ok. Si tu ne sais pas, viens me demander.
+日 B: わからない ときは わたしに きいて。
+韓 B: 모르면 나한테 물어봐.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 裡邊太多人說話。
+英 B: Too many people say things in the room.
+法 B: Trop de gens parlent dans la classe.
+日 B: なかに ひとが たくさん はなして いる。
+韓 B: 안에 사람들이 너무 많이 말해.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 응.
+
+中 B: 老師要來了。
+英 B: The teacher comes.
+法 B: Le professeur vient.
+日 B: せんせいが くる。
+韓 B: 선생님이 오셔.
+
+中 A: 快坐好。
+英 A: Sit down now.
+法 A: Assieds-toi.
+日 A: いますぐ すんで。
+韓 A: 빨리 앉아.
+
+中 B: 我要拿書。
+英 B: I want to take my book.
+法 B: Je veux prendre mon livre.
+日 B: ほんを とりたい。
+韓 B: 책을 가져갈 거야.
+
+中 A: 你拿好了嗎？
+英 A: Did you take it?
+法 A: As-tu pris ton livre ?
+日 A: もう とった？
+韓 A: 가져갔어?
+
+中 B: 拿了。
+英 B: I have it.
+法 B: Je l'ai pris.
+日 B: とった。
+韓 B: 가져왔어.
+
+中 A: 那上學吧。
+英 A: Then go to school.
+法 A: Alors allons à l'école.
+日 A: じゃ がっこうへ いこう。
+韓 A: 그럼 학교 가자.
+
+中 B: 我們一起做一個 science 的小東西吧。
+英 B: We make 1 small science thing.
+法 B: Faisons ensemble une petite chose de science.
+日 B: いっしょに かがくの ちいさな ものを 1 つ つくろう。
+韓 B: 같이 과학 작은 거 하나 만들자.
+
+中 A: 好想法。做什麼？
+英 A: Good idea. What do we make?
+法 A: Bonne idée. Qu'est-ce qu'on fait ?
+日 A: いい かんがえ。 なにを つくる？
+韓 A: 좋은 생각. 뭘 만들까?
+
+中 B: 做一個會動的 robot。
+英 B: Make 1 robot that can walk.
+法 B: Faisons un robot qui marche.
+日 B: あるける ロボットを 1 つ つくろう。
+韓 B: 움직이는 로봇 하나 만들자.
+
+中 A: 要用什麼東西？
+英 A: What things do we use?
+法 A: Qu'est-ce qu'on utilise ?
+日 A: なにを つかう？
+韓 A: 뭐를 사용해?
+
+中 B: 電腦、一個小 machine、幾塊 wood 和 wire。
+英 B: A computer, 1 small machine, some wood and wire.
+法 B: Un ordinateur, une petite machine, de l'arbre et du fil.
+日 B: コンピュータ、 ちいさな きかい 1 つ、 きと せんでんを すこし。
+韓 B: 컴퓨터, 작은 기계 하나, 나무 몇 개, 전선.
+
+中 A: 好。我來做 hand，你來做 brain。
+英 A: Ok. I make the hand, you make the head.
+法 A: Ok. Je fais la main, tu fais la tête.
+日 A: いいよ。 わたしは てを つくり、 あなたは あたまを つくる。
+韓 A: 그래. 나는 손을 만들고, 너는 머리를 만들어.
+
+中 B: 好想法。做完我們給老師看。
+英 B: Good idea. When we finish, we show the teacher.
+法 B: Bonne idée. Quand c'est fini, on le montre au professeur.
+日 B: いい かんがえ。 おわったら せんせいに みせよう。
+韓 B: 좋은 생각. 다 되면 선생님께 보여드리자.
+
+中 A: 好。做壞了也沒事。
+英 A: Ok. It is not a problem if it is bad.
+法 A: Ok. Ce n'est pas un problème si c'est mauvais.
+日 A: いいよ。 こわれても だいじょうぶ。
+韓 A: 그래. 망가져도 괜찮아.
+
+中 B: 是。做壞了就再做一個。
+英 B: Yes. If it is bad, we make 1 more.
+法 B: Oui. Si c'est mauvais, on en fait 1.
+日 B: うん。 こわれても もう 1 つ つくる。
+韓 B: 응. 망가지면 다시 하나 만들자.
+
+中 A: 你的 grade 是幾？
+英 A: What is your grade?
+法 A: Quel est ton grade ?
+日 A: あなたの グレードは なん？
+韓 A: 너 학년이 몇이야?
+
+中 B: 我在第 3 年。你呢？
+英 B: I am in year 3. And you?
+法 B: Je suis en 3ème année. Et toi ?
+日 B: わたしは 3 グレード。 あなたは？
+韓 B: 나는 3학년. 너는?
+
+中 A: 我在第 4 年。
+英 A: I am in year 4.
+法 A: Je suis en 4ème année.
+日 A: わたしは 4 グレード。
+韓 A: 나는 4학년.
+
+中 B: 你比我高。
+英 B: Your grade is big. My grade is small.
+法 B: Ton grade est grand. Mon grade est petit.
+日 B: あなたの グレードは わたしのより ひとつ うえ。
+韓 B: 네 학년이 나보다 높아.
+
+中 A: 是。我 12 歲了。
+英 A: Yes. I am 12.
+法 A: Oui. J'ai 12 ans.
+日 A: うん。 わたしは 12 さい。
+韓 A: 응. 나는 12살이야.
+
+中 B: 我 11 歲。
+英 B: I am 11.
+法 B: J'ai 11 ans.
+日 B: わたしは 11 さい。
+韓 B: 나는 11살이야.
+
+中 A: 你在哪裡學？
+英 A: Where do you study?
+法 A: Où étudies-tu ?
+日 A: あなたは どこで べんきょうする？
+韓 A: 너는 어디에서 배워?
+
+中 B: 我在東邊的學校。學校很大，有 20 個老師。
+英 B: I study at the school far away. The school is big. It has 20 teachers.
+法 B: J'étudie à l'école loin d'ici. L'école est grande. Il y a 20 professeurs.
+日 B: わたしは ひがしの がっこうで べんきょうする。 がっこうは 大きい。 せんせいが 20 にん。
+韓 B: 나는 동쪽 학교에서 배워. 학교는 크고, 선생님이 20명이야.
+
+中 A: 我們學校有 15 個老師。
+英 A: Our school has 15 teachers.
+法 A: Notre école a 15 professeurs.
+日 A: わが がっこうには せんせいが 15 にん。
+韓 A: 우리 학교에는 선생님이 15명이야.
+
+中 B: 那你要學很多東西。
+英 B: Then you must learn many things.
+法 B: Alors tu dois apprendre beaucoup de choses.
+日 B: じゃ たくさんの ものを べんきょう しないと。
+韓 B: 그럼 많은 걸 배워야 해.
+
+中 A: 是。不過我喜歡學。
+英 A: Yes. But I like to learn.
+法 A: Oui. Mais j'aime apprendre.
+日 A: うん。 けれど べんきょうは すき。
+韓 A: 응. 하지만 배우는 건 좋아해.
+
+中 B: 我也喜歡。我想做醫生。
+英 B: I like it too. I want to be a doctor.
+法 B: Moi aussi. Je veux être médecin.
+日 B: わたしも すき。 わたしは いしゃに なりたい。
+韓 B: 나도 좋아. 나는 의사가 되고 싶어.
+
+中 A: 我想做 engineer，做飛機。
+英 A: I want to work with machine and make a plane.
+法 A: Je veux travailler avec des machines et faire un avion.
+日 A: わたしは きかいを つくる 人に なりたい。 ひこうきを つくる。
+韓 A: 나는 기계를 만드는 사람이 되고 싶어. 비행기를 만들어.
+
+中 B: 那我們一起做飛機。
+英 B: Then we make a plane.
+法 B: Alors faisons un avion ensemble.
+日 B: じゃ いっしょに ひこうきを つくろう。
+韓 B: 그럼 같이 비행기를 만들자.
+
+中 A: 好。我們先做一個小 model。
+英 A: Ok. We first make 1 small model.
+法 A: Ok. Faisons d'abord un petit model.
+日 A: いいよ。 まず 小さな モデルを 1 つ つくろう。
+韓 A: 그래. 먼저 작은 모델 하나를 만들자.
+
+中 B: 你今天的書拿來了嗎？
+英 B: Did you bring your book today?
+法 B: As-tu pris ton livre aujourd'hui ?
+日 B: きょうの ほんを してきた？
+韓 B: 오늘 책 가져왔어?
+
+中 A: 拿來了。3 個。
+英 A: I have it. 3.
+法 A: Je l'ai pris. 3.
+日 A: きた。 3 つ。
+韓 A: 가져왔어. 3개.
+
+中 B: 我只有 1 個。
+英 B: I have only 1.
+法 B: J'ai seulement 1.
+日 B: わたしは 1 つ だけ。
+韓 B: 나는 1개만 있어.
+
+中 A: 那一個書我們一起看。
+英 A: We read 1 book. You read too.
+法 A: Nous lisons ce livre ensemble.
+日 A: その ほんを 2 人で よもう。
+韓 A: 그 책은 같이 읽자.
+
+中 B: 好。你看第幾？
+英 B: Ok. Which do you read?
+法 B: Ok. Tu lis quelle page ?
+日 B: いいよ。 あなたは なんばん？
+韓 B: 그래. 몇 번째 읽어?
+
+中 A: 第 5 句。
+英 A: The 5.
+法 A: La 5ème.
+日 A: 5 ばんめの 句。
+韓 A: 5번째 문장이야.
+
+中 B: 我看到第 10 句了。
+英 B: I read to the 10.
+法 B: Je suis jusqu'à la 10ème.
+日 B: わたしは 10 ばんめまでの 句を よんだ。
+韓 B: 나는 10번째 문장까지 읽었어.
+
+中 A: 那你說第 5 句是什麼。
+英 A: Then say what the 5 is.
+法 A: Alors dis ce que dit la 5ème.
+日 A: じゃ 5 ばんめの 句は なに？
+韓 A: 그럼 5번째 문장이 뭐야?
+
+中 B: 等一下。我要回去看。
+英 B: Wait. I go home to read.
+法 B: Attends. Je retourne lire.
+日 B: ちょっと まって。 うちへ かえって よむ。
+韓 B: 잠깐. 집에 가서 읽을게.
+
+中 A: 好。你看完了再說。
+英 A: Ok. Say it when you finish reading.
+法 A: Ok. Dis-le quand tu as fini de lire.
+日 A: いいよ。 よみおわったら はなして。
+韓 A: 그래. 다 읽고 말해.
+
+中 B: 老師，我今天有一點病。
+英 B: Teacher, I am a little sick today.
+法 B: Professeur, je suis un peu malade aujourd'hui.
+日 B: せんせい、 きょうは すこし びょうき。
+韓 B: 선생님, 오늘 조금 아파요.
+
+中 A: 哪裡不好？
+英 A: Where is not good?
+法 A: Qu'est-ce qui ne va pas ?
+日 A: どこが わるい？
+韓 A: 어디가 아파?
+
+中 B: 頭有一點 headache。
+英 B: My head is a little sick.
+法 B: Ma tête est un peu malade.
+日 B: あたまが すこし いたい。
+韓 B: 머리가 좀 아파.
+
+中 A: 你要去看醫生嗎？
+英 A: Do you want to see a doctor?
+法 A: Veux-tu voir un médecin ?
+日 A: いしゃに いくの？
+韓 A: 의사한테 갈 거야?
+
+中 B: 我想坐一下。
+英 B: I want to sit a little.
+法 B: Je veux m'asseoir un peu.
+日 B: すこし すみたい。
+韓 B: 좀 앉고 싶어.
+
+中 A: 好。你坐這裡，喝水。
+英 A: Ok. Sit here and drink water.
+法 A: Ok. Assieds-toi ici et bois de l'eau.
+日 A: いいよ。 ここに すんで、 水を のみます。
+韓 A: 그래. 여기 앉아서 물 마셔.
+
+中 B: 謝謝老師。
+英 B: Thank you, teacher.
+法 B: Merci, professeur.
+日 B: せんせい ありがとう。
+韓 B: 선생님 감사합니다.
+
+中 A: 要是下午還不好，就回家。
+英 A: If you are not good in the afternoon, go home.
+法 A: Si tu es malade cet après-midi, rentre à la maison.
+日 A: ごごまで びょうきが なおら なければ、 うちへ かえって。
+韓 A: 오후까지 아프면 집에 가.
+
+中 B: 好。我會和媽媽說。
+英 B: Ok. I will tell mother.
+法 B: Ok. Je vais le dire à maman.
+日 B: いいよ。 ははに はなします。
+韓 B: 그래. 엄마한테 말할게.
+
+中 A: 學完了，我們去玩嗎？
+英 A: We finish our study. Do we go and play?
+法 A: On a fini d'étudier. On va jouer ?
+日 A: べんきょうが おわったら、 あそびに いこうか？
+韓 A: 공부가 끝났어. 놀러 갈까?
+
+中 B: 好。去哪裡？
+英 B: Ok. Where to?
+法 B: Ok. Où ?
+日 B: いいよ。 どこへ？
+韓 B: 그래. 어디로?
+
+中 A: 去 park。
+英 A: To the park.
+法 A: Au parc.
+日 A: こうえんへ いく。
+韓 A: 공원으로 가.
+
+中 B: 好。我要拿水。
+英 B: Ok. I want to take water.
+法 B: Ok. Je veux prendre de l'eau.
+日 B: いいよ。 水を もって いく。
+韓 B: 그래. 물 가져갈게.
+
+中 A: 我拿球。我們打一會兒。
+英 A: I take the ball. We play a little.
+法 A: Je prends la balle. Nous jouons un peu.
+日 A: わたしは ボールを もつ。 すこし あそぶ。
+韓 A: 나는 공을 가져갈게. 조금 놀자.
+
+中 B: 好。不過我 5 分鐘後要回去。
+英 B: Ok. But I must go home after 5 minutes.
+法 B: Ok. Mais je dois rentrer dans 5 minutes.
+日 B: いいよ。 けれど 5 ぷんごに かえら なければ ならない。
+韓 B: 그래. 하지만 5분 후에 가야 해.
+
+中 A: 為什麼？
+英 A: How?
+法 A: Comment ?
+日 A: なぜ？
+韓 A: 왜?
+
+中 B: 媽媽要我買東西。
+英 B: Mother wants me to buy things.
+法 B: Maman veut que j'achète des choses.
+日 B: ははが ものを かうように いった。
+韓 B: 엄마가 물건 사 오라고 하셨어.
+
+中 A: 好。那我們快一點。
+英 A: Ok. Then we go fast.
+法 A: Ok. Alors allons vite.
+日 A: いいよ。 じゃ はやく いこう。
+韓 A: 그래. 그럼 빨리 가자.
+
+中 B: 好。走！
+英 B: Ok. Go!
+法 B: Ok. Allons !
+日 B: いいよ。 いって こう！
+韓 B: 그래. 가자!

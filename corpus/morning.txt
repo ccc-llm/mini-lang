@@ -1,0 +1,417 @@
+# mini-x 多語對話：早晨
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/morning.txt 相同。
+
+中 A: 幾點了？
+英 A: What hour is it now?
+法 A: Quelle heure est-il ?
+日 A: いま なんじ？
+韓 A: 지금 몇 시야?
+
+中 B: 現在 7 點 10 分。
+英 B: Now it is 7 hour and 10 minute.
+法 B: Maintenant il est 7 heures 10 minutes.
+日 B: いま 7じ 10ふん。
+韓 B: 지금 7시 10분이야.
+
+中 A: 我要起來了。
+英 A: I will stand now.
+法 A: Je vais me lever.
+日 A: わたしは おきます。
+韓 A: 나 이제 일어날게.
+
+中 B: 這麼早？
+英 B: So early?
+法 B: Si tôt ?
+日 B: そう はやい？
+韓 B: 이렇게 일찍?
+
+中 A: 是。今天有很多事。
+英 A: Yes. Today there are many things.
+法 A: Oui. Aujourd'hui il y a beaucoup de choses.
+日 A: はい。 きょうは ことが たくさん ある。
+韓 A: 응. 오늘 할 일이 많아.
+
+中 B: 那你快點。媽媽做飯了。
+英 B: Then be fast. Mother cooked food.
+法 B: Alors fais vite. Maman a fait à manger.
+日 B: じゃ はやく して。 おかあさんが ごはんを つくった。
+韓 B: 그럼 빨리 해. 엄마가 밥을 했어.
+
+中 A: 好。我洗臉。
+英 A: Ok. I wash my face.
+法 A: Ok. Je lave mon visage.
+日 A: いいよ。 わたしは かおを あらって。
+韓 A: 그래. 나는 얼굴을 씻을게.
+
+中 B: 快去。不可以晚。
+英 B: Go fast. You can not be late.
+法 B: Va vite. Tu ne dois pas être tard.
+日 B: はやく いきな。 おそくなったら だめだ。
+韓 B: 빨리 가. 늦으면 안 돼.
+
+中 A: 媽媽，今天天氣好嗎？
+英 A: Mother, is it a good day today?
+法 A: Maman, il fait bon aujourd'hui ?
+日 A: おかあさん、 きょうは いい てんき？
+韓 A: 엄마, 오늘 날씨가 좋으세요?
+
+中 B: 好。天氣不冷，可以穿少一點的衣服。
+英 B: Good. It is not cold, you can wear less clothes.
+法 B: Bon. Il ne fait pas froid, tu peux porter moins de vêtements.
+日 B: いい。 さむくないから、 すこし すくない 服を きていい。
+韓 B: 좋아. 추우니까 조금 덜 입어도 돼.
+
+中 A: 要下雨嗎？
+英 A: Will it rain?
+法 A: Il va pleuvoir ?
+日 A: あめが ふるの？
+韓 A: 비가 와요?
+
+中 B: 聽說下午有一點雨。你拿 umbrella。
+英 B: I heard there is some rain in the afternoon. Take umbrella.
+法 B: On dit qu'il y a un peu de pluie l'après-midi. Prends un parapluie.
+日 B: ごごに あめが すこし ふるらしい。 umbrellaを もって いきな。
+韓 B: 오후에 비가 조금 온다더라. umbrella를 가져가.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 吃了飯再去學校。
+英 B: Eat food then go to school.
+法 B: Mange et va à l'école.
+日 B: ごはんを たべてから がっこうへ いく。
+韓 B: 밥 먹고 학교 가.
+
+中 A: 好。今天有什麼菜？
+英 A: Ok. What food do we have today?
+法 A: Ok. Qu'est-ce qu'on mange aujourd'hui ?
+日 A: いいよ。 きょうは なにを たべるの？
+韓 A: 그래. 오늘 뭐 먹어?
+
+中 B: 雞蛋、菜和飯。
+英 B: Egg, food and rice.
+法 B: Œuf, nourriture et riz.
+日 B: たまごと やさいと ごはん。
+韓 B: 달걀이랑 채소, 밥이야.
+
+中 A: 我最喜歡雞蛋。
+英 A: I like egg most.
+法 A: J'aime le plus les œufs.
+日 A: わたしは たまごが いちばん すき。
+韓 A: 나는 달걀을 제일 좋아해.
+
+中 B: 那你快吃。
+英 B: Then eat fast.
+法 B: Alors mange vite.
+日 B: じゃ はやく たべな。
+韓 B: 그럼 빨리 먹어.
+
+中 A: 你今天怎麼起這麼早？
+英 A: Why do you stand so early today?
+法 A: Comment te lèves-tu si tôt aujourd'hui ?
+日 A: きょうは なんで はやく おきるの？
+韓 A: 너는 오늘 왜 이렇게 일찍 일어났어?
+
+中 B: 我媽媽今天要出門。
+英 B: My mother wants to go out today.
+法 B: Ma mère veut aller aujourd'hui.
+日 B: きょうは おかあさんが でかける。
+韓 B: 오늘 엄마가 나가.
+
+中 A: 媽媽去哪裡？
+英 A: Where does mother go?
+法 A: Où va maman ?
+日 A: おかあさんは どこへ いくの？
+韓 A: 엄마는 어디에 가요?
+
+中 B: 去 market 買東西。媽媽要一些 rice。
+英 B: Go to market to buy things. Mother wants some rice.
+法 B: Aller au marché pour acheter des choses. Maman veut du riz.
+日 B: いちばへ 買いに いく。 おかあさんは すこし riceが ほしい。
+韓 B: 시장에 가서 사. 엄마는 rice를 좀 사.
+
+中 A: 好。我和你一起去。
+英 A: Ok. I go with you.
+法 A: Ok. Je vais avec toi.
+日 A: いいよ。 わたしは あなたと いっしょに いく。
+韓 A: 그래. 나도 같이 가.
+
+中 B: 好。不過我 8 點要回去上學。
+英 B: Ok. But I must go to school at 8.
+法 B: Ok. Mais je dois aller à l'école à 8 heures.
+日 B: いいよ。 ただし わたしは 8じに がっこうへ かえらなきゃ。
+韓 B: 그래. 하지만 나는 8시에 학교에 가야 돼.
+
+中 A: 快點走。
+英 A: Walk fast.
+法 A: Marche vite.
+日 A: はやく あるいて。
+韓 A: 빨리 걷어.
+
+中 A: 你昨晚睡了嗎？
+英 A: Did you sleep last night?
+法 A: Tu as dormi hier soir ?
+日 A: きのう やすんだの？
+韓 A: 어제 잤어?
+
+中 B: 睡了。我看了一會兒書。
+英 B: I slept. I read one book for one hour.
+法 B: J'ai dormi. J'ai lu un livre un peu.
+日 B: ねた。 わたしは すこし ほんを よんだ。
+韓 B: 잤어. 나는 조금 책을 읽었어.
+
+中 A: 看什麼書？
+英 A: What book do you read?
+法 A: Quel livre lis-tu ?
+日 A: なにの ほんを よんでるの？
+韓 A: 무슨 책을 읽어?
+
+中 B: 1 個海的事。
+英 B: 1 book about the sea.
+法 B: 1 livre sur la mer.
+日 B: 海の ことが かいた ほん 1 つ。
+韓 B: 바다에 대한 책 1 권.
+
+中 A: 好嗎？
+英 A: Is it good?
+法 A: C'est bon ?
+日 A: いいの？
+韓 A: 좋아?
+
+中 B: 很好。我看了 2 次。
+英 B: Very good. I read it 2 times.
+法 B: Très bien. Je l'ai lu 2 fois.
+日 B: とても いい。 わたしは 2 かい よんだ。
+韓 B: 아주 좋아. 2번 읽었어.
+
+中 A: 我也喜歡海的事。
+英 A: I like the story of the sea too.
+法 A: J'aime aussi les choses de la mer.
+日 A: わたしは 海の ことも すきだ。
+韓 A: 나도 바다 이야기 좋아해.
+
+中 B: 那我拿給你看。
+英 B: Then I bring it to you.
+法 B: Alors je vais te l'apporter.
+日 B: じゃ それを みせて あげる。
+韓 B: 그럼 내가 가져와서 보여줄게.
+
+中 A: 謝謝。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 A: 我要出門了。
+英 A: I want to go now.
+法 A: Je vais aller.
+日 A: わたしは でかける。
+韓 A: 나 이제 나가.
+
+中 B: 路上小心。
+英 B: Go slow on the road.
+法 B: Va lentement sur la route.
+日 B: みちで きを つけて。
+韓 B: 길에서 조심해.
+
+中 A: 你也是。
+英 A: You too.
+法 A: Toi aussi.
+日 A: あなたも。
+韓 A: 너도.
+
+中 B: 幾點回來？
+英 B: What hour do you come home?
+法 B: À quelle heure tu reviens ?
+日 B: なんじに かえってくるの？
+韓 B: 몇 시에 돌아와?
+
+中 A: 5 點。
+英 A: 5 hour.
+法 A: 5 heures.
+日 A: 5じ。
+韓 A: 5시.
+
+中 B: 好。我等你。
+英 B: Ok. I wait for you.
+法 B: Ok. Je t'attends.
+日 B: いいよ。 わたしは まつ。
+韓 B: 그래. 기다릴게.
+
+中 A: 不要等多。你先睡一下。
+英 A: Do not wait long. You sleep first.
+法 A: Ne pas attendre trop. Dors un peu.
+日 A: ながく まつないで。 さきに ねて。
+韓 A: 오래 기다리지 마. 너 먼저 자.
+
+中 B: 好。你回來打電話給我。
+英 B: Ok. Call me when you come home.
+法 B: Ok. Appelle-moi quand tu reviens.
+日 B: いいよ。 かえってきたら 電話して。
+韓 B: 그래. 돌아오면 전화해.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 今天有一點忙。
+英 A: Today I am busy.
+法 A: Aujourd'hui je suis un peu occupé.
+日 A: きょうは すこし いそがしい。
+韓 A: 오늘 좀 바빠.
+
+中 B: 為什麼？
+英 B: Why?
+法 B: Pourquoi ?
+日 B: なんで？
+韓 B: 왜?
+
+中 A: 因為老師說今天有很多題。
+英 A: Teacher says there are many questions today, so I am busy.
+法 A: Le professeur dit qu'il y a beaucoup de problèmes aujourd'hui.
+日 A: 先生が きょうは もんだいが たくさん あると いった。
+韓 A: 선생님이 오늘 문제가 많다고 했어.
+
+中 B: 那你要早點做。
+英 B: Then you must do it early.
+法 B: Alors tu dois le faire tôt.
+日 B: じゃ はやく やったほうがいい。
+韓 B: 그럼 일찍 해.
+
+中 A: 是。做完我要去打球。
+英 A: Yes. I finish, then I want to play ball.
+法 A: Oui. Je finis et je joue à la balle.
+日 A: うん。 おわったら ボールを したい。
+韓 A: 응. 끝나면 공을 하고 싶어.
+
+中 B: 好。我和你一起。
+英 B: Ok. I go with you.
+法 B: Ok. Je vais avec toi.
+日 B: いいよ。 わたしと いっしょに して。
+韓 B: 그래. 나랑 같이 해.
+
+中 A: 好。4 點在學校邊上。
+英 A: Ok. 4 hour, near the school.
+法 A: Ok. À 4 heures près de l'école.
+日 A: いいよ。 4じに がっこうの となりで。
+韓 A: 그래. 4시에 학교 옆에서.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我有點忙。
+英 A: I am busy.
+法 A: Je suis un peu occupé.
+日 A: わたしは すこし いそがしい。
+韓 A: 나 좀 바빠.
+
+中 B: 你昨晚沒有睡好嗎？
+英 B: Did you not sleep good last night?
+法 B: Tu n'as pas bien dormi hier soir ?
+日 B: きのう よく ねなかったの？
+韓 B: 어제 잠을 잘 못 잤어?
+
+中 A: 是。我想的事太多。
+英 A: Yes. I think too many things.
+法 A: Oui. Je pense à trop de choses.
+日 A: うん。 わたしは かんがえることが 多い。
+韓 A: 응. 내가 생각할 게 너무 많아.
+
+中 B: 不要想太多。今天的事今天做。
+英 B: Do not think so many things. Do things today.
+法 B: Ne pense pas trop. Fais les choses du jour.
+日 B: あんまり かんがえないで。 きょうの ことは きょうに する。
+韓 B: 너무 생각하지 마. 오늘 일은 오늘 해.
+
+中 A: 你說得對。
+英 A: Yes. I think so too.
+法 A: Tu as raison.
+日 A: その とおり。
+韓 A: 네 말이 맞아.
+
+中 B: 喝點水，坐一下。
+英 B: Drink some water, sit now.
+法 B: Bois de l'eau, assieds-toi un peu.
+日 B: 水を のんで、 すこし すんで。
+韓 B: 물 좀 마시고 앉아.
+
+中 A: 好。謝謝。
+英 A: Ok. Thank you.
+法 A: Ok. Merci.
+日 A: いいよ。 ありがとう。
+韓 A: 그래. 고마워.
+
+中 B: 不用謝。你快好了。
+英 B: Do not thank. You can finish now.
+法 B: Pas merci. Tu peux finir maintenant.
+日 B: いいよ。 まもなく おわる。
+韓 B: 괜찮아. 곧 끝나.
+
+中 A: 我回來了。
+英 A: I come home.
+法 A: Je suis là.
+日 A: わたしは かえった。
+韓 A: 나 돌아왔어.
+
+中 B: 你回來了。怎麼這麼晚？
+英 B: You come home. Why so late?
+法 B: Tu es là. Pourquoi si tard ?
+日 B: かえったんだね。 なんで おそいの？
+韓 B: 돌아왔구나. 왜 이렇게 늦었어?
+
+中 A: 老師說了 3 個多的事。
+英 A: Teacher said 3 more things.
+法 A: Le professeur a dit 3 choses de plus.
+日 A: 先生が 3 つ おおくの ことを いった。
+韓 A: 선생님이 3개 더 얘기했어.
+
+中 B: 你吃飯了嗎？
+英 B: Did you eat food?
+法 B: Tu as mangé ?
+日 B: ごはんを たべたの？
+韓 B: 밥 먹었어?
+
+中 A: 沒有。
+英 A: No.
+法 A: Non.
+日 A: いいえ。
+韓 A: 아니요.
+
+中 B: 飯在這裡。你快吃。
+英 B: Food is here. Eat fast.
+法 B: La nourriture est ici. Mange vite.
+日 B: ごはんは ここにある。 はやく たべな。
+韓 B: 밥 여기 있어. 빨리 먹어.
+
+中 A: 謝謝媽媽。
+英 A: Thank you mother.
+法 A: Merci maman.
+日 A: おかあさん、 ありがとう。
+韓 A: 엄마, 고마워.
+
+中 B: 吃完就去睡覺。
+英 B: Eat then go to sleep.
+法 B: Mange et va dormir.
+日 B: たべてから ねて。
+韓 B: 먹고 자.
+
+中 A: 好。明天還要上學。
+英 A: Ok. Tomorrow I also go to school.
+法 A: Ok. Demain je vais aussi à l'école.
+日 A: いいよ。 あしたも がっこうへ いく。
+韓 A: 그래. 내일도 학교 가.
+
+中 B: 是。快點。
+英 B: Yes. Fast.
+法 B: Oui. Vite.
+日 B: うん。 はやく。
+韓 B: 응. 빨리.

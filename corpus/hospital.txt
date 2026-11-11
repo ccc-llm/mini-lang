@@ -1,0 +1,285 @@
+# mini-x 多語對話：醫院
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/hospital.txt 相同。
+
+中 A: 你好，我有一點不好。
+英 A: Hello, I am not well.
+法 A: Bonjour, je ne vais pas bien.
+日 A: こんにちは。ちっと きもちが わるい。
+韓 A: 안녕하세요. 좀 안 좋아요.
+
+中 B: 你好。坐下來，慢慢說。
+英 B: Hello. Sit down, speak slowly.
+法 B: Bonjour. Assieds-toi, parle lentement.
+日 B: こんにちは。すわって、ゆっくり はなして。
+韓 B: 안녕하세요. 앉아서 천천히 말해요.
+
+中 A: 我頭不好，還有一點熱。
+英 A: My head is not good, and I am a little hot.
+法 A: J'ai mal à la tête, et j'ai un peu de fièvre.
+日 A: あたまが わるい。すこし あつい。
+韓 A: 머리가 아프고 조금 열이 나요.
+
+中 B: 你昨天就不好嗎？
+英 B: Were you not well yesterday?
+法 B: Tu ne vasais pas bien hier ?
+日 B: きのうも わるかった？
+韓 B: 어제부터 안 좋았어요?
+
+中 A: 是。昨天晚上就不好。
+英 A: Yes. It started last night.
+法 A: Oui. Ça a commencé hier soir.
+日 A: そう。きのうの よるから わるかった。
+韓 A: 네. 어제 밤부터요.
+
+中 B: 你有 fever。我先看一下。
+英 B: You have a fever. I look first.
+法 B: Tu as de la fièvre. Je regarde d'abord.
+日 B: fever が ある。まず しらべる。
+韓 B: 열이 나요. 먼저 볼게요.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 알겠습니다.
+
+中 A: 醫生，我這裡不好。
+英 A: Doctor, here is not good.
+法 A: Docteur, ici, ce n'est pas bon.
+日 A: いしゃさん、ここが わるい。
+韓 A: 의사 선생님, 여기가 아파요.
+
+中 B: 哪裡？
+英 B: Where?
+法 B: Où ?
+日 B: どこ？
+韓 B: 어디가요?
+
+中 A: 這裡。用手指的時候很不好。
+英 A: Here. It is very bad when I use my finger.
+法 A: Ici. C'est très mauvais quand je touche.
+日 A: ここ。ゆびで おす と とても わるい。
+韓 A: 여기요. 손가락으로 누르면 많이 아파요.
+
+中 B: 我知道了。你最近有沒有吃 medicine？
+英 B: I know. Did you take medicine recently?
+法 B: Je sais. As-tu pris un médicament récemment ?
+日 B: わかった。いままで medicine を のんだ？
+韓 B: 알겠어요. 최근에 약 먹었어요?
+
+中 A: 沒有。我很少生病。
+英 A: No. I am seldom sick.
+法 A: Non. Je suis rarement malade.
+日 A: ない。よく あ sick には ならない。
+韓 A: 아니요. 자주 아프지 않아요.
+
+中 B: 好。你要睡覺和喝水。
+英 B: Ok. You must sleep and drink water.
+法 B: Ok. Tu dois dormir et boire de l'eau.
+日 B: いいよ。ねることと 水を のむこと。
+韓 B: 알겠어요. 자고 물을 마셔야 해요.
+
+中 A: 要吃 medicine 嗎？
+英 A: Do I take medicine?
+法 A: Je prends un médicament ?
+日 A: medicine を のむ？
+韓 A: 약을 먹어야 해요?
+
+中 B: 要。我給你 medicine。
+英 B: Yes. I give you medicine.
+法 B: Oui. Je te donne un médicament.
+日 B: うん。medicine を あげる。
+韓 B: 네. 약을 줄게요.
+
+中 A: 謝謝醫生。
+英 A: Thank you, doctor.
+法 A: Merci, docteur.
+日 A: ありがとう、いしゃさん。
+韓 A: 감사합니다, 선생님.
+
+中 A: 你要每天吃 medicine。
+英 A: You must take medicine every day.
+法 A: Tu dois prendre un médicament chaque jour.
+日 A: まいにち medicine を のむ。
+韓 A: 매일 약을 드셔야 해요.
+
+中 B: 一天吃幾次？
+英 B: How many times a day?
+法 B: Combien de fois par jour ?
+日 B: 1 日に いくつ？
+韓 B: 하루에 몇 번이에요?
+
+中 A: 一天 3 次。飯後吃。
+英 A: Three times a day. After the meal.
+法 A: Trois fois par jour. Après le repas.
+日 A: 1 日に 3 回。しょくじの あとに。
+韓 A: 하루에 3번. 식사 후에 먹어요.
+
+中 B: 好。多喝水，多睡覺。
+英 B: Ok. Drink much water, sleep much.
+法 B: Ok. Bois beaucoup d'eau, dors beaucoup.
+日 B: いいよ。水を たくさん、ねること。
+韓 B: 알겠어요. 물 많이 드시고 많이 주무세요.
+
+中 A: 我要多少天好？
+英 A: How many days until I am well?
+法 A: Combien de jours pour que je sois mieux ?
+日 A: いつ まで よくなる？
+韓 A: 며칠 걸려요?
+
+中 B: 3 天就會好很多。
+英 B: In 3 days you will be much better.
+法 B: Dans 3 jours, tu seras beaucoup mieux.
+日 B: 3 日ご よくなる。
+韓 B: 3일이면 많이 나아져요.
+
+中 A: 好。那我 3 天後再來。
+英 A: Ok. Then I come back in 3 days.
+法 A: Ok. Alors je reviens dans 3 jours.
+日 A: いいよ。3 日ご また くる。
+韓 A: 알겠어요. 3일 후에 다시 올게요.
+
+中 B: 好。要是還不好，就來找我。
+英 B: Ok. If you are not well, come to me.
+法 B: Ok. Si tu ne vas pas bien, viens me voir.
+日 B: いいよ。 まだ わるければ、わたしに きて。
+韓 B: 알겠어요. 아직 안 좋으면 찾아오세요.
+
+中 A: 你媽媽好一點了嗎？
+英 A: Is your mother better?
+法 A: Ta mère va mieux ?
+日 A: おかあさんは よくなった？
+韓 A: 엄마가 좀 나아졌어요?
+
+中 B: 好很多了。medicine 很有用。
+英 B: Much better. The medicine is good.
+法 B: Beaucoup mieux. Le médicament est bon.
+日 B: ずっと よくなった。medicine が きいた。
+韓 B: 훨씬 나아졌어요. 약이 잘 들어요.
+
+中 A: 那就好。我很怕媽媽不好。
+英 A: That is good. I was afraid mother was not well.
+法 A: Bien. J'avais peur que maman ne soit pas bien.
+日 A: よかった。おかあさんが わるいのは こわかった。
+韓 A: 다행이에요. 엄마가 안 좋을까봐 걱정했어요.
+
+中 B: 不要怕。媽媽今天可以回家了。
+英 B: Do not be afraid. Mother can go home today.
+法 B: N'aie pas peur. Maman peut rentrer aujourd'hui.
+日 B: こわがらないで。おかあさんは きょう うちへ かえる。
+韓 B: 걱정 마세요. 엄마가 오늘 집에 가셔도 돼요.
+
+中 A: 真的？那我晚上做飯給媽媽吃。
+英 A: Really? Then I make the meal for mother tonight.
+法 A: Vraiment ? Alors je fais le repas pour maman ce soir.
+日 A: ほんとう？ じゃ きょうの ばんごはんは ぼくが つくる。
+韓 A: 정말요? 그럼 오늘 저녁은 제가 할게요.
+
+中 B: 好。媽媽想吃魚。
+英 B: Ok. Mother wants to eat fish.
+法 B: Ok. Maman veut manger du poisson.
+日 B: いいよ。おかあさんは さかなを たべたいって。
+韓 B: 알겠어요. 엄마가 생선 먹고 싶어 하셔요.
+
+中 A: 好。我去 market 買。
+英 A: Ok. I go to the market to buy.
+法 A: Ok. Je vais au marché acheter.
+日 A: いいよ。market に いって かう。
+韓 A: 알겠어요. 마저 가서 살게요.
+
+中 A: 你要小心身體。
+英 A: You must take care of your body.
+法 A: Tu dois prendre soin de ta santé.
+日 A: からだを たいせつにして。
+韓 A: 몸을 조심하세요.
+
+中 B: 我知道。我會多睡覺。
+英 B: I know. I will sleep more.
+法 B: Je sais. Je vais dormir plus.
+日 B: わかってる。もっと ねる。
+韓 B: 알아요. 더 잘게요.
+
+中 A: 這個 medicine 你拿好。
+英 A: Take this medicine well.
+法 A: Prends bien ce médicament.
+日 A: この medicine を 好好に もって。
+韓 A: 이 약 잘 챙겨 드세요.
+
+中 B: 好。我放在這裡。
+英 B: Ok. I put it here.
+法 B: Ok. Je le mets ici.
+日 B: いいよ。ここに おく。
+韓 B: 알겠어요. 여기에 둘게요.
+
+中 A: 我 3 天後來看你。
+英 A: I come to see you in 3 days.
+法 A: Je viens te voir dans 3 jours.
+日 A: 3 日ご きた。
+韓 A: 3일 후에 올게요.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워요.
+
+中 A: 不用謝。你好我就開心。
+英 A: No need. I am happy when you are well.
+法 A: Pas besoin. Je suis content quand tu vas bien.
+日 A: いいよ。あなた が よければ うれしい。
+韓 A: 괜찮아요. 나으가 좋아지면 저도 기뻐요.
+
+中 A: 醫生說我的病不重。
+英 A: The doctor says my illness is not serious.
+法 A: Le médecin dit que ma maladie n'est pas grave.
+日 A: いしゃさんは ぼんの 病は ひくなくて いいって。
+韓 A: 의사가 내병은 심각하지 않대요.
+
+中 B: 那就好。是什麼病？
+英 B: That is good. What is it?
+法 B: Bien. C'est quoi ?
+日 B: それで よかった。なに？
+韓 B: 다행이에요. 무슨 병이에요?
+
+中 A: cold。睡覺就好了。
+英 A: A cold. Sleep and it is well.
+法 A: Un rhume. Dors et c'est bien.
+日 A: かぜ。ねれば いい。
+韓 A: 감기요. 푹 쉬면 좋아져요.
+
+中 B: 那你要多穿衣服。天氣冷。
+英 B: Then you must wear more clothes. The weather is cold.
+法 B: Alors tu dois mettre plus de vêtements. Il fait froid.
+日 B: じゃ 服を 多く きて。てんきが さむい。
+韓 B: 그럼 옷을 더 입으세요. 날씨가 추워요.
+
+中 A: 是。天氣一天比一天冷。
+英 A: Yes. The weather is colder every day.
+法 A: Oui. Il fait de plus en plus froid.
+日 A: そう。てんきが まいにち さむくなる。
+韓 A: 네. 날씨가 매일 더 추워져요.
+
+中 B: 是。我聽說明天會下雨。
+英 B: Yes. I hear it will rain tomorrow.
+法 B: Oui. J'ai entendu dire qu'il pleuvra demain.
+日 B: そう。あした はれると きいた。
+韓 B: 네. 내일 비 온다더라고요.
+
+中 A: 那我拿 umbrella。
+英 A: Then I take an umbrella.
+法 A: Alors je prends un parapluie.
+日 A: じゃ umbrella を もって いく。
+韓 A: 그럼 우산을 가져갈게요.
+
+中 B: 好。你先回家睡覺吧。
+英 B: Ok. Go home and sleep first.
+法 B: Ok. Va d'abord à la maison et dors.
+日 B: いいよ。まず うちへ かえって ね。
+韓 B: 알겠어요. 먼저 집에 가서 쉬세요.
+
+中 A: 好。謝謝。
+英 A: Ok. Thanks.
+法 A: Ok. Merci.
+日 A: いいよ。ありがとう。
+韓 A: 알겠어요. 감사합니다.

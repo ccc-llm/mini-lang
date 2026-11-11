@@ -1,0 +1,495 @@
+# mini-x 多語對話：交友
+# 格式見 corpus/MULTILINGUAL.md；小詞彙集見 corpus/VOCAB.md。
+# 中文行與 corpus/chinese/friends.txt 相同。
+
+中 A: 你好，我叫文。
+英 A: Hello, I am Wen.
+法 A: Bonjour, je m'appelle Wen.
+日 A: こんにちは。 わたしは ウェン。
+韓 A: 안녕하세요. 나는 문이야.
+
+中 B: 你好，我叫力。你是新的學生嗎？
+英 B: Hello, I am Li. Are you a new student?
+法 B: Bonjour, je m'appelle Li. Tu es nouveau à l'école ?
+日 B: こんにちは。 わたしは リー。 あなたは がっこうの 新しい 人？
+韓 B: 안녕하세요. 나는 리야. 너 학교 새 학생이야?
+
+中 A: 是。我昨天來。
+英 A: Yes. I came yesterday.
+法 A: Oui. Je suis venu hier.
+日 A: うん。 きのう きた。
+韓 A: 응. 어제 왔어.
+
+中 B: 歡迎你。我在這裡 2 年了。
+英 B: You are welcome. I am here for 2 years.
+法 B: Bienvenue. Je suis ici depuis 2 années.
+日 B: ようこそ。 わたしは ここ に 2 ねん いる。
+韓 B: 환영해. 나는 여기 2 년 있었어.
+
+中 A: 謝謝。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 你坐我邊上吧。
+英 B: Sit near me.
+法 B: Assieds-toi près de moi.
+日 B: わたしの となりに すんで。
+韓 B: 내 옆에 앉아.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 你的書真多。
+英 A: You have very many books.
+法 A: Tu as beaucoup de livres.
+日 A: あなたの ほんが とても 多い。
+韓 A: 너 책이 정말 많아.
+
+中 B: 是。我最喜歡看書和寫書。
+英 B: Yes. I like reading books and writing books most.
+法 B: Oui. J'aime le plus lire des livres et écrire des livres.
+日 B: うん。 わたしは ほんを よむことと かくことが いちばん すき。
+韓 B: 응. 나는 책 읽는 것과 쓰는 것을 제일 좋아해.
+
+中 A: 你寫什麼？
+英 A: What do you write?
+法 A: Qu'est-ce que tu écris ?
+日 A: なにを かくの？
+韓 A: 뭘 써?
+
+中 B: 我寫海的事。我寫了 1 個書了。
+英 B: I write about the sea. I wrote 1 book.
+法 B: J'écris sur la mer. J'ai écrit 1 livre.
+日 B: わたしは 海の ことを かく。 ほんを 1 つ かいた。
+韓 B: 나는 바다에 대해 써. 책 1 개를 썼어.
+
+中 A: 可以給我看嗎？
+英 A: Can you show me?
+法 A: Peux-tu me le montrer ?
+日 A: わたしに みせて くれますか？
+韓 A: 나한테 보여줄 수 있어?
+
+中 B: 可以。等一下我拿給你。
+英 B: Ok. Wait a moment, I bring it to you.
+法 B: Ok. Attends un peu, je te le donne.
+日 B: いいよ。 すこし まって、 わたしが みせて くれる。
+韓 B: 그래. 잠깐만 기다려, 내가 가져갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 A: 我有問題要問你。
+英 A: I have a question to ask you.
+法 A: J'ai une question à te demander.
+日 A: わたしは しつもんが 1 つ ある。 あなたに きく。
+韓 A: 나한테 물어볼 질문이 있어.
+
+中 B: 問吧。
+英 B: Ask.
+法 B: Demande.
+日 B: きいて ください。
+韓 B: 물어봐.
+
+中 A: library 在哪裡？
+英 A: Where is the library?
+法 A: Où est la bibliothèque ?
+日 A: library は どこ？
+韓 A: library 는 어디 있어?
+
+中 B: 在學校裡邊。走 5 分鐘就到。
+英 B: It is in the school. Walk 5 minutes and you arrive.
+法 B: C'est à l'école. Marche 5 minutes et tu arrives.
+日 B: がっこうの なかだ。 5 ぷん あるくと つく。
+韓 B: 학교 안에 있어. 5분 걸으면 도착해.
+
+中 A: library 有多少書？
+英 A: How many books are in the library?
+法 A: Combien de livres y a-t-il dans la bibliothèque ?
+日 A: library に ほんが いくつ ある？
+韓 A: library 안에 책이 몇 개 있어?
+
+中 B: 很多。有 1 萬個。
+英 B: Many. There are 10000.
+法 B: Beaucoup. Il y en a 10000.
+日 B: たくさん。 10000 こ ある。
+韓 B: 많아. 10000 개 있어.
+
+中 A: 真的？那我要看很多天。
+英 A: Really? Then I will read for many days.
+法 A: Vraiment ? Alors je vais lire beaucoup de jours.
+日 A: ほんとう？ じゃ たくさんの 日を よむ。
+韓 A: 진짜? 그럼 며칠 동안 읽어.
+
+中 B: 是。你喜歡什麼書？
+英 B: Yes. What books do you like?
+法 B: Oui. Quels livres aimes-tu ?
+日 B: うん。 どんな ほんが すき？
+韓 B: 응. 무슨 책이 좋아?
+
+中 A: 我喜歡 science 和飛機的書。
+英 A: I like books about science and planes.
+法 A: J'aime les livres de science et d'avion.
+日 A: science の ほん と ひこうきの ほんが すき。
+韓 A: 나는 science 책과 비행기 책을 좋아해.
+
+中 B: 我也喜歡。我們可以一起看。
+英 B: I like them too. We can read together.
+法 B: Moi aussi. Nous pouvons lire ensemble.
+日 B: わたしも すき。 ふたりで いっしょに よむ。
+韓 B: 나도 좋아. 우리 같이 읽을 수 있어.
+
+中 A: 今天你有空嗎？
+英 A: Are you free today?
+法 A: Es-tu libre aujourd'hui ?
+日 A: きょうは ひま？
+韓 A: 오늘 시간 있어?
+
+中 B: 有。怎麼了？
+英 B: Yes. What is it?
+法 B: Oui. Qu'est-ce qu'il y a ?
+日 B: あるよ。 なに？
+韓 B: 응. 왜?
+
+中 A: 我們一起去吃飯，再去打打球。
+英 A: We eat together, then we play ball.
+法 A: Nous mangeons ensemble, puis nous jouons à la balle.
+日 A: いっしょに ごはんを たべて、 そのあと ボールを あそぶ。
+韓 A: 같이 밥 먹고, 그다음 공을 하자.
+
+中 B: 好。我 5 點在門口等你。
+英 B: Ok. I wait for you at the gate at 5.
+法 B: Ok. Je t'attends à la porte à 5 heures.
+日 B: いいよ。 5 じに 門の ところで まって いる。
+韓 B: 그래. 5시에 문 앞에서 기다릴게.
+
+中 A: 好。我拿球。
+英 A: Ok. I take the ball.
+法 A: Ok. Je prends la balle.
+日 A: いいよ。 ボールを もって いく。
+韓 A: 그래. 공을 가져갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 你今天怎麼了？
+英 A: What is wrong with you today?
+法 A: Qu'est-ce qui ne va pas aujourd'hui ?
+日 A: きょうは どう したの？
+韓 A: 오늘 왜 그래?
+
+中 B: 我有一點病。頭不好。
+英 B: I am a little sick. My head is not good.
+法 B: Je suis un peu malade. Ma tête ne va pas bien.
+日 B: わたしは すこし びょうきだ。 あたまが わるい。
+韓 B: 나는 조금 아파. 머리가 안 좋아.
+
+中 A: 你要去看醫生嗎？
+英 A: Do you want to see a doctor?
+法 A: Veux-tu voir un médecin ?
+日 A: いしゃを みに いくの？
+韓 A: 너 의사 보러 갈 거야?
+
+中 B: 要。我先和你吃飯。
+英 B: Yes. First I eat with you.
+法 B: Oui. D'abord je mange avec toi.
+日 B: うん。 まず あなたと ごはんを たべる。
+韓 B: 응. 먼저 너하고 밥을 먹어.
+
+中 A: 不可以。你先去看醫生。
+英 A: You can not. You go to see the doctor first.
+法 A: Non. Va d'abord voir le médecin.
+日 A: それは だめ。 まず いしゃを みに いく。
+韓 A: 안 돼. 먼저 의사 봐.
+
+中 B: 好。那我們下次。
+英 B: Ok. Then next time.
+法 B: Ok. Alors la prochaine fois.
+日 B: いいよ。 じゃ つぎの とき だ。
+韓 B: 그래. 그럼 다음에.
+
+中 A: 好。你快點去。
+英 A: Ok. Go quickly.
+法 A: Ok. Va vite.
+日 A: いいよ。 はやく いって。
+韓 A: 그래. 빨리 가.
+
+中 A: 我叫了新朋友。
+英 A: I made a new friend.
+法 A: J'ai un nouveau ami.
+日 A: わたしは 新しい ともだちを よんだ。
+韓 A: 나는 새 친구를 만났어.
+
+中 B: 是誰？
+英 B: Who is it?
+法 B: Qui est-ce ?
+日 B: だれ？
+韓 B: 누구야?
+
+中 A: 他叫 Tony，是南方人。
+英 A: His name is Tony. He is from the south.
+法 A: Il s'appelle Tony. Il vient du sud.
+日 A: かれは Tony。 みなみの 人だ。
+韓 A: 그 이름은 Tony. 남쪽 사람이야.
+
+中 B: 他說什麼話？
+英 B: What language does he speak?
+法 B: Quelle langue parle-t-il ?
+日 B: かれは なんごを はなして いる？
+韓 B: 무슨 말 해?
+
+中 A: 他說國語，我聽不太懂。
+英 A: He speaks his language, I do not understand well.
+法 A: Il parle une langue, je ne sais pas bien.
+日 A: かれは ちゅうごくごを はなして いる。 わたしは よく わからない。
+韓 A: 그가 중국말을 해. 나는 잘 몰라.
+
+中 B: 那你聽得懂嗎？
+英 B: Then do you understand?
+法 B: Alors, tu comprends ?
+日 B: じゃ あなたは わかるの？
+韓 B: 그럼 너는 알아들어?
+
+中 A: 我懂一半。他說話很慢。
+英 A: I understand half of his words. He speaks very slowly.
+法 A: Je comprends la moitié. Il parle très lentement.
+日 A: 半分は わかる。 かれは とても ゆっくり はなして いる。
+韓 A: 반은 알아. 그가 아주 천천히 말해.
+
+中 B: 那很好。你可以學他的話。
+英 B: That is good. You can learn his language.
+法 B: C'est bien. Tu peux apprendre sa langue.
+日 B: それは いい。 かれの ことばを べんきょう できる。
+韓 B: 그래. 그의 말을 배울 수 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 응.
+
+中 A: 你有哥和姐嗎？
+英 A: Do you have a big brother and a big sister?
+法 A: As-tu un grand frère et une grande sœur ?
+日 A: あにが いる？ あねが いる？
+韓 A: 형이랑 누나가 있어?
+
+中 B: 有 1 個哥哥和 1 個姐姐。
+英 B: Yes, 1 big brother and 1 big sister.
+法 B: Oui, 1 grand frère et 1 grande sœur.
+日 B: うん。 あにが 1 人、 あねが 1 人。
+韓 B: 응. 형이 1 명, 누나가 1 명이야.
+
+中 A: 你們一樣嗎？
+英 A: Are you the same?
+法 A: Êtes-vous les mêmes ?
+日 A: みな おなじ？
+韓 A: 너희는 같아?
+
+中 B: 我和姐姐一樣。我和哥哥不一樣。
+英 B: I am the same as my sister. I am not the same as my big brother.
+法 B: Je suis comme ma sœur. Je ne suis pas comme mon grand frère.
+日 B: わたしは あねと おなじ。 あにとは ちがう。
+韓 B: 나는 누나랑 같아. 형이랑은 달라.
+
+中 A: 你們都會什麼？
+英 A: What can you all do?
+法 A: Que savez-vous faire tous ?
+日 A: みな なにが できる？
+韓 A: 너희는 뭐 할 수 있어?
+
+中 B: 哥哥會做車，姐姐會唱歌。
+英 B: Big brother can make cars, sister can sing.
+法 B: Mon grand frère peut faire des voitures, ma sœur peut chanter.
+日 B: あには 車を つくる ことができる。 あねは うたを うたい。
+韓 B: 형은 차를 만들어. 누나는 노래를 해.
+
+中 A: 你呢？
+英 A: And you?
+法 A: Et toi ?
+日 A: あなたは？
+韓 A: 너는?
+
+中 B: 我會寫書和畫畫。
+英 B: I can write books and draw pictures.
+法 B: Je peux écrire des livres et faire des images.
+日 B: わたしは ほんを かくことと えを かくことが できる。
+韓 B: 나는 책을 쓰고 그림을 그려.
+
+中 A: 真好。
+英 A: Very good.
+法 A: Très bien.
+日 A: とても いい。
+韓 A: 아주 좋아.
+
+中 A: 朋友不可以說不真的話。
+英 A: Friends can not say untrue words.
+法 A: Les amis ne peuvent pas dire de mauvaises choses.
+日 A: ともだちは うそを いう ことが できない。
+韓 A: 친구는 거짓말을 하면 안 돼.
+
+中 B: 是。我從來很真。
+英 B: Yes. I am always true.
+法 B: Oui. Je suis toujours vrai.
+日 B: うん。 わたしは いつも ほんとうだ。
+韓 B: 응. 나는 언제나 진짜야.
+
+中 A: 為什麼？
+英 A: Why?
+法 A: Pourquoi ?
+日 A: なぜ？
+韓 A: 왜?
+
+中 B: 因為朋友要一起幫。
+英 B: Because friends must help together.
+法 B: Les amis doivent aider ensemble.
+日 B: ともだちが きょうどう して たすけるから。
+韓 B: 친구가 같이 도와줘야 해서.
+
+中 A: 你以前有幾個朋友？
+英 A: How many friends did you have before?
+法 A: Tu avais combien d'amis ?
+日 A: まえは ともだちが いくつ いた？
+韓 A: 예전에 친구가 몇 명 있었어?
+
+中 B: 小時候很多。上學後就少了。
+英 B: Many when I was little. Fewer after school.
+法 B: Beaucoup quand j'étais petit. Après l'école, moins.
+日 B: ちいさい とき たくさん。 がっこうに いった あと すこし。
+韓 B: 어렸을 때 많아. 학교에 간 후에 적어.
+
+中 A: 為什麼？
+英 A: Why?
+法 A: Pourquoi ?
+日 A: なぜ？
+韓 A: 왜?
+
+中 B: 因為大家忙，也因為有人要 move。
+英 B: Because all people are busy, and because some people want to move.
+法 B: Tout le monde est occupé, et quelqu'un doit move.
+日 B: みんな いそがしいから、 だれかが move するから。
+韓 B: 다들 바빠서, 또 누가 move 하려고 해.
+
+中 A: 那現在呢？
+英 A: And now?
+法 A: Et maintenant ?
+日 A: いまは？
+韓 A: 그럼 지금은?
+
+中 B: 現在有 3 個。一個在學校，一個在 internet，一個是你。
+英 B: Now I have 3. One is at school, one is on the internet, one is you.
+法 B: Maintenant j'en ai 3. Un est à l'école, un est sur internet, un c'est toi.
+日 B: いま ともだちが 3 人。 1 人が がっこう、 1 人が internet、 1 人が あなた。
+韓 B: 지금 친구가 3명이야. 한 명은 학교에, 한 명은 internet에, 한 명은 너.
+
+中 A: 我生日要到了。
+英 A: My birthday is coming.
+法 A: Mon anniversaire arrive.
+日 A: わたしの たんじょうびが きそう。
+韓 A: 내 생일이 곧 와.
+
+中 B: 什麼時候？
+英 B: When?
+法 B: Quand ?
+日 B: いつ？
+韓 B: 언제?
+
+中 A: 下個月 3 日。
+英 A: Next month, day 3.
+法 A: Le 3 du mois prochain.
+日 A: つぎの つき 3 日。
+韓 A: 다음 달 3일.
+
+中 B: 我要給你 1 個 gift。
+英 B: I will give you 1 gift.
+法 B: Je vais te donner 1 gift.
+日 B: わたしから 1 つ gift を あげる。
+韓 B: 내가 1 개 gift를 줄게.
+
+中 A: 不用。這樣太難。
+英 A: No need. That is too hard.
+法 A: Non. C'est très difficile.
+日 A: いらない。 それは むずかしい。
+韓 A: 안 돼. 그게 너무 어려워.
+
+中 B: 不難。你是我朋友。
+英 B: It is not hard. You are my friend.
+法 B: Ce n'est pas difficile. Tu es mon ami.
+日 B: むずかしくない。 あなたは わたしの ともだち。
+韓 B: 어렵지 않아. 너는 내 친구야.
+
+中 A: 那謝謝你。
+英 A: Then thank you.
+法 A: Alors merci.
+日 A: じゃ ありがとう。
+韓 A: 그럼 고마워.
+
+中 B: 你要什麼？
+英 B: What do you want?
+法 B: Que veux-tu ?
+日 B: なにが ほしい？
+韓 B: 뭐를 원해?
+
+中 A: 1 個書。
+英 A: 1 book.
+法 A: 1 livre.
+日 A: ほん 1 つ。
+韓 A: 책 1 개.
+
+中 B: 好。我給你 science 的書，還是海的事？
+英 B: Ok. I give you a science book, or a book about the sea?
+法 B: Ok. Je te donne un livre de science, ou un livre sur la mer ?
+日 B: いいよ。 science の ほんを あげるか、 海の ことが かいた ほんか？
+韓 B: 그래. science 책을 줄게, 아니면 바다에 대한 책?
+
+中 A: 海的事。你寫的那個。
+英 A: About the sea. The one you wrote.
+法 A: Sur la mer. Le livre que tu as écrit.
+日 A: 海の こと。 あなたが かいた ほん。
+韓 A: 바다에 대한 거야. 네가 쓴 책.
+
+中 B: 好。我寫 1 個新的給你。
+英 B: Ok. I write 1 new one for you.
+法 B: Ok. J'écris 1 nouveau pour toi.
+日 B: いいよ。 新しい ほんを 1 つ かいて あげる。
+韓 B: 그래. 새 책 1 개를 써서 줄게.
+
+中 A: 我要回家了。
+英 A: I want to go home.
+法 A: Je veux aller à la maison.
+日 A: わたしは いえへ かえりたい。
+韓 A: 나는 집에 가고 싶어.
+
+中 B: 我也是。明天見。
+英 B: Me too. See you tomorrow.
+法 B: Moi aussi. À demain.
+日 B: わたしも。 あした みよ。
+韓 B: 나도. 내일 봐.
+
+中 A: 明天見。
+英 A: See you tomorrow.
+法 A: À demain.
+日 A: あした みよ。
+韓 A: 내일 봐.
+
+中 B: 路上小心。
+英 B: Be careful on the road.
+法 B: Alors fais attention sur la route.
+日 B: どうろで きを つけて。
+韓 B: 길에서 조심해.
+
+中 A: 你也是。
+英 A: You too.
+法 A: Toi aussi.
+日 A: あなたも。
+韓 A: 너도.

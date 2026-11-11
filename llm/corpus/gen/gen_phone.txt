@@ -1,0 +1,9466 @@
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 02080234。
+英 A: It is 02080234.
+法 A: C'est le 02080234.
+日 A: 02080234だよ。
+韓 A: 02080234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000234。
+英 B: It is 02000234.
+法 B: C'est le 02000234.
+日 B: 02000234だよ。
+韓 B: 02000234이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 01000234。
+英 A: It is 01000234.
+法 A: C'est le 01000234.
+日 A: 01000234だよ。
+韓 A: 01000234이야.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01005678。
+英 B: It is 01005678.
+法 B: C'est le 01005678.
+日 B: 01005678だよ。
+韓 B: 01005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09000234。
+英 B: It is 09000234.
+法 B: C'est le 09000234.
+日 B: 09000234だよ。
+韓 B: 09000234이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000100。
+英 B: It is 01000100.
+法 B: C'est le 01000100.
+日 B: 01000100だよ。
+韓 B: 01000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010234。
+英 B: It is 01010234.
+法 B: C'est le 01010234.
+日 B: 01010234だよ。
+韓 B: 01010234이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02005678。
+英 B: It is 02005678.
+法 B: C'est le 02005678.
+日 B: 02005678だよ。
+韓 B: 02005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在park。
+英 A: I am at park.
+法 A: Je suis à parc.
+日 A: parkに いる。
+韓 A: 공원에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在學校。
+英 A: I am at school.
+法 A: Je suis à école.
+日 A: がっこうに いる。
+韓 A: 학교에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 30 分鐘了。
+英 A: I waited for you 30 minutes.
+法 A: Je t'attends depuis 30 minutes.
+日 A: 30ぷん まって いた。
+韓 A: 30분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在restaurant。
+英 B: I am at the restaurant.
+法 B: Je suis à le restaurant.
+日 B: レストランに いる。
+韓 B: 식당에 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09015678。
+英 B: It is 09015678.
+法 B: C'est le 09015678.
+日 B: 09015678だよ。
+韓 B: 09015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 09080100。
+英 A: It is 09080100.
+法 A: C'est le 09080100.
+日 A: 09080100だよ。
+韓 A: 09080100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01015678。
+英 B: It is 01015678.
+法 B: C'est le 01015678.
+日 B: 01015678だよ。
+韓 B: 01015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000234。
+英 B: It is 02000234.
+法 B: C'est le 02000234.
+日 B: 02000234だよ。
+韓 B: 02000234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000234。
+英 B: It is 01000234.
+法 B: C'est le 01000234.
+日 B: 01000234だよ。
+韓 B: 01000234이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09000234。
+英 B: It is 09000234.
+法 B: C'est le 09000234.
+日 B: 09000234だよ。
+韓 B: 09000234이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在restaurant。
+英 B: I am at the restaurant.
+法 B: Je suis à le restaurant.
+日 B: レストランに いる。
+韓 B: 식당에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010100。
+英 B: It is 01010100.
+法 B: C'est le 01010100.
+日 B: 01010100だよ。
+韓 B: 01010100이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09080100。
+英 B: It is 09080100.
+法 B: C'est le 09080100.
+日 B: 09080100だよ。
+韓 B: 09080100이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 09010100。
+英 A: It is 09010100.
+法 A: C'est le 09010100.
+日 A: 09010100だよ。
+韓 A: 09010100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01005678。
+英 B: It is 01005678.
+法 B: C'est le 01005678.
+日 B: 01005678だよ。
+韓 B: 01005678이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010100。
+英 B: It is 01010100.
+法 B: C'est le 01010100.
+日 B: 01010100だよ。
+韓 B: 01010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 01000100。
+英 A: It is 01000100.
+法 A: C'est le 01000100.
+日 A: 01000100だよ。
+韓 A: 01000100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 02000234。
+英 A: It is 02000234.
+法 A: C'est le 02000234.
+日 A: 02000234だよ。
+韓 A: 02000234이야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09000100。
+英 B: It is 09000100.
+法 B: C'est le 09000100.
+日 B: 09000100だよ。
+韓 B: 09000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在hospital。
+英 A: I am at hospital.
+法 A: Je suis à hôpital.
+日 A: びょういんに いる。
+韓 A: 병원에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 02000100。
+英 A: It is 02000100.
+法 A: C'est le 02000100.
+日 A: 02000100だよ。
+韓 A: 02000100이야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 01080234。
+英 A: It is 01080234.
+法 A: C'est le 01080234.
+日 A: 01080234だよ。
+韓 A: 01080234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010234。
+英 B: It is 09010234.
+法 B: C'est le 09010234.
+日 B: 09010234だよ。
+韓 B: 09010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02080100。
+英 B: It is 02080100.
+法 B: C'est le 02080100.
+日 B: 02080100だよ。
+韓 B: 02080100이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000100。
+英 B: It is 01000100.
+法 B: C'est le 01000100.
+日 B: 01000100だよ。
+韓 B: 01000100이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010234。
+英 B: It is 01010234.
+法 B: C'est le 01010234.
+日 B: 01010234だよ。
+韓 B: 01010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000234。
+英 B: It is 01000234.
+法 B: C'est le 01000234.
+日 B: 01000234だよ。
+韓 B: 01000234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 30 分鐘了。
+英 A: I waited for you 30 minutes.
+法 A: Je t'attends depuis 30 minutes.
+日 A: 30ぷん まって いた。
+韓 A: 30분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000234。
+英 B: It is 01000234.
+法 B: C'est le 01000234.
+日 B: 01000234だよ。
+韓 B: 01000234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在park。
+英 A: I am at park.
+法 A: Je suis à parc.
+日 A: parkに いる。
+韓 A: 공원에 있어.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 09005678。
+英 A: It is 09005678.
+法 A: C'est le 09005678.
+日 A: 09005678だよ。
+韓 A: 09005678이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 09080234。
+英 A: It is 09080234.
+法 A: C'est le 09080234.
+日 A: 09080234だよ。
+韓 A: 09080234이야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在restaurant。
+英 B: I am at the restaurant.
+法 B: Je suis à le restaurant.
+日 B: レストランに いる。
+韓 B: 식당에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 02015678。
+英 A: It is 02015678.
+法 A: C'est le 02015678.
+日 A: 02015678だよ。
+韓 A: 02015678이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 30 分鐘了。
+英 A: I waited for you 30 minutes.
+法 A: Je t'attends depuis 30 minutes.
+日 A: 30ぷん まって いた。
+韓 A: 30분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我在restaurant。
+英 A: I am at the restaurant.
+法 A: Je suis à le restaurant.
+日 A: レストランに いる。
+韓 A: 식당에 있어.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 02000234。
+英 A: It is 02000234.
+法 A: C'est le 02000234.
+日 A: 02000234だよ。
+韓 A: 02000234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09015678。
+英 B: It is 09015678.
+法 B: C'est le 09015678.
+日 B: 09015678だよ。
+韓 B: 09015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010234。
+英 B: It is 09010234.
+法 B: C'est le 09010234.
+日 B: 09010234だよ。
+韓 B: 09010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01015678。
+英 B: It is 01015678.
+法 B: C'est le 01015678.
+日 B: 01015678だよ。
+韓 B: 01015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02085678。
+英 B: It is 02085678.
+法 B: C'est le 02085678.
+日 B: 02085678だよ。
+韓 B: 02085678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010234。
+英 B: It is 09010234.
+法 B: C'est le 09010234.
+日 B: 09010234だよ。
+韓 B: 09010234이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02080234。
+英 B: It is 02080234.
+法 B: C'est le 02080234.
+日 B: 02080234だよ。
+韓 B: 02080234이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 09085678。
+英 A: It is 09085678.
+法 A: C'est le 09085678.
+日 A: 09085678だよ。
+韓 A: 09085678이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02080234。
+英 B: It is 02080234.
+法 B: C'est le 02080234.
+日 B: 02080234だよ。
+韓 B: 02080234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 01015678。
+英 A: It is 01015678.
+法 A: C'est le 01015678.
+日 A: 01015678だよ。
+韓 A: 01015678이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 09080100。
+英 A: It is 09080100.
+法 A: C'est le 09080100.
+日 A: 09080100だよ。
+韓 A: 09080100이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000100。
+英 B: It is 01000100.
+法 B: C'est le 01000100.
+日 B: 01000100だよ。
+韓 B: 01000100이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 01010234。
+英 A: It is 01010234.
+法 A: C'est le 01010234.
+日 A: 01010234だよ。
+韓 A: 01010234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000234。
+英 B: It is 01000234.
+法 B: C'est le 01000234.
+日 B: 01000234だよ。
+韓 B: 01000234이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 09010234。
+英 A: It is 09010234.
+法 A: C'est le 09010234.
+日 A: 09010234だよ。
+韓 A: 09010234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000100。
+英 B: It is 02000100.
+法 B: C'est le 02000100.
+日 B: 02000100だよ。
+韓 B: 02000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09015678。
+英 B: It is 09015678.
+法 B: C'est le 09015678.
+日 B: 09015678だよ。
+韓 B: 09015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在hospital。
+英 A: I am at hospital.
+法 A: Je suis à hôpital.
+日 A: びょういんに いる。
+韓 A: 병원에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在hospital。
+英 A: I am at hospital.
+法 A: Je suis à hôpital.
+日 A: びょういんに いる。
+韓 A: 병원에 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000100。
+英 B: It is 02000100.
+法 B: C'est le 02000100.
+日 B: 02000100だよ。
+韓 B: 02000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我在學校。
+英 A: I am at school.
+法 A: Je suis à école.
+日 A: がっこうに いる。
+韓 A: 학교에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 09080100。
+英 A: It is 09080100.
+法 A: C'est le 09080100.
+日 A: 09080100だよ。
+韓 A: 09080100이야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在hospital。
+英 A: I am at hospital.
+法 A: Je suis à hôpital.
+日 A: びょういんに いる。
+韓 A: 병원에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 01010100。
+英 A: It is 01010100.
+法 A: C'est le 01010100.
+日 A: 01010100だよ。
+韓 A: 01010100이야.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 01000234。
+英 A: It is 01000234.
+法 A: C'est le 01000234.
+日 A: 01000234だよ。
+韓 A: 01000234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我在restaurant。
+英 A: I am at the restaurant.
+法 A: Je suis à le restaurant.
+日 A: レストランに いる。
+韓 A: 식당에 있어.
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01005678。
+英 B: It is 01005678.
+法 B: C'est le 01005678.
+日 B: 01005678だよ。
+韓 B: 01005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000100。
+英 B: It is 01000100.
+法 B: C'est le 01000100.
+日 B: 01000100だよ。
+韓 B: 01000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010100。
+英 B: It is 02010100.
+法 B: C'est le 02010100.
+日 B: 02010100だよ。
+韓 B: 02010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 01000100。
+英 A: It is 01000100.
+法 A: C'est le 01000100.
+日 A: 01000100だよ。
+韓 A: 01000100이야.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000100。
+英 B: It is 02000100.
+法 B: C'est le 02000100.
+日 B: 02000100だよ。
+韓 B: 02000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000100。
+英 B: It is 02000100.
+法 B: C'est le 02000100.
+日 B: 02000100だよ。
+韓 B: 02000100이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09085678。
+英 B: It is 09085678.
+法 B: C'est le 09085678.
+日 B: 09085678だよ。
+韓 B: 09085678이야.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 09015678。
+英 A: It is 09015678.
+法 A: C'est le 09015678.
+日 A: 09015678だよ。
+韓 A: 09015678이야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02015678。
+英 B: It is 02015678.
+法 B: C'est le 02015678.
+日 B: 02015678だよ。
+韓 B: 02015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 01080100。
+英 A: It is 01080100.
+法 A: C'est le 01080100.
+日 A: 01080100だよ。
+韓 A: 01080100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 01000234。
+英 A: It is 01000234.
+法 A: C'est le 01000234.
+日 A: 01000234だよ。
+韓 A: 01000234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我等你 30 分鐘了。
+英 A: I waited for you 30 minutes.
+法 A: Je t'attends depuis 30 minutes.
+日 A: 30ぷん まって いた。
+韓 A: 30분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09000100。
+英 B: It is 09000100.
+法 B: C'est le 09000100.
+日 B: 09000100だよ。
+韓 B: 09000100이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02085678。
+英 B: It is 02085678.
+法 B: C'est le 02085678.
+日 B: 02085678だよ。
+韓 B: 02085678이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010100。
+英 B: It is 01010100.
+法 B: C'est le 01010100.
+日 B: 01010100だよ。
+韓 B: 01010100이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 02005678。
+英 A: It is 02005678.
+法 A: C'est le 02005678.
+日 A: 02005678だよ。
+韓 A: 02005678이야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 01010100。
+英 A: It is 01010100.
+法 A: C'est le 01010100.
+日 A: 01010100だよ。
+韓 A: 01010100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 09000234。
+英 A: It is 09000234.
+法 A: C'est le 09000234.
+日 A: 09000234だよ。
+韓 A: 09000234이야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 01015678。
+英 A: It is 01015678.
+法 A: C'est le 01015678.
+日 A: 01015678だよ。
+韓 A: 01015678이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010234。
+英 B: It is 01010234.
+法 B: C'est le 01010234.
+日 B: 01010234だよ。
+韓 B: 01010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010100。
+英 B: It is 09010100.
+法 B: C'est le 09010100.
+日 B: 09010100だよ。
+韓 B: 09010100이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01005678。
+英 B: It is 01005678.
+法 B: C'est le 01005678.
+日 B: 01005678だよ。
+韓 B: 01005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01085678。
+英 B: It is 01085678.
+法 B: C'est le 01085678.
+日 B: 01085678だよ。
+韓 B: 01085678이야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010100。
+英 B: It is 02010100.
+法 B: C'est le 02010100.
+日 B: 02010100だよ。
+韓 B: 02010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02085678。
+英 B: It is 02085678.
+法 B: C'est le 02085678.
+日 B: 02085678だよ。
+韓 B: 02085678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在學校。
+英 A: I am at school.
+法 A: Je suis à école.
+日 A: がっこうに いる。
+韓 A: 학교에 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 01080234。
+英 A: It is 01080234.
+法 A: C'est le 01080234.
+日 A: 01080234だよ。
+韓 A: 01080234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01005678。
+英 B: It is 01005678.
+法 B: C'est le 01005678.
+日 B: 01005678だよ。
+韓 B: 01005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010234。
+英 B: It is 01010234.
+法 B: C'est le 01010234.
+日 B: 01010234だよ。
+韓 B: 01010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在park。
+英 A: I am at park.
+法 A: Je suis à parc.
+日 A: parkに いる。
+韓 A: 공원에 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09085678。
+英 B: It is 09085678.
+法 B: C'est le 09085678.
+日 B: 09085678だよ。
+韓 B: 09085678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010100。
+英 B: It is 02010100.
+法 B: C'est le 02010100.
+日 B: 02010100だよ。
+韓 B: 02010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在海邊。
+英 A: I am at the sea.
+法 A: Je suis à la mer.
+日 A: うみに いる。
+韓 A: 바다에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我在restaurant。
+英 A: I am at the restaurant.
+法 A: Je suis à le restaurant.
+日 A: レストランに いる。
+韓 A: 식당에 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010234。
+英 B: It is 09010234.
+法 B: C'est le 09010234.
+日 B: 09010234だよ。
+韓 B: 09010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我在park。
+英 A: I am at park.
+法 A: Je suis à parc.
+日 A: parkに いる。
+韓 A: 공원에 있어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在學校。
+英 A: I am at school.
+法 A: Je suis à école.
+日 A: がっこうに いる。
+韓 A: 학교에 있어.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在restaurant。
+英 B: I am at the restaurant.
+法 B: Je suis à le restaurant.
+日 B: レストランに いる。
+韓 B: 식당에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 09080234。
+英 A: It is 09080234.
+法 A: C'est le 09080234.
+日 A: 09080234だよ。
+韓 A: 09080234이야.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02080234。
+英 B: It is 02080234.
+法 B: C'est le 02080234.
+日 B: 02080234だよ。
+韓 B: 02080234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01085678。
+英 B: It is 01085678.
+法 B: C'est le 01085678.
+日 B: 01085678だよ。
+韓 B: 01085678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010100。
+英 B: It is 01010100.
+法 B: C'est le 01010100.
+日 B: 01010100だよ。
+韓 B: 01010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在hospital。
+英 A: I am at hospital.
+法 A: Je suis à hôpital.
+日 A: びょういんに いる。
+韓 A: 병원에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 09010234。
+英 A: It is 09010234.
+法 A: C'est le 09010234.
+日 A: 09010234だよ。
+韓 A: 09010234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 01010234。
+英 A: It is 01010234.
+法 A: C'est le 01010234.
+日 A: 01010234だよ。
+韓 A: 01010234이야.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 30 分鐘了。
+英 A: I waited for you 30 minutes.
+法 A: Je t'attends depuis 30 minutes.
+日 A: 30ぷん まって いた。
+韓 A: 30분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 我在學校。
+英 A: I am at school.
+法 A: Je suis à école.
+日 A: がっこうに いる。
+韓 A: 학교에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 09085678。
+英 A: It is 09085678.
+法 A: C'est le 09085678.
+日 A: 09085678だよ。
+韓 A: 09085678이야.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 09010234。
+英 A: It is 09010234.
+法 A: C'est le 09010234.
+日 A: 09010234だよ。
+韓 A: 09010234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02005678。
+英 B: It is 02005678.
+法 B: C'est le 02005678.
+日 B: 02005678だよ。
+韓 B: 02005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02015678。
+英 B: It is 02015678.
+法 B: C'est le 02015678.
+日 B: 02015678だよ。
+韓 B: 02015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010100。
+英 B: It is 02010100.
+法 B: C'est le 02010100.
+日 B: 02010100だよ。
+韓 B: 02010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000100。
+英 B: It is 02000100.
+法 B: C'est le 02000100.
+日 B: 02000100だよ。
+韓 B: 02000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09005678。
+英 B: It is 09005678.
+法 B: C'est le 09005678.
+日 B: 09005678だよ。
+韓 B: 09005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在海邊。
+英 A: I am at the sea.
+法 A: Je suis à la mer.
+日 A: うみに いる。
+韓 A: 바다에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010100。
+英 B: It is 02010100.
+法 B: C'est le 02010100.
+日 B: 02010100だよ。
+韓 B: 02010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我在restaurant。
+英 A: I am at the restaurant.
+法 A: Je suis à le restaurant.
+日 A: レストランに いる。
+韓 A: 식당에 있어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 01080100。
+英 A: It is 01080100.
+法 A: C'est le 01080100.
+日 A: 01080100だよ。
+韓 A: 01080100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010234。
+英 B: It is 01010234.
+法 B: C'est le 01010234.
+日 B: 01010234だよ。
+韓 B: 01010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01005678。
+英 B: It is 01005678.
+法 B: C'est le 01005678.
+日 B: 01005678だよ。
+韓 B: 01005678이야.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 我等你 5 分鐘了。
+英 A: I waited for you 5 minutes.
+法 A: Je t'attends depuis 5 minutes.
+日 A: 5ぷん まって いた。
+韓 A: 5분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 02000234。
+英 A: It is 02000234.
+法 A: C'est le 02000234.
+日 A: 02000234だよ。
+韓 A: 02000234이야.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010100。
+英 B: It is 09010100.
+法 B: C'est le 09010100.
+日 B: 09010100だよ。
+韓 B: 09010100이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在restaurant。
+英 A: I am at the restaurant.
+法 A: Je suis à le restaurant.
+日 A: レストランに いる。
+韓 A: 식당에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在restaurant。
+英 B: I am at the restaurant.
+法 B: Je suis à le restaurant.
+日 B: レストランに いる。
+韓 B: 식당에 있어.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 02015678。
+英 A: It is 02015678.
+法 A: C'est le 02015678.
+日 A: 02015678だよ。
+韓 A: 02015678이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01085678。
+英 B: It is 01085678.
+法 B: C'est le 01085678.
+日 B: 01085678だよ。
+韓 B: 01085678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09000234。
+英 B: It is 09000234.
+法 B: C'est le 09000234.
+日 B: 09000234だよ。
+韓 B: 09000234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在海邊。
+英 A: I am at the sea.
+法 A: Je suis à la mer.
+日 A: うみに いる。
+韓 A: 바다에 있어.
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 01080100。
+英 A: It is 01080100.
+法 A: C'est le 01080100.
+日 A: 01080100だよ。
+韓 A: 01080100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010100。
+英 B: It is 02010100.
+法 B: C'est le 02010100.
+日 B: 02010100だよ。
+韓 B: 02010100이야.
+
+中 A: 謝謝你。
+英 A: Thank you.
+法 A: Merci.
+日 A: ありがとう。
+韓 A: 고마워.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010234。
+英 B: It is 09010234.
+法 B: C'est le 09010234.
+日 B: 09010234だよ。
+韓 B: 09010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 01000234。
+英 A: It is 01000234.
+法 A: C'est le 01000234.
+日 A: 01000234だよ。
+韓 A: 01000234이야.
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 是。
+英 A: Yes.
+法 A: Oui.
+日 A: うん。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 02000234。
+英 A: It is 02000234.
+法 A: C'est le 02000234.
+日 A: 02000234だよ。
+韓 A: 02000234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02015678。
+英 B: It is 02015678.
+法 B: C'est le 02015678.
+日 B: 02015678だよ。
+韓 B: 02015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09000234。
+英 B: It is 09000234.
+法 B: C'est le 09000234.
+日 B: 09000234だよ。
+韓 B: 09000234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 我在家。
+英 A: I am at home.
+法 A: Je suis à la maison.
+日 A: いえに いる。
+韓 A: 집에 있어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010100。
+英 B: It is 09010100.
+法 B: C'est le 09010100.
+日 B: 09010100だよ。
+韓 B: 09010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09080100。
+英 B: It is 09080100.
+法 B: C'est le 09080100.
+日 B: 09080100だよ。
+韓 B: 09080100이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01080234。
+英 B: It is 01080234.
+法 B: C'est le 01080234.
+日 B: 01080234だよ。
+韓 B: 01080234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在店。
+英 B: I am at the shop.
+法 B: Je suis à la boutique.
+日 B: みせに いる。
+韓 B: 가게에 있어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01080234。
+英 B: It is 01080234.
+法 B: C'est le 01080234.
+日 B: 01080234だよ。
+韓 B: 01080234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 真的？
+英 B: Really?
+法 B: Vraiment ?
+日 B: ほんとう？
+韓 B: 진짜?
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01080100。
+英 B: It is 01080100.
+法 B: C'est le 01080100.
+日 B: 01080100だよ。
+韓 B: 01080100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 09000100。
+英 A: It is 09000100.
+法 A: C'est le 09000100.
+日 A: 09000100だよ。
+韓 A: 09000100이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在店。
+英 A: I am at the shop.
+法 A: Je suis à la boutique.
+日 A: みせに いる。
+韓 A: 가게에 있어.
+
+中 B: 我等你 40 分鐘了。
+英 B: I waited for you 40 minutes.
+法 B: Je t'attends depuis 40 minutes.
+日 B: 40ぷん まって いた。
+韓 B: 40분 기다렸어.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01080100。
+英 B: It is 01080100.
+法 B: C'est le 01080100.
+日 B: 01080100だよ。
+韓 B: 01080100이야.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在park。
+英 B: I am at park.
+法 B: Je suis à parc.
+日 B: parkに いる。
+韓 B: 공원에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01015678。
+英 B: It is 01015678.
+法 B: C'est le 01015678.
+日 B: 01015678だよ。
+韓 B: 01015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010100。
+英 B: It is 09010100.
+法 B: C'est le 09010100.
+日 B: 09010100だよ。
+韓 B: 09010100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在家。
+英 B: I am at home.
+法 B: Je suis à la maison.
+日 B: いえに いる。
+韓 B: 집에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09010234。
+英 B: It is 09010234.
+法 B: C'est le 09010234.
+日 B: 09010234だよ。
+韓 B: 09010234이야.
+
+中 A: 好。
+英 A: Ok.
+法 A: Ok.
+日 A: いいよ。
+韓 A: 그래.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 你說吧。
+英 A: You say it.
+法 A: Dis-moi.
+日 A: いって みて。
+韓 A: 말해 봐.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01015678。
+英 B: It is 01015678.
+法 B: C'est le 01015678.
+日 B: 01015678だよ。
+韓 B: 01015678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01010234。
+英 B: It is 01010234.
+法 B: C'est le 01010234.
+日 B: 01010234だよ。
+韓 B: 01010234이야.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在hospital。
+英 B: I am at hospital.
+法 B: Je suis à hôpital.
+日 B: びょういんに いる。
+韓 B: 병원에 있어.
+
+中 A: 我等你 20 分鐘了。
+英 A: I waited for you 20 minutes.
+法 A: Je t'attends depuis 20 minutes.
+日 A: 20ぷん まって いた。
+韓 A: 20분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 我在restaurant。
+英 A: I am at the restaurant.
+法 A: Je suis à le restaurant.
+日 A: レストランに いる。
+韓 A: 식당에 있어.
+
+中 B: 我等你 30 分鐘了。
+英 B: I waited for you 30 minutes.
+法 B: Je t'attends depuis 30 minutes.
+日 B: 30ぷん まって いた。
+韓 B: 30분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 我等你 30 分鐘了。
+英 A: I waited for you 30 minutes.
+法 A: Je t'attends depuis 30 minutes.
+日 A: 30ぷん まって いた。
+韓 A: 30분 기다렸어.
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000100。
+英 B: It is 02000100.
+法 B: C'est le 02000100.
+日 B: 02000100だよ。
+韓 B: 02000100이야.
+
+中 A: 我也是。
+英 A: Me too.
+法 A: Moi aussi.
+日 A: わたしも。
+韓 A: 나도.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 走吧。
+英 A: Let's go.
+法 A: Allons-y.
+日 A: いこう。
+韓 A: 가자.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09085678。
+英 B: It is 09085678.
+法 B: C'est le 09085678.
+日 B: 09085678だよ。
+韓 B: 09085678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 01080234。
+英 A: It is 01080234.
+法 A: C'est le 01080234.
+日 A: 01080234だよ。
+韓 A: 01080234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在海邊。
+英 B: I am at the sea.
+法 B: Je suis à la mer.
+日 B: うみに いる。
+韓 B: 바다에 있어.
+
+中 A: 那好吧。
+英 A: Ok then.
+法 A: Bon, d'accord.
+日 A: じゃ いいよ。
+韓 A: 그럼 그래.
+
+中 B: 我等你 10 分鐘了。
+英 B: I waited for you 10 minutes.
+法 B: Je t'attends depuis 10 minutes.
+日 B: 10ぷん まって いた。
+韓 B: 10분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我在restaurant。
+英 A: I am at the restaurant.
+法 A: Je suis à le restaurant.
+日 A: レストランに いる。
+韓 A: 식당에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在車站。
+英 A: I am at the station.
+法 A: Je suis à la gare.
+日 A: えきに いる。
+韓 A: 역에 있어.
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 我在海邊。
+英 A: I am at the sea.
+法 A: Je suis à la mer.
+日 A: うみに いる。
+韓 A: 바다에 있어.
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在學校。
+英 B: I am at school.
+法 B: Je suis à école.
+日 B: がっこうに いる。
+韓 B: 학교에 있어.
+
+中 A: 我等你 30 分鐘了。
+英 A: I waited for you 30 minutes.
+法 A: Je t'attends depuis 30 minutes.
+日 A: 30ぷん まって いた。
+韓 A: 30분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01005678。
+英 B: It is 01005678.
+法 B: C'est le 01005678.
+日 B: 01005678だよ。
+韓 B: 01005678이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 02000100。
+英 A: It is 02000100.
+法 A: C'est le 02000100.
+日 A: 02000100だよ。
+韓 A: 02000100이야.
+
+中 B: 那好吧。
+英 B: Ok then.
+法 B: Bon, d'accord.
+日 B: じゃ いいよ。
+韓 B: 그럼 그래.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在restaurant。
+英 B: I am at the restaurant.
+法 B: Je suis à le restaurant.
+日 B: レストランに いる。
+韓 B: 식당에 있어.
+
+中 A: 我等你 40 分鐘了。
+英 A: I waited for you 40 minutes.
+法 A: Je t'attends depuis 40 minutes.
+日 A: 40ぷん まって いた。
+韓 A: 40분 기다렸어.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 謝謝你。
+英 B: Thank you.
+法 B: Merci.
+日 B: ありがとう。
+韓 B: 고마워.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 走吧。
+英 B: Let's go.
+法 B: Allons-y.
+日 B: いこう。
+韓 B: 가자.
+
+中 A: 我在market。
+英 A: I am at market.
+法 A: Je suis à marché.
+日 A: marketに いる。
+韓 A: 시장에 있어.
+
+中 B: 我知道了。
+英 B: I know.
+法 B: Je sais.
+日 B: しってる。
+韓 B: 알아.
+
+中 A: 我等你 15 分鐘了。
+英 A: I waited for you 15 minutes.
+法 A: Je t'attends depuis 15 minutes.
+日 A: 15ぷん まって いた。
+韓 A: 15분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02000234。
+英 B: It is 02000234.
+法 B: C'est le 02000234.
+日 B: 02000234だよ。
+韓 B: 02000234이야.
+
+中 A: 我知道了。
+英 A: I know.
+法 A: Je sais.
+日 A: しってる。
+韓 A: 알아.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在market。
+英 B: I am at market.
+法 B: Je suis à marché.
+日 B: marketに いる。
+韓 B: 시장에 있어.
+
+中 A: 真的？
+英 A: Really?
+法 A: Vraiment ?
+日 A: ほんとう？
+韓 A: 진짜?
+
+中 B: 我等你 15 分鐘了。
+英 B: I waited for you 15 minutes.
+法 B: Je t'attends depuis 15 minutes.
+日 B: 15ぷん まって いた。
+韓 B: 15분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+中 B: 不用謝。
+英 B: No thanks.
+法 B: Pas merci.
+日 B: いいよ。
+韓 B: 아니에요.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 02010234。
+英 B: It is 02010234.
+法 B: C'est le 02010234.
+日 B: 02010234だよ。
+韓 B: 02010234이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我也是。
+英 B: Me too.
+法 B: Moi aussi.
+日 B: わたしも。
+韓 B: 나도.
+
+中 A: 我在海邊。
+英 A: I am at the sea.
+法 A: Je suis à la mer.
+日 A: うみに いる。
+韓 A: 바다에 있어.
+
+中 B: 我等你 20 分鐘了。
+英 B: I waited for you 20 minutes.
+法 B: Je t'attends depuis 20 minutes.
+日 B: 20ぷん まって いた。
+韓 B: 20분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 01000100。
+英 B: It is 01000100.
+法 B: C'est le 01000100.
+日 B: 01000100だよ。
+韓 B: 01000100이야.
+
+中 A: 好。我記下了。
+英 A: Ok. I write it down.
+法 A: Ok. Je le note.
+日 A: いいよ。 メモした。
+韓 A: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 我在車站。
+英 B: I am at the station.
+法 B: Je suis à la gare.
+日 B: えきに いる。
+韓 B: 역에 있어.
+
+中 A: 我等你 10 分鐘了。
+英 A: I waited for you 10 minutes.
+法 A: Je t'attends depuis 10 minutes.
+日 A: 10ぷん まって いた。
+韓 A: 10분 기다렸어.
+
+中 B: 對不起。我快來了。
+英 B: I am sorry. I come soon.
+法 B: Pardon. J'arrive.
+日 B: ごめん。 すぐ いく。
+韓 B: 미안. 금방 갈게.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 你說吧。
+英 B: You say it.
+法 B: Dis-moi.
+日 B: いって みて。
+韓 B: 말해 봐.
+
+中 A: 01000234。
+英 A: It is 01000234.
+法 A: C'est le 01000234.
+日 A: 01000234だよ。
+韓 A: 01000234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 好。
+英 B: Ok.
+法 B: Ok.
+日 B: いいよ。
+韓 B: 그래.
+
+中 A: 02080234。
+英 A: It is 02080234.
+法 A: C'est le 02080234.
+日 A: 02080234だよ。
+韓 A: 02080234이야.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你的電話是多少？
+英 A: What is your phone number?
+法 A: Quel est ton numéro de téléphone ?
+日 A: でんわばんごうは？
+韓 A: 전화번호가 뭐야?
+
+中 B: 09005678。
+英 B: It is 09005678.
+法 B: C'est le 09005678.
+日 B: 09005678だよ。
+韓 B: 09005678이야.
+
+中 A: 不用謝。
+英 A: No thanks.
+法 A: Pas merci.
+日 A: いいよ。
+韓 A: 아니에요.
+
+中 B: 好。我記下了。
+英 B: Ok. I write it down.
+法 B: Ok. Je le note.
+日 B: いいよ。 メモした。
+韓 B: 그래. 적어뒀어.
+
+
+# mini-x 合成多語對話：phone（由 llm/generate_corpus.py 產生）
+
+中 A: 你在什麼地方？
+英 A: Where are you?
+法 A: Où es-tu ?
+日 A: いま どこ？
+韓 A: 지금 어디야?
+
+中 B: 是。
+英 B: Yes.
+法 B: Oui.
+日 B: うん。
+韓 B: 그래.
+
+中 A: 我在park。
+英 A: I am at park.
+法 A: Je suis à parc.
+日 A: parkに いる。
+韓 A: 공원에 있어.
+
+中 B: 我等你 5 分鐘了。
+英 B: I waited for you 5 minutes.
+法 B: Je t'attends depuis 5 minutes.
+日 B: 5ぷん まって いた。
+韓 B: 5분 기다렸어.
+
+中 A: 對不起。我快來了。
+英 A: I am sorry. I come soon.
+法 A: Pardon. J'arrive.
+日 A: ごめん。 すぐ いく。
+韓 A: 미안. 금방 갈게.
